@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "bfbd6364c88ad026",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f059f2a6b2ed002",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a036384fb07cdd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agroécologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dd7da7deb82a914",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ab9f8b91bcbe51",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cfe4a2904a20d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0d6556087dc3267",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "97cbfd7253f49080",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b464b8b14a4a6c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "602cd68cba0731b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "55feecd180853b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc9555a6fc3707b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c0f04c35f8b4ed7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdc388816ece6975",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0db1b51bcf404004",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8368a8c7c401a1bc",
+            "type": "leaf",
+            "state": {
+              "type": "relation-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
+    }
+  },
+  "active": "8dd7da7deb82a914",
+  "lastOpenFiles": [
+    "Effet de bordure.md",
+    "Agroécologie.md",
+    "Lutte biologique.md",
+    "Associations interspécifiques.md",
+    "Pasted image 20221230174942.png",
+    "Champ de patate.md",
+    "Autonomie.md",
+    "Pasted image 20221230174849.png",
+    "Untitled 1.md"
+  ]
+}
