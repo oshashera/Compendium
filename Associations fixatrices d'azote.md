@@ -27,10 +27,11 @@ Bactérie dénitrifiante capte N2 et l’assimile
 Origine des molécules azotées
 -   fixation chimique
 -   fixation biologique
-	* Procaryotes libres
-	* Procaryotes symbiotiques
+	- Procaryotes libres
+	- Procaryotes symbiotiques
+<br>
 
-  
+# Fixation bactérienne
 
 ### Fixateurs libre
 
@@ -216,3 +217,245 @@ Différentes pistes explorées qui pourraient à terme permettre aux céréales 
 <ul>-> Introduire les gènes nif (une quinzaine) dans le génome du blé,riz ou maïs </ul>
 <ul>-> Transférer chez les céréales l’aptitude à former des nodosité du fait des voies communes de signalisation des nodosités et endomycorhizes à Glomales</ul>
 <ul>->Transformer des endomycorhizes en structures fixatrices d’azote</ul>
+<br>
+<br>
+## FIXATION FONGIQUE
+
+#### Interactions biologiques durables
+
+-> résultat de coévolution datant de plusieurs millions d'années.
+<ul>chamboulement de mécanismes moléculaires.</ul>
+
+Rappel écosystème biocénose biotope
+
+Relations Êtres Vivants (E.V) intra et interspécifiques
+![[Pasted image 20221231130828.png]]
+
+Les plantes terrestre ont co-existé avec les champignons mycorhiziens -> en condition stérile la plante n’atteindrait pas sa taille adulte
+
+  
+### Mycorhizes
+
+#### A) Définitions
+
+  
+
+Union durable majoritairement à bénéfices réciproques entre les racines avec des champignons filamenteux (hyphes =Filament constitutif du mycélium des champignons).
+Symbiose la plus ancienne et répandue chez les plantes.
+
+<ul>95% des Embryophytes.</ul>
+<u>2 types:</u> **endomycorhizes** et **ectomycorhizes**.
+
+<ul>Les interactions se limitent à l'écorce (pas cylindre central)</ul>
+
+![](https://lh3.googleusercontent.com/pLyIJxzcQ-ok9IqYDYhTVvPKt54R65PGTEqJgZ2ZZHoUZ2Sh07Td6qyEQTGejCzVb1BBUlTBH86NjZJWu5XH6QIGwNUsHJOizufu1SSseEuGOaNkVggyBBNFdXyi_iRPzI905kELgN66LrAkbYcZcEx230FkwY9xfFGr4uOxHzrjv1wX3AJNvaj5quM8zg)
+
+![](https://lh3.googleusercontent.com/hFkuQ5omOM_yDAlleLURkAWEOUKARPYkd5L8umFNyf7XPAGGXTzZQd0aivixVj1SxuVZCtI3ongosUzoYMFqWTNM_3Lu8y8zoN0EkPVBvAOvjoX2UwP3zhHku7l6D0lIs4xVdUfMdWbRUMYaya7Mz_tE4F5f9aPOLRixaZgyJOA-BvY5HchCLLwVzAcdvg)
+
+Cette symbiose est apparue au cours de la sortie de l'eau des végétaux
+<ul>500 MA: 1ers végétaux terrestres sans symbiose: Glomales sans symbiotes</ul>
+<ul>400 Ma: FLore de Rhynie: pseudo-lichens, Glomales symbiotiques.</ul>
+![[Pasted image 20221231131107.png]]
+
+#### B) Rôles
+
+Volume de sol exploité: x500 par rapport aux poils absorbants 
+<ul>=> ++ eau et éléments minéraux</ul>
+
+Limitation du lessivage des sols
+
+La plante est colonisée par plusieurs champis, plusieurs espèces.
+On parle alors de **méta-organisme (=holobionte)**
+
+Les champis absorbent les éléments minéraux les plus importants, souvent solubles (P, Cu, Zn)
+->lutte très efficace contre la sécheresse.
+
+![](https://lh3.googleusercontent.com/ajDHU05nFWKbwq4ApqgMfGeqXDQvHlse4hk7c7xi3I74MH5HxtrqtU8yYSUFElSSDeBjGTQoKzdXzArY42HIVSNYH0qEpGYCk8XQArTUV36VTJNBYmjzAnD4FR3Lc2LAzAHODopV0hzhfY0XVkJYZ6yGLNCSkuu_8SnP67RKnlvBElPlj-kCxAv7lRn2JA)
+
+Certaines des sp de champis produisent des antibiotiques (ex: pénicilline) qui sont transmis à la plante.
+  
+Effets de la diversité d'espèces de glomales sur la croissance et l'absorption de phosphates.
+-> Plus il y a d'espèces, plus:
+	- augmentation de la population et de la diversité bactérienne (microbiote)
+	- augmentation biomasse (racinaires et autres)
+	- augmentation longueur des hyphes mycorhiziens
+	- augmentation absorption P (et diminution dans le sol)
+
+  
+
+En agriculture, le retournement des sols, les fongicides, les monocultures sont dévastatrices pour les réseaux mycorhiziens.
+
+Il faut comprendre ces interactions pour les utiliser à bon escient (peut améliorer la production à moindre coût).
+
+Les champignons produisent beaucoup d'antibiotiques protecteurs, excrétés vers la plante
+
+La plante va fournir 30-35% des photosynthétats au champignon (qui sont hétérotrophes) grâce aux mycorhizes
+
+  
+
+Les endomycorhizes
+
+-> Forme plus ancienne.
+
+  
+
+A) Endomycorhizes à vésicules et arbuscules (VAM, AM)
+
+  
+
+classe Zygomycètes, ordre des Glomales, symbiose obligatoire
+
+  
+
+Succès évolutif de cette symbiose qui permet la vie sur terre et facilite l'acquisition d'eau.
+
+  
+
+Une certaine partie des Eudicotylédones a débuté la symboiose nodulaire: bactérie qui permet la fixation d'azote.
+
+Nodulation: facteur fondamental du développement de la plante.
+
+  
+
+Gunnera: cyanobactérie cas très particulier d'hébergement
+
+  
+
+Conditions: la symbiose nécessite une compatibilité entre partenaires
+
+Dialogue moléculaire: 
+
+-exsudats racinaires (flavonoïdes, acides phénoliques) permettent germination des spores et attraction des hyphes (chimiotactisme)
+
+- contacts, pénétration, croissance interne et formation d'arbuscules nécessitent l’expression de gènes sym au niveau des cellules du rhizoderme et du cortex racinaire.
+
+-expression de gènes sym au niveau des cellules du rhizoderme et du cortex racinaire |-> gènes communs aux symbioses mycorhiziennes et nodulaires
+
+|-> dev cellulaire coordonné des 2 orga assurant un mutualisme fonctionnel
+
+![](https://lh6.googleusercontent.com/L6R_62UzMCiVCXLU7MZzxJevosCsw69z7Zgz6s5EdH-zB6mcvgW1wydRDlqZVNk5FIRzXtC5vVadbkBVsmd7U7upCiP3mzUsF7lHQCy7vwXfGGD1zUIFyhDaWNuzeDkZSLYW6NHLfaU-JDYA-Jt6Q8wy1wxff4ubyf6fRK6YT-WXtVE158XSxoV_7vRQSA)
+
+contrôle: hyphopodes: mb plus épaisses, - de ressources, expr gènes.
+
+![](https://lh5.googleusercontent.com/XGzhfA4I8qaVFkbTKKk4SDCsYMaiUgb0tk_xdDL4K7yZYN0Gh5ONPUUNCquHmnIMyuPkGqX1EWKYZJ5cHcsqVKG1QYU9Q23YiPRNBW_97RXl9y5nQnrlAyeebETWrJ5QygbxzWz6fiXTBBENb7CJZwaWlRA7SnxboGCClaN23lmfheDbI3KIUO_dHeMZag)
+
+1.  Racine et champiMA ⇔ des signaux symbiotiques qui activent les programmes symbiotiques du partenaire
+    
+2.  champiMA développe un hyphopode sur la surface du rhizoderme
+    
+3.  Plante permet une colonisation inter- et intra cellulaire de la racine
+    
+4.  Dans les cellules corticales le champi forme des arbuscules hautement branchés, entourés par la mb plasmique de la plante, qui sont des interfaces spécifiques optimisées pour les échanges de nutriments
+    
+5.  Finalement la plante hôte contrôle la colonisation spatiale de la racine (mycorhize limité dans le cortex colonisé)
+    
+
+  
+
+3 étapes nécessaire à la colonisation du champi
+
+  : -réponse rhizoderme et digestion des parois "appressorium"
+
+    -réponse cellules corticales permettent croissance intercellulaire "cordons d’infections"
+
+    -réponse cellule corticales internes -> “arbuscules”
+
+  
+
+=> Développement cellulaire coordonné des deux organismes assurant un mutualisme fonctionnel
+
+  
+
+Modif de la cellule de l’arbuscule
+
+-> fragmentation de la vacuole, augmentation du cytoplasme et du nb d’organites (amyloplaste, stockage amidon, organe réserve), mb de séquestration autour de l’arbuscule (augmente la surface d’échange), synthèses nouvelles -> échange entre partenaires
+
+  
+  
+
+B) Mycorhizes à pelotons
+
+  
+
+2 TYPES
+
+|-> type éricoïde:
+
+Ascomycètes d’origines multiples associée à la Famille des Ericacées
+
+Rôle: détoxification des sols très acides, nutrition minérale et organique
+
+  
+
+|-> type orchidoïde
+
+Basidiomycètes variant selon l’hôte et l’habitat
+
+Nutrition minérale et organique
+
+  
+
+Les Ectomycorhizes
+
+  
+
+A) Généralités
+
+  
+
+Apparues au crétacé, origines polyphylétiques très diverses impliquant majoritairement des Basidiomycètes et qq Ascomycètes.
+
+Les mycorhizes aident aussi la plante face au stress abiotique et biotique par la production d’hormones.
+
+Les plantes et champis échangent également des microARN (rôle épigénétique, dans la régulation génétique (active ou  inhibe)) entraînant une modification épigénétique sur le partenaire.
+
+Le mycélium enveloppe les racines, l’ectomycorhize forme un manteau et envahit la pointe de la racine -> qui stoppe son développement )-> forme ce fameux tissu hybride.
+
+  
+
+B) Constitution d’une ectomycorhize
+
+  
+
+Le mycélium sécrète des hormones (AIA) induisant la formation de petites racines => contacts
+
+Formation d’un manchon d’hyphes autour des petites racines (=protection) = manteau
+
+Hyphes pénétrant entre les cellules périphériques du cortex = réseau de Hartig
+
+  
+
+C) Fonctionnement
+
+  
+
+Plante donne saccharose, phytohormones, ARN au champi
+
+Champi donne eau, nutriments (minéral et organique), auxine (développement racine), antibiotiques, microARN(modif épigénétique)
+
+  
+
+-> saccharose dégradé dans champis par l’invertase du glucose et fructose -> métabolisés en tréhalose, mannitol et glycogène pour stockage (comme nous)
+
+  
+
+D) Impact en sylviculture
+
+  
+
+-   meilleur reprise des plants mycorhizés
+    
+-   utilisation des sols pauvre dans la lutte contre l’érosion
+    
+-   production théorique augmentée de 40¨%
+    
+-   champis comestibles à forte valeur ajoutée
+    
+
+  
+
+=> importance de maintenir/restaurer la mycorhization
+
+Il faut moins utiliser de fongicides et augmenter le rendement, mais peu pris en compte et peu enseigné.
+
+**
