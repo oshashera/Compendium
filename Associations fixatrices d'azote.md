@@ -103,137 +103,73 @@ D’où l’intérêt des rotations de cultures légumineuses/céréales limitan
 <ul><i>Pois/Soja 150 kg/an/ha</i></ul>
 <ul><i>-> intérêt agronomique et économique</i></ul>
 EUROSIDS (clade des FaFaCuRo) = **plantes nodulées**
+<ul>|-------- Fabales (légumineuses)</ul>
+<ul>|-------- Rosale</ul>
+<ul>|-------- Cucurbitales</ul>
+<ul>|-------- Fagales</ul>
 
-|-------- Fabales (légumineuses)
-|-------- Rosale
-|-------- Cucurbitales
-|-------- Fagales
-
-
-      
-
-    
-  
-
--> contient des lignées en association avec Frankia, bactérie du sol, Gram + (= épaisse paroi, peptidoglycane) filamenteuse.
-
-Appartient aux actinobactéries en association avec les racines d’espèces ligneuses -> forme  des actinorhizes, plantes actinorhiziennes nodulées par Frankia
-
-  
+-> contient des lignées en association avec *Frankia*, bactérie du sol, Gram + (= épaisse paroi, peptidoglycane) filamenteuse.
+Appartient aux actinobactéries en association avec les racines d’espèces ligneuses -> forme  des **actinorhizes**, plantes actinorhiziennes nodulées par *Frankia*
 
 -> Rhizobium, plantes ligneuse ou non
-
-  
-  
+<br>
 
 1) Symbiose avec Frankia
 
-  
-
 Frankia alni (bactérie du sol filamenteuse naturellement libre), peut fixe azote, peut s'associer avec plantes lignifiées majoritairement
+Dans cet exemple on a *Alnus glutinosus* (Bétulacées) 
+Nodules à *Frankia*  (=Actinorhizes).
+A l'extrémité des racines on a une modification structure pointe racinaire -> on a ces espèces d'excroissances appelées actinorhizes qui sont les nodules formés par *Frankia* avec l'*Alnus*.
 
-Dans cet exemple on a Alnus glutinosus (Bétulacées) 
+*Frankia* isolée ou en symbiose -> forme des **diazovésicules**, site de fixation de N2
+* contact, infection par les poils absorbants
+* formation de filaments cloisonnés
+* pénétration dans les cellules (mb de séquestration)
 
-Nodules à Frankia  (=Actinorhizes).
-
-A l'extrémité des racines on a une modification structure pointe racinaire -> on a ces espèces d'excroissances appelées actinorhizes qui sont les nodules formés par Frankia avec l'Alnus.
-
-  
-
-Frankia isolée ou en symbiose -> forme des diazovésicules, site de fixation de N2
-
-> contact, infection par les poils absorbants
-
-> formation de filaments cloisonnés
-
-> pénétration dans les cellules (mb de séquestration)
-
-  
-
-Isolée ou en symbiose, l'actinobactérie forme des diazovésicules cloisonnées = sites de fixation d'azote N2 atmosphérique à parois épaisses en culture, en symbiose avec Alnus
-
+Isolée ou en symbiose, l'actinobactérie forme des diazovésicules cloisonnées = sites de fixation d'azote N2 atmosphérique à parois épaisses en culture, en symbiose avec *Alnus*
 Lorsque libre, filamenteuse
-
 Lorsque en symbiose, après coupe ultrafine, on va voir des sections passant par les diazovésicules.
-
 Ces coupes montrent aussi des filaments de la bactérie.
 
-  
-
-L'infection de Frankia se fait, grosso modo même mécanismes cellulaires et les grandes lignes des mécanismes moléculaires sont semblables à celle des champis par la mycorhization:
-
--Contact, Infection par les poils absorbants
-
--Formation de filaments cloisonnés
-
--Pénétration dans les cellules (membranes de séquestration), ne se développe jamais dans les tissus conducteurs, mais se dev dans cortex.
+L'infection de *Frankia* se fait, grosso modo même mécanismes cellulaires et les grandes lignes des mécanismes moléculaires sont semblables à celle des champis par la mycorhization:
+<ul>-Contact, Infection par les poils absorbants</ul>
+<ul>-Formation de filaments cloisonnés</ul>
+<ul>-Pénétration dans les cellules (membranes de séquestration), ne se développe jamais dans les tissus conducteurs, mais se dev dans cortex.</ul>
 
 ![](https://lh4.googleusercontent.com/CkMb9nvmgFT8LXeXXpkRhebnwf5k9RNrOdFZz91kGWhQm476fzUuCzipJKFNZq3FwYA-JLGXicwre9WxrTZg6QpxBLxfXy7cfKzpnJcvZjU5nZLuzZB3-tV9LDuV4txaczXgvhBoIHb2ifRHTVbpZWEIpFFvwT4q6VvL6-ed8Bspsr_vboiyqUGmyN9KFQ)
-
 * en rouge c'est la mb plasmique de la cellule hote
-
-|-> les hyphes de la bactéries vont être entourés par la mb, elle ne rentre jamais dans le cytoplasme.
-
-  
+<ul>|-> les hyphes de la bactéries vont être entourés par la mb, elle ne rentre jamais dans le cytoplasme.</ul>
 
 Les diazovésicules sont entourées d'une structure épaisse, fixation d'azote, la pression d'oxygène doit être faible car il est un inhibiteur compétitif de la fixation d'azote (trouvable aussi bien chez cyanobactérie avec les hétérocystes (c à mb épaisse)) et donc mb épaisse évite diffusion facile de l'oxygène.
-
+<br>
   
-  
-
 2) Symbiose avec Rhizobium
 
-On va mtn voir une symbiose avec Rhizobium, bactérie plus classique (pas filamenteuse, éloignée de Frankia) avec des plantes qui peuvent être herbacées (pas obligé lignine)
-
-rhizobium est une bactérie graham + (le prof est pas sûr)
-
+On va mtn voir une symbiose avec *Rhizobium*, bactérie plus classique (pas filamenteuse, éloignée de Frankia) avec des plantes qui peuvent être herbacées (pas obligé lignine)
+*Rhizobium* est une bactérie graham + (le prof est pas sûr)
 Actuellement 5 genres sont regroupés sous cette appellation générale 
-
-Mesorhizobium, Sinorhizobium, Rhizobium, Bradyrhizobium et Allorhizobium 
-
-  
+*Mesorhizobium, Sinorhizobium, Rhizobium, Bradyrhizobium* et *Allorhizobium* 
 
 Rhizobiacées divisées en 2 groupes:
-
--Rhizobium à croissance rapide, acidifiant des sols neutres ou alcalins; gène sym (responsable de la symbiose) porté sur plasmides.
-
--Rhizobium à croissance lente, alcalinisant des sols acides: gène sym porté sur chromosome
-
-  
+<ul>-Rhizobium à croissance rapide, acidifiant des sols neutres ou alcalins; gène sym (responsable de la symbiose) porté sur plasmides.</ul>
+<ul>-Rhizobium à croissance lente, alcalinisant des sols acides: gène sym porté sur chromosome</ul>
 
 C'est plus une actinorhizes, on a des nodosités: bactéries vivant en association avec les racines d'espèces de Fabacées (une seule exception: Parasponia, Ulmacées) donnant naissances à des nodosités.
 
 ![](https://lh4.googleusercontent.com/i8_lFdwd1XngjKEVz_BQ4mO3IxjbcOWrF40HpTdr-NThtx20CxWzahktKZ9ed7iw1vCY13gB9HjK0B1e5CsfhcvEXTjHoqZknEw9bAYptPx1Hsy-9Wr3MX24K-AxY9_C6JWl_QiccKD46L3uZqE0E7Q1yW3l5_PhaTfNYw78TkLquIjnwvn8ReOootOuZg)
 
-  
-
-Relation milieu - aptitude à la nodulation
-
-  
+<u>Relation milieu - aptitude à la nodulation</u>
 
 Les fabacées colonisant tous les milieux, des tropiques aux zones arctiques, la nodulation peut se faire chez des espèces ombro-/héliophiles, quel que soit le régime hydrique.
-
-Cependant peu de Fabacées halophytes (tolérantes au sel):  Vigna maria, Psoralea (sables littoraux), Halimodendron (steppes d'Asie).
-
-Quelques espèces d'Acacia, tolérantes aux métaux lourds (Al, Fe…) sont utilisées pour 
-
-« revégétaliser » des mines désaffectées en Australie.
-
-  
+Cependant peu de Fabacées halophytes (tolérantes au sel):  *Vigna maria*, *Psoralea* (sables littoraux), *Halimodendron* (steppes d'Asie).
+Quelques espèces d'Acacia, tolérantes aux métaux lourds (Al, Fe…) sont utilisées pour « revégétaliser » des mines désaffectées en Australie.
 
 Très fréquente en zone sèche, en altitude et hautes latitudes, la nodulation favorise la colonisation en milieu hostile, pauvre.
 
-  
-
-Le fonctionnement des endosymbiose
-
-  
+<u>Le fonctionnement des endosymbiose</u>
 
 La mise en place des endosymbioses à Frankia comme à Rhizobium, implique un dialogue entre l'hôte et le symbionte dont certaines étapes sont communes au dialogue permettant la mycorhization.
-
-La symbiose fixatrice d'azote est fondamentale pour les plantes.
-
-  
+<ul>La symbiose fixatrice d'azote est fondamentale pour les plantes.</ul>
 
 La reconnaissance du partenaire fongique (Glomus), ou bactérien (Frankia, Rhizobium) par l'hôte, est liée à des récepteurs membranaires couplés à une kinase dont l'activité provoque par cascade des modifications de l'expression du génome.
 
