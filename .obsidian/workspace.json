@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lutte biologique.md",
+                "file": "TP Pucerons - bandes fleuries.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lutte biologique.md",
+                "file": "Associations fixatrices d'azote.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lutte biologique.md",
+                "file": "TP Pucerons - bandes fleuries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lutte biologique.md",
+                "file": "TP Pucerons - bandes fleuries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lutte biologique.md"
+                "file": "TP Pucerons - bandes fleuries.md"
               }
             }
           },
           {
-            "id": "8368a8c7c401a1bc",
+            "id": "87fbd1fd1553208c",
             "type": "leaf",
             "state": {
               "type": "relation-view",
@@ -151,12 +151,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +169,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "d0d6556087dc3267",
+  "active": "87fbd1fd1553208c",
   "lastOpenFiles": [
-    "Ravageurs.md",
-    "Lutte biologique.md",
-    "Agroécologie.md",
-    "Associations fixatrices d'azote.md",
-    "Interactions interspécifiques, notion de méta-communauté.md",
+    "Untitled.md",
     "TP Pucerons - bandes fleuries.md",
+    "Associations fixatrices d'azote.md",
+    "Agroécologie.md",
+    "Lutte biologique.md",
+    "Ravageurs.md",
+    "Interactions interspécifiques, notion de méta-communauté.md",
     "Contrôles top-down et bottom-up de la production végétale.md",
     "Associations et rotations culturales.md",
-    "Déterminants naturels et anthropiques de la production végétale.md",
-    "T.D. Interactions biotiques & production végétale.md"
+    "Déterminants naturels et anthropiques de la production végétale.md"
   ]
 }

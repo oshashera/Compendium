@@ -6,7 +6,6 @@
   "obsidian-relation-pane",
   "obsidian-admonition",
   "obsidian-discordrpc",
-  "better-pdf-plugin",
   "obsidian-annotator",
   "emoji-shortcodes",
   "obsidian-image-toolkit",
@@ -14,5 +13,6 @@
   "obsidian-reading-time",
   "obsidian-plugin-toc",
   "tag-wrangler",
-  "obsidian-git"
+  "obsidian-git",
+  "better-pdf-plugin"
 ]

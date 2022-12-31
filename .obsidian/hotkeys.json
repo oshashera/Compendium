@@ -14,5 +14,13 @@
       ],
       "key": "'"
     }
+  ],
+  "obsidian-relation-pane:open-relation-panel": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
   ]
 }
