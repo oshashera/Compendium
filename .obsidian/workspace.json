@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md",
+                "file": "Agroécologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c818e706612b2b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associations et rotations culturales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md",
+                "file": "Associations et rotations culturales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md",
+                "file": "Associations et rotations culturales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md"
+                "file": "Associations et rotations culturales.md"
               }
             }
           },
@@ -170,17 +182,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "c7b4f982d529fc5f",
+  "active": "c818e706612b2b89",
   "lastOpenFiles": [
+    "Agroécologie.md",
+    "Associations et rotations culturales.md",
+    "Biosphère, (agro)écosystèmes et anthroposphère.md",
+    "Lutte biologique.md",
     "Déterminants de la production végétale.md",
     "Ravageurs.md",
     "Untitled.canvas",
-    "Lutte biologique.md",
     "Effet de bordure.md",
     "Champ de patate.md",
-    "Pasted image 20221230185606.png",
-    "Pasted image 20221230174942.png.md",
-    "Pasted image 20221230175135.png",
-    "Agroécologie.md"
+    "Pasted image 20221230185606.png"
   ]
 }

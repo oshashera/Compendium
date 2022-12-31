@@ -137,22 +137,19 @@ Paysage agraire avec la présence d’un réseau de haies entourant des cultures
 
 Historique: 
 * au Moyen-Age -> haie pour protéger les cultures du bétail
-XVIIIe -XIXe S. : open field -> enclosures, haie permet clotûre, privatisation
-
-  
-
-On oppose bocage mimétique et bocage organique.  
-![](https://lh5.googleusercontent.com/AHy905aEYQTDssfcHCt0bGHEd-YEZKkBX-t2BbuHnpmwholTsk__BIl4NJGQmXOsppXPoZ1N7uvb2rf64L1wDFaGJezQ21aoxnh9Tl2XtyQrSbcegktLAO7AYFCxb8VaJn31oqKXwdYxklMHrM9mMAvbYLPGpTTQWgsPhxVR6D2pIj46GMunebrrzOIKfQ)
-
-Puis mécanisation, drainage, fertilisation, etc… ont remis en cause la présence des haies.  
+- XVIIIe -XIXe S. : open field -> enclosures, haie permet clotûre, privatisation
+* Puis mécanisation, drainage, fertilisation, etc… ont remis en cause la présence des haies.  
 On parle de remembrement et d’arasement, regrouper les parcelles et faciliter les cultures.  
 Baisse qui continue malgré des programmes de replantation de haies depuis les 70’s
+<br>
 
-  
+On oppose ==**bocage mimétique**== et ==**bocage organique**==.  
 
-Fonctions et services rendus
+![](https://lh5.googleusercontent.com/AHy905aEYQTDssfcHCt0bGHEd-YEZKkBX-t2BbuHnpmwholTsk__BIl4NJGQmXOsppXPoZ1N7uvb2rf64L1wDFaGJezQ21aoxnh9Tl2XtyQrSbcegktLAO7AYFCxb8VaJn31oqKXwdYxklMHrM9mMAvbYLPGpTTQWgsPhxVR6D2pIj46GMunebrrzOIKfQ)
+<br>
 
-  
+#### Fonctions et services rendus
+<br>
 
 ![](https://lh4.googleusercontent.com/mxXRjED1_zER5rT7dQlj3O4OLDQNmiT-oF8MXTLBzXQn566r1lO6mV5j0Enu-OSphjp7fxZsa8DDxmBrIIyLjc9RCGAQsVR5RUECMJz6RwzUI23qPDcuHE_G39fxVLGOkH5niWW_gaRMVpqkkTcaPda92WV8KNOBIQVNkCBEYAPuNTHoOxSJBf64y0jiLw)
 
@@ -163,73 +160,50 @@ Fonctions et services rendus
 L’effet brise vent est aussi mis en évidence avec les haies discontinues où des zones ouvertes créent un couloir de vent. 
 
 Dans ce couloir on observe l’effet du vent sur les cultures:
-
-baisse évapotranspiration (ETP), baisse humidité du sol, baisse vitesse croissance des plante et effet mécanique du vent -> verse des céréales (= couchés)
-
+* baisse évapotranspiration (ETP), baisse humidité du sol, baisse vitesse croissance des plante et effet mécanique du vent -> verse des céréales (= couchés)
 => augmentation production végétale par photosynthèse
-
-  
+<br>
 
 Les haies permettent également de limiter l’érosion des champs en pente
-
-  
+<br>  
 
 ![](https://lh4.googleusercontent.com/-P_W75PFtyMsAb52Sc5iNxI85N81YGNNxEiS40ebWfn6OFqVYlP_pC1wRAbaQGc1gBA2Ma6zo87SvhRa_CrG6Pccy878yUTEr6k4CkVJBpol74ofTELieDiRWbkE4gc9pvHRr-kavr5uAf50ikhK45pS7LyrcCxVCA_Dzr2EgY5TeZCiun0_FxvB1PBlHQ)
 
 ![](https://lh3.googleusercontent.com/dj1gn3CSUZdlhoqbzK4RSlDTfOofIJRPsazmnowRoeowbolqlo0lOulka99RrKoHzlAcpoVRDs05AYdshhlxuYj0auSdGqsU4S1gadzpVoiwloyl-l7bGtbAQ-H5oJ7EeFgtwbByulYRkDBOXyaFFXt9hxW5zZPalY16JaXXv2tZz0yWVvtpqDDCyEx63Q)
 
-  
-  
-  
-  
-  
-
 Les haies permettent la rétention de terre (sol+++, amendement naturel avec l’humus, favorise l’infiltration de l’eau dans le sol, dans les couches profondes car infiltration lente) et la fixation des berges.
+<br>
 
 ![](https://lh3.googleusercontent.com/EQgaQ2cfsJLTmEMmeZFSRv__Y1BJMciK92KAplrjG0CsydfcKj9TfyhzPvuShykSCIAg_1h5hv5scP7wqLuZ_gm7fDQgngnoy8zTx4RFq9qLkomUmfpTfQ3EUIukfNXE-DCtKo-yr-5qcIto7f8q5rYInEBcueyfleQ_MtxjuEwwm2SXgNXqCgeiphlCFQ)
 
 ![](https://lh5.googleusercontent.com/gnZHqmfLWCzrKgS57knjoXMMxqKDGpiYHn_RT8haHNqunzMTXzcKpA-EZNb18RXMGOfRMPGxqR0I57-KfTg1ZEuthSI5yXYWBHDZUgMLB9t3GN29t-WM9WREN5rKysif3ZQCyHWX9hKU6kzooNQA3JT3Wsh2bn4reVu-8_Y3lJcMVORkEyQ_3zz3RQABng)
 
-  
-  
-
 Les haies avec leurs racines à différentes profondeurs ont un rôle dans la rétention et l’épuration.
-
-  
+<br>
 
 ![](https://lh5.googleusercontent.com/2wtVNbAVHL94C4I5PHI4oL2p5BGbb0auofIttgf4hPB5SiIXywMbMl5xWUsPP8H44budyRJPO-Ymbx4sgKPGGbg3ndgN4UIyD9C0JIlvvs9w3MM3Aq9glc_gzBcssemVgxRhDSp2cBLfvCFlNTDUAvodfmz0UhnHzpz6jNBDD-ip2-4CmiqNB1rPgmT27w)
 
-Fonction de diversité animale, par leur différentes strates (herbacées, arbustives et arborescente) -> site de ponte, alimentation
+Fonction de diversité animale, par leur différentes strates (herbacées, arbustives et arborescente) 
+-> site de ponte, alimentation
 
 -> Refuge pour la faune auxiliaire des cultures
-
-- lutte biologique intégrée
-
-- lutte biologique par conservation
-
-  
+- [[lutte biologique]] intégrée
+- [[lutte biologique]] par conservation
+<br>
 
 Le réseau de haies permet de relier des habitats à la manière de corridors biologiques.
-
 Déplacement d'espèces vers des habitats favorables, moins de perturbations anthropiques.
+<br>
+
+<u>Restauration des haies anciennes :</u>
+- régénération des arbres, forme une double clôture
+- maintien des ragosses
+- dé-rudéralisation: fauches avec exportations
 
   
 
-Restauration des haies anciennes
-
-> régénération des arbres, forme une double clôture
-
-> maintien des ragosses
-
-> dé-rudéralisation: fauches avec exportations
-
-  
-
-Création de haies: choix des espèces
+<u>Création de haies: choix des espèces</u>
 
 Espèces locales et en fonction du paysage![](https://lh3.googleusercontent.com/apNRwiWyAJ3vReX6OjkRtppF1aYfGSOkWHfs7cC6jaPOooUyUdqfZ2g1WM0XtlVYS0VYq_ct5p8Kuw72nrmuVaLFBRBY3lICE9U08yFWYS_F6wrmI1YoExegFDtuwNanTokb00hv_nBzlYkW6ubE5yUtsG-No-cWkJfPpRQAQxJk8wd8odAcqfJuYB7LJA)
 
-Ne pas introduire d’espèces invasives
-
-  
-**
+**Ne pas introduire d’espèces invasives**
