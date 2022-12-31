@@ -49,3 +49,9 @@ Limiter certaines adventices et leur quantité
 Limitation des bioagresseurs: 
 
 	ex phacélie (augmentation pollinisateur, + couvert dense)
+
+
+
+
+
+#habitats 
