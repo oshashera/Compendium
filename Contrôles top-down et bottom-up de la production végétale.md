@@ -139,6 +139,7 @@ r2: taux de mortalité des prédateurs
 α : coefficient compétition intraspécifique proies
 β : coefficient de prédation
 e : assimilation des prédateurs</ul>
+
 ![](https://lh6.googleusercontent.com/Tz_gbmhFyF__Sa1uQ1nbd1rR7whZMUKzRuPuErxEOm9-y-Syp_QfHbF3vMcgrPHzPzV2ebreMAlKw81HYbH1BgF-IxoqfoGmLGaBPiQX6jU3aBeW3MsLcdy7qT6OPetC31FvwQOMXBvUCKfd1OT_UgDuEqbTQ1PyEi3upSbQ7uADkdQpnAowjQptQwyi5w)
 
 Validation expérimentale?
@@ -169,118 +170,89 @@ Univers 3: oscillations
 </ul></ul></ul>
   
 Dans la nature, on a l'impression que proie et prédateurs se contrôlent mais y a plein d'autres paramètres
-
+<br>
   
+**Synthèse:**
 
-Synthèse:
-
-évidence en milieu naturel
-
+Evidence en milieu naturel
 Modélisable
-
 Validation expérimentale partielle du phénomène (oscillations)
 
-  
-
 Rôle dans les milieux naturels?
+<br>
 
-  
-
-Effets des prédateurs sur les herbivores
+#### Effets des prédateurs sur les herbivores
 
 ![](https://lh3.googleusercontent.com/ljwODw0ZQBjR8Nv_7UvgIUdRTf9BpUClEK-NAGs1OTFRSOA3ArPgO6E3OHKzO2Sk45wBhOIqLEt1EPBTIAX-z8bulsLPMoJqYfoFgbZEuzcM_8Y7_E4VrYLXEbw16QiS-8QsfvTnngzjzJoddyMd0edVZmD_95AiAp8XbM6X9RkuLHTe7aiWQs63n-0dmg)
-
+<ul>
 Pente pointillée 1 faible: production végétale augmente alors rennes aussi, mais pas bcp
-
+</ul><ul>
 Pente noire 1: plus fort, donc prédateurs (effet prédation): quand pas bcp de prod végétale, quantité chevreuil limité par prédateur, quand bcp prod végé, prédateur peu d'impact.
-
+</ul><ul>
   
 
 Si hiver doux, peu contrôle prédateur, si hiver fort, contrôle prédateur.
-
-  
+</ul>
+  <ul>
 
 3eme graph
-
+<ul>
 Quantité de forêt joue, moins j'ai de forêt moins j'ai de chevreuils, et prédateurs réduisent chevreuils mais les deux sont pas en interaction sur ce graph (parallèle?)
-
+</ul></ul>
   
   
 
-Effets des prédateurs sur les producteurs primaires... ... les cascades trophiques
-
-  
+#### Effets des prédateurs sur les producteurs primaires... ... les cascades trophiques
 
 Exp sur plantes et herbivores et prédateurs
-
+<ul>
 Traitement 1: pas herbivore, pas prédateurs
-
+</ul><ul>
 Traitement 2: pas de prédateurs, herbivores
-
+</ul><ul>
 Traitement 3: herbivore et prédateurs
+</ul>
 
 ![](https://lh4.googleusercontent.com/2RjUdIpH2PajbRItcEEu2_9_fezznOIrlbiyiliysNTHbaHomA1NkChtKm5Mw_TJqVB0QTMnZFC059uo46KDFXyntDV4b88gFMQU1wwuiGLBgHZIvYYwHyufN7J99ztshfCXU6oX24CXYH70qZpWiyiP7JE8jf61A1IxD7WETDLxzHnSOnzaGfp3gMmcEg)![](https://lh4.googleusercontent.com/9nrgocwRgDM07VxRvn4FqPDJ9F2duC711uNQBxw5kh2keOXV-1bpjToON1wYwPSs4J4k22ZH8DMrhsUqkeBoQdhxjhTg56EaVUxNFeyiDNG7PIXX5z-FQOXQ0kWmlZYlriuP0WWoXs0ginxXDV65QGeoYcfYme80VBRDoki3pGtQ9pYc7Lzfx2jnWBxQGg)
-
 (gauche) Quand herbivores, diminution plantes, mais cet effet disparaît quand prédateur présent.
 
 (droite) Les criquets aiment la plante 1 mais elle protège pas des prédateurs donc se réfugient sur level 3 et vont donc la bouffer de ouf
+<br>
 
-  
-
-Effets des prédateurs sans prédation: écologie de la peur
-
-  
+#### Effets des prédateurs sans prédation: écologie de la peur
 
 3 risk et 3 prédation ont même effets: pareil que prédateur capable prédation ou pas, leur présence à l'effet
 
 ![](https://lh4.googleusercontent.com/emK9zOMue2c6mOXohdfKI7INLlVXr4Wt3m7nasL_F3eSYNfSpK-qxQ4bmstwi5Yv6THz8JS4QK8C3dQiWiu_eQCGPOwHI5WCDSTpFxvkFyn4Al77ta9KIOAY5BkE20XD4eenRfUI6-VuFwGPQU-1KZ60nXXzvefVVybGPJ-FO8-P2YQZo6z5msfzr5-kOA)
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<br>
 
 Variations spatiales : une méta-analyse en milieu marin
 
 ![](https://lh6.googleusercontent.com/kk90TcNEkT5CYEv2KQOGYZc1eVfbfuysRSYII_fLpix1aWRfj1cYojsGDxO4UsYM-6LGgg0WVmu3887a4x3pu7u0DVYxYR8PRy8p99LviN2hztjHN0h3wG3MlfD0I1WavOpQ8oYKAthufIyECUbkwEmXfM766xfWjHRaQVadmzDC1Cc-JElnw82ePqZphA)
+<ul><ul><ul><ul>Vert : bottom-up | Rouge : top-down</ul></ul></ul></ul>
 
-Vert : bottom-up Rouge : top-down
-
-  
-
-Effets des prédateurs sur le cycle des nutriments
-
-  
+#### Effets des prédateurs sur le cycle des nutriments
 
 Chasse active ou passive différente, joue sur plantes mais aussi sur minéralisation (cf graphs diapo)
 
 ![](https://lh3.googleusercontent.com/qxmbwGZEV3Lag-kcZSWDJZko13xsedL_qdhooJ2a-uACvpdAomSz67px0uoC-dajlYIT1WGsqbwpic04FMpDUAxxw5aKCmNCa8ekAaCzB2gR71mxROn_71F--Z6bf8hdvVRjN3Iz172whvn3IJIcQu9OE47SaUiJr_ihRFMqIvmtPXzmHQgn8kwdarA0CA)
 
-  
-
-Effets des prédateurs sur le cycle des nutriments... ... rôle des métaécosystèmes
+#### Effets des prédateurs sur le cycle des nutriments... ... rôle des métaécosystèmes
 
 ![](https://lh4.googleusercontent.com/hnQDzxp6QFX4xtTsuRq_mGFM5nyitFjoPsFsU_u3nlooqNYXMbDKNhNTe50gTjIGRNhWyYfsNVE5sTODjJ_RxWDRL8DvspF1JYaI-ZY1RAzsMp7BS6UXOW5D0UBpkk4mxY-SmgZ0a2yJkCsZAriiqWry0uuhlJQX7YpfeZGsSLFol5RZtmHTtg_GfBScNA)
-
+<ul>
 Cycle des forêts ou ours et saumon dépend des cadavre de saumon pour nutriment (donc indirectement dépendant de la mer)
-
-Test: azote 15 abondant en mer, peu abondant milieu terrestre: on mesure azote 15 dans le sol en fonction distance à la rivière ou y a saumon
-
-Confirmation, il y en a plus que ce serait naturellement sans saumon.
-
-Quelle influence sur la croissance des plantes? On check azote 15 dans arbre, y en a bcp, donc c'est bien les saumons.
-
+</ul>
+<ul>Test: azote 15 abondant en mer, peu abondant milieu terrestre: on mesure azote 15 dans le sol en fonction distance à la rivière ou y a saumon
+</ul>
+<ul>Confirmation, il y en a plus que ce serait naturellement sans saumon.
+</ul>
+<ul>Quelle influence sur la croissance des plantes? On check azote 15 dans arbre, y en a bcp, donc c'est bien les saumons.
+</ul>
   
   
 
-En résumé: top down ou bottom up?
-
-  
+#### En résumé: top down ou bottom up?
 
 Pas si simple 
 
@@ -290,4 +262,4 @@ Variations selon les milieux (+ top down en milieu aquatique doux qu'en milieu m
 
 Nécessaire de reformuler la question!
 
-C'est l'un et l'autre**
+**C'est l'un et l'autre**
