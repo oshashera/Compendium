@@ -11,8 +11,12 @@
             "id": "7a036384fb07cdd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Déterminants naturels et anthropiques de la production végétale.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -28,31 +32,18 @@
             }
           },
           {
-            "id": "401bc2c3a3e38b1e",
+            "id": "d180f03bed7f388b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contrôles top-down et bottom-up de la production végétale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee985c41ba29f976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "T.D. Interactions biotiques & production végétale.md",
+                "file": "TP Pucerons - bandes fleuries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contrôles top-down et bottom-up de la production végétale.md",
+                "file": "Déterminants naturels et anthropiques de la production végétale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contrôles top-down et bottom-up de la production végétale.md",
+                "file": "Déterminants naturels et anthropiques de la production végétale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contrôles top-down et bottom-up de la production végétale.md"
+                "file": "Déterminants naturels et anthropiques de la production végétale.md"
               }
             }
           },
@@ -191,17 +182,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "c7b4f982d529fc5f",
+  "active": "7a036384fb07cdd8",
   "lastOpenFiles": [
-    "Déterminants naturels et anthropiques de la production végétale.md",
-    "T.D. Interactions biotiques & production végétale.md",
+    "TP Pucerons - bandes fleuries.md",
     "Contrôles top-down et bottom-up de la production végétale.md",
+    "T.D. Interactions biotiques & production végétale.md",
+    "Déterminants naturels et anthropiques de la production végétale.md",
     "Associations interspécifiques fixatrices d'azote.md",
     "Biosphère, (agro)écosystèmes et anthroposphère.md",
     "Associations et rotations culturales.md",
     "Effet de bordure.md",
     "Autonomie.md",
-    "Champ de patate.md",
-    "Agroécologie.md"
+    "Champ de patate.md"
   ]
 }
