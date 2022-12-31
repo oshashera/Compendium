@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "Déterminants de la production végétale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b4f982d529fc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Biosphère, (agro)écosystèmes et anthroposphère.md"
               }
             }
           },
@@ -157,11 +170,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "d0d6556087dc3267",
+  "active": "c7b4f982d529fc5f",
   "lastOpenFiles": [
+    "Déterminants de la production végétale.md",
     "Ravageurs.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Lutte biologique.md",
     "Effet de bordure.md",
     "Champ de patate.md",
