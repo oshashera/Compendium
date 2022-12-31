@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55b7ee45894d7c3f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Associations fixatrices d'azote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Associations fixatrices d'azote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Associations fixatrices d'azote.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,17 +163,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "7a036384fb07cdd8",
+  "active": "55b7ee45894d7c3f",
   "lastOpenFiles": [
-    "TP Pucerons - bandes fleuries.md",
+    "Interactions interspécifiques, notion de méta-communauté.md",
     "Associations fixatrices d'azote.md",
+    "TP Pucerons - bandes fleuries.md",
     "Contrôles top-down et bottom-up de la production végétale.md",
     "Agroécologie.md",
     "Associations et rotations culturales.md",
     "Lutte biologique.md",
     "Déterminants naturels et anthropiques de la production végétale.md",
     "T.D. Interactions biotiques & production végétale.md",
-    "Biosphère, (agro)écosystèmes et anthroposphère.md",
-    "Effet de bordure.md"
+    "Biosphère, (agro)écosystèmes et anthroposphère.md"
   ]
 }
