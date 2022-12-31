@@ -78,9 +78,8 @@ Les **3 grands type de stratégie** selon Grime (1974):![](https://lh6.googleuse
 ![](https://lh4.googleusercontent.com/xfm1aGC3djtJlCn-fziTMkFgebXoHzAVlJpiRRy13EzpPSOETCi3lJ2OKc16JMfN23lwJPn8P5LrwNXEk4U5iLoi24ZatPD68Ck8iAFKoH8sgGWmEUlqo9WGW4LSHK8pw1tA9fd5P_8HlPqL05gc1Cv2sd5o3HMnAQ7PNdXrjsoE3MceOxPbH7xdCBp7Ww)![](https://lh6.googleusercontent.com/MxjiViY8JBBe6s2ySh98tvIk-TpBjVD3d0G-CvmPCeT5579UDKW-y3kCCYYEhG3pmj4t1bldBk8ok3aBIzr2eZitCYjwlQjo-6zmqXtmvfxgDtGkqOmN2ANAHJnAtm0drTlvrtyGOkXCMUp3bRxuWkXYMey_jUo05LqQ_8csryRow-OGnAOelwuPJm4Gig)![](https://lh3.googleusercontent.com/cVtTGLagdsADCDBKXzRapGs8OfbwwH1uDdNutJfx1XPvuscGlsDRHcdj23se1my07hTc9DXOKfQo-1ZPd01qSttBabyfQSHKogNOIxSNRhrDUaE6dgNk9oMVUzQ0vo9QNMtKF_qxY-FLhPX2K1oBItjuZzFWP5TpRsdKzGwx35b8obz9pPXL7vVkjvlxIQ)
 
 ![](https://lh3.googleusercontent.com/Y1uLL2NAi-G3H-8HIvICDpI84R48CGmof5UDPWLsGd1d2QPpme0JtTi9F5MhUam4LhxxUoSuBrMFGLACxzIKbdMEGWPHwZfZf4gMcasyawMs02K_WPTkPhdWQm_HRDKtVyNSp0RBaGjyYvzZYUHJb6Uygkaw5s7SbDdtP94j7F1b-yjOktO_kcl0K0t3TQ)![](https://lh5.googleusercontent.com/zC9VuJ52BzBSSZToPlxJfSpNketKfA5JrwQuL2mSct5B1MTkGj6NVPTcT0kY6hKiepIUO7fDuo1pYocNSyiDcPI8c9nxFdS0pkyQWaJLI0dglSQ3hGiG9o1stDWD_VcJuaIYorGLcV-ml7h50I15C4x5zCKwJouJNBeyABMqAV2rbx2JJRISXYse-sva4A)
-
-  
+[[T.D. Interactions biotiques & production végétale]]
 
 ![](https://lh5.googleusercontent.com/yEfubVY77zPkYYT-3ll9MAZC8wLlS-7j-eMvNdFDT3gMdj_nNAjtdT2pCvWF9BA2VuOM9UrQYSMh2l4Iw7jLsPuC8E2moVZz7qj3YiYNNxqDBswfafoIHDJX0-pIRktf_RaxpfxKwFkdnlhy3-HBSGBV5yK9cdh9_Sn2OwFWbSc2TbC27ongQIIexag3Ow)
-
 [[Contrôles top-down et bottom-up de la production végétale| CM de Simon Chollet]]
+

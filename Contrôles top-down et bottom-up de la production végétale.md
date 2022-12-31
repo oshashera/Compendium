@@ -1,61 +1,48 @@
 
-Ecologie trophique, relation trophiques dans écosystèmes
-
-  
+#### Ecologie trophique, relation trophiques dans écosystèmes
+<br>
 
 Vieux débat tjrs d'actualité
-
-*Elton*, premier livre sur animal ecology, a formalisé la discipline, et quand il était étudiant, il va passer un été à observer une île au-dessus du cercle polaire.
+<ul>Elton, premier livre sur animal ecology, a formalisé la discipline, et quand il était étudiant, il va passer un été à observer une île au-dessus du cercle polaire.
 
 Il a observé: constitué principalement de rotifère, d'oiseaux et de renards polaires.
 
 Il en arrive à une conclusion, assez évidente aujourd'hui: la pyramide des nombres:
 
--> le nb d'individu est plus important dans les niveaux trophiques inférieurs
+<ul>-> le nb d'individu est plus important dans les niveaux trophiques inférieurs</ul> 
 
-Mais pq? Qui contrôle les pyramides?
-
-  
+Mais pq? Qui contrôle les pyramides?</ul>
 
 <u><b>2 hypothèses</b></u> 
 
-Hypothèse des ressources : les ressources (lumière, N, P) et/ou les producteurs primaires, limitent la biomasse des niveaux supérieurs
+**==Hypothèse des ressources==** : les ressources (lumière, N, P) et/ou les producteurs primaires, limitent la biomasse des niveaux supérieurs
 
 Soutenu par Lindeman, s'intéresse à écosystème mares, essaie de quantifier l'intégralité des composantes de son système (mares=assez simple)
 
 ![](https://lh4.googleusercontent.com/9N8kRQ194JPnbmTSr8Fqj21WLIrcLimr0GASFrINdzsbhTfQL9m1X_ciKFKJuF5NXkn3ziUY4waX0kGrAe0fMOYmYUk9W05P-B8GR4v1Zf5ZCIOR60AYtVv_4fRJta0YSOm9X3jvq6X4ujyNU71dL6_Ht42DeOn0n4GuUJ8ax6DK_pUmw1gHxcC0yIrhZA)![](https://lh4.googleusercontent.com/qC90ohBKwt9pfH2DuaXA9nckpZ_EKd5dxDCsAySZJUSmnfzc7ddZrOkB7Pgm2A5pKRIM3-1gJfWdQL6Q4aJM5Y5TxOyAmXJuLqvw_eN6qgAY_Ehs6ijKeCMQIlfiF9gNqD03cAE8s8VoJAZC4fhDybhZNWJbxmYWWasCI_VkHkxbSW40p4pEZi8YYlgsVA)![](https://lh4.googleusercontent.com/cD3ZynjWqFSN8nieXQVVwyE5KY5MwooMkiUyY6rAjyYMlhRCdJneugvYpqsKXvNwuy3vo3S1HGJNCcVXg9yy0jT89LNJP-movgeCu6WLa17zRzU8a6ZGkgVu_9CEuEkPPIDDb_z_P3cfZgHI8DxRaBCgNtO_f4LPeouKmmE_rRqpIU4SPTZOCcIG_-x-0g)![](https://lh6.googleusercontent.com/OwZYBLkqYD_l1CDtnmSnLPq8c2nH6IY1c8IsXwK_qyK0BKkP2ITQMgjzQUhM092dCj_v7aofu0o9A6PelAXU16o1YqGZOYC4jUVl_FpXPKiY4okpBP1bJlcwY37-kvzOjLhpsvWpz-6xES61E4MgNB2LGZFBxYSEWA7Ib8GPIwv1x-CpXurssWJUWFV5wA)
 
-  
-  
-
 Phyto contrôle quantité zooplancton et de brouteurs, zooplancton/brouteurs limite prédateurs benthiques limite poissons.
-
+<ul>
 -écosystèmes: composants biotiques et abiotique
-
-- transfert d'énergie: la productivité
+</ul>
+<ul>
+-transfert d'énergie: la productivité
+</ul>
 
 Pyramide marche pas que pour individu, mais aussi en biomasse et en mesure de l'énergie (J), intègre deux premiers principes de la thermodynamique.
 
 ![](https://lh5.googleusercontent.com/KJtbG1jkoX8O8sR6cLXUdZKK03K7XwjsQixljDnWXamX-gd2Jbsl0f9jfqhxZiEHYsecYud_womsl9YIVc41YEErmJwHcWXCWB78ti6jhOXYokWl0ZxUu8eDVez19a_-g2SJWF1poJYpfVe4DwR7uNzvt45YhqMJUi0J5nJ8cu5LvFZuwP7uFef2vkX_pQ)
-
 C'est bottom-up pcq ca part du bas
+<br>
 
-  
-  
-  
-
-Hypothèse des consommateurs : les consommateurs qui limitent les niveaux trophiques inférieurs (hypothèse top down)
-
+**==Hypothèse des consommateurs==** : les consommateurs qui limitent les niveaux trophiques inférieurs (hypothèse top down)
 Hairston et collègues pose "green world hypothesis" = "pq ya tjrs domination plante sur animaux?"
-
+<ul>
 Ce qui contrôle les plantes c'est bien les ressources,
-
 La quantité de décomposeurs est limité par MO à décomposer
-
 Ce qui contrôle les prédateurs c'est la quantité d'herbivores
-
 MAIS ce qui contrôle les herbivores???? la quantité de biomasse végé? NON! C'est les prédateurs: contrôle top down 
-
+<ul>
   
 
 Depuis les années 60 on essaie de voir si c'est top down ou bottom-up

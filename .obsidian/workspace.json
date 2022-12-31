@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md",
+                "file": "Contrôles top-down et bottom-up de la production végétale.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,26 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md",
+                "file": "Contrôles top-down et bottom-up de la production végétale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c818e706612b2b89",
+            "id": "ee985c41ba29f976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Associations interspécifiques fixatrices d'azote.md",
-                "mode": "preview",
+                "file": "T.D. Interactions biotiques & production végétale.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "602cd68cba0731b0",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md",
+                "file": "Contrôles top-down et bottom-up de la production végétale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md",
+                "file": "Contrôles top-down et bottom-up de la production végétale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md"
+                "file": "Contrôles top-down et bottom-up de la production végétale.md"
               }
             }
           },
@@ -190,17 +191,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "401bc2c3a3e38b1e",
+  "active": "c7b4f982d529fc5f",
   "lastOpenFiles": [
-    "Contrôles top-down et bottom-up de la production végétale.md",
     "Déterminants naturels et anthropiques de la production végétale.md",
+    "T.D. Interactions biotiques & production végétale.md",
+    "Contrôles top-down et bottom-up de la production végétale.md",
+    "Associations interspécifiques fixatrices d'azote.md",
     "Biosphère, (agro)écosystèmes et anthroposphère.md",
     "Associations et rotations culturales.md",
     "Effet de bordure.md",
     "Autonomie.md",
     "Champ de patate.md",
-    "Agroécologie.md",
-    "Lutte biologique.md",
-    "Ravageurs.md"
+    "Agroécologie.md"
   ]
 }
