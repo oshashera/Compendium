@@ -4,7 +4,6 @@
   "obsidian-extract-pdf-highlights",
   "quick-latex",
   "obsidian-relation-pane",
-  "obsidian-git",
   "obsidian-admonition",
   "obsidian-discordrpc",
   "better-pdf-plugin",
@@ -14,5 +13,6 @@
   "obsidian-enhancing-export",
   "obsidian-reading-time",
   "obsidian-plugin-toc",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-git"
 ]

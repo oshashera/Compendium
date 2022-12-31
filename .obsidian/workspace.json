@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agroécologie.md",
-                "mode": "source",
+                "file": "Untitled.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8dd7da7deb82a914",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -162,16 +157,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "8dd7da7deb82a914",
+  "active": "d0d6556087dc3267",
   "lastOpenFiles": [
-    "Effet de bordure.md",
-    "Agroécologie.md",
+    "Ravageurs.md",
+    "Untitled.canvas",
+    "Untitled.md",
     "Lutte biologique.md",
-    "Associations interspécifiques.md",
-    "Pasted image 20221230174942.png",
+    "Effet de bordure.md",
     "Champ de patate.md",
-    "Autonomie.md",
-    "Pasted image 20221230174849.png",
-    "Untitled 1.md"
+    "Pasted image 20221230185606.png",
+    "Pasted image 20221230174942.png.md",
+    "Pasted image 20221230175135.png",
+    "Agroécologie.md"
   ]
 }
