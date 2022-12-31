@@ -1,5 +1,5 @@
 
-#### Introduction
+### Introduction
 
 Ne pas oublier la notion d’Holobionte.
 
@@ -32,7 +32,7 @@ Origine des molécules azotées
 
   
 
-#### Fixateurs libre
+### Fixateurs libre
 
 Bactéries aérobies : Azotobacter (avec O2) |  sol
 Bactéries anaérobies: Clostridium (sans O2) | 
@@ -45,80 +45,50 @@ Bactérie phototrophes: *Rhodospirillum* (étangs pollués), *Chlorobium*
 
 Pour fixer l’azote N2, certaines bactéries forment des structures (dans les milieux réactionnels) pour diminuer la pression partielle d’O2.
 
-  
-
 Les cyanobactéries -> autotrophes C et N (bactéries photoS) grâce à hétérocyste + gaine de mucilage
-
 Unicellulaire, colonies filamenteuses ou non
 
-  
-
 Hétérocyste = cellule fixatrice d’azote moléculaire N2 (cellule spécialisée)
-
-Paroie épaisse pour réduire la pression partielle d’O2, car l’O2 est un inhibiteur de la fixation d’azote puisque rentrant en compétition.
+<ul>Paroie épaisse pour réduire la pression partielle d’O2, car l’O2 est un inhibiteur de la fixation d’azote puisque rentrant en compétition.</ul>
 
   
 
 ![](https://lh3.googleusercontent.com/u96lZTizE0GmH0u3vKmNEe5xeyREnScenHFSt24n5a88WsllZCtMacVHXcZ0IM0Micb0NSpbIXQfoeFLkjFVKT0FC0KDOUXvVAqfDGpmi-wHqfVsGvH43Fxk8LoiEcfToZOOn58Atd7VlszJPstxDZAiEaMvaiq8_oB2wcTA32mE92eT9eQhjj1Z_DMXpg)
+==Nitrogénase==, enzyme réductrice de N2 en NH3 (ammoniac)
+*Glutamine*, forme transportable du groupe amine
 
-Nitrogénase, enzyme réductrice de N2 en NH3 (ammoniac)
-
-Glutamine, forme transportable du groupe amine
-
-  
-  
-
-II- FIXATEURS SYMBIOTIQUES 
+### Fixateurs symbiotiques 
 
   
 
-A- Cyanobactéries
+#### A- Cyanobactéries
 
 Associées à des organismes très divers, ex: champignon -> lichen
 
-(1)Lichens =Cyanobactéries + champignons (héberge la bactérie)
+**(1)Lichens** =Cyanobactéries + champignons (héberge la bactérie)
+<ul>On observe, en coupe fine, la présence de colonies (filamenteuses des cyanobactéries à hétérocystes à l’intérieur du lichen (dans son mycelium))</ul>
+**Autres formes:**
 
-On observe, en coupe fine, la présence de colonies (filamenteuses des cyanobactéries à hétérocystes à l’intérieur du lichen (dans son mycelium))
+**(2) Filicophytes** : Azolla, fougère aquatique. Filicophytes utilisés comme engrais dans les rizières, co-culture.
 
-  
-
-Autres formes:
-
-(2) Filicophytes : Azolla, fougère aquatique. Filicophytes utilisés comme engrais dans les rizières, co-culture.
-
-(3)Cycadophytes, contient des racines coralloides (aspect dégueux pustules jaunâtre)
-
+**(3)Cycadophytes**, contient des racines coralloides (aspect dégueux pustules jaunâtre)
 ![](https://lh4.googleusercontent.com/7QkBfkekkIDRkvVxDtPjF8CmEHwZlUkkNlGtSUAZHHI5ULMdEhNb0UJha1R5yohaZ_k2mZ9PmjnMpf0TrduVUG-jB3930yMD8bST2OIsx1HVmHcvIp9dTRtpVb5GznDAWHvDqaHKYa8gqTCCnd970Uzmo4KHX8-7jJxbpOBvbRo9yMMRHhte9aq-f85rcQ)
+<ul> Racines coralloides -> comportement modifié pour se développer en surface, géotropie, pour permettre aux cyanobactéries de recevoir la lumière
+=> activité transcriptionnelle pour assurer ce développement </ul> 
+**(4) Angiospermes:** ex: Gunnera (tiges de 2m, dicotylédone), colonies de Nostoc à la base des tiges dans les glandes symbiotiques
+<ul>exemple isolé de ce type de symbiose chez les dicotylédones</ul>
 
-Racines coralloides -> comportement modifié pour se développer en surface, géotropie, pour permettre aux cyanobactéries de recevoir la lumière
-
-=> activité transcriptionnelle pour assurer ce développement
-
-  
-
-(4) Angiospermes: ex: Gunnera (tiges de 2m, dicotylédone), colonies de Nostoc à la base des tiges dans les glandes symbiotiques
-
-exemple isolé de ce type de symbiose chez les dicotylédones
-
-  
-
-B- Endosymbioses à Frankia et Rhizobium 
-
+#### B- Endosymbioses à Frankia et Rhizobium 
 (les plus répandues parmis les fixatrices d’azote)
+<ul>|-> tous leurs partenaires végétaux = Eurosidées I</ul>
 
-|-> tous leurs partenaires végétaux = Eurosidées I
+Mousses, Gymnospermes, Magnolia, Ferns, Lycopodes ne forment pas de symbiose (=> nécessite un sol riche==°== en azote) fixatrice d’azote
 
-  
+Fabacure 
+|--> avec nodulations, rhizobium
+|--> sans nodulation, actinobactéries
 
-Mousses, Gymnospermes, Magnolia, Ferns, Lycopodes ne forment pas de symbiose (=> nécessite un sol riche* en azote) fixatrice d’azote
-
-  
-
-Fabacure |--> avec nodulations, rhizobium
-
-    |--> sans nodulation, actinobactéries
-
-* rotation des cultures pour enrichir les sols avec plantes capables de symbiose fixatrice d’azote (ex: luzerne, pois, soja, riz,...)
+==°==rotation des cultures pour enrichir les sols avec plantes capables de symbiose fixatrice d’azote (ex: luzerne, pois, soja, riz,...)
 
   
 
