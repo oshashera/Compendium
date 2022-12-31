@@ -85,41 +85,34 @@ Associées à des organismes très divers, ex: champignon -> lichen
 Mousses, Gymnospermes, Magnolia, Ferns, Lycopodes ne forment pas de symbiose (=> nécessite un sol riche==°== en azote) fixatrice d’azote
 
 Fabacure 
-|--> avec nodulations, rhizobium
-|--> sans nodulation, actinobactéries
+<ul>|--> avec nodulations, rhizobium</ul>
+<ul>|--> sans nodulation, actinobactéries</ul>
 
-==°==rotation des cultures pour enrichir les sols avec plantes capables de symbiose fixatrice d’azote (ex: luzerne, pois, soja, riz,...)
-
-  
+==°==*rotation des cultures pour enrichir les sols avec plantes capables de symbiose fixatrice d’azote (ex: luzerne, pois, soja, riz,...)
+*
 
 Les symbioses à Frankia et Rhizobium enrichissent le sol en azote assimilable, mais, seules les Fabacées en relation avec Rhizobium ont une importance économique (alimentation humaine et animale)
 
-  
-
-Apport d’azote dans le sol:
-
-N est un facteur limitant de la production agricole 
-
-Production végétale -> engrais azotés chers et polluants
+<u>Apport d’azote dans le sol:</u>
+<ul>N est un facteur limitant de la production agricole</ul> 
+<ul>Production végétale -> engrais azotés chers et polluants</ul>
 
 D’où l’intérêt des rotations de cultures légumineuses/céréales limitant les intrants
 
-Luzerne 600 kg N fixé/an/ha
+<ul><i>Luzerne 600 kg N fixé/an/ha</i></ul>
+<ul><i>Pois/Soja 150 kg/an/ha</i></ul>
+<ul><i>-> intérêt agronomique et économique</i></ul>
+EUROSIDS (clade des FaFaCuRo) = **plantes nodulées**
 
-Pois/Soja 150 kg/an/ha
+|-------- Fabales (légumineuses)
+|-------- Rosale
+|-------- Cucurbitales
+|-------- Fagales
 
--> intérêt agronomique et économique
 
-  
+      
 
-          |-------- Fabales (légumineuses) |
-
-EUROSIDS---|-------- Rosales | plantes nodulées
-
-(clade des      |-------- Cucurbitales |
-
-FaFaCuRo)    |-------- Fagales |
-
+    
   
 
 -> contient des lignées en association avec Frankia, bactérie du sol, Gram + (= épaisse paroi, peptidoglycane) filamenteuse.
