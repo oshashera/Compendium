@@ -42,169 +42,115 @@ Ce qui contrôle les plantes c'est bien les ressources,
 La quantité de décomposeurs est limité par MO à décomposer
 Ce qui contrôle les prédateurs c'est la quantité d'herbivores
 MAIS ce qui contrôle les herbivores???? la quantité de biomasse végé? NON! C'est les prédateurs: contrôle top down 
-<ul>
+</ul>
   
 
 Depuis les années 60 on essaie de voir si c'est top down ou bottom-up
-
 ![](https://lh6.googleusercontent.com/WIX_T37smcc9laXsx9cZiY4cN_fPrOjktXcXZdNWkt0_9JSGi0z_M3J_ViGNXqwwJTtsH70uVabEnjrN55jUATJ1PaY4B8208QZMF05Y5sK5Q9518rkE9Zn7lV6PALWkjq_BWjVnlHarN7nzpaVpI-3Fhbf9ik8Svt9UQSXuzwIN9SPJ8eddDJjYKJPszQ)
-
-  
-  
-  
-  
 
 ![](https://lh3.googleusercontent.com/yNrFZRoEJfbjtP59XEv6Vncr1VsU288Hdkz1NVxcZlU4BNQn9H8LFFz1IvEA5z8Iu8Ht7uKzaOqYJmK_pXCV3AnIX4AluJZ-V0cAKRqiwhdoj3WCy7okO6_kRGaj_Hb2slrJH3NrjE9Fc_Bdj00jgCjZJZWK63nOhGx8aBhgWgyOqhaYc1CGPM6UiR9NVQ)
 
-  
-  
-
-Effets des nutriments sur la production végétale
-
-  
+#### Effets des nutriments sur la production végétale
 
 Méta-analyse des expériences d'enrichissement en N et P à travers le monde
-
-1069 expériences: 653 en eau douce, 240 en milieu marin, le reste en terrestre
-
+<ul>1069 expériences: 653 en eau douce, 240 en milieu marin, le reste en terrestre
 Effets importants dans tous les milieux
-
 Effets pas seulements additifs
-
 Déficit de plusieurs nutriments à l'échelle de la planète
-
+<ul>
 Ressources sont donc bien à l'origine de la croissance végétale, sont les limitants actuels dans le monde.
-
-  
-
+</ul>
+<br>
 Ensuite on test si bottom-up ou top-down herbivores
+</ul>
 
-  
-
-Effets des herbivores sur la production des plantes
-
-  
+#### Effets des herbivores sur la production des plantes
 
 Méta analyse des expériences d'exclusion des herbivores
-
+<ul>
 114 expériences
 
 Très différent selon les milieux, les herbivore semblent contrôler la croissance végétale mais ds certains cas ils semblent favoriser la croissance végétale (ex: les prairies)
 
   
+<br>
+<br>
+Les ressources limitent la biomasse des plantes mais herbivores aussi, qui est prédominant?</ul>
 
-Les ressources limitent la biomasse des plantes mais herbivores aussi, qui est prédominant?
-
-  
-
-Comparaison de l'effet des nutriments et des herbivores sur la biomasse des plantes
-
-  
+#### Comparaison de l'effet des nutriments et des herbivores sur la biomasse des plantes
 
 Méta-analyse de 191 expériences
-
+<ul>
 Ce qui joue le plus c'est le manque de nutriment mais variable en f(x) des écosystèmes, très marqué (manque de nutriment) dans écosystèmes eau douce, milieu marin c'est a peu près équivalent, et milieu terrestre c'est très variable
-
-  
-
+<br>
+<br>
 CCl: pas top-down ou bottom-up mais les deux!
-
+</ul>
   
-
 Comment est-ce possible?
 
-  
+<u>Expérience York River (Virginie)</u>
 
-Expérience York River (Virginie)
-
-Objectifs :
+**Objectifs :**
 
 - Evaluer le rôle des herbivores
-
 - Evaluer le rôle des nutriments
-
 - Comprendre les rôles relatifs
-
 - Etudier la variation temporelle (2 saisons)
 
-Méthode :
+**Méthode :**
 
 - Expérience en milieu naturel
-
 - Traitement défaunation (insecticide)
-
 - Traitement fertilisation (N, P, K)
 
-  
-
-Selon saison, top down ou bottom up
-
-  
-
+**Selon saison, top down ou bottom up**
+<ul>
 Automne 
-
-- Baisse naturelle des herbivores 
-
-- Augmentation des épiphytes en réponse 
-
-- Fertilisation favorise les épiphytes (avec ou sans herbivore) 
-
+<ul>
+Baisse naturelle des herbivores 
+Augmentation des épiphytes en réponse 
+Fertilisation favorise les épiphytes (avec ou sans herbivore) 
 -> bottom-up 
+</ul>
+</ul>
 
+<ul>
 Été 
-
-- Insecticide diminue la présence d’herbivore 
-
-- Les épiphytes augmentent drastiquement en réponse à la baisse d’herbivorie 
-
+<ul>
+Insecticide diminue la présence d’herbivore 
+Les épiphytes augmentent drastiquement en réponse à la baisse d’herbivorie 
 -> top-down
+</ul>
+</ul>
 
-![](https://lh5.googleusercontent.com/eJr9Ggv3-lLiMtr0za3C6sr6kX-CHbyx3Z6FfYf4rf-Ty8XErfAwIHRakQI-HlnK_V5rTTyyypQrExETsEgpCjw_sgBD4B0ZRMjpiDM_1zZy1ZaEOelei3J-k19eI7-BdngJjUxRKkBxUuwqwwzjecMxANmGd_BcYPDsl-z6iEOrgA9Hc8o_uS9o20zAxg)
-
-  
-  
-  
+**![](https://lh5.googleusercontent.com/eJr9Ggv3-lLiMtr0za3C6sr6kX-CHbyx3Z6FfYf4rf-Ty8XErfAwIHRakQI-HlnK_V5rTTyyypQrExETsEgpCjw_sgBD4B0ZRMjpiDM_1zZy1ZaEOelei3J-k19eI7-BdngJjUxRKkBxUuwqwwzjecMxANmGd_BcYPDsl-z6iEOrgA9Hc8o_uS9o20zAxg)**
 
 Reste une question:
 
-  
-
-Les relations proies/prédateurs
-
-  
+#### Les relations proies/prédateurs
 
 Utilisation du modèle Lotka-Volterra
-
 ![](https://lh4.googleusercontent.com/UKDW1Jf1isQWzmuTKibQC7ZLPBtRK42eEZOkICbDRdGRx1rbnxFLstx39m5pVx5lcJsPA9G86OXtz2cgJ4y5PQp8BqaImdQgF4AagQE2cLOPSCkqQg87E_d2hPwSVIGnYAP4l8i-auLDHLpOJRwyu8yXLlJauhbXkqFlv5qf_i9zCROG-0HBOnbKHv7ebQ)
-
-n1: effectif des proies
-
+<ul>n1: effectif des proies
 n2: effectif des prédateurs
-
 r1: taux de reproduction des proies
-
 r2: taux de mortalité des prédateurs
-
 α : coefficient compétition intraspécifique proies
-
 β : coefficient de prédation
-
-e : assimilation des prédateurs
-
+e : assimilation des prédateurs</ul>
 ![](https://lh6.googleusercontent.com/Tz_gbmhFyF__Sa1uQ1nbd1rR7whZMUKzRuPuErxEOm9-y-Syp_QfHbF3vMcgrPHzPzV2ebreMAlKw81HYbH1BgF-IxoqfoGmLGaBPiQX6jU3aBeW3MsLcdy7qT6OPetC31FvwQOMXBvUCKfd1OT_UgDuEqbTQ1PyEi3upSbQ7uADkdQpnAowjQptQwyi5w)
 
 Validation expérimentale?
 
-![](https://lh4.googleusercontent.com/Cu87WxpcpH7gGSzfBwcHC0vczFdWXrI5W7EiDRsPEVOvUkhohPEVlsnXvhK5M_m4TwM9ok3l49TxSos98Zzgi2fO2E--ifEjSV-NxZ9mMEerUcPoQPgn_RnZ0He04YQqrro2OqgJRkh4toBQMvsCUdcnvyo420IhWddkzai1ul-chkQV8wnn5bRkOSrPRQ)Modèle pas valide au final
-
-  
-  
-  
+![](https://lh4.googleusercontent.com/Cu87WxpcpH7gGSzfBwcHC0vczFdWXrI5W7EiDRsPEVOvUkhohPEVlsnXvhK5M_m4TwM9ok3l49TxSos98Zzgi2fO2E--ifEjSV-NxZ9mMEerUcPoQPgn_RnZ0He04YQqrro2OqgJRkh4toBQMvsCUdcnvyo420IhWddkzai1ul-chkQV8wnn5bRkOSrPRQ)
+**Modèle pas valide au final**
+<br>
 
 Expériences d'Huffaker
-
+<ul>
 3 modalités:
-
+<ul>
 Univers 1: contrôle (proie + prédateur)
 
 Univers 2: hétérogénéité spatiale (met des boules de plastiques à des endroit parfois au lieu orange)
@@ -212,15 +158,16 @@ Univers 2: hétérogénéité spatiale (met des boules de plastiques à des endr
 Univers 3: réduction des ressources + hétérogénéité + obstacles de dispersion
 
   
-
+<ul>
 Univers 1: extinction
-
+</ul>
+<ul>
 Univers 2: extinction
-
+</ul>
+<ul>
 Univers 3: oscillations
-
+</ul></ul></ul>
   
-
 Dans la nature, on a l'impression que proie et prédateurs se contrôlent mais y a plein d'autres paramètres
 
   
