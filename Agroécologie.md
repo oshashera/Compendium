@@ -4,9 +4,9 @@ C'est l'application des concepts et principes de l'écologie à la conception et
 
 Liste de pratiques possibles à mettre en place:
 
-* [[Lutte biologique]]
-* [[Associations interspécifiques]]
-* [[Effet de bordure | Jouer avec l'effet de bordure]]
+- [[Lutte biologique]]
+- [[Associations interspécifiques fixatrices d'azote]]
+- [[Effet de bordure | Jouer avec l'effet de bordure]]
 - [[Associations et rotations culturales]]
 <br>
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agroécologie.md",
+                "file": "Déterminants de la production végétale.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Associations et rotations culturales.md",
-                "mode": "source",
+                "file": "Associations interspécifiques fixatrices d'azote.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Associations et rotations culturales.md",
+                "file": "Déterminants de la production végétale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Associations et rotations culturales.md",
+                "file": "Déterminants de la production végétale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Associations et rotations culturales.md"
+                "file": "Déterminants de la production végétale.md"
               }
             }
           },
@@ -182,17 +182,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "c818e706612b2b89",
+  "active": "c7b4f982d529fc5f",
   "lastOpenFiles": [
     "Agroécologie.md",
     "Associations et rotations culturales.md",
-    "Biosphère, (agro)écosystèmes et anthroposphère.md",
+    "Associations interspécifiques fixatrices d'azote.md",
+    "Effet de bordure.md",
     "Lutte biologique.md",
+    "Biosphère, (agro)écosystèmes et anthroposphère.md",
     "Déterminants de la production végétale.md",
     "Ravageurs.md",
     "Untitled.canvas",
-    "Effet de bordure.md",
-    "Champ de patate.md",
-    "Pasted image 20221230185606.png"
+    "Champ de patate.md"
   ]
 }
