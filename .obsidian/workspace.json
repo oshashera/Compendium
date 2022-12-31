@@ -8,27 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a036384fb07cdd8",
+            "id": "55b7ee45894d7c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Associations fixatrices d'azote.md",
+                "file": "Lutte biologique.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "55b7ee45894d7c3f",
+            "id": "d73cdc039b73cd5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lutte biologique.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lutte biologique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lutte biologique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lutte biologique.md"
+              }
             }
           },
           {
@@ -163,17 +170,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "55b7ee45894d7c3f",
+  "active": "d0d6556087dc3267",
   "lastOpenFiles": [
+    "Ravageurs.md",
+    "Lutte biologique.md",
+    "Agroécologie.md",
     "Associations fixatrices d'azote.md",
     "Interactions interspécifiques, notion de méta-communauté.md",
     "TP Pucerons - bandes fleuries.md",
     "Contrôles top-down et bottom-up de la production végétale.md",
-    "Agroécologie.md",
     "Associations et rotations culturales.md",
-    "Lutte biologique.md",
     "Déterminants naturels et anthropiques de la production végétale.md",
-    "T.D. Interactions biotiques & production végétale.md",
-    "Biosphère, (agro)écosystèmes et anthroposphère.md"
+    "T.D. Interactions biotiques & production végétale.md"
   ]
 }
