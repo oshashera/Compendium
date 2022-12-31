@@ -5,12 +5,12 @@ C'est l'application des concepts et principes de l'écologie à la conception et
 Liste de pratiques possibles à mettre en place:
 
 - [[Lutte biologique]]
-- [[Associations interspécifiques fixatrices d'azote]]
+- [[Associations fixatrices d'azote]]
 - [[Effet de bordure | Jouer avec l'effet de bordure]]
 - [[Associations et rotations culturales]]
 <br>
 
-**Concept de développement durable (92 Rio), concept interdisciplinaire 
+**Concept de développement durable (92 Rio), concept interdisciplinaire** 
 
 => Signification diffère selon acteurs: conflit d’intérêt entre industries (où économie prioritaire), les assos et le service de protection de la nature
 

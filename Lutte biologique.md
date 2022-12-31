@@ -151,7 +151,7 @@ Lutte biologique par augmentation = commercialisable (connaissances + ventes)
 **Une manipulation indirecte par modification et restauration du milieu
 La lutte biologique par conservation : une restauration de la biodiversité dans les agrosystèmes**
 
-A noter que la créations d'habitats divers (notamment a la faveur des [[Effet de bordure | Effets de bordure]], peut aussi favoriser les bioagresseurs!
+A noter que la créations d'habitats divers (par exemple les [[TP Pucerons - bandes fleuries | bandes fleuries]] ),notamment a la faveur des [[Effet de bordure | Effets de bordure]], peut aussi favoriser les bioagresseurs!
 
 <u>Étapes :</u>
 - Identification et neutralisation des facteurs négatifs 

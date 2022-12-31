@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md",
-                "mode": "source",
+                "file": "Associations fixatrices d'azote.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md",
+                "file": "Associations fixatrices d'azote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md",
+                "file": "Associations fixatrices d'azote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants naturels et anthropiques de la production végétale.md"
+                "file": "Associations fixatrices d'azote.md"
               }
             }
           },
@@ -184,15 +184,15 @@
   },
   "active": "7a036384fb07cdd8",
   "lastOpenFiles": [
+    "Agroécologie.md",
+    "Associations et rotations culturales.md",
+    "Lutte biologique.md",
     "TP Pucerons - bandes fleuries.md",
+    "Déterminants naturels et anthropiques de la production végétale.md",
     "Contrôles top-down et bottom-up de la production végétale.md",
     "T.D. Interactions biotiques & production végétale.md",
-    "Déterminants naturels et anthropiques de la production végétale.md",
-    "Associations interspécifiques fixatrices d'azote.md",
+    "Associations fixatrices d'azote.md",
     "Biosphère, (agro)écosystèmes et anthroposphère.md",
-    "Associations et rotations culturales.md",
-    "Effet de bordure.md",
-    "Autonomie.md",
-    "Champ de patate.md"
+    "Effet de bordure.md"
   ]
 }

@@ -6,7 +6,7 @@ Alterner les familles botaniques dans le temps:
 * céréales, légumineuses et oléagineuses
 ![](https://lh6.googleusercontent.com/WcH8Mbdj8JkLk3YKvPduow4gl0whjwGbIf_uVpHzTbmnHFeukR-iuMtjSLK8dOPN3M0iegcfXvNZHH4qkJ46puAaDJvr7AHmloK7yfOFc48dXKRSHCgEcz9YmAWgrTYfQ1G0pRdbZZXrT7bS0iEB673m5wXoO7kOHZg5-RBQ2qPSM1MauFi4dslO1bgp-w)
 
-[[Associations interspécifiques fixatrices d'azote | Fixation d'azote]]
+[[Associations fixatrices d'azote | Fixation d'azote]]
 
 En agriculture conventionnelle -> interculture (couvert) non récolté relativement court dans le temps
 -> permet de ne pas voir pulluler les maladies et ravageurs
@@ -15,7 +15,8 @@ En agriculture conventionnelle -> interculture (couvert) non récolté relativem
 
 	Autre ex avec triticale et pois: mélange et associations culturaux dans l’espace: association céréales et protéagineuses (croissance en strates, blé puis enroulement des pois)
 <br>
-#### Associations 
+
+#### Associations
 
 **Les 3 soeurs: maïs, courge, haricot**
 
