@@ -168,94 +168,51 @@ Très fréquente en zone sèche, en altitude et hautes latitudes, la nodulation 
 
 <u>Le fonctionnement des endosymbiose</u>
 
-La mise en place des endosymbioses à Frankia comme à Rhizobium, implique un dialogue entre l'hôte et le symbionte dont certaines étapes sont communes au dialogue permettant la mycorhization.
+La mise en place des endosymbioses à Frankia comme à *Rhizobium*, implique un dialogue entre l'hôte et le symbionte dont certaines étapes sont communes au dialogue permettant la mycorhization.
 <ul>La symbiose fixatrice d'azote est fondamentale pour les plantes.</ul>
+La reconnaissance du partenaire fongique (*Glomus*), ou bactérien (*Frankia*, *Rhizobium*) par l'hôte, est liée à des récepteurs membranaires couplés à une kinase dont l'activité provoque par cascade des modifications de l'expression du génome.
 
-La reconnaissance du partenaire fongique (Glomus), ou bactérien (Frankia, Rhizobium) par l'hôte, est liée à des récepteurs membranaires couplés à une kinase dont l'activité provoque par cascade des modifications de l'expression du génome.
-
-  
-  
-
-Exemple de récepteur le plus étudié: le gène SYMRK codant pour une protéine transmembranaire chez les Fabacées (reconnaissance des rhizobium) a été mise en évidence chez Casuarina (reconnaissance de Frankia, mais aussi des Glomales)
-
-  
+	Exemple de récepteur le plus étudié: le gène SYMRK codant pour une protéine transmembranaire chez les Fabacées (reconnaissance des rhizobium) a été mise en évidence chez Casuarina (reconnaissance de Frankia, mais aussi des Glomales)
 
 Si dans votre jardin vous avez bcp d'azote la légumineuse ne va pas s'associer, alors que si pauvre en azote elle va avoir bcp de nodosités.
-
 ![](https://lh6.googleusercontent.com/g1LO1wFGdp2o_doGFGNnMToXTfuy90dS3utEv206szU4_UXoddywcya5TFWHw0IlVpC1LI-lHftG3lt6PDrj41zhye6DlloSmR48PrixfAZXAEeJXxwvPlgMAwQFLNpxfKQKkYccuN16pB5LLPz7Otq0humyptiYDDCv6DqcS_kK7pH-9Qu_x1gIgZEIQw)
+<br>
 
-  
-  
-
-1- Fabacées/Légumineuses
-
+- 1-Fabacées/Légumineuses
 Uniquement dans le cas où le sol est pauvre en azote, ils sécrètent par les racines des flavonoïdes (composés aromatiques pigmentaires à deux ou trois cycles) ou bétaïnes
 
+- 2- Ces composés vont créer chimiotactisme; rhizobium chimiotactisme et activation des gènes nod (interviennent dans la nodulation)
   
+- 3- Adsorption, courbure des poils absorbants -> cordons d'infection, induction de noduline (*protéines spécifiques de la nodulation) précoces (nodulation à partir du cortex)
 
-2- Ces composés vont créer chimiotactisme; rhizobium chimiotactisme et activation des gènes nod (interviennent dans la nodulation)
-
-  
-
-3- Adsorption, courbure des poils absorbants -> cordons d'infection, induction de noduline (*protéines spécifiques de la nodulation) précoces (nodulation à partir du cortex)
-
-  
-
-4- Infection des cellules corticales
-
-Cellules infectées, va continuer à dupliquer ADN sans se diviser (endoduplication), taille augmentée, forme modifiée.
-
-On dit alors que : bactérie -> bactéroïdes /symbiosome
-
-Activation des gènes nif (impliqué dans la synthèse de la nitrogénase, enzyme clé de la fixation d'azote) et fix
+- 4- Infection des cellules corticales
+<ul>Cellules infectées, va continuer à dupliquer ADN sans se diviser (endoduplication), taille augmentée, forme modifiée.</ul>
+<ul>On dit alors que : bactérie -> bactéroïdes /symbiosome</ul>
+<ul>Activation des gènes nif (impliqué dans la synthèse de la nitrogénase, enzyme clé de la fixation d'azote) et fix</ul>
 
 ![](https://lh6.googleusercontent.com/RX5xk7AC2WdpWdOdG8xWlBaLyZLaI0ucIaJUFLp90jCOJjUUzXTUvqfhCZ-QRnnkWYoIXdm0Ix8cJ1WHID4f6DTsLkZR7IxZ9dPrOvmcvY0VBKy-g3SDCflObYPlWgKGJE1y2cn8j2RBLCIyLelh9EM10xXFiIICuncO-836JeONw8_B2RciLmev3R9Siw)
-
-  
-  
 
 ![](https://lh4.googleusercontent.com/JlrvIOmn2i3U2yyzLOek42C5LYSOypM_5s6jG4cbfG7THF5G4b7HUdyaVkhOZk7l5h5gg_7WTgnC4hA4pfn6dCjixo5iKbQgOqyMza2FTaPi4DlvghXUtMy-1XbQY9Vb7zMxb73Ub_rjjVp5vJSQqL1IIxstXTHBeWC1tvcX9_b4E7WzPuZFDSY9geGUgQ)
 
   
 
-5- Leghémoglobine -> rôle: réduire la pression d'oxygène.
-
- synthèse et activation de la nitrogénase
+- 5- Leghémoglobine -> rôle: réduire la pression d'oxygène.
+ <ul>synthèse et activation de la nitrogénase</ul>
 
 ![](https://lh4.googleusercontent.com/4uIoA1Htm4czYmW61XZN1LLKSmzXrVOh-M5jxC6bTxQnaTqaAu_UYdykZL0pUZgB4e6BIbhMu7oWXHaOmKEQV1VpwUCCQ1bJqsDtqJKSiAYOcXcCxmj22HESpD14cGgtFHZSNY6Yxx7dFDs2TAVp2DHNuhvWi8__JTy8P3Zc_eMiu9wmX9q9VIlpClUQ0g)![](https://lh5.googleusercontent.com/RPkgmQpqubXUQPuCs74Apbn6htueOV85DvQul-UdFNrVWBxblavHg7vJuZz9Csr_BfqNp12inbMpZg6GJ9Z5RpFX3IOBX91OKmWkhOjQRgPtSu-P80OwcpdaR2_QU12Rr9bgtl-SLNGyGxwU4yAz07_lsysrARF-INKQdBrIgNbASHD9TNb8YNP4rKgMlQ)
 
-  
-  
+- 6- photosynthétats
 
-6- photosynthétats
-
-  
-
-7- nuréides, ac, am
-
-*récup diapo uréides*
-
-  
-
+- 7- nuréides, ac, am
+ 
 ![](https://lh3.googleusercontent.com/0DoxuJFURRjSZJTlx8i2SwSfHqSNS8ktnWW-h2XHH2RkXvSj2j_W67urQa7PB5Q-vAtqcl2PjzTTkLrHf40PjKTWMHgvUgiukh-3NrVUPbZpLljxsLUogQQuu_kStzkGj8URYt8xtxNBBbj02zDOaBm8iAWqiO5Mu8E_VSNHAxrhtvCr2UMCqwF6zpSujQ)
 
-  
-
 ![](https://lh3.googleusercontent.com/mNfzZ5PNgigIvx7VCP49279CndF5MGyJnOb_wfVske_qBKW50LBQhWyonXId14BkBLRZkuWYk0Y-g_61EJaG3z1g5oIdujATrMzHaCCOMQIQ30X1VvI4zW7JXIso0I8JZn_fBFXPZkqXFRowpUnwfwIkbHXmxvhu-qd00lOn2yA2Nbw-cD4DYAB2i1_IgA)
+<br>
 
-  
-
-Perspectives
-
-  
+**Perspectives**
 
 Différentes pistes explorées qui pourraient à terme permettre aux céréales de pratiquer une symbiose mutualiste avec les bactéries fixatrices d'azote ou de fixer directement N2
-
--> Introduire les gènes nif (une quinzaine) dans le génome du blé,riz ou maïs 
-
--> Transférer chez les céréales l’aptitude à former des nodosité du fait des voies communes de signalisation des nodosités et endomycorhizes à Glomales 
-
-->Transformer des endomycorhizes en structures fixatrices d’azote
-
-  
-**
+<ul>-> Introduire les gènes nif (une quinzaine) dans le génome du blé,riz ou maïs </ul>
+<ul>-> Transférer chez les céréales l’aptitude à former des nodosité du fait des voies communes de signalisation des nodosités et endomycorhizes à Glomales</ul>
+<ul>->Transformer des endomycorhizes en structures fixatrices d’azote</ul>
