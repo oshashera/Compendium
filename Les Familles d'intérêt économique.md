@@ -215,142 +215,69 @@ Origine: principalement du Moyen-Orient et d'Asie
 Genre principal: Rosa
 
 Caractères généraux des Rosacées:
-
 Dicotylédones
-
--Herbes, arbustes; feuilles souvent stiupulées
-
--Grande diversité florale;
-
-Souvent 5S,5P,n étamines (15 ou +, parfois 10 ou -), 1 à n carpelles
-
--Fruits très variables: follicule, akène, drupe, fruit complexe incluant le conceptacle floral
-
-  
+* Herbes, arbustes; feuilles souvent stiupulées
+* Grande diversité florale;
+	* Souvent 5S,5P,n étamines (15 ou +, parfois 10 ou -), 1 à n carpelles
+* Fruits très variables: follicule, akène, drupe, fruit complexe incluant le conceptacle floral
 
 Intérêt alimentaire: variété de fruits
-
-  
-
-Fruits = Drupes
-
--Cerisier
-
--Amandier
-
--Abricotier
-
--Pêcher
-
--Prunier
-
-Fruits = Drupéoles
-
--Framboisier
-
--Ronce
-
-Fruits = Composés ou faux fruits; Drupéoles
-
--Fraisier
-
--Pommier
-
--Poirier
-
--Cognassier
-
-  
-
-*récup diapo*
-
-*diapo origine du fraisier cultivé?*
+* Fruits = Drupes
+	* Cerisier
+	- Amandier
+	* Abricotier
+	* Pêcher
+	* Prunier
+* Fruits = Drupéoles
+	* Framboisier
+	* Ronce
+* Fruits = Composés ou faux fruits; Drupéoles
+	- Fraisier
+	- Pommier
+	- Poirier
+	- Cogniassier
 
 F. vesca = sauvage
 
-  
-
 Questions de recherche posées:
-
 1) Quelles sont les relations phylogénétiques entre les espèces de fraisiers?
-
 2) Quelles espèces diploïdes ont contribué à la formation des espèces polyploïdes
-
 -> origine du génome de Fragaria x ananassa
 
-  
-
-*diapo histoire évolutive de genre Fragaria*
-
-  
-
-  
-
-AUTRES FAMILLES D'INTERET ECONOMIQUE
-
-  
+#### AUTRES FAMILLES D'INTERET ECONOMIQUE
 
 Monocotylédones:
-
--Arécacées (palmiers: huile, dattier, cocotier, raphia)
-
--Musacées (bananes)
-
+- Arécacées (palmiers: huile, dattier, cocotier, raphia)
+- Musacées (bananes)
 Eudicotylédones:
-
--Rutacées (agrumes)
-
--Rubiacées (Caféier)
-
--Vitacées (Vignes)
-
--Malvacées (cotonnier, hibiscus...)
-
--Sterculiacées (cacaoyer)
-
--Théacées (Camélia, Théier)
-
-  
-  
-  
-  
+- Rutacées (agrumes)
+- Rubiacées (Caféier)
+- Vitacées (Vignes)
+- Malvacées (cotonnier, hibiscus...)
+- Sterculiacées (cacaoyer)
+- Théacées (Camélia, Théier)
 
 Position phylogénétique des plantes modèles chez les Angiospermes
 
-  
-
 Organisme modèle: espèce sur laquelle des études approfondies sont réalisées pour comprendre différents phénomènes biologiques d'intérêt, et extrapoler nos connaissances à d'autre organismes "non modèles".
-
 => progrès rapide des connaissances biologiques
 
 Souris, Drosophile, E. coli, Arabette
-
-  
+<br>
 
 Développement des connaissances et des approches (moléculaires et génomiques):
-
 => le concept d'organismes modèles s'est élargi: Nouvelles espèces 
-
--d'intérêt économique (santé, agronomie, industriel...)
-
--d'intérêt biologique particulier *récup fin phrase*
-
-  
+- d'intérêt économique (santé, agronomie, industriel...)
+- d'intérêt biologique particulier (petite taille de génome, caractère évolutif particulier,...)
 
 Mais les plantes modèles représentent une faible fraction de la biodiversité!
-
   
-
 Pour tirer partie de façon plus large et efficace des connaissances accumulées sur les plantes modèles dans les divers domaines de recherche.
 
--> Nécessité de mieux connaître les relations de parenté (phylogénie) et l'origine
-
-*récup diapo*
-
+-> Nécessité de mieux connaître les relations de parenté (phylogénie) et l'origine modèles, afin d'identifier les lignées d'intérêt encore peu ou pas étudiées
+-> Biologie comparative
   
-  
+bases de données génomiques sur http:www.phytozome.net/search.php
 
-[bases de données génomiques sur http:www.phytozome.net/search.php]
 
-  
-**
+
