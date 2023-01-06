@@ -11,8 +11,12 @@
             "id": "d73cdc039b73cd5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Les Familles d'intérêt économique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Les Familles d'intérêt économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Les Familles d'intérêt économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Les Familles d'intérêt économique.md"
+              }
             }
           },
           {
@@ -152,15 +160,15 @@
   },
   "active": "d73cdc039b73cd5c",
   "lastOpenFiles": [
-    "Associations fixatrices d'azote.md",
+    "Les Familles d'intérêt économique.md",
+    "Untitled 1.md",
     "Agroécologie.md",
-    "TP Pucerons - bandes fleuries.md",
-    "Untitled.md",
-    "Lutte biologique.md",
     "Ravageurs.md",
+    "Lutte biologique.md",
+    "TP Pucerons - bandes fleuries.md",
+    "Associations fixatrices d'azote.md",
     "Interactions interspécifiques, notion de méta-communauté.md",
     "Contrôles top-down et bottom-up de la production végétale.md",
-    "Associations et rotations culturales.md",
-    "Déterminants naturels et anthropiques de la production végétale.md"
+    "Associations et rotations culturales.md"
   ]
 }
