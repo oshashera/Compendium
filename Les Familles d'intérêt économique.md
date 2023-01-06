@@ -11,187 +11,93 @@ Agriculture 
 Sylviculture
 * production de bois (gymnospermes: pins, sapins, épicéa... angiospermes : Fagacées, Ulmacées, Salicacées...)
 * poteaux pâte à papier, bois d'oeuvre aggloméré
-
-
-produits dérivés
-
-résines
-
-essences
-
-liège...
-
-  
+* produits dérivés
+	* résines
+	* essences
+	* liège...
 
 Autres intérêts: pharmaceutique....
+<br>
 
-  
-  
-
-Les principales familles d'intérêt agronomique
-
-  
+## Les principales familles d'intérêt agronomique
 
 caractères biologiques -> importance économique
-
 Enjeux scientifiques et économiques
-
-augmentation des rendements
-
-amélioration de la qualité
-
-résistance aux maladies ou aux ravageurs
-
-nouvelles sources d'énergies
-
-  
+* augmentation des rendements
+* amélioration de la qualité
+* résistance aux maladies ou aux ravageurs
+* nouvelles sources d'énergies
 
 Nouvelles variétés ou sp par hybridation entre espèces cultivées ou sp cultivées et sp sauvages
-
 Multiplication végétative, micropropagation, semences artificielles
-
 Transfert de gènes
 
-  
-
 Recherche fondamentale et appliquée
-
-organismes nationaux
-
-organismes internationaux
-
-entreprises privées
-
-  
-
-*récupérer diapo carte*
+* organismes nationaux
+*  organismes internationaux
+* entreprises privées
 
 Bassins de diversité sont là où on a commencé aussi à domestiquer.
 
-*diapo carte centre domestication*
-
 Les traces de domestications remontent aux derniers 10 000 ans de l'histoire humaine.
+<br>
 
-  
-  
-
-LES POACÉES (ex: Graminées)
+#### LES POACÉES (ex: Graminées)
 
 Monocotylédones: ~10 000 sp
 
-  
-
 Écosystèmes naturels à graminées dominantes:
-
 -pelouses (alpines, côtières)
-
 -prairies (Grande Prairie, USA, pampa argentine)
-
 -steppes (asie centrale, hauts plateaux algériens)
-
 -savaines intertropicales (Afrique)
 
-  
-
 Caractéristiques:
-
--herbacées annuelles ou vivaces
-
--tige creuse (chaume)
-
--feuille rubanées à gaine fendue
-
--fruits = caryopse ou grain
-
--graine albuminée à réserve de protéines + amidon
-
+<ul>- herbacées annuelles ou vivaces</ul>
+<ul>- tige creuse (chaume)</ul>
+<ul>- feuille rubanées à gaine fendue</ul>
+<ul>- fruits = caryopse ou grain</ul>
+<ul>- graine albuminée à réserve de protéines + amidon</ul>
 => alimentation humaine et animale (sp cultivées = céréales)
-
-  
+<br>
 
 Blé,seigle,orge,avoine,régrat,mais,riz,canne à sucre,sorgho
-
--> sous familles différentes, dans lesquelles la plus représentée chez nous sont les Poïdées, le riz c'est une autre sous famille, le maïs sorgho et canne a sucre aussi.
-
+<ul>-> sous familles différentes, dans lesquelles la plus représentée chez nous sont les Poïdées, le riz c'est une autre sous famille, le maïs sorgho et canne a sucre aussi.</ul>
+<br>
   
-
-1 - Le riz (Oryza) - 1ère céréale mondiale
-
-  
+##### 1 - Le riz (Oryza) - 1ère céréale mondiale
 
 Plusieurs variétés cultivées, adaptées à différentes conditions
 
-  
-
 Plusieurs groupes (génomes) identifiés à partir de critère cytogénétiques (appariements chromosomiques): Génomes diploïdes AA BB CC EE FF GGG et génomes tétraploïdes BBCC CCDD HHKK
 
-  
-
 2 sp domestiquées de génomes AA
-
 -Asie: Oryza sativa (ssp japonica et ssp indica, divergence 100 000ans, diversification 10 000a)
-
 -Afrique: Oryza glaberrima
-
-  
 
 => orga de recherche sur ressources génétiques vont récup samples pour avoir une biblio des plantes sauvages et domestiquées
 
-  
-
-*diapo arbre phylo*
-
 Pangénome = ensemble de la diversité génétique à l'échelle de l'sp
+<br>
 
-  
-
-2 - Le blé (Triticum) - 2ème céréale mondiale
-
-  
+##### 2 - Le blé (Triticum) - 2ème céréale mondiale
 
 Origine: moyen orient; cueillette -> domestication -> culture
 
-  
-
 Changements génétiques -> morphologiques
-
-Rachis* fragiles -> rachis renforcés
-
-Épis lâches -> épis compacts
-
-Petits grains -> gros grains
-
-Grains vêtus -> grains nus
-
-  
+* *Rachis* fragiles -> rachis renforcés
+* Épis lâches -> épis compacts
+* Petits grains -> gros grains
+* Grains vêtus -> grains nus
 
 *rachis = prolongement du chaume (tige) au niveau de l'épis
 
-  
-
 Avantages: cueillette facile, stockage possible
-
 -> nourriture abondante toute l'année
-
 -> sédentarisation des populations
 
-  
-
-*diapo croissant fertile*
-
-*diapo "les blés = complexe polyploïde"*
-
 Les blés = complexe polyploïde (2n = 2x, 4x, 6x) où espèces sauvages et cultivées peuvent se croiser
-
 -> origine d'hybridation de AA et BB en AABB est naturelle, spontanée, tout comme AABB et DD pour AABBDD
-
-*diapo domestication*
-
-légende figure 2 -> on a pas envie de ça pour récolter
-
--> délection d'allèles conférant la résistance du rachis à la cassure (réduction de la dissémination des grains, augmentation du rendement); gène de domestication (chrom. 5)
-
-  
 
 autre exemples: chez les blés domestiqués, passage de forte ténacité des glumes à une nudité des grains mais aussi des facteurs génétiques de vernalisation (gènes Vrn1 et Vrn2 de résistance au froid) ayant permis aux blés d'être cultivés dans les régions du Nord à partir de la Mésopotamie
 
