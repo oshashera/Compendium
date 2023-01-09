@@ -93,4 +93,22 @@ Deux (principaux) test du chi²
 - Test du chi² d'adéquation (1 variable)
 - Test du chi² d'homogénéité (2 variables)
 
- V1
+#### Table de contingence
+
+Une table de contingence contient le nombre d'occurences de chaque modalité d'une variable qualitative, ou de chaque couple de modalité si on a 2 variables
+Tableau de modalité croisée si 2 variables
+==[insérer image 1]==
+
+		Construction de la table de contingence dans r:
+		 table(variable1)
+		 table(variable1,variable2)
+
+#### Test du chi² d'adéquation
+
+Situation:
+- mesure qualitative chez un groupe d'individu
+=> la répartition observée est-elle conforme à la répartition attendue?
+
+H0? "la répartition des observations dans les différents groupes est conforme à la répartition attendue"
+
+Statistique de test?
