@@ -130,4 +130,16 @@ H0? "la répartition des observations dans les différents groupes est conforme 
 On réalise un test du x² pour la variable v1
 >tab 1 <- table(v1)
 >chisq.test(tab1, p=c(p1,p2,...))
-On obtient une p-value = pval. Au risque alpha = 0,05, on [peut/ ne peut pas] rejeter l'hypothèse H0, et on conclut donc que la répartition de v1 [correspond/ ne correspond pas] à la répartiti
+
+On obtient une p-value = pval. Au risque alpha = 0,05, on [peut/ ne peut pas] rejeter l'hypothèse H0, et on conclut donc que la répartition de v1 [correspond/ ne correspond pas] à la répartition attendue
+
+*remarque* : il faudra bien penser à concluer sur la question biologique après la conclusion du test ; le risque alpha peut changer
+
+[mettre photo exercice]
+[mettre photo réponse]
+
+#### Test du chi² d'homogénéité / d'indépendance
+
+Situation
+- différentes mesures qualitatives chez les mêmes individus
+=> deux critèr
