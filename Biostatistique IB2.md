@@ -111,4 +111,23 @@ Situation:
 
 H0? "la répartition des observations dans les différents groupes est conforme à la répartition attendue"
 
-Statistique de test?
+**Statistique de test?**
+==[insérer image 2]==
+
+1. Calcul des effectifs dans chaque catégorie (table de contingence)
+	- tab_sample <- table(sample)
+2. Pour tester si la répartition correspond à des proportions théoriques (par exemple (p1,p2,p3))
+	- chisqu.test(tab_sample, p=c(p1,p2,p3))
+
+		 tab_lunettes <- table(donnees$lunettes)
+		 p1 = 0,4
+		 p2 = 0,6
+		 chisq.test(tab_lunettes, p=c(p1,p2))
+		On a 0,73 en p value donc ca passe pour H0
+
+#### Rédaction 
+
+On réalise un test du x² pour la variable v1
+>tab 1 <- table(v1)
+>chisq.test(tab1, p=c(p1,p2,...))
+On obtient une p-value = pval. Au risque alpha = 0,05, on [peut/ ne peut pas] rejeter l'hypothèse H0, et on conclut donc que la répartition de v1 [correspond/ ne correspond pas] à la répartiti
