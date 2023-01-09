@@ -142,4 +142,26 @@ On obtient une p-value = pval. Au risque alpha = 0,05, on [peut/ ne peut pas] re
 
 Situation
 - différentes mesures qualitatives chez les mêmes individus
-=> deux critèr
+=> deux critères qualitatifs sont-ils indépendant ? 
+
+		Ex: le moyen de transport pour se rendre à l'université est-il lié au port de lunettes?
+
+[ insérer photo diapo cours]
+
+H0 ? "les critères qualitatifs considérés sont indépendants"
+
+[photo diapo cours]
+
+On calcule : 
+	- les effectifs marginaux : Oi = OiL + Oim Oj = Oxj + Oyj
+	- l'effectif total : N = OxL + Oxm + OyL + Oym
+	- les effectifs théoriques:
+
+$$E_{ij=N.}\frac{O_i}{N}.\frac{O_j}{N} $$
+
+[insérer photo diapo]
+
+#### Test du chi² sur R
+
+1. Création d'une table de contingence (à deux entrées)
+	- tab
