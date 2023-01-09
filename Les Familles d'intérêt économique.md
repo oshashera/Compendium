@@ -1,3 +1,5 @@
+[[Champ de patate]]
+
 
 Agriculture 
 * alimentation humaine
@@ -145,7 +147,7 @@ Tourteaux de soja et d'arachides
 
 autre caractère biologique d'intérêt agronomique:
 
-Symbiose avec bactéries fixatrices d'azote (Rhizobium)
+Symbiose avec bactéries [[Associations fixatrices d'azote | fixatrices d'azote]] (Rhizobium)
 Nodules racinaires (cas général) ou caulinaires (Sesbania)
 N2-> NH4+ (azote organique)
 Valeurs nutritive > graminées
