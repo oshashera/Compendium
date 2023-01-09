@@ -61,4 +61,36 @@ R calculera automatiquement cette *p-value*, il ne restera plus qu'à conclure s
 * 5) réponse à la question biologique
 
 
+## 2. Données utilisées
 
+### Tableaux de données
+
+Données biologiques observées chez de nombreux individus
+
+Un tableau de données a en général la structure suivante (data.frame dans R):
+- *i* observations sur les lignes
+- *j* variables sur les colonnes
+
+### Types de variables
+
+**Deux grandes catégories**
+- Variables *quantitatives* 
+
+		ex: taille, poids
+- Variables *qualitatives* avec un nombre fini de catégories (les modalités) qui peuvent être ordonnées ou non
+
+		ex: couleur des yeux, saison...
+
+**Attention** : les variables quantitatives discrètes sont parfois utilisées comme des variables qualitatives
+
+## Test du chi²
+
+#### Données
+Une ou plusieurs variables **qualitatives** mesurées chez les mêmes individus
+On s'intéresse à la répartition des observations entre les différentes modalités qualitatives pour 1 ou plusieurs variables
+
+Deux (principaux) test du chi²
+- Test du chi² d'adéquation (1 variable)
+- Test du chi² d'homogénéité (2 variables)
+
+ V1
