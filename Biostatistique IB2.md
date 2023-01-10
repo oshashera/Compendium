@@ -146,11 +146,11 @@ Situation
 
 		Ex: le moyen de transport pour se rendre à l'université est-il lié au port de lunettes?
 
-[ insérer photo diapo cours]
+==[ insérer photo diapo cours]==
 
 H0 ? "les critères qualitatifs considérés sont indépendants"
 
-[photo diapo cours]
+==[photo diapo cours]==
 
 On calcule : 
 	- les effectifs marginaux : Oi = OiL + Oim Oj = Oxj + Oyj
@@ -159,9 +159,21 @@ On calcule :
 
 $$E_{ij=N.}\frac{O_i}{N}.\frac{O_j}{N} $$
 
-[insérer photo diapo]
+==[insérer photo diapo]==
 
 #### Test du chi² sur R
 
 1. Création d'une table de contingence (à deux entrées)
-	- tab
+	- tab=table(sample1, sample2)
+2. Réalisation du test du chi²
+
+==récup diapo==
+
+#### Test exact de Fisher
+
+Sur table de contingence 2x2 (en général)
+Alternative au test du chi² : contrairement au test du chi², est valide même si certains effectifs sont faibles.
+Contrairement au test du chi², on peut calculer la p-value directement "à la main"
+
+Démarche:
+==récup diapo==
