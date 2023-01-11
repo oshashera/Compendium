@@ -120,6 +120,27 @@ cpDNA ressemble à celui des procaryotes:
 
 Mais on constate également des endosymbioses secondaires
 [photo]
+[autre photo plus loin dans la gallerie -> texte bleu diapo]
 
-Endosymbioses secondaires**
+**Endosymbioses secondaires**
+- Une cellule eucaryote photosynthétique a fagocité une cellule hôte eucaryote hétérotrpohe (chloroplasme à 3-4 mb)
+[photo]
+
+[photo schéma récapitulatives des endosymbioses primaires et secondaires]
+
+[photo diapo chrolobiotes (0,5-1 MA)]
+
+**Qu'est ce qu'un végétal ?**
+
+* Définition selon une classification fonctionnelle: physiologique et écologique
+[photo qu'est ce qu'un végétal]
+
+* Conception fonctionnelle et cellulaire
+"La" cellule végétale *eucaryote* **photosynthétique** avec plastes et paroi
+->2 pb combinés: *structure cellulaire* et **type de métabolisme** (mais pas phylogénétique)
+élimine cyanobactéries
+
+- Les végétaux au sens phylogénétique
+En phylogénie , les végétaux (*au sens fonctionnel* )
+[récup diapo qu'elle a skip]
 
