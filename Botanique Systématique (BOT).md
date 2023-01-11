@@ -84,6 +84,7 @@ Démarche plus récente et la plus largement utilisée
 
 Plante = végétal?
 -> Les végétaux comprennent d'autres espèces que les plantes (par exemple les algues rouges, ou brunes)
+Plantes = embryophytes
 
 Origine de la vie (~3,8 Ga années) -> pas d'O2 libre
 O2 est produit par les **cyanobactéries** (~3,5 MA).
@@ -97,4 +98,28 @@ Origine de la mitochondrie
 - **Evenement fondateur de la lignée des Eucaryotes**
 
 Arbre de la vie - 3 grands domaines du vivant (pas encore bien définis)
-Pour l'instant on considère
+Pour l'instant on considère : bactérie, archébactéries, et Eucaryotes
+
+Arbre phylogénétique des Eucaryotes
+[photo]
+Archaeplastida = lignée verte -> ce qui nous intéresse
+[arbre de L1 OVIV Eucaryotes]
+
+Origine des lignées végétales -> Endosymbiose primaire du chloroplaste (estimé à il y a 1,8 Ga années)
+[photo]
+
+**Endosymbiose primaire** : une cyanobactérie phagocytée par une cellule eucaryote hétérotrophe
+[photo]
+-> Transfert de gène entre la cyanobactérie qui a évolué en chloroplaste et le génome de la cellule.
+
+Preuves de l'origine endosymbiotique:
+cpDNA ressemble à celui des procaryotes:
+- Molécules circulaires d'ADN ne formant pas de complexe avec des protéines : **pas d'histones**
+- Structure des ribosomes
+- Machinerie de protéines photosynthétiques
+
+Mais on constate également des endosymbioses secondaires
+[photo]
+
+Endosymbioses secondaires**
+
