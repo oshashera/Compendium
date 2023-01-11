@@ -55,5 +55,31 @@ Les ressemblances et différences entre les organismes sont la conséquence de l
 
 Emergence au 19ème s. de nouvelles disciplines dans les Sciences de la Biodiversité : **Systématique** et **Phylogénie**
 
+**Haeckel** (1866, allemand)
+- Inventeur du terme "phylogénie", et de nombreux termes et concepts (phylum, ontogenèse, phylogenèse, clade et **écologie**)
+- Première phylogénie du monde vivant 
+[photo diapo arbre]
 
-## 2 - Qu'est-ce qu'un végétal
+### Les objectifs de la systématique
+
+- Identifier décrire et nommer les organismes
+ET
+- Les classer en groupes ou taxons dans un système cohérent et hiérarchisé (taxonomie), *qui reflètent les liens de parenté entre les organismes (basés sur la **phylogénie, relations de parenté*** selon le principe énoncé par Darwin de "Descendance avec modification")
+
+[photo "les organismes sont comparés et classés...."]
+
+La "*systématique phylogénétique*" ne prendra en compte que les groupes **monophylétiques** (un seul ancêtre commun) ou **groupes naturels**.
+
+La *systématique* : une discipline intégrative [récup diapo elle a skip le diapo]
+
+1. Conception traditionnel, phénétique (démarche ancienne)
+*Groupe non naturel, défini par des caractères communs mais ayant évolués de façon indépendante*
+2. Conception évolutive, critère de parenté (d'hérédité)
+Démarche plus récente et la plus largement utilisée
+*Groupes naturels, définis par un ancêtre commun.
+- *-> la délimitation de groupes reflètent la parenté et l'histoire évolutive*
+<br>
+
+## 2 - Qu'est-ce qu'un végétal, un plante ?
+
+
