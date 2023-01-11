@@ -4,5 +4,10 @@
 
 Classification phylogénétique de la diversité des plantes/végétaux
 
-## Introduction générale
+# Introduction générale
 
+## 1 - Systématique phylogénétique (rappels)
+
+
+
+## 2 - Qu'est-ce qu'un végétal
