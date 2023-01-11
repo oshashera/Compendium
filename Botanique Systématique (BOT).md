@@ -82,4 +82,19 @@ Démarche plus récente et la plus largement utilisée
 
 ## 2 - Qu'est-ce qu'un végétal, un plante ?
 
+Plante = végétal?
+-> Les végétaux comprennent d'autres espèces que les plantes (par exemple les algues rouges, ou brunes)
 
+Origine de la vie (~3,8 Ga années) -> pas d'O2 libre
+O2 est produit par les **cyanobactéries** (~3,5 MA).
+OR
+O2 est **toxique** pour les organismes
+
+Origine de la mitochondrie
+-Endosymbiose d'une bactérie (cl. alpha-protéobactéries) dans une cellule eucaryote primitive **précurseur des eucaryotes** (Hypo de Lynne Margulis 1966).
+[insérer photo diapo formation d'une cellule eucaryote hétérotrophe]
+- Les bactéries absorbées deviennent des **mitochondries** et permettent la **respiration**
+- **Evenement fondateur de la lignée des Eucaryotes**
+
+Arbre de la vie - 3 grands domaines du vivant (pas encore bien définis)
+Pour l'instant on considère
