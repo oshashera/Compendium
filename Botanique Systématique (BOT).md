@@ -36,7 +36,7 @@ La fin de cette période va être dominée par les travaux de:
 Va définir la *taxinomie* ou *taxonomie* (Taxon = ordre, arrangement) comme la science des loies de la classification des êtres vivants, avec des règles basées sur les conceptions linnéennes (1735).
 
 Classe -> Ordre -> Famille -> Genre -> espèce
-[insérer photo diapo taxinomie]
+![[Pasted image 20230111185311.png]]
 Exemple de même genre différentes espèces
 * Quercus robur / Quercus petraea (chênes => genre) 
 * Fagus sylvatica (hêtre) 
@@ -58,7 +58,7 @@ Emergence au 19ème s. de nouvelles disciplines dans les Sciences de la Biodiver
 **Haeckel** (1866, allemand)
 - Inventeur du terme "phylogénie", et de nombreux termes et concepts (phylum, ontogenèse, phylogenèse, clade et **écologie**)
 - Première phylogénie du monde vivant 
-[photo diapo arbre]
+![[Pasted image 20230111185451.png]]
 
 ### Les objectifs de la systématique
 
