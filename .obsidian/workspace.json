@@ -11,12 +11,8 @@
             "id": "d73cdc039b73cd5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botanique Systématique (BOT).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Botanique Systématique (BOT).md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,10 +153,10 @@
   },
   "active": "d73cdc039b73cd5c",
   "lastOpenFiles": [
+    "Botanique Systématique (BOT).md",
     "Associations et rotations culturales.md",
     "Effet de bordure.md",
     "Biostatistique IB2.md",
-    "Botanique Systématique (BOT).md",
     "Les Familles d'intérêt économique.md",
     "Champ de patate.md",
     "Untitled 1.md",

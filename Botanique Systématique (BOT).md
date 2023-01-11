@@ -70,7 +70,7 @@ ET
 La "*systématique phylogénétique*" ne prendra en compte que les groupes **monophylétiques** (un seul ancêtre commun) ou **groupes naturels**.
 
 La *systématique* : une discipline intégrative 
-[récup diapo elle a skip le diapo]
+==[récup diapo elle a skip le diapo]==
 <br>
 1. Conception traditionnel, phénétique (démarche ancienne)
 *Groupe non naturel, défini par des caractères communs mais ayant évolués de façon indépendante*
@@ -103,7 +103,7 @@ Pour l'instant on considère : bactérie, archébactéries, et Eucaryotes
 Arbre phylogénétique des Eucaryotes
 ![[Pasted image 20230111190350.png]]
 Archaeplastida = lignée verte -> ce qui nous intéresse
-[arbre de L1 OVIV Eucaryotes]
+==[arbre de L1 OVIV Eucaryotes]==
 
 Origine des lignées végétales -> Endosymbiose primaire du chloroplaste (estimé à il y a 1,8 Ga années)
 ![[Pasted image 20230111190456.png]]
@@ -126,14 +126,15 @@ Mais on constate également des endosymbioses secondaires
 - Une cellule eucaryote photosynthétique a fagocité une cellule hôte eucaryote hétérotrpohe (chloroplasme à 3-4 mb)
 ![[Pasted image 20230111190743.png]]
 
-[photo schéma récapitulatives des endosymbioses primaires et secondaires]
+![[Pasted image 20230111190854.png]]
+<br>
 
-[photo diapo chrolobiotes (0,5-1 MA)]
+![[Pasted image 20230111190920.png]]
 
 #### Qu'est ce qu'un végétal ?
 
 * Définition selon une classification fonctionnelle: physiologique et écologique
-[photo qu'est ce qu'un végétal]
+![[Pasted image 20230111191028.png]]
 
 * Conception fonctionnelle et cellulaire
 "La" cellule végétale *eucaryote* **photosynthétique** avec plastes et paroi
@@ -142,10 +143,10 @@ Mais on constate également des endosymbioses secondaires
 
 - Les végétaux au sens phylogénétique
 En phylogénie , les végétaux (*au sens fonctionnel* )
-[récup diapo qu'elle a skip]
+==[récup diapo qu'elle a skip]==
 
 Bilan sur la pluralité du concept de végétal
-[Diapo bilan pluralité du concept de végétal]
+![[Pasted image 20230111191100.png]]
 -> quand on parle de végétal on doit dire quelle définition on utilise;
 
 #### Qu'est-ce qu'une algue ?
@@ -157,7 +158,7 @@ Tout organisme effectuant la photosynthèse oxygénique (chlorophylle a) qui n'e
 - [ ] Algues brunes unicellulaires (diatomées) et pluricellulaires (*Fucus*)
 **GROUPE POLYPHYLETIQUE**
 
-[photo classification des algues selon l'ultrastructure des plastes]
+![[Pasted image 20230111191121.png]]
 *phycobilisomes (glaucophytes)
 -> pigments surnuméraires
 - *= phycocyanines*
