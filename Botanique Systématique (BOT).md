@@ -51,7 +51,7 @@ Fondée sur les concepts de base de la **théorie de l'évolution** énoncée pa
 
 Les ressemblances et différences entre les organismes sont la conséquence de leur histoire évolutive
 **-> principe de "descendance avec modifications"**
-[insérer shéma espèce ancestrale (1)]
+![[Pasted image 20230111190151.png]]
 
 Emergence au 19ème s. de nouvelles disciplines dans les Sciences de la Biodiversité : **Systématique** et **Phylogénie**
 
@@ -66,12 +66,12 @@ Emergence au 19ème s. de nouvelles disciplines dans les Sciences de la Biodiver
 ET
 - Les classer en groupes ou taxons dans un système cohérent et hiérarchisé (taxonomie), *qui reflètent les liens de parenté entre les organismes (basés sur la **phylogénie, relations de parenté*** selon le principe énoncé par Darwin de "Descendance avec modification")
 
-[photo "les organismes sont comparés et classés...."]
-
+![[Pasted image 20230111190213.png]]
 La "*systématique phylogénétique*" ne prendra en compte que les groupes **monophylétiques** (un seul ancêtre commun) ou **groupes naturels**.
 
-La *systématique* : une discipline intégrative [récup diapo elle a skip le diapo]
-
+La *systématique* : une discipline intégrative 
+[récup diapo elle a skip le diapo]
+<br>
 1. Conception traditionnel, phénétique (démarche ancienne)
 *Groupe non naturel, défini par des caractères communs mais ayant évolués de façon indépendante*
 2. Conception évolutive, critère de parenté (d'hérédité)
@@ -93,7 +93,7 @@ O2 est **toxique** pour les organismes
 
 Origine de la mitochondrie
 -Endosymbiose d'une bactérie (cl. alpha-protéobactéries) dans une cellule eucaryote primitive **précurseur des eucaryotes** (Hypo de Lynne Margulis 1966).
-[insérer photo diapo formation d'une cellule eucaryote hétérotrophe]
+![[Pasted image 20230111190320.png]]
 - Les bactéries absorbées deviennent des **mitochondries** et permettent la **respiration**
 - **Evenement fondateur de la lignée des Eucaryotes**
 
@@ -101,15 +101,15 @@ Arbre de la vie - 3 grands domaines du vivant (pas encore bien définis)
 Pour l'instant on considère : bactérie, archébactéries, et Eucaryotes
 
 Arbre phylogénétique des Eucaryotes
-[photo]
+![[Pasted image 20230111190350.png]]
 Archaeplastida = lignée verte -> ce qui nous intéresse
 [arbre de L1 OVIV Eucaryotes]
 
 Origine des lignées végétales -> Endosymbiose primaire du chloroplaste (estimé à il y a 1,8 Ga années)
-[photo]
+![[Pasted image 20230111190456.png]]
 
 **Endosymbiose primaire** : une cyanobactérie phagocytée par une cellule eucaryote hétérotrophe
-[photo]
+![[Pasted image 20230111190534.png]]
 -> Transfert de gène entre la cyanobactérie qui a évolué en chloroplaste et le génome de la cellule.
 
 Preuves de l'origine endosymbiotique:
@@ -119,12 +119,12 @@ cpDNA ressemble à celui des procaryotes:
 - Machinerie de protéines photosynthétiques
 
 Mais on constate également des endosymbioses secondaires
-[photo]
-[autre photo plus loin dans la gallerie -> texte bleu diapo]
+![[Pasted image 20230111190624.png]]
+![[Pasted image 20230111190653.png]]
 
 **Endosymbioses secondaires**
 - Une cellule eucaryote photosynthétique a fagocité une cellule hôte eucaryote hétérotrpohe (chloroplasme à 3-4 mb)
-[photo]
+![[Pasted image 20230111190743.png]]
 
 [photo schéma récapitulatives des endosymbioses primaires et secondaires]
 
