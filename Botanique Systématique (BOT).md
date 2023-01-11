@@ -130,7 +130,7 @@ Mais on constate également des endosymbioses secondaires
 
 [photo diapo chrolobiotes (0,5-1 MA)]
 
-**Qu'est ce qu'un végétal ?**
+#### Qu'est ce qu'un végétal ?
 
 * Définition selon une classification fonctionnelle: physiologique et écologique
 [photo qu'est ce qu'un végétal]
@@ -143,4 +143,36 @@ Mais on constate également des endosymbioses secondaires
 - Les végétaux au sens phylogénétique
 En phylogénie , les végétaux (*au sens fonctionnel* )
 [récup diapo qu'elle a skip]
+
+Bilan sur la pluralité du concept de végétal
+[Diapo bilan pluralité du concept de végétal]
+-> quand on parle de végétal on doit dire quelle définition on utilise;
+
+#### Qu'est-ce qu'une algue ?
+
+Tout organisme effectuant la photosynthèse oxygénique (chlorophylle a) qui n'est pas une plante:
+- [ ] Cyanobactéries
+- [ ] Algues vertes eucaryotes unicellulaires (*Chlamydomonas*) et pluricellulaires (*Ulva*)
+- [ ] Algues rouges pluricellulaires
+- [ ] Algues brunes unicellulaires (diatomées) et pluricellulaires (*Fucus*)
+**GROUPE POLYPHYLETIQUE**
+
+[photo classification des algues selon l'ultrastructure des plastes]
+*phycobilisomes (glaucophytes)
+-> pigments surnuméraires
+- *= phycocyanines*
+- *= allophycocyanines*
+phycoérythrines (rhodophytes)
+
+#### Qu'est ce qu'une plante ou embryophyte ? 
+
+##### Conception évolutive
+
+Les "plantes" sont définies comme des groupes naturels d'organismes descendant d'un ancêtre commun à partir de l'évaluation de l'histoire et des relations des organismes vivants.
+
+>Des ressemblances peuvent être trompeuses
+ -> création de groupes artificiels / paraphylétiques
+> 
+> Certains organismes photosynthétiques se sont formés et on évolué indépendamment les un des autres.
+
 
