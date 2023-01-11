@@ -51,8 +51,3 @@ Limitation des bioagresseurs:
 
 	ex phacélie (augmentation pollinisateur, + couvert dense)
 
-
-
-
-
-#habitats 

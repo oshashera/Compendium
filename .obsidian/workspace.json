@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biostatistique IB2.md",
+                "file": "Botanique Systématique (BOT).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biostatistique IB2.md",
+                "file": "Botanique Systématique (BOT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biostatistique IB2.md",
+                "file": "Botanique Systématique (BOT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biostatistique IB2.md"
+                "file": "Botanique Systématique (BOT).md"
               }
             }
           },
@@ -160,15 +161,15 @@
   },
   "active": "d73cdc039b73cd5c",
   "lastOpenFiles": [
+    "Associations et rotations culturales.md",
+    "Effet de bordure.md",
+    "Biostatistique IB2.md",
+    "Botanique Systématique (BOT).md",
     "Les Familles d'intérêt économique.md",
     "Champ de patate.md",
     "Untitled 1.md",
     "Agroécologie.md",
     "Ravageurs.md",
-    "Lutte biologique.md",
-    "TP Pucerons - bandes fleuries.md",
-    "Associations fixatrices d'azote.md",
-    "Interactions interspécifiques, notion de méta-communauté.md",
-    "Contrôles top-down et bottom-up de la production végétale.md"
+    "Lutte biologique.md"
   ]
 }
