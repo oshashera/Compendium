@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9f059f2a6b2ed002",
+        "id": "b32be448f6a3f4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "d73cdc039b73cd5c",
+            "id": "ff9fb5b6f000978c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Botanique Systématique (BOT).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#s6",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Botanique Systématique (BOT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Botanique Systématique (BOT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Botanique Systématique (BOT).md"
+              }
             }
           },
           {
@@ -151,7 +159,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "d73cdc039b73cd5c",
+  "active": "ff9fb5b6f000978c",
   "lastOpenFiles": [
     "Botanique Systématique (BOT).md",
     "Associations et rotations culturales.md",
