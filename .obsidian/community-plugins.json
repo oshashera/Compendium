@@ -14,5 +14,9 @@
   "obsidian-plugin-toc",
   "tag-wrangler",
   "obsidian-git",
-  "better-pdf-plugin"
+  "better-pdf-plugin",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "obsidian-excel-to-markdown-table"
 ]

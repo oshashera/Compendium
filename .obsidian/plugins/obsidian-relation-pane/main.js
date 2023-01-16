@@ -27,7 +27,7 @@ __export(main_exports, {
   default: () => RelationPanePlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian2 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 
 // src/view.tsx
 var import_obsidian = require("obsidian");
@@ -517,35 +517,29 @@ function add_css(target) {
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[7] = list[i];
+  child_ctx[10] = list[i];
   return child_ctx;
 }
 function get_each_context_1(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[10] = list[i];
-  const constants_0 = child_ctx[1].twoHopLinks[child_ctx[10]];
-  child_ctx[11] = constants_0;
+  child_ctx[13] = list[i];
+  const constants_0 = child_ctx[1].twoHopLinks[child_ctx[13]];
+  child_ctx[14] = constants_0;
   return child_ctx;
 }
 function get_each_context_2(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[7] = list[i];
-  return child_ctx;
-}
-function get_if_ctx(ctx) {
-  const child_ctx = ctx.slice();
-  const constants_0 = child_ctx[10].replace(/.md$/, "") || "";
-  child_ctx[14] = constants_0;
+  child_ctx[10] = list[i];
   return child_ctx;
 }
 function get_each_context_3(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[7] = list[i];
+  child_ctx[10] = list[i];
   return child_ctx;
 }
 function get_each_context_4(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[7] = list[i];
+  child_ctx[10] = list[i];
   return child_ctx;
 }
 function create_else_block(ctx) {
@@ -830,7 +824,7 @@ function create_else_block(ctx) {
       }
       if ((!current || dirty & 2) && t15_value !== (t15_value = ctx2[1].newLinks.length + ""))
         set_data(t15, t15_value);
-      if (dirty & 3) {
+      if (dirty & 7) {
         each_value = ctx2[1].newLinks;
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -961,14 +955,14 @@ function create_each_block_4(ctx) {
   let div;
   let linkicon;
   let t0;
-  let t1_value = ctx[2](ctx[7]) + "";
+  let t1_value = ctx[2](ctx[10]) + "";
   let t1;
   let current;
   let mounted;
   let dispose;
   linkicon = new LinkIcon_default({});
   function click_handler(...args) {
-    return ctx[3](ctx[7], ...args);
+    return ctx[4](ctx[10], ...args);
   }
   return {
     c() {
@@ -991,7 +985,7 @@ function create_each_block_4(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[2](ctx[7]) + ""))
+      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[2](ctx[10]) + ""))
         set_data(t1, t1_value);
     },
     i(local) {
@@ -1034,14 +1028,14 @@ function create_each_block_3(ctx) {
   let div;
   let linkicon;
   let t0;
-  let t1_value = ctx[2](ctx[7]) + "";
+  let t1_value = ctx[2](ctx[10]) + "";
   let t1;
   let current;
   let mounted;
   let dispose;
   linkicon = new LinkIcon_default({});
   function click_handler_1(...args) {
-    return ctx[4](ctx[7], ...args);
+    return ctx[5](ctx[10], ...args);
   }
   return {
     c() {
@@ -1064,7 +1058,7 @@ function create_each_block_3(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[2](ctx[7]) + ""))
+      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[2](ctx[10]) + ""))
         set_data(t1, t1_value);
     },
     i(local) {
@@ -1106,17 +1100,17 @@ function create_if_block_3(ctx) {
 function create_if_block_2(ctx) {
   let div3;
   let div0;
-  let t0_value = ctx[14] + "";
+  let t0_value = ctx[2](ctx[13]) + "";
   let t0;
   let t1;
   let div2;
   let div1;
-  let t2_value = ctx[11].length + "";
+  let t2_value = ctx[14].length + "";
   let t2;
   let t3;
   let div4;
   let current;
-  let each_value_2 = ctx[11];
+  let each_value_2 = ctx[14];
   let each_blocks = [];
   for (let i = 0; i < each_value_2.length; i += 1) {
     each_blocks[i] = create_each_block_2(get_each_context_2(ctx, each_value_2, i));
@@ -1160,12 +1154,12 @@ function create_if_block_2(ctx) {
       current = true;
     },
     p(ctx2, dirty) {
-      if ((!current || dirty & 2) && t0_value !== (t0_value = ctx2[14] + ""))
+      if ((!current || dirty & 2) && t0_value !== (t0_value = ctx2[2](ctx2[13]) + ""))
         set_data(t0, t0_value);
-      if ((!current || dirty & 2) && t2_value !== (t2_value = ctx2[11].length + ""))
+      if ((!current || dirty & 2) && t2_value !== (t2_value = ctx2[14].length + ""))
         set_data(t2, t2_value);
       if (dirty & 7) {
-        each_value_2 = ctx2[11];
+        each_value_2 = ctx2[14];
         let i;
         for (i = 0; i < each_value_2.length; i += 1) {
           const child_ctx = get_each_context_2(ctx2, each_value_2, i);
@@ -1216,14 +1210,14 @@ function create_each_block_2(ctx) {
   let div;
   let linkicon;
   let t0;
-  let t1_value = ctx[2](ctx[7]) + "";
+  let t1_value = ctx[2](ctx[10]) + "";
   let t1;
   let current;
   let mounted;
   let dispose;
   linkicon = new LinkIcon_default({});
   function click_handler_2(...args) {
-    return ctx[5](ctx[7], ...args);
+    return ctx[6](ctx[10], ...args);
   }
   return {
     c() {
@@ -1246,7 +1240,7 @@ function create_each_block_2(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[2](ctx[7]) + ""))
+      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[2](ctx[10]) + ""))
         set_data(t1, t1_value);
     },
     i(local) {
@@ -1271,7 +1265,7 @@ function create_each_block_2(ctx) {
 function create_each_block_1(ctx) {
   let if_block_anchor;
   let current;
-  let if_block = ctx[11].length > 0 && create_if_block_2(get_if_ctx(ctx));
+  let if_block = ctx[14].length > 0 && create_if_block_2(ctx);
   return {
     c() {
       if (if_block)
@@ -1285,14 +1279,14 @@ function create_each_block_1(ctx) {
       current = true;
     },
     p(ctx2, dirty) {
-      if (ctx2[11].length > 0) {
+      if (ctx2[14].length > 0) {
         if (if_block) {
-          if_block.p(get_if_ctx(ctx2), dirty);
+          if_block.p(ctx2, dirty);
           if (dirty & 2) {
             transition_in(if_block, 1);
           }
         } else {
-          if_block = create_if_block_2(get_if_ctx(ctx2));
+          if_block = create_if_block_2(ctx2);
           if_block.c();
           transition_in(if_block, 1);
           if_block.m(if_block_anchor.parentNode, if_block_anchor);
@@ -1327,14 +1321,14 @@ function create_each_block(ctx) {
   let div;
   let newlinkicon;
   let t0;
-  let t1_value = ctx[7] + "";
+  let t1_value = ctx[2](ctx[10]) + "";
   let t1;
   let current;
   let mounted;
   let dispose;
   newlinkicon = new NewLinkIcon_default({});
   function click_handler_3(...args) {
-    return ctx[6](ctx[7], ...args);
+    return ctx[7](ctx[10], ...args);
   }
   return {
     c() {
@@ -1357,7 +1351,7 @@ function create_each_block(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[7] + ""))
+      if ((!current || dirty & 2) && t1_value !== (t1_value = ctx[2](ctx[10]) + ""))
         set_data(t1, t1_value);
     },
     i(local) {
@@ -1464,7 +1458,18 @@ function instance($$self, $$props, $$invalidate) {
   let $store;
   component_subscribe($$self, store_default, ($$value) => $$invalidate(1, $store = $$value));
   let { openLink } = $$props;
-  const extractExt = (name) => name.replace(/.md$/, "");
+  let { settings } = $$props;
+  const { experimentalHideFolderPath } = settings;
+  const extractFolderName = (path) => {
+    if (!experimentalHideFolderPath)
+      return path;
+    const parts = path.split("/");
+    return parts[parts.length - 1];
+  };
+  const fileName = (path) => {
+    const name = path.replace(/.md$/, "");
+    return extractFolderName(name);
+  };
   const click_handler = (link, e) => openLink(e, link);
   const click_handler_1 = (link, e) => openLink(e, link);
   const click_handler_2 = (link, e) => openLink(e, link);
@@ -1472,11 +1477,14 @@ function instance($$self, $$props, $$invalidate) {
   $$self.$$set = ($$props2) => {
     if ("openLink" in $$props2)
       $$invalidate(0, openLink = $$props2.openLink);
+    if ("settings" in $$props2)
+      $$invalidate(3, settings = $$props2.settings);
   };
   return [
     openLink,
     $store,
-    extractExt,
+    fileName,
+    settings,
     click_handler,
     click_handler_1,
     click_handler_2,
@@ -1486,7 +1494,7 @@ function instance($$self, $$props, $$invalidate) {
 var Pane = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance, create_fragment3, safe_not_equal, { openLink: 0 }, add_css);
+    init(this, options, instance, create_fragment3, safe_not_equal, { openLink: 0, settings: 3 }, add_css);
   }
 };
 var Pane_default = Pane;
@@ -1506,8 +1514,9 @@ var getBackLinks = (resolvedLinks, filePath, ignorePath) => {
   return backLinks;
 };
 var RelationView = class extends import_obsidian.ItemView {
-  constructor(leaf) {
+  constructor(leaf, getSettings) {
     super(leaf);
+    this.getSettings = getSettings;
     this.collect = this.collect.bind(this);
   }
   getViewType() {
@@ -1519,7 +1528,21 @@ var RelationView = class extends import_obsidian.ItemView {
   getIcon() {
     return "link";
   }
+  refresh() {
+    this.component.$destroy();
+    this.render();
+  }
   async onOpen() {
+    this.render();
+    this.app.workspace.on("file-open", this.collect);
+    this.app.metadataCache.on("resolved", this.collect);
+  }
+  async onClose() {
+    this.component.$destroy();
+    this.app.workspace.off("file-open", this.collect);
+    this.app.metadataCache.off("resolved", this.collect);
+  }
+  render() {
     this.component = new Pane_default({
       target: this.contentEl,
       props: {
@@ -1528,17 +1551,11 @@ var RelationView = class extends import_obsidian.ItemView {
           if (!file)
             return;
           this.app.workspace.openLinkText(link, file.path, import_obsidian.Keymap.isModEvent(e));
-        }
+        },
+        settings: this.getSettings()
       }
     });
     this.collect();
-    this.app.workspace.on("file-open", this.collect);
-    this.app.metadataCache.on("resolved", this.collect);
-  }
-  async onClose() {
-    this.component.$destroy();
-    this.app.workspace.off("file-open", this.collect);
-    this.app.metadataCache.off("resolved", this.collect);
   }
   collect() {
     const file = this.app.workspace.getActiveFile();
@@ -1576,8 +1593,39 @@ var RelationView = class extends import_obsidian.ItemView {
   }
 };
 
+// src/settings.ts
+var import_obsidian2 = require("obsidian");
+var DEFAULT_SETTINGS = {
+  experimentalHideFolderPath: false
+};
+var SettingTab = class extends import_obsidian2.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    let { containerEl } = this;
+    containerEl.empty();
+    containerEl.createEl("h3", { text: "Advanced" });
+    new import_obsidian2.Setting(containerEl).setName("Hide folder name").setDesc("it shows file name only instead of full path.").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.experimentalHideFolderPath).onChange(async (value) => {
+        await this.plugin.updateSettings({
+          experimentalHideFolderPath: value
+        });
+      });
+    });
+  }
+};
+
 // src/main.ts
-var RelationPanePlugin = class extends import_obsidian2.Plugin {
+var RelationPanePlugin = class extends import_obsidian3.Plugin {
+  get settings() {
+    return this._settings;
+  }
+  get activeView() {
+    var _a;
+    return (_a = this.app.workspace.getLeavesOfType(VIEW_TYPE)[0]) == null ? void 0 : _a.view;
+  }
   async onload() {
     this.addCommand({
       id: "open-relation-panel",
@@ -1590,14 +1638,25 @@ var RelationPanePlugin = class extends import_obsidian2.Plugin {
       }
     });
     this.registerView(VIEW_TYPE, (leaf) => {
-      return new RelationView(leaf);
+      return new RelationView(leaf, () => this.settings);
     });
+    await this.loadSettings();
+    this.addSettingTab(new SettingTab(this.app, this));
     if (this.app.workspace.layoutReady) {
       this.activateView();
     }
   }
   onunload() {
     this.app.workspace.detachLeavesOfType(VIEW_TYPE);
+  }
+  async loadSettings() {
+    this._settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+  }
+  async updateSettings(newSettings) {
+    var _a;
+    this._settings = Object.assign({}, this._settings, newSettings);
+    await this.saveData(this._settings);
+    (_a = this.activeView) == null ? void 0 : _a.refresh();
   }
   async activateView() {
     this.app.workspace.detachLeavesOfType(VIEW_TYPE);
