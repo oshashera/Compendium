@@ -11,9 +11,11 @@
             "id": "ff9fb5b6f000978c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md"
+                "file": "17-01-2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#s6",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md",
+                "file": "17-01-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md",
+                "file": "17-01-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md"
+                "file": "17-01-2023.md"
               }
             }
           },
@@ -150,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +167,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb02f181be9c9088",
+  "active": "ff9fb5b6f000978c",
   "lastOpenFiles": [
+    "17-01-2023.md",
+    "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md",
     "Botanique Systématique (BOT).md",
     "Associations et rotations culturales.md",
     "Effet de bordure.md",
@@ -176,8 +178,6 @@
     "Les Familles d'intérêt économique.md",
     "Champ de patate.md",
     "Untitled 1.md",
-    "Agroécologie.md",
-    "Ravageurs.md",
-    "Lutte biologique.md"
+    "Agroécologie.md"
   ]
 }
