@@ -9,111 +9,107 @@ Le sol, comme l’eau, la biodiversité, est une ressource naturelle. Est-elle r
 Les sols se reconstituent au rythme de 1 à quelques cm par siècle.  
 On prendra comme postulat que le sol est une ressource non renouvelable à l’échelle des générations humaines.
 
-1) Définitions
+1) **Définitions**
 
 - Le sol est une formation meuble de surface (formation superficielle) entre le substrat rocheux et la couverture végétale ;  
 En général il est constitué de plusieurs horizons (strates superposées).
 
--Le sol est le produit de l’altération de la roche-mère : « l’altération, du remaniement et de l’organisation des couches supérieures de l’écorce terrestre sous l’action de la vie, de l’atmosphère, et des échanges d’énergie qui s’y manifestent »
+- Le sol est le produit de l’altération de la roche-mère : « l’altération, du remaniement et de l’organisation des couches supérieures de l’écorce terrestre sous l’action de la vie, de l’atmosphère, et des échanges d’énergie qui s’y manifestent »
 
--La formation d’un sol s’appelle la pédogénèse
+- La formation d’un sol s’appelle la pédogénèse
 
--La science du sol est la pédologie
+- La science du sol est la pédologie
 
-2) Composition et propriétés d’un sol
+2) **Composition et propriétés d’un sol**
 
--Fraction minérale et matière organique (humus = débris végétaux +/- complètement transformés)  
--Texture et structure  
--Capacité de rétention en eau  
--Caractéristiques chimiques :
+- Fraction minérale et matière organique (humus = débris végétaux +/- complètement transformés)  
+- Texture et structure  
+- Capacité de rétention en eau  
+- Caractéristiques chimiques :
 
-*Acidité d’un sol (pH) : Acide< Neutre (7)< Basique ou alcalin
-
-Cette acidité dépend de l’acidité naturelle des roches, mais aussi des mouvements verticaux de l’eau dans le sol (lessivage) et de la nature de la couverture végétale.
-
-*Le complexe absorbant représente la capacité nutritive du sol pour les racines des végétaux.  
+Acidité d’un sol (pH) : Acide< Neutre (7)< Basique ou alcalin
+<ul>Cette acidité dépend de l’acidité naturelle des roches, mais aussi des mouvements verticaux de l’eau dans le sol (lessivage) et de la nature de la couverture végétale.</ul>
+Le *complexe absorbant* représente la capacité nutritive du sol pour les racines des végétaux.  
 Il est en fonction de la nature chimique de l’eau susceptible de circuler dans le sol (minéraux dissous présents sous la forme d’ions) et des échanges qui se produisent avec la matière minérale altérée (colloïdes).
 
-3) Les matières humiques d’un sol
+3) **Les matières humiques d’un sol**
 
 - Tourbe : Humus se formant en milieu constamment inondé, et de fait, peu oxygéné.
 
--Mor : humus brut lorsque la litière est acide et le climat froid. La transformation des M.O. est ainsi très ralentie (sous l’effet principal des champignons).
+- Mor : humus brut lorsque la litière est acide et le climat froid. La transformation des M.O. est ainsi très ralentie (sous l’effet principal des champignons).
 
--Mull : c’est « l’humus doux », parce qu’il est nettement moins acide que le précédent (pH 5-6).  
-La minéralisation de la M.O. est due surtout aux bactéries et est très poussée. On le trouve dans les forêts caducifoliées et zones tempérées. Il peut être « calcique » lorsque la roche mère est calcaire (pH 7-8).
+- Mull : c’est « l’humus doux », parce qu’il est nettement moins acide que le précédent (pH 5-6).  
+  La minéralisation de la M.O. est due surtout aux bactéries et est très poussée. On le trouve dans les forêts caducifoliées et zones tempérées. Il peut être « calcique » lorsque la roche mère est calcaire (pH 7-8).
 
--Anmoor : humus des sols temporairement inondés et où la nappe phréatique subit de fortes oscillations saisonnières (bonne minéralisation de la M.O.)
+- Anmoor : humus des sols temporairement inondés et où la nappe phréatique subit de fortes oscillations saisonnières (bonne minéralisation de la M.O.)
 
-4) La fraction minérale d’un sol
+4) **La fraction minérale d’un sol**
 
 La fraction minérale d’un sol provient :
 
--de la désagrégation de la roche mère par les mécanismes physico-chimiques d’altération
+- de la désagrégation de la roche mère par les mécanismes physico-chimiques d’altération
+- 
+- d’éventuels apports allochtones liées aux processus de migration et transports de matériaux sur le versant (fluage, glissement…)
 
--d’éventuels apports allochtones liées aux processus de migration et transports de matériaux sur le versant (fluage, glissement…)
-
-5) La structure d’un sol
+5) **La structure d’un sol**
 
 Les processus physiques, chimiques et biologiques se produisant dans le sol conduisant à la formation d’agrégats de particules que séparent les macropores (vides).  
 Production par l’appareil racinaires des végétaux et les animaux qui vivent dans le sol (vers, larves d’insectes, …).
 
-6) L’eau dans les sols
+6) **L’eau dans les sols**
 
 Le sol est composé de particules soldes minérales et organiques mais aussi de vides occupés par de l’air ou de l’eau (pores).  
 On appelle porosité (%) le volume occupé par les vides dans un volume fixé du sol.  
 L’eau du sol est présente sous différentes formes :
 
--Un film entourant chaque grain minéral par la force physique d’adsorption.  
--Un volume utile pour les plantes = eau susceptible d’être retenues dans les pores du sol et les forces de capillarité.  
-L’eau capillaire est susceptible de se déplacer de bas en haut dans le sol (remontées capillaires)  
--Un volume d’eau libre qui sera soumis à la force de gravité (écoulement gravitaire)
+- Un film entourant chaque grain minéral par la force physique d’adsorption.  
+- Un volume utile pour les plantes = eau susceptible d’être retenues dans les pores du sol et les forces de capillarité.  
+  L’eau capillaire est susceptible de se déplacer de bas en haut dans le sol (remontées capillaires)  
+- Un volume d’eau libre qui sera soumis à la force de gravité (écoulement gravitaire)
 
 La rapidité avec laquelle le volume d’eau libre s’évacuera par gravité dépend de la perméabilité du sol.  
 C’est une vitesse d’infiltration et s’exprime en m/jour ou mm/h.  
 La perméabilité dépend de la texture (taille des grains du sol).
 
-Perméabilité : sable > limon > argile  
+*Perméabilité : sable > limon > argile*  
   
 
-7) La réserve en eau des sols (réserve utile en eau du sol)
+7) **La réserve en eau des sols (réserve utile en eau du sol)**
 
 Un sol dont l’ensemble des pores est rempli d’eau est dit saturé.  
   
 
-8) Dynamique des sols :  
+8) **Dynamique des sols :**  
   
 La formation d’un sol résulte de l’action combinée sur la roche des agents atmosphériques (pluie, vent, soleil), de la couverture végétale et de l’action des êtres vivants (bactéries, champignons, lombrics, micro-mammifères, …)
-
-![Une image contenant texte, moniteur, ordinateur, écran
-Description générée automatiquement](https://lh4.googleusercontent.com/s-KUHT2Kc5w2VQL9YChf5dBieJlyxBZgbYOosSL7dVGfNel1xS34vl3a_m7R24vV_m4B0ocFxV8BDuwskW9-2RxxJme-07STf_qgy2iTMK_Kid6agZV_PU4f1Z48g60t9vtdGS0TUTcd9S64aUC3GajIIZo_ci_77GEdyPyJuihxU1eNAbgx8BBYAfKlS32qKy6QXVH4fQ)
-
+![[Pasted image 20230117185605.png]]
+![[Pasted image 20230117185618.png]]
   
 
-9) Facteurs de pédogénèse :
+9) **Facteurs de pédogénèse :**
 
--Altération physique et chimique de la roche mère (f(x) de la T° et de l’humidité)
+- Altération physique et chimique de la roche mère (f(x) de la T° et de l’humidité)
 
--Apport et la migration de substance (apports organiques de surface, migration par entraînements des éléments solubles, vers le bas (lessivage), vers le haut (lorsque l’eau s’évapore)
+- Apport et la migration de substance (apports organiques de surface, migration par entraînements des éléments solubles, vers le bas (lessivage), vers le haut (lorsque l’eau s’évapore)
 
--Activités biologiques (cycles biogéochimiques N, C, Mg, …, fixation dans le sol de l’azoté gazeux par les bactéries)
+- Activités biologiques (cycles biogéochimiques N, C, Mg, …, fixation dans le sol de l’azoté gazeux par les bactéries)
 
--Mécanisme d’entraînement des particules du sol (processus érosifs)
+- Mécanisme d’entraînement des particules du sol (processus érosifs)
 
-10) Principaux types de sols :
+10) **Principaux types de sols :**
 
 - Sols peu évolués : ex : Ranker  
--Sols évolués : ex : sols bruns forestiers +/- lessivés  
--Sols évolués : podzol (horizon d’accumulation sombre sous un horizon décoloré d’éluviation)  
+- Sols évolués : ex : sols bruns forestiers +/- lessivés  
+- Sols évolués : podzol (horizon d’accumulation sombre sous un horizon décoloré d’éluviation)  
   
 
-II] Les processus de dégradation des sols par les écoulements
+### II] Les processus de dégradation des sols par les écoulements
 
 -Erosion hydrique  
 -Erosion éolienne  
 -Salinisation  
   
-1) L’érosion hydrique  
+1) **L’érosion hydrique**  
   
 Cinq types majeurs d’érosion des sols par les écoulements  
 -splash des gouttes (energy = m x Vx V) (1 mm = 15 km/h ; 5mm = 32 km/h soit 500x pire)  
