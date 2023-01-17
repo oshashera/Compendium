@@ -1,9 +1,9 @@
 
-## Introduction à la connaissance des sols et à la gestion d’une ressource naturelle non renouvelable
+Introduction à la connaissance des sols et à la gestion d’une ressource naturelle non renouvelable
 
   
 
-### I] Notions de base sur les sols
+I] Notions de base sur les sols
 
 Le sol, comme l’eau, la biodiversité, est une ressource naturelle. Est-elle renouvelable ?  
 Les sols se reconstituent au rythme de 1 à quelques cm par siècle.  
@@ -237,5 +237,4 @@ d’éventuels sols nus.
 -Ingénierie biologique  
 -Protection contre l’érosion éolienne : barrière à vent en végétaux
 
-**___
-[[Pollution des sols]]
+**

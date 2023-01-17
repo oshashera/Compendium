@@ -11,8 +11,24 @@
             "id": "ff9fb5b6f000978c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c99d161ada1cbcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sol.md"
+              }
             }
           },
           {
@@ -163,6 +183,7 @@
   },
   "active": "ff9fb5b6f000978c",
   "lastOpenFiles": [
+    "Untitled.md",
     "Sol.md",
     "Pollution des sols.md",
     "Appareil végétatif et adaptations.md",
@@ -171,7 +192,6 @@
     "Partie III - L'épiderme.md",
     "Partie II - La feuille.md",
     "Partie I - La tige.md",
-    "18-01-2023.md",
-    "17-01-2023.md"
+    "18-01-2023.md"
   ]
 }
