@@ -1,19 +1,11 @@
 
-
 ![[Pasted image 20230117152420.png]]
 
-  
-
-I] Formation des sols
-
-  
+### I] Formation des sols
 
 Sol = interface entre atmosphère et lithosphère ?
-
-Interface importante car permet vie
-
+<ul>Interface importante car permet vie
 Matière première
-
 Rôle épurateur (êtres vivants et composants inorganiques)
 
   
@@ -462,9 +454,7 @@ Donc ce complexe absorbant est super important.
   
 
 7) Bilan
-
-![](https://lh4.googleusercontent.com/BiURo47bSlxrJdWPlLBprpk6g3vGi60nbLwIR1NyuJ5bl5w_wQD_4iC7ejdw2Oo-yMDMFP-z4CH7_IfMwYS6rkMxIuxrEX0oMNDdS78WHLhNWITnXBW5geKWinxtCmVcyXx_LfHroEYlQRkUg8jyEH0nqdD51DTpAsQgXsU2e4ghQa8_bNOzzu8-Xk7cZooAr6_44WVIfA)
-
+![[Pasted image 20230117153508.png]]
 Ça va se passer de la même manière pour les polluants que pour les "bons ions"
 
 Donc le sol a une bonne capacité de rétention des polluants: """"positif"""" car limite l'accès des polluants au réseau hydrographique.
@@ -472,9 +462,8 @@ Donc le sol a une bonne capacité de rétention des polluants: """"positif"""" c
   
 
 III] Principaux polluants des sols
-
-![](https://lh4.googleusercontent.com/RwvPbwvyDCew9iriUNmL3stOdAWLkEv0ey7YzgXIyAmqyt4nPwXNjXBS1aQtE8XWr9Trvj9FhoPAPQW4wLK3vpc3bPdxoGXnBW65Fv6NAEhmnr01YBrShGP3I6QwyJ6k-URZBqrwjeJKYQEoPngvk7ewhaVpmxPe0_HZGk9ZBJ9nEwt3bBXGaexmBBn2X1OUBgkjxmoUxA)
-
+![[Pasted image 20230117153531.png]]
+![[Pasted image 20230117153551.png]]
 Polluants: substance introduite par l'Homme dans l'environnement qui peut avoir un impact négatif sur la santé humaine, les êtres vivants, et les écosystèmes.
 
   
@@ -571,9 +560,7 @@ La plupart sont létaux à forte dose.
 Parmi ces métaux, le plomb, le cadmium, et l'antimoine Sb ne sont pas des oligoéléments (ne sont pas nécessaires à la vie, sont juste toxiques)
 
 Ces métaux lourds ont la capacité de s'accumuler dans le corps, difficilement éjectés, et ont donc des effets toxiques à plus ou moins long terme, sachant que nombre d'entre eux sont cancérigènes.
-
-![](https://lh5.googleusercontent.com/YmgcfDByhenrL6dbb0nBrMezNb4QC--in-bDOJbjM65XMazaYGb_uxf3xyyMo4dckJetyTG6lXT4JnxYCXPSVJAiCtV44vQ2-YN68lPuL31YiGp-lEHB0WqK95XsuoIZdSjOGqm14Tio1wK-hKTh4JLiO3C9JipSxANv18bICHGc_142Cl1Cap6gLr4IOoemM33IN781gg)
-
+![[Pasted image 20230117153612.png]]
 La toxicité de ces métaux lourds n'est pas liée uniquement à leur concentration mais surtout à leur spéciation (forme chimique sous laquelle ils se trouvent).
 
 Ex : le mercure sous forme métal, n’était pas toxique. Mais le mercure est volatile donc ça se gère plutôt bien.
@@ -606,9 +593,7 @@ Les éléments radiogéniques sont dégradables aussi par exemple (ex: uranium i
   
 
 Ces métaux s'accumulent dans les organismes, et du coup, vont s'accumuler dans la chaîne trophique.
-
-![](https://lh5.googleusercontent.com/VQLEIHAuTxwCm8uSNqZ9xw_rgif9MmUYu0mJwCpV0QTky7UhtNPq1IpjpLGu4k_bztRUEjBD_PIvbmnG69SdXoAZYzEQIju008XtgLOxf6Sftf2W8OQyWik-kRUsEHwVmuN4ansIjbjqoA_GQnTqOph4l10xRqa_2TXn4x_b38YGd5pO92fDcRU-DI6horWbyrUmF1M6Tg)
-
+![[Pasted image 20230117153644.png]]
 On a un pb de pollution quand la relation du graph est plus linéaire.
 
   
@@ -643,25 +628,20 @@ Y a aussi le fluor qui peut devenir un polluant. 
 Ce sont les nucléides/éléments chimiques radioactifs
 
 Depuis 1954 (tests atomiques+ électricité) on a une augmentation de la concentration en radionucléides notamment dans les sols
-
-![](https://lh5.googleusercontent.com/sXTTK_dOwhZM7Ik6Jb-Tbe8xaTSqUSAJ6bkBtfhg8XILK96_F9IKKyVbr0PkL7mFeNWd3zESrgqMAQw_r_8qj4OEZfsDhmQZHK7JlCJ_Litf4uFNHbeaMnDjO0KMEK3z082ct0t1az8yB5Tt6PpRxbxT3lxf2_xSEkmiA4ABkeDg_5Gh2eEKW3qPU7VLZiRP4G9ZqbSZnw)
-
+![[Pasted image 20230117153656.png]]
 Passage d'un nucléide à un autre : émission rayons X, alpha et gamma, pose un problème.
 
 Maisons granites radioactive c'est pour ca qu'il faut aérer certaines maisons.
+![[Pasted image 20230117153711.png]]
+![[Pasted image 20230117153721.png]]
+![[Pasted image 20230117153730.png]]
+![[Pasted image 20230117153738.png]]
+![[Pasted image 20230117153754.png]]
 
-![](https://lh4.googleusercontent.com/6gieMBLGLKrnyqKi23aqP0RX8By0YUuQoEt8E3WOZE4cRXKdKaLUxwxyRlIBagDuS531Sb6y9VmpgYhHfzr202GEq8jFTkzoNs_2_pCETILLGIx7gcp0R02Qdrerjq9iGNY9zNMOAzKlvuow6q2iws5tqC1oTha0Yy3595zZSJyuUvScv8RX7GoZVBTPKIMoEvni8JNBAQ)
-
-![](https://lh5.googleusercontent.com/v5x-BTlC9ReF4_sZQvVWQcmCYR8HP6ACt7E3elqp3vIaMJYOxo7059dhuBHvx9LRpb2sfjfeU02mvZ6aOHs0-STnrhr83PkzR9hLBVyApEXreakPcfBqIVC-CLywke16K5rCn4qu-4MHRnUnf6dq4JmpKrliKtcgGvGQBETghGqbCGjhFhqwgyrIV75R6BMNieLOq3582Q)
-
-![](https://lh6.googleusercontent.com/zceSj9i8DiDM8yvQg_jI77iVADRPP_SZERDVUPqd4Ar7fcgQgQCdcJJdNRkdUsCg__9T-CPVRM6e5fFN9tSy3zXmjJxv9uxfqFSLwfgFCinJp6hLLX9zMZo2TlNl5aNNxMbIR356VWQ_8VrFtILn6S4-x1qOK4IfaTXyqa5GSe8ev6O7EES7WZ8Le_N5essGoS7UcNvvGQ)
 
 4) Les principales sources de pollution
 
-  
-
-![](https://lh5.googleusercontent.com/2drS2hhD90pIKozyUeZw5xowvmfxfmrCAl5bzvZlZrfyKugUQxo0lvgW9INYklEdERHin-qFHubQ2cfU9fhaqU_dFOLFyTHOvEXvxtu36WI0uLqPS9U3dmUCRROvG9Q_ldhGcF_HRJyJLgO4K9WHuKojM5uBRlmJKIbglzZpWJPcdl7SNT_IIiMYxmvJKMTPJ33XZR5exQ)
-
+  ![[Pasted image 20230117153848.png]]
 Sources agricoles
 
 Pesticides engrais pollution pétrole engins
@@ -706,9 +686,7 @@ Certaines nappes souterraines contiennent donc des pesticides interdit depuis qq
 Relargués par changements de conditions physicochimiques.
 
 Certains de ces phytosanitaires sont volatils, puis se retrouvent dans l'atmosphère globale.
-
-![](https://lh5.googleusercontent.com/sIh2-2RxBWgH-hv8W-fDFqWFIxazgLP60K47DUz7NquNNV3BTv3e5szHXwDM17EDUFcO1ObkdjOBa8T70xyxyUIzWBLP78LWASoCciUR9Mu39IOIDcPV2Mj5hFf13FnfRCtz-tFOY33eh_XtyTz3kLC9UBtBLXvpSzL0TecN3ZmK28OmqluctI8sKmj58tBqt8syJwUr3Q)
-
+![[Pasted image 20230117153906.png]]
 Première ligne A, B et C sont des insecticides, sont des organophosphorés ; ces pesticides ont pour objectifs de dérégler le système nerveux des insectes.
 
 Deuxième ligne A B C pesticides organochlorés détruisent TOUT. Exemple le ddt.
@@ -716,9 +694,7 @@ Deuxième ligne A B C pesticides organochlorés détruisent TOUT. Exemple le ddt
 Leur souci est que ces organochlorés persistent très longtemps dans l'environnement
 
 Troisième ligne : est fait pour tuer nématodes, mollusques, insectes, vise système nerveux.
-
-![](https://lh4.googleusercontent.com/ET0_aPnV3x8irAormdM5ot4JUAuI5zXIDavYPyrFSm_tAIf2ftbX6R4eeYv625163rrCRaup_F74mqBaZYNjvz2pcHAe15FA1Mgw8jhkLOK591JumCf_GTIQHYAPyzi59G4iMNdijdhfUlAxKx_H98U1kxOVNflRiqzFgSHgI6l5442Ct1uBJEFLiO5ajTTGCTQSUkCL-Q)
-
+![[Pasted image 20230117153932.png]]
 Nicotine est un insecticide naturel.
 
   
@@ -726,23 +702,13 @@ Nicotine est un insecticide naturel.
 Peptides reconnaissent comme un acide aminé (uréides) le glyphosate, et donc organismes vivants vont mourir, mais le pb c'est que le glyphosate a une demi vie de 60 ans.
 
 Urée, herbicide efficace, et a pas d'impact sur les mammifères "pissez sur les plantes et elles disparaitront".
-
-![](https://lh6.googleusercontent.com/bn7hb-LoitDpTOwBRB28wq_lMnR5RbYOJUs3Wk1boK64nj7pkO-SIyL-DX9qKcPDNJHc9arjRwGup_xUVyPesh_R32dg0CYiH2DznL5YKAVUHWPYrwqXWBuvNm2MtRClZ01G4ZZdxVFiS-OoawuiwvSVCqsza7hy1b9YOS3-OICxI1pSfLGkZ7nathQqKCc8kknC0KO5iQ)
-
-![](https://lh4.googleusercontent.com/28HxsHbVlBNwXb0lMLYBIcoivAuoG05ov9KRc8GIj8Q6fgF-xp7kap0iv7W73JfpTcbz0lRFMdSHityR5c0lh81aiEa0gTkFS2cT34Dr7j7zPgQnu5W04_zMSBeWAJOZcyeIScx8oVj4QcEgAliatNVPbSrCOMV7sie7-7BcdwZHttktyqlAvQNFWB2pywgbLP9wNu6KhQ)
-
+![[Pasted image 20230117153949.png]]
+![[Pasted image 20230117154000.png]]
 De 7.16 à 7.18 ce sont des fongicides
-
-![](https://lh6.googleusercontent.com/p5rIxe-E0ZJI6tEe_W8j29PCenkBW_uatAkmbRD6_1hEwXvmi1ve4T5MPLQBE1kOZkVFWXW954gHTcCLJCP_h-cgUEs39OxLlOPuLiB8sJK0qZ3YrfdI39g7vwM_mXDNe7yv2uZRHCjhj4hrZ5f9DlVJPoX1LAm66yLNaMWxqBP0bVa1xUcbWHPMQ-s6kGZ-HnpCK7fubA)
-
-  
+![[Pasted image 20230117154031.png]]
 
 B) Les sources urbaines
-
-  
-
-![](https://lh6.googleusercontent.com/Ruubs8In1fWLnApkK48H3HcET8UPlg_b9p60kYygmKHYMu1MUe9P0XwHd063G1IbdHLx8fKfBG-HqbyZ81B9W7i2EB8HsGPZDT8zHqIirzRVC2_Ogpn_jgN24GnmZJnHtbVuy3cjcESWKynCoBPL9XHXegDh9qFHKJnCJSqyDAxkIJ-GVJcxwpXwh7SvcW6I6uz2-qbyBQ)![](https://lh6.googleusercontent.com/Ruubs8In1fWLnApkK48H3HcET8UPlg_b9p60kYygmKHYMu1MUe9P0XwHd063G1IbdHLx8fKfBG-HqbyZ81B9W7i2EB8HsGPZDT8zHqIirzRVC2_Ogpn_jgN24GnmZJnHtbVuy3cjcESWKynCoBPL9XHXegDh9qFHKJnCJSqyDAxkIJ-GVJcxwpXwh7SvcW6I6uz2-qbyBQ)
-
+![[Pasted image 20230117154043.png]]
 La pollution c'est pas forcément un métal lourd, c’est un apport d'un élément exogène dans le sol ;
 
 Par exemple du sable du btp, change le sol.
@@ -754,8 +720,9 @@ A l'heure actuelle, les sources urbaines de pollution sont transport, industriel
   
 
 Activités industrielles:
-
-![](https://lh3.googleusercontent.com/dmYLRQ22nQSmYAH04zQVbWhOOJYKtWmF3pO4PEEmZn3xL-3OsbjdDMuttT4zTX-MNc9fcfTx1lLuE2mY6yZ1J_em9G2_zSG-fPBii7MfZ_X_v1OFJ1XFGSrwvoHEq8JFF89DTKGB7CrLeisXWCsR7kfuAHkszGJY1toBFzn0QzAODB6-uzJBRaB1N6aByTkYGZDHyQfYug) Graph évolution métaux lourds en dans les cendres.
+![[Pasted image 20230117154059.png]]
+![[Pasted image 20230117154116.png]]
+Graph évolution métaux lourds en dans les cendres.
 
 Cendres= matières organiques.
 
@@ -763,16 +730,12 @@ Bitume= polluants
 
 Voitures : pots catalytiques par exemple
 
-  
-
-![](https://lh5.googleusercontent.com/KZHWzU64uL-3xwHFJA3uZWCD-SHZamGzSfZ6JtcD8TpeOY1hTuUiH9qmxOzZAI22uqCkyIvP-teZ4PEad5E0SlRSfnO7Ga1nueCFOnlyZNLRDiJ1FW_ImsaXiD2qvcFV8JBD5jUuhiaJqfdrt5zSOQ-2PmXoNT5U6XATah_eJSuMIEAlLFePB6fxaem-Gj2skzFZelkInw)
-
+  ![[Pasted image 20230117154133.png]]
+  ![[Pasted image 20230117154144.png]]
 Déchets urbains et station d'épuration
 
 Le sol à un rôle épurateur, et considérer comme bon moyen de se débarrasser des déchets. Il a beaucoup été utilisé pour traiter les boues de stations d'épuration.
-
-![](https://lh5.googleusercontent.com/fZBXd6KcFXsAKdM-R5wAJOcKCdyyJVLGVPF1txF0Th6UZ_pBxMsH_Esi2HO94xVoWmbo4bN6ouPZPNZwmNytut5qhg7MxhPBZ3qQWJq7ZP1PNXGgera20HVh1OQrTaBCx3bPu_J89JiuG2_qwqLQQMj5x8vQUKpQDWQwvZo0mADECbw1K5w45v3VVJ78OkQSYryPzkVucw)![](https://lh5.googleusercontent.com/fZBXd6KcFXsAKdM-R5wAJOcKCdyyJVLGVPF1txF0Th6UZ_pBxMsH_Esi2HO94xVoWmbo4bN6ouPZPNZwmNytut5qhg7MxhPBZ3qQWJq7ZP1PNXGgera20HVh1OQrTaBCx3bPu_J89JiuG2_qwqLQQMj5x8vQUKpQDWQwvZo0mADECbw1K5w45v3VVJ78OkQSYryPzkVucw)
-
+![[Pasted image 20230117154203.png]]
 43% des boues dans épandage agricole, car bcp de matière organique dedans (engrais)
 
 33% compostées
@@ -795,20 +758,14 @@ Interactions sols polluants dépends mécanismes chimiques.
 -   Modifications chimiques ou biologies.
     
 
-  
-
-![](https://lh5.googleusercontent.com/uxeGyFkevmj5648XDi4xRjX3doHlTHQieTyxB6lCtDg2i2o5HnG6A_48y6c0hCurtTffb0A3FQr7k7zeB6uruL6cB1B7g0i2NxC7ilevQyHcoUebExoRCVJlWgmOUfwBHiFk8K75PvSNLMtafYoz3UiBjGm9yNkpIWdzQxRg-JpzpWB2ln6tWrE1DQgahIPocUyXf5IC-w)
-
+  ![[Pasted image 20230117154222.png]]
+  ![[Pasted image 20230117154232.png]]
 -> solution/précipitation/oxydo = surtout valable pour métaux
 
 -> volatilisation/échanges d’ions/transformation = surtout pour la M.O.
 
-  
-
-![](https://lh5.googleusercontent.com/18MVP9PmB8ES9hkhFn9gpyR_0GlCjULWze6CrYDERozjyTE9NrT1DrnlHVKQQ-xjcw0hq1Y6ceGOk9btOEma1esmIY4_ryTWvNYBFHgy7n1NW9dM3bTN3jXJkCA8uCpf6XyFEnoTT_LBbOYRE4amZ7DLL1JkH0tWC0DHGvm8gka06Pd8_Np7KitFnv7nHxY26wfTitf_pA)
-
+![[Pasted image 20230117154245.png]]
+![[Pasted image 20230117154300.png]]
 Oxyde de fer : atome de fer entouré d’oxygène, à sa surface y a f(x) de surface -> polluants s’accrochent.
 
-![](https://lh4.googleusercontent.com/WPfeFy9-j_Uvm6RZHIP3Az4FFqUmAdpKiUOHVwd5m_wnCxfqH9CFF9oqdxL1A6wN3KyibKiRrfT66G71Ag_9YoqjWxpoFxa8iUL-V6gmPYMVVEGAFZQVReDGD5TMp8gxpSMQ1BSH1nBsvmv0GjkeCyrwShnEkn3Hjn7570lVWUR96M33haM3X9TGv-xEytgfnFRSkYCAgQ)
-
-**
+![[Pasted image 20230117154318.png]]
