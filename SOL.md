@@ -209,5 +209,6 @@ Les impacts indirects induits par l’érosion des sols :
 - Ingénierie biologique  
 - Protection contre l’érosion éolienne : barrière à vent en végétaux
 
-**___
+___
 [[Pollution des sols]]
+[[Texture minérale des sols (td)]]
