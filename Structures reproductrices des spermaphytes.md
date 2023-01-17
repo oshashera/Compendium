@@ -274,346 +274,177 @@ Par rapport aux autres pièces florales:
 -   Placentation axile: carpelles soudés en position fermée, plusieurs loges carpellaires
 -   Placentation pariétale: 1 carpelle, 1 loge, carpelles soudés en position ouverte, 1 loge carpellaire
 -   Placentation centrale: carpelles soudés, en position ouverte
-    
 -   Placentation basale: 1 carpelle, 1 ovule en position basse
-    
-
   
-
-5.  Types d’ovules (sporanges)
-    
-
-  
+###### 5.  Types d’ovules (sporanges)
 
 -   Ovule orthotrope: droit
-    
 -   Ovule campylotrope: courbé
-    
 -   Ovule anatrope: renversé
-    
-
   
-
 Les position du micropyle, de la chalaze, du hile permettent de définir le type d’ovule. Ces éléments sont plus ou moins visibles sur la graine qui résulte de la fécondation de l’ovule. 
 
-  
+###### 6.  Structure de l’ovule: sporange femelle
 
-6.  Structure de l’ovule: sporange femelle![](https://lh6.googleusercontent.com/xsQktXjYjHrGOVCZacvGEffCwTLBxTEWazk59ayzzfBfu4Vm5NUur0CSe0eCM9jew-Np0UWDEv9ffYRnmZuqfZhiioome35WWovc02NaVfC66N19Dwe0GArGwYEAWXos8ElaTkL3lQZyV5_4y5rL8UD6SyfW9ZEzeBGllbcDIACUxF_sMAK9A49NdrGajlbjS2EnzUH4fA)
-    
-
-  
+![](https://lh6.googleusercontent.com/xsQktXjYjHrGOVCZacvGEffCwTLBxTEWazk59ayzzfBfu4Vm5NUur0CSe0eCM9jew-Np0UWDEv9ffYRnmZuqfZhiioome35WWovc02NaVfC66N19Dwe0GArGwYEAWXos8ElaTkL3lQZyV5_4y5rL8UD6SyfW9ZEzeBGllbcDIACUxF_sMAK9A49NdrGajlbjS2EnzUH4fA)
 
 L’ovule est constitué d’un pied ou funicule, de téguments protecteurs externes et internes, d’un tissu nourricier (nucelle) et du gamétophyte femelle: le sac embryonnaire. Il est alimenté par un faisceau conducteur qui se ramifie à la base de la tête de l’ovule formant la chalaze. 
 
-  
-
 Sac embryonnaire (n): gamétophyte femelle. Composé de 7 cellules et de 8 noyaux. La cellule centrale comprend 2 noyaux polaires qui ne fusionnent pas (N+N et non 2n). L’oosphère est le gamète femelle, orienté vers le micropyle. 
 
-  
-
 Ontogenèse du sac embryonnaire: monosporique (provenant d’une seule mégaspore)
-
 La cellule mère (2n) contenue dans le nucelle de l’ovule subit la méiose et produit 4 mégaspores (N). 3 mégaspores dégénèrent, seul 1 persiste et subit 3 mitoses successives pour donner le sac embryonnaire (N). 
+<br>
 
-  
-
-  
-
-D) POLLINISATION, FÉCONDATION
-
-  
+### D) POLLINISATION, FÉCONDATION
 
 pollinisation: transport du pollen depuis les anthères jusqu’aux stigmates du gynécée.
 
-  
-
 Au cours de l’évolution, différents modes de pollinisation sont apparus, favorisant le transport du pollen d’une plante à l'autre, donc la fécondation croisée, source de diversité génétique. Il existe différents vecteurs de pollen selon les espèces. Chez les Angiospermes, 3 vecteurs sont observés: le vent, l’eau et les animaux. En milieu tempéré, les animaux pollinisateurs sont principalement les insectes. 
 
-  
-
-1.  Pollinisation par le vent: anémophilie
-    
-
-  
+###### 1.  Pollinisation par le vent: anémophilie
 
 Régions tempérées et froides (car peu d’insectes). 
 
-  
-
 Les plantes produisent des fleurs avant les feuilles, qui peuvent constituer des barrières à la dispersion. Le périanthe peut être réduit et peu coloré, le calice et la corolle ne sont pas très importants dans ce type de pollinisation (Poacées par ex). 
-
 Chez les Poacées, les stigmates sont particuliers: ils ont de longs filaments, on les qualifie de plumeux. Ils vont optimiser la capture des pollens en augmentant la surface du stigmate. 
-
 Les étamines présentent de très longs filets amenant les anthères bien à l’extérieur. Elles sont également médifixes: la connexion du filet se fait sur le milieu de l’anthère pour permettre une agitation plus efficace par le vent. 
-
 Les pollens de ces plantes sont de petite taille et très légers pour se disperser sur de longues distances. 
 
-  
-
-2.  Pollinisation par l’eau: hydrophylie/hydrogamie
-    
-
-  
+###### 2.  Pollinisation par l’eau: hydrophylie/hydrogamie
 
 Peu répandue chez les Angiospermes, la plupart des plantes vivant dans l’eau ne sont pas hydrogames. 
-
 Les plantes qui utilisent l’eau comme vecteur de pollen ont développé des caractères floraux particuliers: 
-
 -   Posidonies et Zostères: pollens filamenteux qui flottent à la surface de l’eau et vont être transportés vers les structures femelles des fleurs. 
-    
 -   Valisneria: fleurs mâles directement transportées dans les courants vers les fleurs femelles. 
-    
 
 Ces espèces sont dioïques (fleurs mâles =/= fleurs femelles). 
 
-  
-
-3.  Pollinisation par les animaux: zoogamie
-    
-
-  
+###### 3.  Pollinisation par les animaux: zoogamie
 
 Principalement effectuée par les insectes: Entomogamie
 
-  
-
 Collaboration avec les animaux à la recherche de nourriture, d’un abri ou d’un site de reproduction. 
-
 On peut observer comme adaptations la présence de nectaires à la base du périanthe, des étamines ou du gynécée. Ces glandes produisent différents sucres (glucose, fructose, saccharose) et leurs proportions varient selon les espèces. Cette production va permettre d’attirer les pollinisateurs mais aussi de les fidéliser afin d’assurer la pollinisation des fleurs. 
 
-  
-
 Certains insectes comme les abeilles et bourdons assurent la pollinisation en prélevant le pollen qui constitue une nourriture importante pour leur développement. Là encore, les espèces de plantes vont développer des fleurs aux formes et aux tailles adaptées à différents insectes pollinisateurs. (association colibri - tubes de plantes, ou mimétisme chez les orchidées pour attirer les mâles insectes). 
-
 La couleur de la corolle, mais parfois aussi la couleur du calice, est un élément de plus qui va attirer les pollinisateurs. Les couleurs vives vont principalement attirer les pollinisateurs diurnes quand la couleur blanche va plutôt attirer les nocturnes. (+ autres couleurs en dehors de notre spectre visible). 
-
-  
 
 Certaines plantes émettent des odeurs particulières pour attirer les pollinisateurs. Ces odeurs proviennent de molécules volatiles produites dans ses osmophores (terpènes ou amines). Odeurs puissantes relativement nauséabondes pour nous mais attractives pour les insectes nocturnes. 
 
 Odeurs d’amines + chaleur: Arum sp., partie basale et ampoule, attraction des diptères capturés par des odorants, reproduction des diptères, maturation de la fleur (mâle) qui va libérer du pollen, puis libérer les diptères qui vont polliniser d’autres fleurs. 
 
-  
-
 Fleur comme lieu de reproduction de l’insecte: chaque partenaire a besoin de l’autre pour sa reproduction -> co-évolution
-
 Yucca: Il cède quelques ovules pour le développement larvaire de la mite, qui transporte en retour le pollen. 
 
-  
-
 Pollinisation: inflorescence est le lieu de reproduction de l’insecte: figues et micro-hyménoptère
-
 Deux types de figues sont produites: hiver -> petites, sèches, immangeables, qui au printemps contiennent des fleurs mâles et des fleurs femelles brévistylées. Les blastophages vont quitter la figue emportant le pollen libéré des fleurs mâles. De mai à juillet, les insectes vont pénétrer dans de nouvelles figues plus grosses qui vont pouvoir capter le pollen des premières figues. 
 
-  
-
 Mouvement des étamines: mouvement des étamines qui vont buter sur les insectes, balancement des étamines qui déposent le pollen sur le dos de l’insecte. 
-
 Berbéridacée: autopollinisation
+<br>
 
-  
-  
-
-La fécondation
-
-  
+**La fécondation**
 
 Germination du grain de pollen: Si le pollen est compatible avec le pistil avec lequel il est en contact, il va gonfler (réhydratation), reprendre un métabolisme au niveau de sa cellule végétative, sortie du tube pollinique (germination) qui va pénétrer dans le style. 
-
 La progression du tube pollinique peut se faire de deux façons en fonction du type de style, qui peut être creux ou plein. 
-
 Le style est creux quite à la gélification des cellules dans le centre, formant un canal stylaire (Monocotylédones). Le style peut être rempli d’un tissu parenchymateux de transmission. Les paroi du style se gélifient alors à l’arrivée du pollen pour faciliter sa progression (Eudicotylédones). La progression est plus rapide chez les styles creux. 
 
 Au cours de sa progression, le tube pollinique transporte 
-
 -   soit le noyau de la cellule du tube et 2 spermaties (gamètes mâles), si le pollen est trinucléé au moment de sa libération lors de la déhiscence des anthères, ce qui signifie que la cellule reproductive s’est divisée dans l’anthère. 
     
 -   Soit le noyau de la cellule du tube et la cellule reproductive, cette dernière se divisera dans le tube pollinique au cours de sa progression dans le style. 
-    
-
-  
 
 On peut noter qu’il existe une organisation cellulaire bien particulière à l’intérieur du tube. A l’extrémité se trouvent de nombreuses vésicules golgiennes participant à l’élongation du tube, mais aussi de nombreuses mitochondries produisant l’énergie nécessaire à ce processus et du RE. 
-
 Des microtubules disposées longitudinalement permettent d’orienter et de faciliter le glissement du noyau du tube et des 2 spermaties plus ou moins accolées à celui-ci. 
-
-  
-  
 
 La migration du noyau et des gamètes est assurée par du chimiotropisme (gradients de Ca++ et de pH). Formation de bouchons de callose pour comprimer le contenu cellulaire à l’extrémité du tube. 
 
-  
-
 Modifications au sein du sac embryonnaire avant l’arrivée du tube au micropyle de l’ovule: hydrolyse partielle de la paroi de l’oosphère, des synergides et de la cellule centrale, dégénérescence d’une synergide, puis le tube pollinique pénètre dans le sac embryonnaire par la synergide dégénérée et éclate (libération des 2 gamètes mâles). 
-
 Fusion d’un gamète mâle avec l’oosphère: embryon/zygote principal 2N
-
 Fusion d’un gamète mâle avec la cellule centrale: albumen ou zygote secondaire (3N)
-
 -> Siphonogamie + double fécondation
+<br>
 
-  
-
-E) GRAINES, FRUITS, DISPERSION
-
-  
+### E) GRAINES, FRUITS, DISPERSION
 
 Après la fécondation.
 
-  
-
-1.  Les graines
-    
+###### 1) Les graines
 
 Issues de la transformation de l’ovule après fécondation, du développement simultané de l’embryon et de l’albumen. 
 
-  
-
 -   Albumen
-    
-
 Division du noyau 3n -> albumen liquide (syncytium)
-
 Cloisonnement cellulaire -> albumen cellulaire
-
 Accumulation de réserves venant du nucelle et de la plante mère. 
 
 -   Embryon
-    
-
 Le zygote (2n) se divise en cellule apicale (a) -> embryon (3n) et en cellule basale (b) -> suspenseur (2n). Le suspenseur pour l’embryon au centre du tissu nutritif de la graine, l’albumen. 
 
 -   Les téguments de la graine
-    
-
 Issu des téguments de l’ovule. Le tégument interne devient membraneux -> tegmen tandis que le tégument externe devient plus ou moins sclérifié -> testa
-
 Le micropyle se bouche, ou forme une légère excroissance ou caroncule. Possible formation d’une arille ou élaïosome qui favorise la dispersion par les animaux (excroissance). 
-
-  
 
 Arrivée à maturité, la graine est constituée de téguments protégeant l’amande (embryon + réserves). La graine se détache entre funicule et hile -> cicatrice visible sur le tégument de la graine. 
 
-  
-
 Différents types de graines: 
-
 L’origine des tissus de réserves et la nature de celles-ci peuvent être variables. 
-
 -   graines à endosperme: Gymnospermes
-    
 -   graines exalbuminées: Fabacées
-    
 -   graines albuminées: Poacées et Ricin
-    
 -   graines à périsperme: Aracées, Poivrier, Quinoa.. 
-    
 
-  
 
-2.  Les fruits
-    
-
-  
+###### 2) Les fruits   
 
 Le fruit est issu de la transformation de l’ovaire après la fécondation, caractéristique des angiospermes. Cas général: style et stigmate ne participent pas à la formation du fruit (exception: clématite)
 
-  
-
 La paroi ovarienne devient la paroi du fruit ou péricarpe: épi, méso et endocarpe. 
-
 Selon le développement relatif et la consistance de ces 3 parties, on distingue 2 types de fruits simples: secs et charnus. Si d’autres parties de la fleur participent à la formation du fruit, on parle de faux fruits ou de fruits composés. 
+<br>
 
-  
-
--   Les fruits secs
-    
-
+-   **Les fruits secs**
 Péricarpe entièrement sec et imperméable
 
-  
-
 Fruits secs indéhiscents: souvent monospermes. 
-
 -   akène: péricarpe non soudé à la graine
-    
 -   samare: développement d’expansions (ailes)
-    
 -   nucule; pédoncule ligneux ou enfermé dans une cupule (expansion du pédoncule floral ou des bractées)
-    
 -   caryopse: akène à péricarpe membraneux, soudé à la graine. Fruit typique des Poacées. 
-    
-
-  
 
 Fruits secs déhiscents: polyspermes, issus d’ovaires de carpelles libres (follicule, gousse) ou de carpelles soudés (silique, capsule)
-
 -   follicule: 1 fente de déhiscence au niveau du placenta
-    
 -   gousse: 2 fentes de déhiscence au niveau du placenta et de la nervure dorsale. 
-    
 -   silique: issue de 2 ovaires à placentation pariétale soudées, si fruit plus large que long: silicule. 4 fentes de déhiscence de part et d’autre du placenta, graines fixées sur la fausse cloison. 
-    
 -   capsule: provient de plusieurs carpelles soudés, déhiscence poricide, transversale (pyxide).. capsule denticide: dents au sommet des Caryophyllacées avec le Silène ou les Stellaires
-    
+<br>
 
-  
+-   **Les fruits charnus**
 
--   Les fruits charnus
-    
-
-  
-
-Baie: péricarpe entièrement charnu 
-
+Baie: péricarpe entièrement charnu
 -   monosperme: d’une graine (datte, poivre, avocat)
-    
 -   polysperme: raisin, groseille, tomate, agrumes, kiwi
-    
-
-  
 
 Drupe: Péricarpe à endocarpe sclérifié
-
 -   une partie charnue: le sarcocarpe ou chair
-    
 -   une partie sclérifiée (noyau): le sclérocarpe
-    
 
 Parfois, c’est la graine qui nous intéresse: noix, on mange la graine (aussi appelée amande). 
-
 Les drupes sont simples ou doubles (pêcher/cerise VS caféier, 2 noyaux)
 
-  
-
 -   Les fruits multiples
-    
--     
-    
+
 -   poly-akène: chaque carpelle est transformé en un akène. 
-    
-
 -   poly-drupe: chaque carpelle est transformé en une petite drupe (drupéole): ex: mûres de la ronce
-    
-
-  
 
 -   Faux fruits ou fruits complexes
-    
-
 D’autres organes se transforment et sont associés au fruit
-
 Réceptacle charnu plus ou moins coloré (cynorhodon du rosier: conceptacle floral)
 
-  
-
 -   Fruits composés
-    
-
 Inflorescence devenue charnue
-
 Figuier: le fruit dérive d’un conceptacle inflorescentiel
-
 infrutescence issue d’une inflorescence composée de baies soudées avec leur bractée et entre elles. 
 
   
