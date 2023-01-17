@@ -446,30 +446,21 @@ Réceptacle charnu plus ou moins coloré (cynorhodon du rosier: conceptacle flor
 Inflorescence devenue charnue
 Figuier: le fruit dérive d’un conceptacle inflorescentiel
 infrutescence issue d’une inflorescence composée de baies soudées avec leur bractée et entre elles. 
+<br>
 
-  
-
-Dispersion: diaspores
-
-  
+**Dispersion: diaspores**
 
 Diaspore: toute forme de dispersion
 
-  
-
 Chez les angiospermes, la dissémination se fait par les graines les fruits, des fruits groupés ou des plantes entières. Anémo, hydro ou zoochorie, mais aussi autochorie ou barochorie (diaspores lourdes tombant au pied de la plante). (+ action anthropique)
 
-  
-
 -   Anémochorie: ailes, poils, sioies, oeillet: salière, pappus
-    
 -   barochorie: trucs lourd koi
-    
 -   hydrochorie: fruits, capsules trioloculaires flottant emportés par les eaux, noix de coco portée sur les plages, réceptacle des graines encore attaché à la plante (lotus)
-    
 -   zoochorie: endozoochorie: fruits stockés et non consommés (rongeurs), ou graines rejetées après digestion des fruits. Exozoochorie: fruits s’accrochant dans la fourrure des Mammifères. 
-    
 -   autochorie: ouverture ou séparation brutale des fruits expulsant les graines (ajonc)
-    
-
-**
+<br>
+<br>
+<br>
+___
+[[Appareil végétatif et adaptations]]
