@@ -1,7 +1,7 @@
 
 ![[Pasted image 20230117152420.png]]
 
-### I] Formation des sols
+## I] Formation des sols
 
 **Sol = interface entre atmosphère et lithosphère ?**
 <ul>Interface importante car permet vie</ul>
@@ -52,29 +52,21 @@ Et même, feuillus =/= résineux (résineux acidifient sols)</ul>
 
 ###### 4ème facteur : 
 <ul><b>La topographie</b></ul>
-Pas même chose en haut, bas, milieu de pente.
+<ul>Pas même chose en haut, bas, milieu de pente.
+Bas de pente récupère tous les les produits de l'érosion et sera donc épais, alors que milieu est bcp plus fins (le haut jsp je n’ai pas eu le temps de noter)</ul>
 
-Bas de pente récupère tous les les produits de l'érosion et sera donc épais, alors que milieu est bcp plus fins (le haut jsp je n’ai pas eu le temps de noter)
-
-  
-  
-
-5ème paramètre : le temps
+###### 5ème paramètre : 
+<ul><b> le temps </b></ul>
 
 ![[Pasted image 20230117152512.png]]
-Exemple de la prof : 
 
-Temps cours : argiles grossières
+	Exemple de la prof : 
+		Temps cours : argiles grossières
+		Temps longs : argiles très fines
+<br>
+<br>
 
-Temps longs : argiles très fines
-
-  
-  
-  
-
-II] Constituants des sols
-
-  
+## II] Constituants des sols
 
 Le sol est interface entre lithosphère, biosphère, atmosphère et hydrosphère.
 
@@ -82,82 +74,51 @@ Le sol est interface entre lithosphère, biosphère, atmosphère et hydrosphère
 
 En général on considère qu'on a 45% de matière minérale, 5% de matière organique, 20-30% d'air et 20-30% d'eau.
 
-  
-
-La phase minérale est constituée de deux phases :
-
--Phase cristallisée, avec minéraux dont primaires (quartz et autres) directements issus de la roche mère, mais aussi des carbonates (ex: calcite) et minéraux secondaires comme argiles ou oxydes de fer.
-
--Phase amorphe, avec oxyde de fer, aluminium, silicates d'aluminium
-
-  
+**La phase minérale est constituée de deux phases :**
+<ul>-Phase cristallisée, avec minéraux dont primaires (quartz et autres) directements issus de la roche mère, mais aussi des carbonates (ex: calcite) et minéraux secondaires comme argiles ou oxydes de fer.</ul>
+<ul>-Phase amorphe, avec oxyde de fer, aluminium, silicates d'aluminium</ul>
 
 ![[Pasted image 20230117152606.png]]
-
 L'eau trouvée dans sol est appelée "SOLUTION DE SOL", est extrêmement importante car elle permet les échanges de matières entre constituants du sol.
 
-  
-
 Enfin, on a l'air, "l’atmosphère du sol" permet échanges gazeux entre l'intérieur du sol et l'atmosphère.
+<br>
 
-  
-  
-
-1] composants minéraux
-
-  
-  
+### 1] composants minéraux
 
 Deux grandes classes de minéraux : 
+<ul>-Primaires, hérités directement de la roche mère</ul>
+<ul>-Secondaires, issus de la transformation des minéraux primaires (ex : granite avec mica feldspath et quartz, minéraux sont libérés, quartz reste quartz, les autres se transforment en oxyde de fer, d'aluminium et en argiles)</ul>
 
--Primaires, hérités directement de la roche mère
-
--Secondaires, issus de la transformation des minéraux primaires (ex : granite avec mica feldspath et quartz, minéraux sont libérés, quartz reste quartz, les autres se transforment en oxyde de fer, d'aluminium et en argiles)
-
-  
-
-A) Les matériaux d'origines 
+#### A) Les matériaux d'origines 
 
   
 ![[Pasted image 20230117152637.png]]
-  
-  
 
-B) Produits de l'altération : minéraux secondaires
+#### B) Produits de l'altération : minéraux secondaires
 
 ![[Pasted image 20230117152659.png]]
 
-1) Les argiles :
-
-	  
-
-Ce sont des silicates d'aluminium (silicium+ aluminium)
-
-Particularité : microcristallins et sont organisés en feuillets
-
-Constitué de microcristaux de silicium (tétraédriques) et de microcristaux d'aluminium (octaédriques)
+##### 1) Les argiles :
+ 
+<ul>Ce sont des silicates d'aluminium (silicium+ aluminium)</ul>
+<ul>Particularité : microcristallins et sont organisés en feuillets</ul>
+<ul>Constitué de microcristaux de silicium (tétraédriques) et de microcristaux d'aluminium (octaédriques)</ul>
 
 ![[Pasted image 20230117152726.png]]
-
 ![[Pasted image 20230117152751.png]]
 
 Substitutions isomorphiques : parfois silicium(4+) remplacé par aluminium(3+) ou fer(3+)
-
 Donc déficit de charges, donc on attire les positifs, càd tt les ions d'altérations, les oligoéléments nécessaires aux plantes... mais aussi tout un tas de polluants chargés positivement
-
-  
-  
-  
 
 Argiles formées selon 3 facteurs : roche mère, climat, et topographie
 ![[Pasted image 20230117152807.png]]
 
 Si pas de substitutions isomorphiques, elle est très peu chargée.
 ![[Pasted image 20230117152825.png]]
+<br>
 
-2) Les oxyhydroxydes de fer
-
-  
+##### 2) Les oxyhydroxydes de fer
 
 Fe-O-OH composés de Fer, hydrogène et oxygène.
 
