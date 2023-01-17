@@ -114,306 +114,165 @@ Fréquemment indéfinies (pas de fleur terminale) -> grappe
 
 ##### 2) Inflorescences de type sympodial
 
-  
+Inflorescences toujours définies: une fleur occupant l’extrémité des axes d'ordre 1 et des ramifications. Ramifications formées à l’aisselle des préfeuilles ou bractéoles. -> La **cyme**
 
-Inflorescences toujours définies: une fleur occupant l’extrémité des axes d'ordre 1 et des ramifications. Ramifications formées à l’aisselle des préfeuilles ou bractéoles. -> La cyme
-
+Croissance sympodiale, définie
+Plusieurs types de cymes: multipares, bipares (ex), unipares. 
   
 ![](https://lh6.googleusercontent.com/wvfuijOfTjjOQZMsnJngigNhqaRaCwgKGRrQeFr45Y7tq-IELt_2t-x6q3VDlcgNvT4rkPpzJgU97xwPD877HUV4bmkoIZSKPYc4DaKphJaNThSWK0GB3sGgWjz5UXZ9W1zQ-1MIi4lmMJSBAhoM-aJxV_Ydcc1NErKG4JyAaxy2OtPd57Jh6Vfu2r6Wbi8yW6-tjALSQg)
 
-Croissance sympodiale, définie
+**Cyme bipare**: Bégoniacées, Renonculacées, Solanacées, Caryophyllacées. 
 
-  
+**Cyme multipare**: Caprifoliacées
 
-Plusieurs types de cymes: multipares, bipares (ex), unipares. 
+**Cyme unipare hélicoïde:** Fréquent chez les Monocotylédones
 
-  
+**Cyme unipare scorpioïde**, glomérule: Borraginacées, Cistacées, Lamiacées. 
+<br>
 
-Cyme bipare: Bégoniacées, Renonculacées, Solanacées, Caryophyllacées. 
-
-Cyme multipare: Caprifoliacées
-
-Cyme unipare hélicoïde: Fréquent chez les Monocotylédones
-
-Cyme unipare scorpioïde, glomérule: Borraginacées, Cistacées, Lamiacées. 
-
-  
-
-3.  Inflorescences composées, composites, mixtes
-    
-
-  
+#### 3) Inflorescences composées, composites, mixtes 
 
 -   Composées: redondance d’un même type. Grappes de grappes: panicule, épi d’épillets, Corymbe de corymbes (Astéracées), Ombelles d’ombellules (Apiacées)
-    
-
-  
 
 -   Composites: Combinaison de 2 types: Grappes d’épis, Grappes d’ombelles (Araliacées). 
-    
-
-  
 
 Mixtes: Combinaison de types mono et sympodial (thyrse). Epi ou grappe de cymes scorpioïdes. 
+<br>
 
-  
-
-B) ANDROCÉES, ÉTAMINES ET POLLEN
-
-  
+### B) ANDROCÉES, ÉTAMINES ET POLLEN
 
 Androcée = ensemble des étamines, permettent la production de pollen
-
 Etamines = extrêmement variées, parfois au sein de la même fleur
 
-  
-
-1.  Les dispositions des étamines
-    
-
-  
+##### 1) Les dispositions des étamines
 
 -   Spirale: nombre élevé, insérées en spirale sur un réceptacle conique (thalamus), on parle de polystémonie. 
     
 -   Verticillée: Étamines disposées en 1 (isostémonie) ou 2 (diplostémonie) verticilles. 
-    
-
-  
 
 Les pièces des verticilles de l’androcée alternent avec celles du périanthe. Si verticille extérieur alternipétale et épisépale: androcée diplostémone. Chez les Caryophyllacées, le verticille extérieur est épipétale : obdiplostémonie. 
+<br>
 
-  
-![](https://lh5.googleusercontent.com/MrIzhK2Qd3Uq0L5snjhPpx8KGz4FgtN5mUaWR4fyO37nSl3X8icyBcmKcAMyY7dvxa3dBRTIhCuhmaxggBqb-wsP4cckcdxBU6cxI8-AMA5aIN4WtBd6V-TBToKMzmkOC6rfaEJmkuD0TIVoggsqaLqZ_Bi7ySlblHJK9h_E8QBap_84wINUOLO-snCZbFvqBda9m6MhqA)
-
-2.  Structure de l’étamine: anthère + filet
-    
-
-  
+##### 2) Structure de l’étamine: anthère + filet
 
 étamine: organe reproducteur mâle
-
 4 sacs polliniques = 4 microsporanges
-
-  
 
 Déhiscence des anthères = libération du pollen selon différentes possibilités: 
 
 Généralement par une fente longitudinale située 
-
 -   sur la face tournée vers l’intérieur de la fleur : anthère inthorse
-    
 -   sur celle tournée vers l’extérieur : anthère extrorse
-    
 -   sur le côté : anthère latérale
-    
 
-  
+![](https://lh5.googleusercontent.com/MrIzhK2Qd3Uq0L5snjhPpx8KGz4FgtN5mUaWR4fyO37nSl3X8icyBcmKcAMyY7dvxa3dBRTIhCuhmaxggBqb-wsP4cckcdxBU6cxI8-AMA5aIN4WtBd6V-TBToKMzmkOC6rfaEJmkuD0TIVoggsqaLqZ_Bi7ySlblHJK9h_E8QBap_84wINUOLO-snCZbFvqBda9m6MhqA)
+<br>
 
 La déhiscence peut aussi s’effectuer par des pores, des valves, des clapets, un couvercle.. 
 
-  
-
 Plusieurs types de position des anthères par rapport au filet:
-
 -   basifixe: connectif dans le prolongement du filet
-    
 -   médifixe: à mi hauteur du connectif
-    
 -   apifixe: suspendue par le haut du connectif
-    
-
-  
 
 Les étamines peuvent être libre (androcée dialystémone) ou plus ou moins soudées entre elles (androcée gamostémone)
-
 -   étamines soudées par les filets en formant une colonne creuse : monadelphe
-    
 -   étamines soudées par les filets en 2 faisceaux in/égaux : diadelphe
-    
 -   étamines soudées en plusieurs faisceaux indépendants : polyadelphe
-    
 -   étamines soudées par les anthères, filets libres: synanthérée
-    
-
-  
 
 Si les étamines sont soudées au niveau des filets: tube staminal 
-
 Si les étamines sont soudées au niveau des anthères: androcée synanthérée
 
-  
-
 Les étamines peuvent arborer la même taille ou une taille différente
-
 Tailles identiques: androcée isodyname
-
 Tailles différentes: androcée anisodyname, et selon le nombre de grandes étamines: didyname, tétradyname
 
-  
-
 Chez les Brassicacées; l’androcée est constant avec 6 étamines, donc 4 grandes et 2 petites: androcée tétradyname. 
+<br>
 
-  
-
-3.  Le pollen: gamétophyte mâle haploïde
-    
-
-  
-![](https://lh3.googleusercontent.com/9UWLOJEB-7NM_p2_mguqkkFIxNpWKeuxyBhJ23ZaOPSSqRB0Lqqg0Xy0RuKKp0dLUNQSmHRyPzjy-vb648DcqCEMwrNgmTbXzXIqwpB4UdARt-Yo6MPdoYuJU4Sbqbo3_BN3Ysl8qcAqg_BdP_o--SlRGa84OaElIbFEb4PO8qbYK-JA9WfZ1xHEIsVY6jOjA0O3r65Jxw)
+##### 3) Le pollen: gamétophyte mâle haploïde
 
 Le grain de pollen (n), organisme bicellulaire comprenant une grande cellule nommée cellule du tube et une petite cellule nommée cellule gamétogène. Il est entouré de deux enveloppes: l’intine et l’exine. 
 
-  
+![](https://lh3.googleusercontent.com/9UWLOJEB-7NM_p2_mguqkkFIxNpWKeuxyBhJ23ZaOPSSqRB0Lqqg0Xy0RuKKp0dLUNQSmHRyPzjy-vb648DcqCEMwrNgmTbXzXIqwpB4UdARt-Yo6MPdoYuJU4Sbqbo3_BN3Ysl8qcAqg_BdP_o--SlRGa84OaElIbFEb4PO8qbYK-JA9WfZ1xHEIsVY6jOjA0O3r65Jxw)
 
 La taille moyenne des pollens est de 40 μm.
 
-  
-
-1- Ontogenèse du pollen
-
-  
+###### 1- Ontogenèse du pollen
 
 La formation du pollen se réalise à l’intérieur des sacs polliniques qui contiennent un massif de cellules 2N qui subissent la méiose pour produire des spores N. 
-
 Au cours de la méiose, une première couche de callose se dépose autour des cellules, puis une seconde autour de chaque microspore. 
-
 L’hydrolyse des deux couches de callose permet la séparation des microspores N qui deviennent indépendantes les unes des autres. 
-
-  
 
 Tapis excréteur: hydrolyse de la paroi, forte duplication de l’ADN nucléaire.
 
-  
-
 Le microspore réalise une mitose qui donne une cellule végétative + une cellule reproductive. 
-
 -> stade bicellulaire: grain de pollen (gamétophyte mâle)
 
-  
-
-2- Enveloppes du pollen
-
-  
+###### 2- Enveloppes du pollen
 
 Sporoderme + manteau pollinique
 
 ![](https://lh5.googleusercontent.com/WdMDFzXZ_79q03-q_jjQqwntiMmQpUAk3rDLVzH-Haoxj3xgHIORskRojl_v4atpV7ZAb1H-Ij5qCkS9bUaFy9obS6bxZnMhd-W25Ca7bVgU38nsWqrQhJnq7wQhFtbEsK7i3BA1q1po-gUtzlkkfuEZjvevVczgxT4zQNlRGopQ5EgMr-K5D5-yk_T1sGCKcmAD5ZpMAA)
 
 ![](https://lh6.googleusercontent.com/T4OgzRdwkKCxeDgm245__mSuEi968oL9Nv_4N5ZdmtTuF7zXKmfrS6ZgINOh6G0T8_8tjlSOCO7_eOQ5Ms4cgXMNCuuQkKbQQVu_FLh-hGFD2rEOKIuz9mtbKAhkT0d7rHNznMGlkrmL7qoLm0PyDXJWBkz5c9ZL71PGuw9NU1vRiTduyat4D2BSdIRv9EvKeuUJ9hMn2g)
+<br>
 
-  
-
-3- Types d’apertures
-
-  
+###### 3- Types d’apertures
 
 Aperture: zone de forme et nombre variable où l’exine est modifiée afin de permettre la germination du tube pollinique. 
 
-  
-
 -   Absence d’aperture: pollen inaperturé, exine amincie ou absente localement, ou sur toute la surface. 
-    
-
 -   Aperture en forme de sillon (colpus): pollen colpé, généralement allongé à l’état sec, s’arrondissant lors de l’hydratation. 
-    
-
 -   Aperture en forme de spore: pollen poré, généralement sphérique
-    
-
 -   Aperture en forme de sillon + pore: pollen colporé
-    
+<br>
 
-  
-
-4- Unités de dispersion
-
-  
+###### 4- Unités de dispersion
 
 -   Grains de pollen individualisés (monades), relief de tectum peu marqué, ornementation importante. 
-    
 -   Grains groupés par 4: tétrades
-    
 -   Grains de pollen en groupes supérieurs à 4: polyades
-    
 -   Grains agglomérés en pollinies
-    
+<br>
 
-  
-
-C) GYNÉCÉE: CARPELLES, PLACENTATION, OVULE, SAC EMBRYONNAIRE
-
-  
+### C) GYNÉCÉE: CARPELLES, PLACENTATION, OVULE, SAC EMBRYONNAIRE
 
 Carpelle: feuille fertile (macrosporophylle) repliée sur elle-même, protégeant les ovules. 
-
   
 ![](https://lh5.googleusercontent.com/dTgMvnM5_JPM026vfNpz0uGcoLD6qEMA2xz3S95SXsMe6SSeBg3BrAWtB6e3aNwNSUN3Hp61VxpboG1ZIMUOSMlzlrQ6fw-ex1BIhX5oht_bkTuBUhyWcWWruDOZbfck59WizesfuPysuM88EOOmLUtR_WVcJj08C6WpGXYYBVZ8PIT0KBcr8ZP__i-3VXifdKlLrg14PQ)
 
 Chez les Gymnospermes, les ovules reposent sur la feuille carpellaire ou écaille et sont alimentés par la nervure placentaire. Chez les Angiospermes, la feuille carpellaire se replie sur elle-même en fermant ainsi les ovules (mégasporanges) dans une structure nommée ovaire. L’ovaire est donc une innovation évolutive apparaissant avec les Angiospermes. 
 
-  
-
-Polymorphisme des carpelles
-
-  
+**Polymorphisme des carpelles**
 
 Les carpelles peuvent varier en nombre, structure (libre ou soudés) selon les espèces. 
 
-  
-
-1.  Variation du nombre de carpelles
-    
-
-  
+###### 1.  Variation du nombre de carpelles
 
 -   Nombre indéfini: caractère archaïque, fleurs spiralées (ex Renoncule)
-    
 -   Nombre identique: S = P = C (ex Primevère)
-    
 -   Nombre généralement inférieur: C < S = P (ex Ajonc)![](https://lh5.googleusercontent.com/YL93IY6zuBkpiQ5jMbgysy6JbWEgXK7NC0iRMLHH9dQQZ_zYNo5c7QjhcsX7Wn9pJYBXrELP-1qwMebxhP3KDq22cIIPQ2mY6EbjKFfVqWpyP8Yf--K6Rw21-sZXU2DFjikSusXaXkyIeGB5RSZfHusB7WWQ8saBveQfwjrS9Vl9xspi9zSh8xKxLCVMJHuWacRLy3KaRg)
-    
 
+###### 2.  Relation carpelle - réceptacle floral 
   
-
-2.  Relation carpelle - réceptacle floral 
-    
-
-  
-
 Position de l’ovaire: 
-
-  
 
 Par rapport aux autres pièces florales:
 
 -   Ovaire supère: S,P et E insérées en dessous du/des carpelle(s). -> fleur hypogyne
-    
 -   Ovaire infère: L’ovaire apparaît au-dessous des autres pièces florales. Il peut être libre (réceptacle floral non accolé à l’ovaire) ou adhérent (accolé à l’ovaire). -> fleur périgyne/ épigyne. 
-    
 
-  
-
-3.  Carpelles libres ou soudés
-    
-
-  
+###### 3.  Carpelles libres ou soudés
 
 -   Carpelles libres: gynécée dialycarpellé (ex Renoncule) 
-    
 -   Carpelles soudés: Gynécée gamocarpellé
-    
 
-  
-
-4.  Placentation: Disposition des ovules dans l’ovaire
-    
-
-  
+###### 4.  Placentation: Disposition des ovules dans l’ovaire
 
 -   Placentation axile: carpelles soudés en position fermée, plusieurs loges carpellaires
-    
 -   Placentation pariétale: 1 carpelle, 1 loge, carpelles soudés en position ouverte, 1 loge carpellaire
-    
 -   Placentation centrale: carpelles soudés, en position ouverte
     
 -   Placentation basale: 1 carpelle, 1 ovule en position basse
