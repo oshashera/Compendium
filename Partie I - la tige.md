@@ -34,19 +34,13 @@ Méristème apical caulinaire: Extrémité de la tige, située à l’intérieur
 La taille des arbres fruitiers s’effectue à trois moments différents selon l’objectif: 
 -taille de formation à la plantation
 -taille d’entretien en fin d’hiver, tous les ans
-![](https://lh3.googleusercontent.com/36chCghuNpQsaKd6c8HGNqSYQ1FJuDGgoSesWQr1i1UsTgwgmt4Y-2ua4JjgpW_a-bntK-LDK1QUdaFt4jIi8VYffFA7zB-0YCpQ9-h1VROLkxqTI4yh0pm2z5UGMnz39dMz1Li3Wwr8Tw7tf9yy_WDSttXweANfQF5xKVTjkVcOHsV3Zgig1canBSUndYEs_IB3ImlZIQ)
-
-
-
-  
+-taille de fructification tous les deux trois ans
 
 On distingue plusieurs zones dans le PV des Angiospermes:
-
-Tunica: couche(s) de cellules couvrant toute la surface externe
-
-Corpus: massif cellulaire interne. 
-
-  
+- **Tunica:** couche(s) de cellules couvrant toute la surface externe
+- **Corpus:** massif cellulaire interne. 
+![](https://lh3.googleusercontent.com/36chCghuNpQsaKd6c8HGNqSYQ1FJuDGgoSesWQr1i1UsTgwgmt4Y-2ua4JjgpW_a-bntK-LDK1QUdaFt4jIi8VYffFA7zB-0YCpQ9-h1VROLkxqTI4yh0pm2z5UGMnz39dMz1Li3Wwr8Tw7tf9yy_WDSttXweANfQF5xKVTjkVcOHsV3Zgig1canBSUndYEs_IB3ImlZIQ)
+<br> 
 
 Différenciation des tissus caulinaires:
 
