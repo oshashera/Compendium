@@ -49,3 +49,16 @@ Groupe monophylétique comprenant les Cycadophytes et Ginkgophytes (plus anciens
 [[Partie I - La tige]]
 
 [[Partie II - La feuille]]
+
+[[Partie III - L'épiderme]]
+
+[[Partie IV - La racine]]
+
+___
+### CONCLUSION
+
+Cette grande diversité implique analogie et homologie:
+
+L’**analogie** implique des organes ayant la même fonction mais des origines différentes: Les vrilles permettant la fixation de la plante viennent de la tige chez la vigne et de la racine chez le vanillier. 
+
+L’**homologie** implique des organes de même origine.
