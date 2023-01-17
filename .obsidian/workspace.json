@@ -21,19 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appareil végétatif et adaptations.md",
+                "file": "Partie I - La tige.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d99e71c309f75e4",
+            "id": "73c28c3278875ef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partie I - la tige.md",
+                "file": "Partie II - La feuille.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partie I - la tige.md",
+                "file": "Partie II - La feuille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partie I - la tige.md",
+                "file": "Partie II - La feuille.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partie I - la tige.md"
+                "file": "Partie II - La feuille.md"
               }
             }
           },
@@ -189,17 +189,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d99e71c309f75e4",
+  "active": "73c28c3278875ef2",
   "lastOpenFiles": [
+    "Partie I - La tige.md",
     "Appareil végétatif et adaptations.md",
+    "Partie II - La feuille.md",
     "18-01-2023.md",
     "17-01-2023.md",
     "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md",
     "Botanique Systématique (BOT).md",
     "Associations et rotations culturales.md",
     "Effet de bordure.md",
-    "Biostatistique IB2.md",
-    "Les Familles d'intérêt économique.md",
-    "Champ de patate.md"
+    "Biostatistique IB2.md"
   ]
 }

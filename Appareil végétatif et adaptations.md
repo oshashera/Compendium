@@ -45,4 +45,5 @@ Groupe monophylétique comprenant les Cycadophytes et Ginkgophytes (plus anciens
 
 **Dicotylédones:** Herbacées, arbustives ou arborescentes, feuilles simples ou composées à nervation composée/palmée, fleurs type 4 ou 5.
 
-****
+---
+[[Partie I - La tige]]

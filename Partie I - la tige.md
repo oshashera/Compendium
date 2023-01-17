@@ -126,136 +126,70 @@ L’angle d’or permet d’optimiser l’espace occupé (densité maximale). 
 Les feuilles qui se développent le long d’une tige selon cet angle ont moins de chance d’être à l’ombre, car elles ne se chevauchent pas. L’ensoleillement est ainsi optimisé. 
 L’activité des primordia définit l’architecture de la plante. Lors de la domestication, on a privilégié des plantes à tiges solides, avec beaucoup de grains, des fruits de taille conséquente. Pour obtenir de telles plantes, il faut connaître les lois de leur architecture. 
 
-  
-
 Tout se joue au niveau des méristèmes apicaux. 
-
 Au cours de la croissance, au niveau du bourgeon, l’apex croit en conservant la même forme. Les primordia apparaissent successivement et croissent lentement en s’éloignant de l’apex. C’est dans l’espace entre les primordia et l’apex que de nouveaux primordia vont se développer. Les feuilles gardent ensuite leur position initiale. 
 
-  
-
 Peu importe les modes de dvpt (verticillé ou spiralé), un primordium apparaît dès qu’un espace de taille suffisante est formé. 
-
 Les primordia naissent sur le bord de l’apex et s’en éloignent radialement. Ils apparaissent périodiquement à intervalles de temps réguliers. L’interaction répulsive est un élément essentiel de la modélisation du réseau des primordia dans un bourgeon. 
+<br>
 
-  
+### Croissance et ramification
 
-CROISSANCE ET RAMIFICATION
-
-  
-
-1- Evolution
-
+**1- Evolution**
 -   Ramification dichotomique: ancestrale, présente chez les algues et Filicophytes, isotone ou anisotone selon la forme. 
-    
 -   Ramification latérale par bourgeons auxiliaires, élongation par bourgeon apical. 
-    
 
-  
-
-2- Orientation des rameaux
-
+**2- Orientation des rameaux**
 Caractérise les 2 grands groupes gymnospermes et Angiospermes:
-
 -   rameaux horizontaux: plagiotropes (Gymnospermes)
-    
 -   rameaux obliques: orthotropes (Angiospermes)
-    
 
-  
-
-3- Dominance apicale
-
+**3- Dominance apicale**
 Compétition entre les bourgeons apicaux et axillaires pour les hormones et nutriments. 
-
 Tous les bourgeons axillaires ne donneront pas une ramification: dormance
-
 La suppression du bourgeon apical entraîne le développement des bourgeons ax voisins: importance de la taille des arbres fruitiers. 
-
 La dominance apicale est donc un facteur déterminant du port (architecture) de la plante. 
 
-  
-
-4- Deux types de ramifications
-
+**4- Deux types de ramifications**
 Monopodiale: le bourgeon terminal reste fonctionnel d’une année sur l’autre. 
-
 Sympodiale: Le bourgeon terminal cesse de fonctionner et un ou des bourgeons axillaires se développent. 
 
-  
-
-5- Acrotonie, basitonie
-
+**5- Acrotonie, basitonie**
 Acrotonie: Développement préférentiel des rameaux placés au sommet de la tige porteuse
-
 Basitonie: développement préférentiel des rameaux éloignées du sommet de la tige porteuse.
 
-  
 
-Architecture unitaire: peu ou pas ramifiée, bcp de plantes herbacées. Longévité faible
+**Architecture unitaire:** peu ou pas ramifiée, bcp de plantes herbacées. Longévité faible
+**Architecture coloniaire:** réitération d’une unité de base; plantes vivaces (multip végétative), arbres (bourgeons sur des rejets) ou racine (drageon). Longévité forte. 
+<br> 
 
-Architecture coloniaire: réitération d’une unité de base; plantes vivaces (multip végétative), arbres (bourgeons sur des rejets) ou racine (drageon). Longévité forte. 
-
-  
-
-ADAPTATIONS
-
-  
+### ADAPTATIONS
 
 1- Réduction de la tige
-
-  
-
 Plantes en coussinets, maintien de l’humidité au creux de la touffe, pas de prise au vent. Présent en altitude, sur les falaises ou dans les déserts pour se protéger du froid, du vent, de la sécheresse. 
 
-  
-
 2- Modification anatomiques
-
-  
-
 -   Tiges souterraines, rhizomes pour se propager et faire des réserves. 
-    
-
-Plagiotrope: se dit d’un organe qui pendant sa croissance s’oriente selon un plan oblique. 
-
-Tiges rampantes: port prostré. Plantes très étalées. 
-
-Tubercule; renflement localisé de tige souterraine riche en réserves.
-
-Bulbe caulinaire: tige souterraine hypertrophiée, courte, protégée par des restes desséchés de feuilles, réserves. 
-
-  
+**Plagiotrope:** se dit d’un organe qui pendant sa croissance s’oriente selon un plan oblique. 
+**Tiges rampantes:** port prostré. Plantes très étalées. 
+**Tubercule;** renflement localisé de tige souterraine riche en réserves.
+**Bulbe caulinaire:** tige souterraine hypertrophiée, courte, protégée par des restes desséchés de feuilles, réserves. 
 
 -   Tiges aériennes
-    
-
 Tubercule hypocotylaire: ex radis
-
-Tiges succulentes: réserves d’eau et photosynthèse, Xérophytes et Halophytes. 
-
-Fixation de la plante: tige volubile (s’enroule) ou vrille (clématite, vigne). 
-
-Rameau-épines: sclérenchyme très important. 
-
-Tiges aplaties: cladodes, réserves d’eau ou en forme de feuilles. 
-
-  
+**Tiges succulentes:** réserves d’eau et photosynthèse, Xérophytes et Halophytes. 
+**Fixation de la plante:** tige volubile (s’enroule) ou vrille (clématite, vigne). 
+**Rameau-épines:** sclérenchyme très important. 
+**Tiges aplaties:** cladodes, réserves d’eau ou en forme de feuilles. 
 
 -   Propagation par multiplication végétative
-    
-
 Plantes clonales par stolon, rhizome, bulbe, bulbille, tubercule. 
-
-stolon: tige issue d’un bourgeon axillaire, développement généralement aérien. 
-
+**Stolon:** tige issue d’un bourgeon axillaire, développement généralement aérien. 
 Bouturage, marcottage (couchage)
 
-  
-
 -   Mutualisme
-    
-
-Plantes fourmis: tige partiellement creuse sert de nid aux fourmis, production de nourriture pour les fourmis qui protègent la plante des herbivores.
-
-**
+**Plantes fourmis:** tige partiellement creuse sert de nid aux fourmis, production de nourriture pour les fourmis qui protègent la plante des herbivores.
+<br>
+<br>
+<br>
+[[Appareil végétatif et adaptations]]
