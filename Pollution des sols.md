@@ -121,20 +121,14 @@ Si pas de substitutions isomorphiques, elle est très peu chargée.
 ##### 2) Les oxyhydroxydes de fer
 
 Fe-O-OH composés de Fer, hydrogène et oxygène.
-
 Issus de l'altération de la roche, libère fer qui précipite sous forme d'oxyhydroxyde.
-
 Fer insoluble en condition de surface ; très friand de l'oxygène
 ![[Pasted image 20230117152850.png]]
-On va rencontrer différents fers
-
-Formes cristallines
-
-Oxyhydroxydes cristallisés issues des formes amorphes
-
-Forme amorphes (mal cristallisées)
-
-Forme chélatées
+On va rencontrer différents fers:
+- Formes cristallines
+- Oxyhydroxydes cristallisés issues des formes amorphes
+- Forme amorphes (mal cristallisées)
+- Forme chélatées
 
 Altération roche produit souvent FeII, en présence oxygène forme amorphe into +/- cristallisés
 
@@ -143,22 +137,16 @@ Forme cristallisée bcp trouvée sous climat tempéré : la goethite, couleur oc
 Sols méditerranéens, fer cristallisé sous hématite (rouge).
 
 Oxydes de fers intéressant dans pbmatique de pollution de sols.
-
 À partir de 1% d'humidité des sols ils s'hydratent, qui permet développement des « fonctions de surface » (dans le sens fonction molécule)
 ![[Pasted image 20230117152955.png]]
 ![[Pasted image 20230117153012.png]]
 -> charge négative, peuvent attirer cations
+<br>
 
-  
-
-3) Les oxyhydroxydes d'aluminium
-
-  
+##### 3) Les oxyhydroxydes d'aluminium
 
 Une grosse partie de l'aluminium sert à faire de l'argile; et est beaucoup plus soluble que le fer, formera des espèces/complexes solubles en solution.
-
 Forment aussi oxyhydroxydes d'aluminium, comme le fer, d'abord amorphes puis cristallisés.
-
 Bcp moins de fonctions de surfaces
 
 La plus communément trouvée est la gibbsite.
@@ -166,203 +154,121 @@ La plus communément trouvée est la gibbsite.
 Tant que y a de la silice on fait des argiles, donc se forme que dans sols très vieux et très altérés.
 ![[Pasted image 20230117153029.png]]
 
-Bilan
+**Bilan**
 ![[Pasted image 20230117153045.png]]
-2] La fraction organique
+<br>
 
-  
+### 2] La fraction organique
 
 Matière orga dans les sols issue de la dégradation.
-
 On en distingue 2:
-
-La matière organique fraiche (=litière feuilles->morceaux de feuilles)
-
-Matière organique noire, transformée, appelée humus
-
+- La matière organique fraiche (=litière feuilles->morceaux de feuilles)
+- Matière organique noire, transformée, appelée humus
 Souvent forme un horizon organique superficiel qui se superpose à la partie minérale.
 
 Quelques situations ou matière organique est mélangée à horizon minéral : typiquement les sols labourés, l'horizon organique a été incorporé à l'horizon organominéral ou minéral.
-
-  
+<br>
 
 La matière organique peut subir la minéralisation primaire
 ![[Pasted image 20230117153102.png]]
 ![[Pasted image 20230117153126.png]]
-
-  
-
 Réaction d'oxydation, dégradation par oxygène, catalysée par des bactéries hétérotrophes qui veulent croitre et prennent le carbone de la matière orga. Pour cela elles détruisent la matière orga, qui est un réducteur et cède donc des électrons. Les bactéries mettent en contact les électrons avec un oxydant, l'oxygène.
-
 En résulte une production de CO2.
 
-Humus = stockage du carbone dans les sols, pcq les molécules de la matière sont des molécules avec bcp de cycles aromatiques.
+**Humus** = stockage du carbone dans les sols, pcq les molécules de la matière sont des molécules avec bcp de cycles aromatiques.
 
 Bactéries préfèrent s'attaquer aux cycles avec liaisons simples que cycle aromatiques (doubles liaisons ; difficile à casser). Et donc les cycles sont stockés dans le sol, stockage de carbone.
 ![[Pasted image 20230117153141.png]]
 ![[Pasted image 20230117153158.png]]
-
 ![[Pasted image 20230117153214.png]]
-
 ![[Pasted image 20230117153226.png]]
-
 Fonctions chimiques, comme oxydes de fer, capables d'être chargées négativement et de capter les cations.
-
 Encore plus puissants qu'oxydes de fer, bcp de fonctions sur la même molécule (cf mole en bas à gauche : bcp de COOH et OH)
-
-  
-
-R-COOH <---> R-COO- + H+
-
-R-COO- + Ca2+ <---> R-COOCa+
-
-  
+<ul>R-COOH  =  R-COO- + H+ </ul>
+<ul>R-COO- + Ca2+ = R-COOCa+</ul>
 
 Un sol hyperfertile = sols avec humus, argiles et oxydes de fer.
 
-  
-
 Peut avoir minéralisation secondaire (diapo précédents flèches et tt)
-
 Si bactéries ont plus de sucres à manger, se rabattent sur cycles aromatiques, mais ça veut dire que y a plus d'apport de matière organique, qu'on aurait donc exporté, dans le cadre agricole par exemple, mais aussi quand on laboure, on aère le sol, on met les bactéries en présence d'oxygène, qui est un booster, et donc les bactéries sont sous stéroïdes et dégradent tout.
+<br>
 
-  
-  
-
-3] Solution de sol
-
-  
+### 3] Solution de sol
 
 C'est la fraction liquide rencontrée dans le sol.
-
 Zone hydratée qui fait lien entre composants du sol, tous entourés d'une couche d'hydratation.
-
 Très importante pcq c'est elle qui va permettre d'avoir des échanges chimiques entre les composants du sol, et d'avoir des réactions biologiques.
 
 Elle va permettre de transférer les éléments nutritifs du sol aux plantes.
-
 Ella va aussi permettre le lessivage des produits de l'altération.
 
 C'est dedans qu'il va y avoir la formation de minéraux secondaires.
-
 La composition sera très dépendante des précipitations. Ces dernières contrôlent la quantité d'eau dans le sol et sa composition.
-
 Elle est aussi intéressante car elle reflète le fonctionnement géochimique du sol.
+<br>
 
-  
-  
-
-4] Êtres vivants
-
-  
+### 4] Êtres vivants
 
 Faune et flore présente, y va y avoir des mammifères et des champignons microscopiques.
-
 Un terrier, des galeries vont changer le fonctionnement d'un sol :
-
 Galeries : écoulement d'eau, aération, mucus des vers de terre, ...
-
 Une termitière mélange les horizons, etc.
-
 Participent à la quantité et à la qualité du sol.
 
-  
-
-1) Les algues
-
-  
+##### 1) Les algues
 
 Organismes autotrophes, rencontrées surtout à la surface du sol et dans les premiers centimètres.
-
 Ici car photosynthèse nécessaire pour développement.
-
 La plupart sont accompagnées d'un consortium bactérien spécifique.
 
-  
-
-2) Les champignons
-
-  
+##### 2) Les champignons
 
 Champi supérieurs, levures, et inférieurs (moisissures)
 
 Champignons hétérotrophes, participent à la dégradation de la matière orga. Leur présence dépend de la richesse de la matière orga.
-
 1 à 2 tonnes/hectare si bon sol.
-
 Critère essentiel : matière orga, pH osef en gros
-
 Participent à la fabrication d'ammonium (ammonification) et dégradation matière orga.
-
 Travaux récents ont montré que champis microscopiques participent dans réactions de rédox dans les zones humides.
 
-  
-
-3) Les actinomycètes
-
-  
+##### 3) Les actinomycètes
 
 Bactéries ramifiées qui ressemblent à des moisissures.
-
 Se comportent en gros comme des bactéries aérobies (oxygènes + pH globalement neutre)
-
 S'attaquent à la lignine et permettent formation humus.
-
 La plupart du temps l'odeur du sol provient de leur activité.
-
 Elles vivent souvent en symbiose avec les arbres
 
-  
-
-4) Les bactéries
-
-  
+##### 4) Les bactéries
 
 On va rencontrer des bactéries aérobies qui participent essentiellement à la dégradation de la matière organique.
-
 Les bactéries anaérobiques font de même mais plutôt dans zones humides.
-
 Activité bactérie plus efficace en condition oxygénée (donc anaérobies moins efficaces).
 
-  
-  
-  
-
-5) Micro et macrofaune
-
-  
+##### 5) Micro et macrofaune
 
 On va du protozoaire jusqu'au gros mammifères qui font des terriers.
-
 Vers de terres (type et quantité) sont indicateurs de la qualité et du fonctionnement d'un sol.
 
-  
-
 Plus grosse masse orga trouvée dans les sols ce sont les racines qui constituent en elles-mêmes
-
 La rhizosphère (compartiment du sol avec son propre fonctionnement)
 
-  
-
-6) Complexe argilo-humique
+##### 6) Complexe argilo-humique
 
 ![[Pasted image 20230117153256.png]]
 Le complexe reste globalement négatif
-
 Argile = un des éléments les plus réactif dans le sol
-
 Meilleur que d'avoir que de l'argile ou que de la matière organique
 ![[Pasted image 20230117153310.png]]
-Le pouvoir de rétention du complexe est bien plus fort que celui des argiles seuls.
+<ul>Le pouvoir de rétention du complexe est bien plus fort que celui des argiles seuls.</ul>
+<ul>Les échanges suivent des règles, l'intensité de fixation varie selon les ions.
+Ça va dépendre de leur charge et de leur taille. Ceux divalents (positifs) seront plus fortement fixés que les ions monovalents (positif car complexe globalement négatif)</ul>
+<ul>Les ions qui ont une très grande couche d’hydratation ne sont pas bien retenus.</ul>
 
-Les échanges suivent des règles, l'intensité de fixation varie selon les ions.
+<ul>Alors que quand y a une petite couche d'hydratation, l'ion et le complexe sont plus proche.</ul>
 
-Ça va dépendre de leur charge et de leur taille. Ceux divalents (positifs) seront plus fortement fixés que les ions monovalents (positif car complexe globalement négatif)
-
-Les ions qui ont une très grande couche d’hydratation ne sont pas bien retenus.
-
-Alors que quand y a une petite couche d'hydratation, l'ion et le complexe sont plus proche.
 ![[Pasted image 20230117153325.png]]
+
 Autre règle très importante, c'est que l'échange d'ion suit les règles d'équilibre chimique.
 ![[Pasted image 20230117153343.png]]
 Tout changement de composition de la solution de sol entrainera un changement du complexe absorbant.
@@ -370,28 +276,20 @@ Tout changement de composition de la solution de sol entrainera un changement du
 L'échange d'ion va respecter l'équilibre des charges.
 ![[Pasted image 20230117153436.png]]
   
+<ul>Si les sols sont fertiles c'est dû aux attractions positif/négatif qui retient les oligo éléments (permet de retenir des éléments nécessaires à la croissance des plantes. <br>
+Donc ce complexe absorbant est super important.</ul>
 
-Si les sols sont fertiles c'est dû aux attractions positif/négatif qui retient les oligo éléments (permet de retenir des éléments nécessaires à la croissance des plantes.
+##### 7) Bilan
 
-Donc ce complexe absorbant est super important.
-
-  
-  
-
-7) Bilan
 ![[Pasted image 20230117153508.png]]
 Ça va se passer de la même manière pour les polluants que pour les "bons ions"
-
 Donc le sol a une bonne capacité de rétention des polluants: """"positif"""" car limite l'accès des polluants au réseau hydrographique.
 
-  
+## III] Principaux polluants des sols
 
-III] Principaux polluants des sols
 ![[Pasted image 20230117153531.png]]
 ![[Pasted image 20230117153551.png]]
-Polluants: substance introduite par l'Homme dans l'environnement qui peut avoir un impact négatif sur la santé humaine, les êtres vivants, et les écosystèmes.
-
-  
+**Polluants:** substance introduite par l'Homme dans l'environnement qui peut avoir un impact négatif sur la santé humaine, les êtres vivants, et les écosystèmes.
 
 Contaminant: substance qui se trouve dans un environnement où il devrait pas être. N'est pas nécessairement un polluant car pas forcément d'impact négatif (ou pas encore prouvé).
 
