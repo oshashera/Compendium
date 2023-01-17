@@ -118,52 +118,39 @@ Cinq types majeurs d’érosion des sols par les écoulements
 -ravinement  
 -érosion latérale des berges.
 
-![Une image contenant texte, intérieur, ordinateur, écran
-Description générée automatiquement](https://lh6.googleusercontent.com/0guOzm4v7si6LygwHZrj3pXWZSsRiCjCLUaoPPsME8ZyxhpwKzh_spk40Nuelp1ZWIkmH0YYgcjCo4aPLzpUdjTGbPd9TSzarZNoai6p0XUM7ydXmUlrdBRV0qJTRNBsIVI81ugHK4KdBST8alTAp-yvhHTU3u2HsuA0oAt3Vya3nCoUnOHOoK_0pTtdGGr9AL01EqwPvg)![](https://lh4.googleusercontent.com/k7vsWU8bp32p4Qn4XYJ2conzDAA6qwGnUVsPgBJREetgGm9GJDqpDwMe8OXOpsNjxoFqJQTMt9pOorCNKtrDzLOIxUR8KzBB_0TpsSdjQ3Fd6v3uGaDK9AJoqct6w7YCBJi7Nc1qcXlSBjrh2-h8p470VwH2_bKzNfcSW5C0Qw8Eo2BVez6sk29Qsl2Y7y7tY17kY3EGqA)
+![[Pasted image 20230117190228.png]]
+ ![[Pasted image 20230117190244.png]]
 
-  
 
-![Une image contenant texte, moniteur, ordinateur, intérieur
-Description générée automatiquement](https://lh3.googleusercontent.com/NrEl-u7wUjagvEDsEH0DVZA3e9eSngniftFO2hRJHQc0KRPGXRrZwX73Qp3mFKYznbn9YW1JgNuJfSpT7LEor5e-zL4ohTH4KlQfvdlAvseXf8SgBFoYKJl_edNVf4F-6YtQmeP8yJYJO4tmRLcUQzUo87pWEctuvEo71KmYBhrDqazUl-OnWaZOWSL3lC_SQZtq4xwIXw)
-
-  
-
-L’érosion éolienne :
+**L’érosion éolienne :**
 
 3 modes de transport : suspension, saltation, roulage
-
-Ce type d’érosion touche essentiellement les zones mises en culture correspondant aux steppes tempérées (Asie centrale) ou tropicales (Sahel)  
-Elle engendre le phénomène de dust-bowl qui sévissait aux US dans les années 30.  
-  
-Zone d’érosion principale : sud/ouest  d’amérique du sud, Afrique, asie centrale, australie, milieu des US.
-
-  
+<ul>Ce type d’érosion touche essentiellement les zones mises en culture correspondant aux steppes tempérées (Asie centrale) ou tropicales (Sahel)  
+Elle engendre le phénomène de dust-bowl qui sévissait aux US dans les années 30. <br>
+Zone d’érosion principale : sud/ouest  d’amérique du sud, Afrique, asie centrale, australie, milieu des US.</ul>
 
 Salinisation des sols en zone aride :
-
-Salinisation naturelle des sols par :  
-Précipitation salées dans zones côtières (6-8 kg/an/ha)  
-Remontées d’eau de nappes salées près de la surface (<2m)  
-Remontées d’eau de nappes douces dissolvant du sel contenu sur la formation géologique  
+<ul>Salinisation naturelle des sols par :  
+<ul>Précipitation salées dans zones côtières (6-8 kg/an/ha)  
+Remontées d’eau de nappes salées près de la surface (inférieur à 2m)  
+Remontées d’eau de nappes douces dissolvant du sel contenu sur la formation géologique <br>
 Présence de sel en surface provenant d’ancienne mer intérieures asséchées.  
-En zone aride, la faiblesse des précipitations annuelles interdit tout lessivage et évacuation du sel.
+En zone aride, la faiblesse des précipitations annuelles interdit tout lessivage et évacuation du sel.</ul>
 
 Salinisation artificielle des sols par l’irrigation :  
-Arrosage par de l’eau d’irrigation potentiellement salée  
+<ul>Arrosage par de l’eau d’irrigation potentiellement salée  
 Irrigation intensive provoquant la recharge des nappes souterraines et l’élévation des niveaux de la  
 zone saturée jusqu’à atteindre la sub-surface :  
--si la nappe est salée, les pbs potentiels existent déjà  
--si la nappe est douce, l’eau s’élevant dissous le sel des roches et sale la nappe  
+<ul>-si la nappe est salée, les pbs potentiels existent déjà <br>
+-si la nappe est douce, l’eau s’élevant dissous le sel des roches et sale la nappe</ul>  
 Le sel est toxique pour les plantes ; Certaines sp s’y sont adaptées et le tolèrent (halophytes)  
-Des pbs apparaissent lorsque le volume d’eau d’irrigation excède celui de l’évapotranspiration.  
+Des pbs apparaissent lorsque le volume d’eau d’irrigation excède celui de l’évapotranspiration.</ul></ul>
   
 
-III] L’intensité de l’érosion des sols dans le monde :
+### III] L’intensité de l’érosion des sols dans le monde :
 
 Fourniture sédimentaire continentale avant l’Homme : 12.6 Md de tonnes/an  
 Aujourd’hui 29,2 mds de tonnes par an (2.5* plus)  
-  
-  
   
 Distribution spatiale de l’érosion :  
 Afrique et Asie -> plus de 60% de l’érosion mondiale   
@@ -184,54 +171,43 @@ Ce patrimoine n’est pas remplaçable à court terme :
 -Perte de capital dès que l’érosion dépasse (0.8 mm/an)  
   
 Les causes anthropiques de l’érosion des sols :  
--Surpâturage  
--Déforestation, en particulier dans les zones soumises à des pluies intenses  
--Incendie de forêt  
--Production de bois de chauffe  
--Déstructuration des sols par les routes ou l’urbanisation  
--Détérioration de la structure du sol par l’agriculture mécanisée  
--Mauvaises pratiques agricoles  
+- Surpâturage  
+- Déforestation, en particulier dans les zones soumises à des pluies intenses  
+- Incendie de forêt  
+- Production de bois de chauffe  
+- Déstructuration des sols par les routes ou l’urbanisation  
+- Détérioration de la structure du sol par l’agriculture mécanisée  
+- Mauvaises pratiques agricoles  
   
 Surpâturage -> si diminue, forêt reprends ses droits  
-Agriculture mécanisée : -compactage des sols par les engins mécaniques  
--anoxie des sols et stagnation de l’eau  
--perturbation des écoulements dans les sols  
+Agriculture mécanisée :   
+<ul>-compactage des sols par les engins mécaniques <br>
+-anoxie des sols et stagnation de l’eau <br> 
+-perturbation des écoulements dans les sols </ul>
   
-Mauvaises pratiques agricoles : -Labours dans le sens de la pente  
--Epuisement des sols  
--Agriculture intensive sur de grands parcellaires remembrés  
+Mauvaises pratiques agricoles : 
+<ul>-Labours dans le sens de la pente  <br>
+-Epuisement des sols <br>  
+-Agriculture intensive sur de grands parcellaires remembrés  </ul>
   
 Les impacts indirects induits par l’érosion des sols :
-
-Versant Erosion des sols
-
-         Cours d’eau Accroissement de la           🡪 Comblement des réservoirs  
-fourniture sédimentaire des réservoirs  
-aux cours d’eau  
------------------------------------------------------------------I-----------------------------------------------------------------------------------------  
-Océan   I    
-  \__>    Pollution des eaux marines et des écosystèmes littoraux  
-  
+![[Pasted image 20230117190847.png]]
   
 -Sédimentation des sols érodés dans les barrages et retenues  
 -Relargage massif de matière en suspension et de nutriments dans le long des côtes  
 -Destruction des récifs coralliens par étouffement  
--Boom algal et pollution des eaux liées à l’enrichissement de l’eau de mer en nutriments  
-Il provoque l’eutrophisation et la mort de la faune
-
+-Boom algal et pollution des eaux liées à l’enrichissement de l’eau de mer en nutriments, provoque l’eutrophisation et la mort de la faune
 -Récifs coralliens menacées par la pollution des eaux -> augmentation de la concentration des nitrates et ca phosphates = eutrophisation   
 -> augmentation algues, baisse calcification des coraux
 
-IV] Les moyens de lutte contre l’érosion des sols  
+### IV] Les moyens de lutte contre l’érosion des sols  
   
--Protection contre l’érosion hydrique :  
--Développer l’agriculture en terrasse sur les versants  
--Remplacer les labours dans le sens de la pente par les labours selon les courbes de niveau  
--Cultiver des bandes où alternent des espèces n’ayant pas les mêmes rythmes de croissance  
-et les mêmes dates de récoltes de manière à réduire la course des écoulements sur  
-d’éventuels sols nus.  
--Ingénierie biologique  
--Protection contre l’érosion éolienne : barrière à vent en végétaux
+- Protection contre l’érosion hydrique :  
+- Développer l’agriculture en terrasse sur les versants  
+- Remplacer les labours dans le sens de la pente par les labours selon les courbes de niveau  
+- Cultiver des bandes où alternent des espèces n’ayant pas les mêmes rythmes de croissance  et les mêmes dates de récoltes de manière à réduire la course des écoulements sur  d’éventuels sols nus.  
+- Ingénierie biologique  
+- Protection contre l’érosion éolienne : barrière à vent en végétaux
 
 **___
 [[Pollution des sols]]
