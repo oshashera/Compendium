@@ -291,85 +291,48 @@ Donc le sol a une bonne capacité de rétention des polluants: """"positif"""" c
 ![[Pasted image 20230117153551.png]]
 **Polluants:** substance introduite par l'Homme dans l'environnement qui peut avoir un impact négatif sur la santé humaine, les êtres vivants, et les écosystèmes.
 
-Contaminant: substance qui se trouve dans un environnement où il devrait pas être. N'est pas nécessairement un polluant car pas forcément d'impact négatif (ou pas encore prouvé).
-
-  
+**Contaminant:** substance qui se trouve dans un environnement où il devrait pas être. N'est pas nécessairement un polluant car pas forcément d'impact négatif (ou pas encore prouvé).
 
 La pollution peut être soit ponctuelle, soit diffuse.
-
 La ponctuelle arrive à un endroit donné, à un moment donné, ça peut être accidentelle ; 
-
 En général quand elle est ponctuelle, on a moins de déchets, plus facile à réparer
-
-  
 
 Une pollution diffuse, le polluant a atteint différentes cibles, et donc difficile à traiter (typiquement le cas des nitrates en bretagne. On essaie alors de limiter la source.
 
-  
-
 Une pollution peut être intentionnelle (cf. anciennes décharges d'ordure ménagère par ex)
-
 Elle peut être aussi non intentionnelle (toutes les pollutions accidentelles par exemple)
 
-  
-
 On part de "activité industrielle et déchets urbains":
+<ul>Ils libèrent des polluants organiques ou des composés minéraux.<br>
 
-Ils libèrent des polluants organiques ou des composés minéraux.
+<ul>Minéraux (éléments radioactifs, métaux lourds)<br>
 
-Minéraux (éléments radioactifs, métaux lourds)
+Dans métaux lourds, y a les classiques, et l'arsenic, qui est un métalloïde:<br>
 
-Dans métaux lourds, y a les classiques, et l'arsenic, qui est un métalloïde:
+Dans métaux lourds on met pleins de trucs (métaux, métalloïdes etc.) donc on parle de métaux aujourd’hui.<br>
 
-Dans métaux lourds on met pleins de trucs (métaux, métalloïdes etc.) donc on parle de métaux aujourd’hui.
-
-+ de nouveaux métaux, dont ceux utilisés dans les produits HIGH TECH et notamment les terres rares, typiquement les aimants en néodyme.
-
-  
++ de nouveaux métaux, dont ceux utilisés dans les produits HIGH TECH et notamment les terres rares, typiquement les aimants en néodyme.</ul></ul>
 
 Composés organiques (comme les boues par exemples, posées au sol pcq aiderait à fertiliser mais en fait y a polluants dedans)
 
-  
-
 Y a aussi les lisiers et compost mais par exemple les lisiers avec les fécès de porcs qui ont été piqués au cuivre... (car fongicide/bactéricide)
-
-  
 
 Activité agricole : pesticides et fertilisants
 
-  
-  
 
 Pollutions indirectes : 
-
-Pluies acides par exemple : modifie tt les équilibres chimiques, modifie les complexes absorbants, dissous certains trucs, des H+ qui arrivent donc libère des polluants...
-
-  
-  
-  
+<ul>Pluies acides par exemple : modifie tt les équilibres chimiques, modifie les complexes absorbants, dissous certains trucs, des H+ qui arrivent donc libère des polluants...</ul>
 
 Le sol va retenir un certain temps les polluants mais ces derniers vont peut être finir dans une nappe souterraine.
 
-  
-
-*sur la diapo: l'arbre de mort*
-
 Macropolluant : moléculaire.
-
 Micropolluant : plus petit, plus facilement dissous
+<br>
 
-  
-  
-  
+##### 1) Les métaux
 
-1) Les métaux
-
-  
-
-Aussi appelés "éléments traces (ETM m métallique)"
-
+Aussi appelés "éléments traces métallique (ETM)"
 Sont des éléments toxiques : "traces" c'est pour faibles concentrations.
-
 On les appelait abusivement avant les métaux lourds.
 
 On va y trouver des métaux et métaux lourds comme le cadmium Cd, le cuivre Cu, le plomb Pb, et le mercure Hg.
@@ -377,79 +340,52 @@ On va y trouver des métaux et métaux lourds comme le cadmium Cd, le cuivre Cu,
 Et aussi des éléments non métalliques, l'arsenic, le sélénium ou l'étain.
 
 La plupart de ces métaux lourds sont des oligoéléments, càd qu'ils sont nécessaires au développement de la vie MAIS à faible concentration.
-
 La plupart sont létaux à forte dose.
-
 Parmi ces métaux, le plomb, le cadmium, et l'antimoine Sb ne sont pas des oligoéléments (ne sont pas nécessaires à la vie, sont juste toxiques)
 
 Ces métaux lourds ont la capacité de s'accumuler dans le corps, difficilement éjectés, et ont donc des effets toxiques à plus ou moins long terme, sachant que nombre d'entre eux sont cancérigènes.
 ![[Pasted image 20230117153612.png]]
 La toxicité de ces métaux lourds n'est pas liée uniquement à leur concentration mais surtout à leur spéciation (forme chimique sous laquelle ils se trouvent).
 
-Ex : le mercure sous forme métal, n’était pas toxique. Mais le mercure est volatile donc ça se gère plutôt bien.
+	Ex : le mercure sous forme métal, n’était pas toxique. Mais le mercure est volatile donc ça se gère plutôt bien.
+		Au japon y a eu une hécatombe à cause du mercure : hydrolyse de
+		l'eau de mer avec des électrodes de mercure ; jetée dans la mer 
+		une fois plus utile ; dissoute dans l'eau, ingérée par les 
+		poissons dans les rein des poissons, il se transformait en 
+		méthyl-mercure et s'accumulait dans les muscles. Au japon, on 
+		mange des poissons crus, donc pas chauffés, donc mercure pas 
+		volatilisé. Et sous forme de méthyl mercure était encore plus 
+		toxique : 100 000 morts.
 
-Au japon y a eu une hécatombe à cause du mercure : hydrolyse de l'eau de mer avec des électrodes de mercure ; jetée dans la mer une fois plus utile ; dissoute dans l'eau, ingérée par les poissons ; dans les rein des poissons, il se transformait en méthyl-mercure et s'accumulait dans les muscles. Au japon, on mange des poissons crus, donc pas chauffés, donc mercure pas volatilisé. Et sous forme de méthyl mercure était encore plus toxique : 100 000 morts.
-
-  
-  
 
 On a fait 2 classes : 
-
-Classe A : tous les ETM avec molécules qui ont une affinité pour atome d'oxygène
-
-Classe B : tous les ETM avec forte affinité pour les molécules qui ont de l'azote ou du soufre
-
-Classe C : intermédiaire
-
-  
+- Classe A : tous les ETM avec molécules qui ont une affinité pour atome d'oxygène
+- Classe B : tous les ETM avec forte affinité pour les molécules qui ont de l'azote ou du soufre
+- Classe C : intermédiaire
 
 Les métaux le plus souvent impliqué dans des pbs de pollution et toxicité sont de Classe B et C
-
-Parmi eux : Hg2+, Pb2+, Ni2+, Cd2+, et Cu2+ et aussi Zn2+
-
-  
+<ul>Parmi eux : Hg2+, Pb2+, Ni2+, Cd2+, et Cu2+ et aussi Zn2+</ul>
 
 Les métaux ne sont PAS dégradables contrairement à une molécule organique. Seul sa spéciation peut changer.
-
 Les éléments radiogéniques sont dégradables aussi par exemple (ex: uranium into plomb)
-
-  
-
 Ces métaux s'accumulent dans les organismes, et du coup, vont s'accumuler dans la chaîne trophique.
 ![[Pasted image 20230117153644.png]]
 On a un pb de pollution quand la relation du graph est plus linéaire.
 
-  
-  
-
-2) Les autres polluants inorganiques
-
-  
+##### 2) Les autres polluants inorganiques
 
 Sont essentiellement des Anions.
-
 Par exemple les chlorures dont les concentrations ont augmenté car augmentation utilisation des sels dans l'alimentation. Ils sont très solubles et sont bcp plus présents dans les rivières par exemple.
-
 Phosphate aussi pbmatique (a parlé d'eutrophisation). Viennent de détergents, lessives, etc. (avant)
-
 Sulfate et nitrites aussi
-
-  
 
 Ces polluants sont très solubles, restent plutôt dans les eaux, précipitent peu, n'ont pas d'affinité pour les composants du sol... pas retenus et se retrouvent donc vite dans le réseau hydrographique.
 
-  
-
 Y a aussi le fluor qui peut devenir un polluant. 
 
-  
-
-3) Les radionucléides
-
-  
+##### 3) Les radionucléides
 
 Ce sont les nucléides/éléments chimiques radioactifs
-
 Depuis 1954 (tests atomiques+ électricité) on a une augmentation de la concentration en radionucléides notamment dans les sols
 ![[Pasted image 20230117153656.png]]
 Passage d'un nucléide à un autre : émission rayons X, alpha et gamma, pose un problème.
@@ -461,36 +397,24 @@ Maisons granites radioactive c'est pour ca qu'il faut aérer certaines maisons.
 ![[Pasted image 20230117153738.png]]
 ![[Pasted image 20230117153754.png]]
 
-
-4) Les principales sources de pollution
+##### 4) Les principales sources de pollution
 
   ![[Pasted image 20230117153848.png]]
 Sources agricoles
-
 Pesticides engrais pollution pétrole engins
-
 Sources urbaines
-
 Centrales électriques au charbon
-
 Les usines de production de gaz, on utilise des charbons pour produire du gaz, ça pollue beaucoup en produits organiques, c'est un traitement lourd pour récupérer les sols ; Sols qui ont un intérêt, grandes surfaces, intérêt fonciers actuels d'où dépollution ;
 
-Exemple : stade de France avant c'était une usine de gaz très polluée ; la pelouse est devenue jaune en 15j la première fois, fallait redépolluer.
-
-Avant, y avait des essences qui utilisaient du plomb en catalytique qui se retrouvaient sur les sols des routes et alentours, mais cause saturnisme et autre...
-
+	Exemple : stade de France avant c'était une usine de gaz très polluée ; la pelouse est devenue jaune en 15j la première fois, fallait redépolluer.
+	Avant, y avait des essences qui utilisaient du plomb en catalytique qui se retrouvaient sur les sols des routes et alentours, mais cause saturnisme et autre...
 Sources industrielles : extraction production des métaux
 
-40km autour usine polluée en plomb on a capté pcq saturnisme enfants (jsp quel exemple c'était)
-
+	40km autour usine polluée en plomb on a capté pcq saturnisme enfants (jsp quel exemple c'était)
 Hydrocarbures
-
 Atmosphérique : pluies acides
 
-  
-  
-
-A) Les sources agrochimiques
+#####A) Les sources agrochimiques
 
   
 
