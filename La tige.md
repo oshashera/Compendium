@@ -192,4 +192,7 @@ Bouturage, marcottage (couchage)
 <br>
 <br>
 <br>
+___
+
+<br>
 [[Appareil végétatif et adaptations]]
