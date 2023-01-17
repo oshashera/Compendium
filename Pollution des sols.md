@@ -105,13 +105,7 @@ Bas de pente récupère tous les les produits de l'érosion et sera donc épais,
 
 5ème paramètre : le temps
 
-  
-
-![Une image contenant texte
-Description générée automatiquement](https://lh4.googleusercontent.com/tmj9Ms9KoGaiUCLmhYTyPi5u8em44Xb8HwdDxFpHuEM7CI_rUG6Qf3uOkOdT_uwlVoMz9NENIXlfBzcWgyKOERlP73dx1NW21EK_3UgR5lZKPUBWo55aUcYHzSlboQ2k9odGxA_Ksi0FUKLkCbpTw2L6YnJkNcxjSQ35FWtYhhzPLcDihnXMCDIUD6LveeaKfzZxYZwKoQ)
-
-  
-
+![[Pasted image 20230117152512.png]]
 Exemple de la prof : 
 
 Temps cours : argiles grossières
@@ -128,7 +122,7 @@ II] Constituants des sols
 
 Le sol est interface entre lithosphère, biosphère, atmosphère et hydrosphère.
 
-![](https://lh3.googleusercontent.com/CO2-pRd5kU82EIhr623g2E0JeLprVWG3Vd2GetSgNzLTcZ2QqgmElfZSdIOj9tgOVjwXBLYgEzUS_78NJzos8yNcuXDrUDR0LlI6eXNteMm6kRLeztHxomncxxrC1hYSXGpur8eN4wE2EoLk5F8RMgr0OTmT-1OpTs6y23Rq038_7Ky9CgcKtLQBKGk1-45LISKPmo8OEg)
+![[Pasted image 20230117152533.png]]
 
 En général on considère qu'on a 45% de matière minérale, 5% de matière organique, 20-30% d'air et 20-30% d'eau.
 
@@ -142,7 +136,7 @@ La phase minérale est constituée de deux phases :
 
   
 
-![](https://lh3.googleusercontent.com/7i4XwofK8NxmhdOaJO-DzU8jhG4pCpjsf66l4REKgSIkWud9zhn43j9THdy45kYwuegV7O1-WW4U4Gs3EnRZ8PoqAiSqA8Br2skZ1XQZQI5JXFlhklS1TqEs7wbSN4JYKfPz6o7k8aoqQk0WDBMb4dwDYcjKqNnSM-mTG2Ra1ccJIGhK6274cFDPOozN_UkPcDoeGruZEg)
+![[Pasted image 20230117152606.png]]
 
 L'eau trouvée dans sol est appelée "SOLUTION DE SOL", est extrêmement importante car elle permet les échanges de matières entre constituants du sol.
 
@@ -169,23 +163,17 @@ Deux grandes classes de minéraux : 
 A) Les matériaux d'origines 
 
   
-
-![](https://lh6.googleusercontent.com/dp-_BpVdvHV9BuG1UPhwnau3qa9B8RJX7a9lMSGpsWWF6pAQXK8Xt__clCoE0okLnxTkFWKapmu5b-3rDdNAWMRC2dspjLOvTjYsogEiAkOjTz2eU3UHRLctCSzMmBa6-FqhyKJoNE9AnpPzMkh2j1XcZ4N5qf8lXCYrKmlMkXP_Uj8kcNt0nX42TT6sCZ6XlRiD9Df8yw)
-
-  
+![[Pasted image 20230117152637.png]]
   
   
 
 B) Produits de l'altération : minéraux secondaires
 
-![Une image contenant texte
-Description générée automatiquement](https://lh5.googleusercontent.com/TrQQwHqE0weWIOiC8mEZmdoHfeIvkf7kfIuU-NDEjb7lW3j3bNX5ghWmWEKbViElONBhaP2egFnRXheRCdyMJHwVUIxF_KNBL7omdd90nR88eqBJp3D2tj7FsyuxdVAgJa4jHdONtkEk4i5x7y7a-ntyw7lAUw8NhUr_Ahwbry9_uW5fDiL7q0u7dNknTvZ0Qz71SN-mYA)
-
-  
+![[Pasted image 20230117152659.png]]
 
 1) Les argiles :
 
-  
+	  
 
 Ce sont des silicates d'aluminium (silicium+ aluminium)
 
@@ -193,10 +181,9 @@ Particularité : microcristallins et sont organisés en feuillets
 
 Constitué de microcristaux de silicium (tétraédriques) et de microcristaux d'aluminium (octaédriques)
 
-![](https://lh4.googleusercontent.com/2qdvUgGLbfIc3jrUpTjJtpgHMjkos-l3SyepLaQ8CKWSZ4miCZFAzj6T9bY5QVcs0YaYFLKRYwj6pC7iGZLR7ZEHnAl2JgFBuFRbXGiXZOMvoY1QXtU5ZaIBT5i8CMaJs64Bu9p-f3eVxV8iKDaLTDkveDfTDFdzMA5kWakq5e3LxqDFAGMYjopVQmhT8XoSRrcsL4gmDw)![](https://lh3.googleusercontent.com/Q0MHdCpaFApmISBD1TKSj7UODyrCD_iK8hi0rmbbzir7OLH7PIgpfXIDaKFHJkkZWx33b9gsAR-GAoXyE5OHyhSbW8Z35UuG9K-H_rCg6LA_sfDAuaaTzMmFpKJx-MRIGeBU2xVxe5h_WD_2eKTfuBlCEPSz0g76GoknjV7PzcuDPWzNi59EGjJvuHOIZxYrKdvRufWPQQ)
+![[Pasted image 20230117152726.png]]
 
-  
-  
+![[Pasted image 20230117152751.png]]
 
 Substitutions isomorphiques : parfois silicium(4+) remplacé par aluminium(3+) ou fer(3+)
 
@@ -207,13 +194,10 @@ Donc déficit de charges, donc on attire les positifs, càd tt les ions d'altér
   
 
 Argiles formées selon 3 facteurs : roche mère, climat, et topographie
+![[Pasted image 20230117152807.png]]
 
-![](https://lh6.googleusercontent.com/NdHn98_0qrKS8k3TxLBewFTPe5QH_P01A4y_1HGuMLsXdgG0J3af60s0zlfkuenenJFTSXfPyFMex0euUf_CFKDKCM6w8MynY1UMgNQHC6RJ-DPI_iPs89PQl3tE_5UbfgzXuc1EC262Qydg1cD9p9FNYq0pD9G6sU-jadO1hfinxG0EsUWnEAjmyIydJWGc_E0v0IkQaw)
-
-  
-
-Si pas de substitutions isomorphiques, elle est très peu chargée.![Une image contenant table
-Description générée automatiquement](https://lh6.googleusercontent.com/3q0TQVv1IxX9ZCzmGj4QPH0plvu8fT3wIcmKQvWWsg0sb3xtzOgdCdBiWXNZPIDqyW-6CVKUe1Oj1E99NI9i1NqLNllyJ_qSjEK_IWSK356egZfvdY-f_tBe1Vl1nVRfBjy1hJY_5KCbZnqAN3ZffAOj_Hd8sJAU-tPbovgdRRIcSLzvSEJP73tMJwTxfgWqcg-zj6Oq1A)
+Si pas de substitutions isomorphiques, elle est très peu chargée.
+![[Pasted image 20230117152825.png]]
 
 2) Les oxyhydroxydes de fer
 
@@ -224,9 +208,7 @@ Fe-O-OH composés de Fer, hydrogène et oxygène.
 Issus de l'altération de la roche, libère fer qui précipite sous forme d'oxyhydroxyde.
 
 Fer insoluble en condition de surface ; très friand de l'oxygène
-
-![](https://lh6.googleusercontent.com/NTU0oqbHgQa9W66FHuffjCtdXdeTVoj9LrtBnEGERSCv2A263OZaShY1hqGR5UO2tr2hGp_CdgxlfGmJI6kFe583dbZTJcMULcuF-Iiyqn-7IzGjcbFO3Z50s9UKoCmFnttnIlykDZsBJ7vlqycp7T-z7SmuteSt2K_6n9AFrZSqOEC_rnuarWErvh8elKWKChE9ioehLA)
-
+![[Pasted image 20230117152850.png]]
 On va rencontrer différents fers
 
 Formes cristallines
@@ -246,12 +228,8 @@ Sols méditerranéens, fer cristallisé sous hématite (rouge).
 Oxydes de fers intéressant dans pbmatique de pollution de sols.
 
 À partir de 1% d'humidité des sols ils s'hydratent, qui permet développement des « fonctions de surface » (dans le sens fonction molécule)
-
-![Une image contenant texte
-Description générée automatiquement](https://lh5.googleusercontent.com/xvkzpaADQGgh5fsWqQyVhb5uBAnmycecdocGEXL5Zxq8imxuEyR0An29DQZbgiaDfP9ME9xA5hTRQQZ4MTlsT3CmQyQXgkypsZP7woH32o9eYztPP3jfdobyhcf8cFNRMRxMhhBPL-d6zmW17qsm8FHGFHDbcbCjw1cXpnydJ7MsQ-eqhk39-6DWem9UQKrDXy4llx6ojA)
-
-![](https://lh5.googleusercontent.com/x4n0bCCfujzURxQS_8kq1Nd8ozyxjJCwgYCovD45yxywy6oIypMUT_WoLHuoCILNj88GW5wn-2KVkm_ljuzYpQqupqk_cx1u7UXay_py5xFMJ_jH3mW544gOJoSiVlTnm30-lU-afvVs9ZBsq_3dUcm7Dzb59cBtwiKbddW6bZMFHjOnRjlrhcyd1LzYb7ivvFkfxtGzow)
-
+![[Pasted image 20230117152955.png]]
+![[Pasted image 20230117153012.png]]
 -> charge négative, peuvent attirer cations
 
   
@@ -269,18 +247,10 @@ Bcp moins de fonctions de surfaces
 La plus communément trouvée est la gibbsite.
 
 Tant que y a de la silice on fait des argiles, donc se forme que dans sols très vieux et très altérés.
-
-![](https://lh6.googleusercontent.com/Sx3A3kYrRuxZKfoU4eVwgRjFAl5geBWz36PU7BCDeIUYa8AKIwHGrOWULDBGkmc7YzQeC6h4mDTLaPYjyYknznUP9YEQUuXRQNeX75GVrOVrYsS5vvkU2WpyeLYVBDaI0qZGb0va7vCSPNLFBli-ZKlHi6C5R71t_uqglZpn_SLm2brXRhhfynhvUCL8C30LspyDAUaVgw)
-
-  
+![[Pasted image 20230117153029.png]]
 
 Bilan
-
-![Une image contenant table
-Description générée automatiquement](https://lh6.googleusercontent.com/03fy_gaysI4I2Z_Wj8Sl4G-KNQ5V-ZFShRyUnPTBA6Vr6IdAamqu1VeLz1CZTBxgoNmQv1N_toIM7zAf_22hIXKhGjAieQJ36yxhE1MPGNxQBTsHTXyZvbu4U1tERv5mtuIta_1HRZCpIsZMuBA44Yxb06DeVcmwvcmQt71V7bTM_61OWn2j02A-BDba8OavCO_-mVkldQ)
-
-  
-
+![[Pasted image 20230117153045.png]]
 2] La fraction organique
 
   
@@ -300,11 +270,8 @@ Quelques situations ou matière organique est mélangée à horizon minéral : t
   
 
 La matière organique peut subir la minéralisation primaire
-
-![Une image contenant texte
-Description générée automatiquement](https://lh3.googleusercontent.com/nvuy_et725iXGfRn2QIT0jGWIz-6ZtjDoMMMEVMlQ-4vEhSsqYglRt5Nk4XjE0HGgmIZwBLYjxu3uMos-shYkyhDjSSXUVufgckIvPg_vOka-Wtj1lSyAuBl9J8Xyr4XjG_zZ8rItN2vchyGLpsuyWa0CWBLq5sxRXrhW2LfVS1AfW40BBgml6C4dhqDy_kzturoCfYj2Q)
-
-![](https://lh5.googleusercontent.com/S5hKqSymqFTpiex6Ly2fJX0K3KiIhRXqq8yxl27KI9d966GX-xLRalW4RMlr1EgxwpvANoNE8ALuI3EL8QuOGTD5xiLdfHChyOQuqCLSyxCnGH3eiTAStZqYHPUlww-7-81a-fjKEVOajJUu0BY5yB2NblvzY2B7wf_ZVtv_1lnO3CHeHfekiIbO4T351qWVsk9AtXvzrg)
+![[Pasted image 20230117153102.png]]
+![[Pasted image 20230117153126.png]]
 
   
 
@@ -315,14 +282,12 @@ En résulte une production de CO2.
 Humus = stockage du carbone dans les sols, pcq les molécules de la matière sont des molécules avec bcp de cycles aromatiques.
 
 Bactéries préfèrent s'attaquer aux cycles avec liaisons simples que cycle aromatiques (doubles liaisons ; difficile à casser). Et donc les cycles sont stockés dans le sol, stockage de carbone.
+![[Pasted image 20230117153141.png]]
+![[Pasted image 20230117153158.png]]
 
-![](https://lh3.googleusercontent.com/i-waiIkywRYtEfJlRmMSLI3sqEhc53Gz1Ce6o2G7ye99OwzqqOxc9kMvfdRzvwLRXV9PA43OJX7ufdSDBZPmC3w09QV6OWZpRvlnNTNu_XnL2XATWRuv__-GULibJQmJ09bCHxV98xWlFq9MFu07IHRDAZNEfzpcf8QtBEsTmRwaUSUb0EZScub758OWCZnsFtjNJN4GPw)
+![[Pasted image 20230117153214.png]]
 
-  
-  
-  
-
-![](https://lh6.googleusercontent.com/AwAylmj_94qJJo9FK4ayVeQjZ2T9-2N-iN21_8XEYg6CSGSt9TqWqJYkvktZu3oo6duNWDEwMvU_pjVk4GwApjwCMHSWLaUaJlsU_9s_RNpMYknmYDXi-ZOp9wfmvbcmB26iHiA1AoAFYGIFRWFRRfvwajOKmksP5bVoVRuPfKBDB1Zk1pJJaXFYfikWxTi9KQOGAcWXlw)
+![[Pasted image 20230117153226.png]]
 
 Fonctions chimiques, comme oxydes de fer, capables d'être chargées négativement et de capter les cations.
 
@@ -464,16 +429,13 @@ La rhizosphère (compartiment du sol avec son propre fonctionnement)
 
 6) Complexe argilo-humique
 
-![](https://lh6.googleusercontent.com/csa1tiUb7RA-54U_QCqt0HWGRDngFegKGN2xN-B_e3AnzvM9i5DpwKIQNHO1Q9qmbh_gVKrxwfMX8RpBIslEQEb5dgM8iZz7dt3v3JMc4XKpj6uGoQmfOaAiFXpfXCnocEj4zmBaoITrifauu1xLNCFVb69Dher18m84HzGzfeKkuuIpFfXCh0ECdgWOa-OJGsX0B0AfkA)![](https://lh3.googleusercontent.com/-GIlR4_Jskl_0CGGDclGfl45AcMK_In6v6OuuZ7yra64ddFasHkTZZZ5-51UqZS5Nga1lmWygxbcO_5ohiC8ixxO1HEQqNcSJqWTNnmfFrJDl6KnvKlczWd52vcoZq4SRk7_noq_iz6GfYP5LUsq0MmbkqEs4LGW1PU17YFzlPgVQvUjnVUmHoHazBaOr365bPSobVC2Dg)
-
+![[Pasted image 20230117153256.png]]
 Le complexe reste globalement négatif
 
 Argile = un des éléments les plus réactif dans le sol
 
 Meilleur que d'avoir que de l'argile ou que de la matière organique
-
-![](https://lh3.googleusercontent.com/pHI5yov9j31ulM5_e1FtSfzmGircmHQ3hDmIffbzbfSFsBvIRvD_bIh8gdW9Mmh6iOQZgLAb8Ua6WGV_8qWmCampxbu_AK1gtnAsmFdIxWQ3HACW8eF3X2Hda9sgcyRs2gZkJOQ3EuPVfE4ovv-l65voMpimJQr48LX_CjaXi5lk5JONLeCZQ95qIbFa0bq4ToPpeDbGDw)
-
+![[Pasted image 20230117153310.png]]
 Le pouvoir de rétention du complexe est bien plus fort que celui des argiles seuls.
 
 Les échanges suivent des règles, l'intensité de fixation varie selon les ions.
@@ -483,21 +445,13 @@ Les échanges suivent des règles, l'intensité de fixation varie selon les ions
 Les ions qui ont une très grande couche d’hydratation ne sont pas bien retenus.
 
 Alors que quand y a une petite couche d'hydratation, l'ion et le complexe sont plus proche.
-
-![](https://lh5.googleusercontent.com/vTYK2v60UWuGfh0nVdUmBK3J1MX0dJZL1bq_zwHhDzHDGx7gSWUw484A28hCiRtngjyrADouduBZ5mybqJECYPkKD8JIv05Ro5ahdXzlkqA3ixXIS_yoD6HLEJgvx6TXfOim4UjUkOpJfkLdWv7ujwkEXPDYZjzShuuZULp6ORC7gKSRCUBnwOfEZcW4U67QSqqU-Z_Tmg)
-
+![[Pasted image 20230117153325.png]]
 Autre règle très importante, c'est que l'échange d'ion suit les règles d'équilibre chimique.
-
-![](https://lh6.googleusercontent.com/AO-xIN7oKHRBZV5BFkVT0aVMJ3y-J8n2dyClivhjEexW2F7dTZiq1fZ1CwTXp2u7ZDMn8c1hSDN7m8VlDlnMaW9nIFdmYT1LfGHkPQ1OajMZ8Hs291k9OqMUhMJactB3O-bDqyWV07_aaInQSyw3fViIYDcYDZRGaKCJ__8Vap-JrGzF8Et32zoVGh65YXvm4YHEJpNuWg)
-
+![[Pasted image 20230117153343.png]]
 Tout changement de composition de la solution de sol entrainera un changement du complexe absorbant.
 
 L'échange d'ion va respecter l'équilibre des charges.
-
-  
-
-![](https://lh4.googleusercontent.com/t-itPNwjJH2bAjKNZrLNUGJhtVg4YSWcNvrbn8ckfP7crCXg1fp2Q44GqCDGZ8WMIF7qVO3Jo8jDlIiu6McdkQhDe6gMZXQCPcR-kdCtjhf6ebTgA_BMbWnJsZU2PIIyPtBWvQyYe5nSRijD-TteedsJiz8HebD7dj0MORAYTY1ylcxMtw_-Toq7AuLPGXCtsDi77L3Fiw)
-
+![[Pasted image 20230117153436.png]]
   
 
 Si les sols sont fertiles c'est dû aux attractions positif/négatif qui retient les oligo éléments (permet de retenir des éléments nécessaires à la croissance des plantes.
