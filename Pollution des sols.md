@@ -3,91 +3,55 @@
 
 ### I] Formation des sols
 
-Sol = interface entre atmosphère et lithosphère ?
-<ul>Interface importante car permet vie
-Matière première
-Rôle épurateur (êtres vivants et composants inorganiques)
-
-  
-
+**Sol = interface entre atmosphère et lithosphère ?**
+<ul>Interface importante car permet vie</ul>
+<ul>Matière première</ul>
+<ul>Rôle épurateur (êtres vivants et composants inorganiques)</ul>
+<br>
 Il est issu de la lithosphère.
 
-Lorsque la roche à la surface de la terre s'altère, les minéraux le constituant se désolidarisent     et en forment des nouveaux.
+Lorsque la roche à la surface de la terre s'altère, les minéraux le constituant se désolidarisent et en forment des nouveaux.
 
-Ex : roche plutonique; quand elle arrive à la surface, pression et température plus faibles et des éléments nouveaux (Oxygène, ions H+) et donc elle réagit (oxydation, hydrolyse) car plus du tout stable aux conditions de surfaces. Forme minéraux stables aux conditions de surface.
+		Ex : roche plutonique; quand elle arrive à la surface, pression et température plus faibles et des éléments nouveaux (Oxygène, ions H+) et donc elle réagit (oxydation, hydrolyse) car plus du tout stable aux conditions de surfaces. Forme minéraux stables aux conditions de surface.
 
   
 
 Arrivée à la surface elle se désagrège
-
 Couche= horizon minéral
-
 Cette couche va être colonisée par la faune et la flore (surtout)
-
-Cette flore va mourir, sa matière orga sera transformée et enrichira le sol
-
-  
+Cette flore va mourir, **sa matière orga sera transformée et enrichira le sol**
 
 ![[Pasted image 20230117152452.png]]
-
 Roche "pure" (pas sur du nom?)-roche désagrégée-horizon minéral-horizon organique
 
-  
-  
-
 Différentiation en horizon (migrations éléments sous impact des flux d'eaux souvent descendants)
-
 Réorganisation du sol
-
-Le sol grandit vers le bas et le haut (cf. schéma au-dessus, roche de plus en plus "au fond" car altération et apport matière organique en surface)
-
-Une nappe d'eau ce n’est pas un grand lac souterrain, c'est une zone de forte porosité du sol, remplie d'eau
+**Le sol grandit vers le bas et le haut** (cf. schéma au-dessus, roche de plus en plus "au fond" car altération et apport matière organique en surface)
+Une **nappe d'eau** ce n’est pas un grand lac souterrain, c'est une zone de forte porosité du sol, remplie d'eau
 
 Certains nombres de facteurs vont influencer formation des sols.
+###### 1er facteur : 
+<ul>matériaux parents, càd la roche-mère (donne naissance au sol).</ul>
+<ul>Cette roche va conditionner nature et propriété de la fraction minérale, donc, la couleur, la texture (lié à la granulométrie, quantité de sable, de limon et d'argile, qui est importante car définie la capacité à stocker de l'eau et à s'aérer), les propriétés hydrauliques, l'aération, la stabilité du sol (notamment dans les pentes), et sa fertilité car conditionne pH, donne sols acides ou basiques, mais aussi la CEC (capacité d'échange cationique), importante car bcp de composants capables de retenirs éléments (et ions) issus de l'altération, et c'est intéressant parce que sinon ils seraient emmenés par l'eau et donc seraient pas dispo pour les plantes. </ul>
 
-1er facteur : matériaux parents, càd la roche-mère (donne naissance au sol).
-
-  
-
-Cette roche va conditionner nature et propriété de la fraction minérale, donc,
-
-la couleur, la texture (lié à la granulométrie, quantité de sable, de limon et d'argile, qui est importante car définie la capacité à stocker de l'eau et à s'aérer), les propriétés hydrauliques, l'aération, la stabilité du sol (notamment dans les pentes), et sa fertilité car conditionne pH, donne sols acides ou basiques, mais aussi la CEC (capacité d'échange cationique), importante car bcp de composants capables de retenirs éléments (et ions) issus de l'altération, et c'est intéressant parce que sinon ils seraient emmenés par l'eau et donc seraient pas dispo pour les plantes.
-
-2ème facteur : le climat ;
-
-  
-
+###### 2ème facteur : 
+<ul><b>le climat </b></ul>
+<ul>
 Déterminant à l'échelle du globe.
+Il intervient au niveau des températures, qui contrôlent la vitesse des réactions chimiques (en général, chaud=rapide, froid=lent) et la nature et cristallinité des minéraux secondaires formés dans les sols. Température influence aussi activité biologique, et notamment processus microbiens (dégradation)</ul>
+<ul>Climat intervient aussi au niveau des précipitations. L'eau (LIQUIDE) intervient aussi dans les processus/réactions chimiques mais aussi des processus d'érosion (ruissellement de surface, écoulements, etc.), elle intervient aussi au niveau biologique (nb et types de plantes) tant en quantité de biomasse produite qu'en termes de processus microbiens (faut ni pas assez ni trop d'eau)
+Le climat intervient aussi au niveau du vent : principalement l'érosion.</ul>
+<ul>Globalement : climat chaud et humide : chimique et orga boostés, sols profonds avec roche altérée et sol fortement organique
+Au contraire, climat froid alors on aura sols peu développés, peu profonds, très jeunes, avec le minimum de minéraux secondaires et horizons bien marqués.</ul>
 
-Il intervient au niveau des températures, qui contrôlent la vitesse des réactions chimiques (en général, chaud=rapide, froid=lent) et la nature et cristallinité des minéraux secondaires formés dans les sols. Température influence aussi activité biologique, et notamment processus microbiens (dégradation)
-
-Climat intervient aussi au niveau des précipitations. L'eau (LIQUIDE) intervient aussi dans les processus/réactions chimiques mais aussi des processus d'érosion (ruissellement de surface, écoulements, etc.), elle intervient aussi au niveau biologique (nb et types de plantes) tant en quantité de biomasse produite qu'en termes de processus microbiens (faut ni pas assez ni trop d'eau)
-
-Le climat intervient aussi au niveau du vent : principalement l'érosion.
-
-  
-
-Globalement : climat chaud et humide : chimique et orga boostés, sols profonds avec roche altérée et sol fortement organique
-
-Au contraire, climat froid alors on aura sols peu développés, peu profonds, très jeunes, avec le minimum de minéraux secondaires et horizons bien marqués.
-
-3ème paramètre : végétation : 
-
-  
-
-Intervient sur l'apport de matière organique (qualité et quantité)
-
+###### 3ème paramètre : 
+<ul><b> La végétation </b></ul>
+<ul>Intervient sur l'apport de matière organique (qualité et quantité)
 Pas le même apport dans prairie et dans forêt
+Et même, feuillus =/= résineux (résineux acidifient sols)</ul>
 
-Et même, feuillus =/= résineux (résineux acidifient sols)
-
-  
-  
-
-4ème facteur : topographie
-
-  
-
+###### 4ème facteur : 
+<ul><b>La topographie</b></ul>
 Pas même chose en haut, bas, milieu de pente.
 
 Bas de pente récupère tous les les produits de l'érosion et sera donc épais, alors que milieu est bcp plus fins (le haut jsp je n’ai pas eu le temps de noter)
