@@ -414,101 +414,75 @@ Sources industrielles : extraction production des métaux
 Hydrocarbures
 Atmosphérique : pluies acides
 
-#####A) Les sources agrochimiques
-
-  
+**A) Les sources agrochimiques**
 
 Essentiellement les fertilisants organiques et inorganiques, tout ce qui est phytosanitaire (garde les plantes en bonne santé : pesticide, fongicide, insecticide) et tous les rejets (majoritairement accidentels) d'hydrocarbures.
 
-Pourquoi est-ce que les fertilisants posent problèmes ? La plupart ont des métaux lourds.
-
+Pourquoi est-ce que les fertilisants posent problèmes ? 
+La plupart ont des métaux lourds.
 Le problème est que certains sols sont fertilisés depuis des années, donc les métaux lourds vont se concentrer, c'est la problématique.
 
-Pesticides : tuent autres organismes, pas toujours ceux visés d'ailleurs. Les soucis de ces phytosanitaires, comme les métaux lourds, se concentrent dans le sol, car ce sont des M.O, et que le sol a plein de M.O, il y a une affinité, attraction hydrophobe Hydrophobes "apolaire" car bcp de carbones.
-
+**Pesticides :** tuent autres organismes, pas toujours ceux visés d'ailleurs. Les soucis de ces phytosanitaires, comme les métaux lourds, se concentrent dans le sol, car ce sont des M.O, et que le sol a plein de M.O, il y a une affinité, attraction hydrophobe Hydrophobes "apolaire" car bcp de carbones.
 Mais avec solution de sol migrent dans réseau souterrain hydrographique.
-
 Certaines nappes souterraines contiennent donc des pesticides interdit depuis qq dizaines d'années. 
-
 Relargués par changements de conditions physicochimiques.
-
 Certains de ces phytosanitaires sont volatils, puis se retrouvent dans l'atmosphère globale.
 ![[Pasted image 20230117153906.png]]
-Première ligne A, B et C sont des insecticides, sont des organophosphorés ; ces pesticides ont pour objectifs de dérégler le système nerveux des insectes.
+*Première ligne A, B et C sont des insecticides, sont des organophosphorés ; ces pesticides ont pour objectifs de dérégler le système nerveux des insectes.
 
-Deuxième ligne A B C pesticides organochlorés détruisent TOUT. Exemple le ddt.
-
+*Deuxième ligne A B C pesticides organochlorés détruisent TOUT. Exemple le ddt.*
 Leur souci est que ces organochlorés persistent très longtemps dans l'environnement
 
-Troisième ligne : est fait pour tuer nématodes, mollusques, insectes, vise système nerveux.
+*Troisième ligne : est fait pour tuer nématodes, mollusques, insectes, vise système nerveux.*
 ![[Pasted image 20230117153932.png]]
 Nicotine est un insecticide naturel.
 
-  
-
 Peptides reconnaissent comme un acide aminé (uréides) le glyphosate, et donc organismes vivants vont mourir, mais le pb c'est que le glyphosate a une demi vie de 60 ans.
-
 Urée, herbicide efficace, et a pas d'impact sur les mammifères "pissez sur les plantes et elles disparaitront".
 ![[Pasted image 20230117153949.png]]
 ![[Pasted image 20230117154000.png]]
-De 7.16 à 7.18 ce sont des fongicides
+*De 7.16 à 7.18 ce sont des fongicides*
 ![[Pasted image 20230117154031.png]]
 
-B) Les sources urbaines
+**B) Les sources urbaines**
+
 ![[Pasted image 20230117154043.png]]
 La pollution c'est pas forcément un métal lourd, c’est un apport d'un élément exogène dans le sol ;
-
 Par exemple du sable du btp, change le sol.
-
 Gros pb de pollution des sols ont augmenté avec l'activité humaine.
-
 A l'heure actuelle, les sources urbaines de pollution sont transport, industriel, et la gestion des déchets.
-
-  
 
 Activités industrielles:
 ![[Pasted image 20230117154059.png]]
 ![[Pasted image 20230117154116.png]]
-Graph évolution métaux lourds en dans les cendres.
+*Graph évolution métaux lourds en dans les cendres.*
 
 Cendres= matières organiques.
-
 Bitume= polluants
-
 Voitures : pots catalytiques par exemple
 
   ![[Pasted image 20230117154133.png]]
   ![[Pasted image 20230117154144.png]]
 Déchets urbains et station d'épuration
-
 Le sol à un rôle épurateur, et considérer comme bon moyen de se débarrasser des déchets. Il a beaucoup été utilisé pour traiter les boues de stations d'épuration.
 ![[Pasted image 20230117154203.png]]
-43% des boues dans épandage agricole, car bcp de matière organique dedans (engrais)
+- 43% des boues dans épandage agricole, car bcp de matière organique dedans (engrais)
+- 33% compostées
+- 18% incinérées (peu rentable car remplie d'eau)
 
-33% compostées
-
-18% incinérées (peu rentable car remplie d'eau)
-
-IV] Mécanisme interactions sols polluants
-
-  
+## IV] Mécanisme interactions sols polluants
 
 Interactions sols polluants dépends mécanismes chimiques.
-
-3.  Groupes de processus 
-    
-
+3 Groupes de processus 
 -   Rétention (dans et sur le sol)
     
 -   Infiltration diffusion et transport
     
 -   Modifications chimiques ou biologies.
     
-
   ![[Pasted image 20230117154222.png]]
   ![[Pasted image 20230117154232.png]]
 -> solution/précipitation/oxydo = surtout valable pour métaux
-
 -> volatilisation/échanges d’ions/transformation = surtout pour la M.O.
 
 ![[Pasted image 20230117154245.png]]
@@ -516,3 +490,8 @@ Interactions sols polluants dépends mécanismes chimiques.
 Oxyde de fer : atome de fer entouré d’oxygène, à sa surface y a f(x) de surface -> polluants s’accrochent.
 
 ![[Pasted image 20230117154318.png]]
+<br>
+<br>
+<br>
+___
+[[Sol]]
