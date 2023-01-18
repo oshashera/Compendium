@@ -113,7 +113,7 @@ Situation:
 H0? "la répartition des observations dans les différents groupes est conforme à la répartition attendue"
 
 **Statistique de test?**
-==[insérer image 2]==
+![[Pasted image 20230118161218.png]]
 
 1. Calcul des effectifs dans chaque catégorie (table de contingence)
 	- tab_sample <- table(sample)
@@ -160,7 +160,7 @@ On calcule :
 
 $$E_{ij=N.}\frac{O_i}{N}.\frac{O_j}{N} $$
 
-==[insérer photo diapo]==
+
 
 #### Test du chi² sur R
 
@@ -168,7 +168,6 @@ $$E_{ij=N.}\frac{O_i}{N}.\frac{O_j}{N} $$
 	- tab=table(sample1, sample2)
 2. Réalisation du test du chi²
 
-==récup diapo==
 
 #### Test exact de Fisher
 
@@ -177,4 +176,7 @@ Alternative au test du chi² : contrairement au test du chi², est valide même 
 Contrairement au test du chi², on peut calculer la p-value directement "à la main"
 
 Démarche:
-==récup diapo==
+1) Créer la table de contingence *tab*
+2) Réaliser le test exact de Fisher : 
+	fisher.test(tab,alternative = "two.sided") 
+Il existe d'autres valeurs pour alternative (dans le CM8)
