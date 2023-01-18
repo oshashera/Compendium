@@ -244,8 +244,18 @@ Alternance de générations dans le cycle de la vie
 Chez Bryophyte, génération dominante, c'est la génération gamétophytique qui est dominante, et chez trachéophyte c'est devenu la génération sporophytique qui est dominante.
 
 **Spores** et **gamètes** sont formés dans des organes (**-ange** = enveloppe) et non plus dans des cellules (**cystes**)
-[diapo spores et gamètes]
+[diapo spores et gamètes embryo vs thallphytes]
 
 
+## Les "bryophytes" au sens large
 
-
+- Végétaux verts terrestres de petite taille (<70 cm)
+- Appareil végétatif feuillé (mousses et hépatiques) ou thalloïdes (hépatiques/anthocérotes)
+- Pas de racines mais des rhizoïdes : **CORMUS incomplet**
+*rhizoïdes, éléments pouvant être unicellulaire résultant d'une élongation d'une cellule de l'épiderme pour assurer l'ancrage OU parfois pluricellulaire mais unisérié (une file de cellules), parois cellulosiques, donc perméable à l'eau donc aux éléments nutritifs ;
+racine, pluricellulaire, différents tissus*
+- Végétaux **non vasculaires**. Absence de tissus lignifiés
+- Spores recouvertes de sporopollénines.
+- **Cuticule fine** recouvrant l'épiderme
+- Archégones et anthéridies permettant une fécondation interne : **cryptogames**
+- Cycle digénétique à **gamétophyte dominant** et sporophyte toujours dépendant du gamétophyte (le sporophyte va s'alimenter sur le gamétophyte)
