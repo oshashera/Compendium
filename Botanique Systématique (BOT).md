@@ -217,7 +217,10 @@ Chez charophytes et Embryophytes microtubules perpendiculaires au plan de divisi
 boite = apparitions importantes
 
 Dans embryophytes:
--> Bryophytes *s.l.*
+-> Bryophytes *s.l.* (sens large)
+* Anthocérotes
+* Hépatiques
+* Mousses ou Bryophytes *s.t.* (sens strict)
 -> trachéophytes (plantes vasculaires)
 <br>
 
@@ -281,4 +284,13 @@ Seulement 4 espèces d'Anthocérotes en France, on en trouve en inde aussi mais 
 **L'anthéridie**
 - issue d'une cellule sous-épidermique et non d'une cellle superficielle de la face dorsale comme chez les bryophytes au sens strict et les Marchantiophytes
 -  perce l'épiderme -> forme chambre ouverte sur l'extérieur à maturité pour permettre la libération des gamètes mâles
-- 
+
+**Le sporophyte (2n)**
+La capsule du sporophyte présente des stomates et des cellules chlorophylliennes
+[insérer schéma diapo]
+Cylindrique, à très forte polarité de développement : la partie basale reste au stade juvénile (bcp de divisions), alors que la partie apicale a terminé la différenciation des spores.
+
+[diapo du démon]
+*suçoir pcq dépendant du gamétophyte*
+
+[diap]
