@@ -194,6 +194,26 @@ Innovations évolutives importantes permettant l'adaptation à la vie terrestre
 "depuis y a des trucs qui ont changé"
 
 [diapo les chlorobiontes arbre rose]
+"oogamie = deux gamètes de taille différentes, femelle sans flagelle, grande, et avec réserves, et le male avec flagelle, sans réserve, petit"
+"tellophase, séparation du contenu cellulaire des 2 filles en 2 cellule, apparition du plasmodesme, permet une continuité cytoplasmique entre les deux cellules adjacentes
+"
+[diapo phragmoplaste]
+Chez les algues vertes au cours de la division cellulaire on voit que le contenu cellulaire, matos génétique (rouge) va se séparer, l'orientation de la division se fait dans le sens des microtubules => phycoplasme
+Chez charophytes et Embryophytes microtubules perpendiculaires au plan de division => phragmoplaste, vesicules se forment vers l'extérieur, pour faire reconstitution centrales
 
+[arbre embryo frère de zygmatales] update récente
 
+#### Evolution de l'arbre phylogénétique des premières Embryophytes
+
+*Jusque vers 2010*, les Charophytes (algues vertes), plus proches des Embryophytes et plus particulièrement des ==[récup texte diapo]==
+
+*2012 à 2018*, les zygnématophycées plus proches des embryophytes
+
+*Fin 2019*, embryophytes et Zygnématophycées partagent au moins 2 gènes qui interviennnet dans la résistance à la dessication (*PYL* et *Gras*)
+
+*Donc* le dernier ancêtre commun était déjà adapté à la vie terreste
+
+[arbre encore, chrolophylle b, amidon etc moncul]
+boite = apparitions importantes
+Cellulose da
 
