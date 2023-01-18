@@ -291,6 +291,15 @@ La capsule du sporophyte présente des stomates et des cellules chlorophyllienne
 Cylindrique, à très forte polarité de développement : la partie basale reste au stade juvénile (bcp de divisions), alors que la partie apicale a terminé la différenciation des spores.
 
 [diapo du démon]
-*suçoir pcq dépendant du gamétophyte*
+*suçoir pcq dépendant du gamétophyte
+élétère ou jsp quoi sont diploïdes*
 
-[diap]
+[diapo du cyle de vie du démon d'une anthocérote]
+*toujours caractériser le cycle : ici : digénétique, hétéromorphe (sporophyte n'a rien à voir morphologiquement avec le gamétophyte ; haplodiplophasique (n into 2n), isosporie (spores de même taille), ne produisent donc qu'un type de gamétophyte -> isoprothallie*
+
+### I.2 Hépatiques, Hépatichophytes ou Marchantiophytes
+
+- Soit **talloïdes**, soit **feuillées**, le gamétophyte présente une **symétrie dorso-ventrale**
+- les feuilles sont souvent lobées ou découpées, **sans nervures** -> "feuilles" sont des phyllidies
+- Leurs cellules sont **isodiamétriques** et contiennent pour certaines un organite particulier, unique à ce groupe : les **oléocorps**
+
