@@ -269,3 +269,16 @@ racine, pluricellulaire, différents tissus*
 
 1 famille: Anthocerotaceae ; 6 genre ; 301 sp.
 Seulement 4 espèces d'Anthocérotes en France, on en trouve en inde aussi mais surtout aux US
+
+[diapo anthocérotes -> le gamétophyte ; capsule allongé du sporophyte]
+
+[diapo appareil végétatif thalloïde = gamétophyte (n)]
+*pyrénoïde (concentré de protéine et des enzyme responsables de la photosynthèse, RubisCo en particulier) caractérise ce groupe (anthocérotes) et sont aussi présent chez des algues vertes -> caractère ancestral*
+
+[diapo reproduction du gamétophyte (n)]
+*eau nécessaire à la fécondation -> zoïdogamie, caractère ancestral*
+
+**L'anthéridie**
+- issue d'une cellule sous-épidermique et non d'une cellle superficielle de la face dorsale comme chez les bryophytes au sens strict et les Marchantiophytes
+-  perce l'épiderme -> forme chambre ouverte sur l'extérieur à maturité pour permettre la libération des gamètes mâles
+- 
