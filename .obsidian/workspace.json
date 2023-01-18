@@ -11,24 +11,8 @@
             "id": "ff9fb5b6f000978c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c99d161ada1cbcad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La tige.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -37,14 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La tige - tp.md",
-                "mode": "preview",
+                "file": "Botanique Systématique (BOT).md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La tige - tp.md",
+                "file": "Botanique Systématique (BOT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La tige - tp.md",
+                "file": "Botanique Systématique (BOT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La tige - tp.md"
+                "file": "Botanique Systématique (BOT).md"
               }
             }
           },
@@ -196,15 +180,15 @@
   },
   "active": "bae33ed01c6e8dce",
   "lastOpenFiles": [
+    "Sol.md",
+    "Botanique Systématique (BOT).md",
+    "La tige - tp.md",
     "La tige.md",
     "La feuille.md",
     "La racine.md",
     "L'épiderme.md",
-    "Sol.md",
     "Texture minérale des sols (td).md",
     "Pollution des sols.md",
-    "Appareil végétatif et adaptations.md",
-    "Structures reproductrices des spermaphytes.md",
-    "18-01-2023.md"
+    "Appareil végétatif et adaptations.md"
   ]
 }

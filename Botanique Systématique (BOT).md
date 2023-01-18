@@ -175,5 +175,25 @@ Les "plantes" sont définies comme des groupes naturels d'organismes descendant 
  -> création de groupes artificiels / paraphylétiques
 > 
 > Certains organismes photosynthétiques se sont formés et on évolué indépendamment les un des autres.
+<br>
+<br>
+<br>
+## Le passage du milieu marin originel au milieu aérien
+### Emergence des plantes terrestres ou Embryophytes
+
+Les premiers végétaux sur le milieu terrestre => embryophytes
+
+Innovations évolutives importantes permettant l'adaptation à la vie terrestre
+- Protection contre la déshydratation
+- Régulation des échanges (notamment eau, nutriments, pdts de la photosynthèse)
+- Port et maintien des plantes
+- Protection (et miniaturisation) des éléments de reproduction
+- Développement de relations symbiotiques végétaux / champignons / bactéries
+
+[diapo arbres chlorobiontes]
+"depuis y a des trucs qui ont changé"
+
+[diapo les chlorobiontes arbre rose]
+
 
 
