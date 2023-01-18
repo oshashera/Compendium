@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biostatistique IB2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biostatistique IB2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biostatistique IB2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,17 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bae33ed01c6e8dce",
+  "active": "ff9fb5b6f000978c",
   "lastOpenFiles": [
     "La tige - tp.md",
+    "La tige.md",
+    "Appareil végétatif et adaptations.md",
+    "Biostatistique IB2.md",
     "Botanique Systématique (BOT).md",
     "Sol.md",
-    "La tige.md",
     "La feuille.md",
     "La racine.md",
     "L'épiderme.md",
-    "Texture minérale des sols (td).md",
-    "Pollution des sols.md",
-    "Appareil végétatif et adaptations.md"
+    "Texture minérale des sols (td).md"
   ]
 }

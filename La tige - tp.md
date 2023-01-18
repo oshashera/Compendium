@@ -149,4 +149,6 @@ Cellules hétérogènes:
 **SCHEMA FINAL**
 ![](https://lh6.googleusercontent.com/Rn1ffoFMroKtqJhz5XJvq83GJChTggNj0dQX9rC2f4HCcYwxUYR6X455GzDvOF9fKtcxP320ZftPKtaPT-C2ZS1Y5538ydwV_49PY2RIZqFaZpWUR-WdcbQBe12OL5w6Z8XARC4XlbBXOJhZOZlo7h2CMAq_qYNcWbvRKFB4YKDGpy_Qnjmi2sas0lMNo6wVJ7WcFxqYlw)
 
-  
+___
+[[Appareil végétatif et adaptations]]
+[[La tige]]
