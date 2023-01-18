@@ -247,7 +247,7 @@ Chez Bryophyte, génération dominante, c'est la génération gamétophytique qu
 [diapo spores et gamètes embryo vs thallphytes]
 
 
-## Les "bryophytes" au sens large
+## I. Les "bryophytes" au sens large
 
 - Végétaux verts terrestres de petite taille (<70 cm)
 - Appareil végétatif feuillé (mousses et hépatiques) ou thalloïdes (hépatiques/anthocérotes)
@@ -259,3 +259,13 @@ racine, pluricellulaire, différents tissus*
 - **Cuticule fine** recouvrant l'épiderme
 - Archégones et anthéridies permettant une fécondation interne : **cryptogames**
 - Cycle digénétique à **gamétophyte dominant** et sporophyte toujours dépendant du gamétophyte (le sporophyte va s'alimenter sur le gamétophyte)
+
+[diapo cycle digénétique bryophyte de mes couilles]
+*règle, typo différente pour différencier évènement (fécondation/méiose) rapidement, autre diapo pour la phase (sporo/gametophyte), couleur: n=bleu, 2n=rouge*
+
+[diapo réparition des bryophytes en 3 lignées du démon de ses morts]
+
+### I.1 Anthocérotes : anthocérophytes
+
+1 famille: Anthocerotaceae ; 6 genre ; 301 sp.
+Seulement 4 espèces d'Anthocérotes en France, on en trouve en inde aussi mais surtout aux US
