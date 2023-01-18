@@ -230,8 +230,22 @@ Dans embryophytes:
 - Tissus a fonctions particulières (ex: épiderme -> protection)
 - Cuticule épidermique
 - Sporopolléline, Spores à paroi épaisse
-- Archégoniates (archégone, gamétange femelle) + Anthéridies (gamétange mâle)
-- Cycles à 2 générations dit **digénétique**
+- Archégoniates (archégone, gamétange femelle, produit gamète femelle) + Anthéridies (gamétange mâle, produit gamète mâle)
+- Cycles à 2 générations dit **digénétique** (-> sprophytes (2n) résulte de la fécondation des gamètes, gamétophyte (n) résulte de la germination des spores, archégone/ anthéridie)
+
+##### Définition:
+
+**Une génération** : un individu issu d'un type de cellules reproductrices (spores ou gamètes) **et**
+formant de nouvelles cellules reproductrices (spores ou gamètes), *après une vie végétative marquée par la présence de cellule(s), dite(s), végétative(s)*
+
+Alternance de générations dans le cycle de la vie
+[mettre diapo arbre bleu-rouge de merde]
+
+Chez Bryophyte, génération dominante, c'est la génération gamétophytique qui est dominante, et chez trachéophyte c'est devenu la génération sporophytique qui est dominante.
+
+**Spores** et **gamètes** sont formés dans des organes (**-ange** = enveloppe) et non plus dans des cellules (**cystes**)
+[diapo spores et gamètes]
+
 
 
 
