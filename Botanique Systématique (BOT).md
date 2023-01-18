@@ -145,11 +145,13 @@ Mais on constate également des endosymbioses secondaires
 élimine cyanobactéries
 
 - Les végétaux au sens phylogénétique
-En phylogénie , les végétaux (*au sens fonctionnel* ) : groupe non valide, car polyphylétique, à moins de les ré
-==[récup diapo qu'elle a skip]==
+En phylogénie , les végétaux (*au sens fonctionnel* ) : groupe non valide, car polyphylétique.
+A moins de les restreindre a une lignée monophylétique : plusieurs possibilités (dimension subjective) -> conception fonctionnelles et phyllogénétiques non superposées
+![[Pasted image 20230118151701.png]]
+
 
 Bilan sur la pluralité du concept de végétal
-![[Pasted image 20230111191100.png]]
+![[Pasted image 20230118151720.png]]
 -> quand on parle de végétal on doit dire quelle définition on utilise;
 
 #### Qu'est-ce qu'une algue ?
@@ -161,7 +163,7 @@ Tout organisme effectuant la photosynthèse oxygénique (chlorophylle a) qui n'e
 - [ ] Algues brunes unicellulaires (diatomées) et pluricellulaires (*Fucus*)
 **GROUPE POLYPHYLETIQUE**
 
-![[Pasted image 20230111191121.png]]
+![[Pasted image 20230118151738.png]]
 *phycobilisomes (glaucophytes)
 -> pigments surnuméraires
 - *= phycocyanines*
