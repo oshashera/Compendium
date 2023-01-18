@@ -36,7 +36,7 @@ La fin de cette période va être dominée par les travaux de:
 Va définir la *taxinomie* ou *taxonomie* (Taxon = ordre, arrangement) comme la science des loies de la classification des êtres vivants, avec des règles basées sur les conceptions linnéennes (1735).
 
 Classe -> Ordre -> Famille -> Genre -> espèce
-![[Pasted image 20230111185311.png]]
+![[Pasted image 20230118150620.png]]
 Exemple de même genre différentes espèces
 * Quercus robur / Quercus petraea (chênes => genre) 
 * Fagus sylvatica (hêtre) 
@@ -58,7 +58,7 @@ Emergence au 19ème s. de nouvelles disciplines dans les Sciences de la Biodiver
 **Haeckel** (1866, allemand)
 - Inventeur du terme "phylogénie", et de nombreux termes et concepts (phylum, ontogenèse, phylogenèse, clade et **écologie**)
 - Première phylogénie du monde vivant 
-![[Pasted image 20230111185451.png]]
+![[Pasted image 20230118150658.png]]
 
 ### Les objectifs de la systématique
 
@@ -66,11 +66,15 @@ Emergence au 19ème s. de nouvelles disciplines dans les Sciences de la Biodiver
 ET
 - Les classer en groupes ou taxons dans un système cohérent et hiérarchisé (taxonomie), *qui reflètent les liens de parenté entre les organismes (basés sur la **phylogénie, relations de parenté*** selon le principe énoncé par Darwin de "Descendance avec modification")
 
-![[Pasted image 20230111190213.png]]
+![[Pasted image 20230118150720.png]]
 La "*systématique phylogénétique*" ne prendra en compte que les groupes **monophylétiques** (un seul ancêtre commun) ou **groupes naturels**.
+![[Pasted image 20230118150948.png]]
+La *systématique* : une discipline synthétique intégrative pour tous les domaines de la biologie et de ses applications
 
-La *systématique* : une discipline intégrative 
-==[récup diapo elle a skip le diapo]==
+Intègre:
+- la description et l'identification
+- la classification (taxonomie)
+- la phylogénie (relation de parenté et histoire évolutive) de la diversité biologique
 <br>
 1. Conception traditionnel, phénétique (démarche ancienne)
 *Groupe non naturel, défini par des caractères communs mais ayant évolués de façon indépendante*
@@ -93,7 +97,7 @@ O2 est **toxique** pour les organismes
 
 Origine de la mitochondrie
 -Endosymbiose d'une bactérie (cl. alpha-protéobactéries) dans une cellule eucaryote primitive **précurseur des eucaryotes** (Hypo de Lynne Margulis 1966).
-![[Pasted image 20230111190320.png]]
+![[Pasted image 20230118151015.png]]
 - Les bactéries absorbées deviennent des **mitochondries** et permettent la **respiration**
 - **Evenement fondateur de la lignée des Eucaryotes**
 
@@ -101,12 +105,12 @@ Arbre de la vie - 3 grands domaines du vivant (pas encore bien définis)
 Pour l'instant on considère : bactérie, archébactéries, et Eucaryotes
 
 Arbre phylogénétique des Eucaryotes
-![[Pasted image 20230111190350.png]]
+![[Pasted image 20230118151032.png]]
 Archaeplastida = lignée verte -> ce qui nous intéresse
-==[arbre de L1 OVIV Eucaryotes]==
+![[Pasted image 20230118151054.png]]
 
 Origine des lignées végétales -> Endosymbiose primaire du chloroplaste (estimé à il y a 1,8 Ga années)
-![[Pasted image 20230111190456.png]]
+![[Pasted image 20230118151120.png]]
 
 **Endosymbiose primaire** : une cyanobactérie phagocytée par une cellule eucaryote hétérotrophe
 ![[Pasted image 20230111190534.png]]
@@ -119,22 +123,21 @@ cpDNA ressemble à celui des procaryotes:
 - Machinerie de protéines photosynthétiques
 
 Mais on constate également des endosymbioses secondaires
-![[Pasted image 20230111190624.png]]
-![[Pasted image 20230111190653.png]]
-
-**Endosymbioses secondaires**
+![[Pasted image 20230118151134.png]]
+![[Pasted image 20230118151209.png]]
+![[Pasted image 20230118151310.png]]**Endosymbioses secondaires**
 - Une cellule eucaryote photosynthétique a fagocité une cellule hôte eucaryote hétérotrpohe (chloroplasme à 3-4 mb)
-![[Pasted image 20230111190743.png]]
+![[Pasted image 20230118151226.png]]
 
-![[Pasted image 20230111190854.png]]
+![[Pasted image 20230118151300.png]]
 <br>
 
-![[Pasted image 20230111190920.png]]
+![[Pasted image 20230118151352.png]]
 
 #### Qu'est ce qu'un végétal ?
 
 * Définition selon une classification fonctionnelle: physiologique et écologique
-![[Pasted image 20230111191028.png]]
+![[Pasted image 20230118151414.png]]
 
 * Conception fonctionnelle et cellulaire
 "La" cellule végétale *eucaryote* **photosynthétique** avec plastes et paroi
@@ -142,7 +145,7 @@ Mais on constate également des endosymbioses secondaires
 élimine cyanobactéries
 
 - Les végétaux au sens phylogénétique
-En phylogénie , les végétaux (*au sens fonctionnel* )
+En phylogénie , les végétaux (*au sens fonctionnel* ) : groupe non valide, car polyphylétique, à moins de les ré
 ==[récup diapo qu'elle a skip]==
 
 Bilan sur la pluralité du concept de végétal
