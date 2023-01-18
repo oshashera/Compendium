@@ -98,7 +98,7 @@ Deux (principaux) test du chi²
 
 Une table de contingence contient le nombre d'occurences de chaque modalité d'une variable qualitative, ou de chaque couple de modalité si on a 2 variables
 Tableau de modalité croisée si 2 variables
-==[insérer image 1]==
+![[Pasted image 20230118161047.png]]
 
 		Construction de la table de contingence dans r:
 		 table(variable1)
