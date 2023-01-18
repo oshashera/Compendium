@@ -215,5 +215,23 @@ Chez charophytes et Embryophytes microtubules perpendiculaires au plan de divisi
 
 [arbre encore, chrolophylle b, amidon etc moncul]
 boite = apparitions importantes
-Cellulose da
+
+Dans embryophytes:
+-> Bryophytes *s.l.*
+-> trachéophytes (plantes vasculaires)
+<br>
+
+### Embryophytes, groupe monophylétique
+
+#### Les Embryophytes: plantes terrestres
+(Bryophytes *s.l.*, Fougères, Gymnospermes, Angiospermes) > 300 000 sp.
+- Embryon (génération du sporophyte 2n) protégé au moins lors des 1ers stades du développement
+- Cormophytes (*cormus* = tige feuillée) -> on parle pas encore de racine, ca apparait plus tard
+- Tissus a fonctions particulières (ex: épiderme -> protection)
+- Cuticule épidermique
+- Sporopolléline, Spores à paroi épaisse
+- Archégoniates (archégone, gamétange femelle) + Anthéridies (gamétange mâle)
+- Cycles à 2 générations dit **digénétique**
+
+
 
