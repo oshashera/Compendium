@@ -148,3 +148,11 @@ Portée générale de l'évaluation environnementale au niveau réglementaire
 
 ## Le diagnostique écologique fait appel à des notions-clés d'écologie
 
+***Haeckel** (1866)* : "Etude de l'interaction entre les organismes vivants et leur environnement"
+-> définition très vaste ("environnement" = contour, ce qui entoure)
+***Krebs** (1972)* : "Etude des interactions qui déterminent la distribution etl 'abdondance des organismes'"
+>=> Conception naturaliste de l'écologie
+
+***Von Bertalanffy** (1972)* : Integration de concepts et méthodes de la théorie des systèmes et de la théorie de l'évolution 
+-> écologie fonctionnelle, écologie évolutive
+>=> conception systémique de l'écologie
