@@ -106,4 +106,33 @@ Convention sur la diversité biologique (CBD, 1999, Rio), stratégie nationale p
 **Code de l'environnement : qu'est ce que l'environnement?**
 **Livre premier, titre premier**
 Article L110-1
-I- Les espaces, ressources et milieux naturels, les sites et paysages, la qualité d
+I- Les espaces, ressources et milieux naturels, les sites et paysages, la qualité de l'air, les espèces animales et végétales, la diversité et les équilibres biologiques auxquels ils participent font partie du patrimoine commun de la nation
+II- Leur protection, leur mise en valeur, leur restauration, leur remise en état et leur gestion sont d'intérêt général et concourent à l'objectif de développement durable qui vise à satisfaire les besoins de développement et la santé des générations présentes sans compromettre la capacité des générations futures à répondre aux leurs.
+
+Article L110-2
+Les lois et règlements organisent le droit de chacun à un environnement sain et contribuent à assurer un équilibre harmonieux entre les zones urbaines et les zones rurales.
+Il est du devoir de chacun de veiller à la sauvegarde et de contribuer à la protection de l'environnement.
+Les personnes publiques et privées doivent, dans toutes leurs activités, se conformer aux mêmes exigences.
+
+
+**Grands principe du droit de l'environnement**
+1) Le principe de précaution : potentiel d'atteinte à l'environnement 
+-> procédures d'évaluation des risques, procédures de réparation des dommages
+2) Le principe de prévention : 
+-> mesures pour prévenir les atteintes à l'environnement et/ou les limiter
+3) Principe pollueur-payeur
+-> les frais liés aux pollutions (prévention, rédution, lutte/réparation) sont supportés par le pollueur
+4) Le principe de participation
+-> chacun a accès aux informations relatives à l'environnement
+-> le public est associé au processus d'élaboration des projets ayant une incidence importante sur l'environnement ou l'aménagement du territoire (enquêtes publiques)
+
+#### Le diagnostic écologique s'intègre dans le cadre de l'évaluation environnementale 
+
+L'évaluation environnementale vise à
+- décrire l'état écologique d'un site/système écologique (à un instant T ou au cours du temps)
+- d'analyser les forces et faiblesses du site
+- d'identifier les enjeux environnementaux prioritaires
+- de proposer des actions permettant de les prendre en compte
+>=> analyser et intégrer les enjeux environnementaux à un projet/plan (amon -> aval du projet)
+
+=> Nécessité d'une implication des acteurs de ter
