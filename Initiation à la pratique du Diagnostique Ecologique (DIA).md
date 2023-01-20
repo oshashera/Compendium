@@ -65,10 +65,26 @@ Ecosystèmes:
 - Valeurs intrinsèques de la biodiversité -> indépendantes de toute utilisation/intérêts pour l'Homme
 - Valeurs d'usages de l'écosystème -> associées aux fonctions écologiques assurées par l'écosystème ; liées à l'utilisation par l'Homme de ces milieux
 
-![[Drawing 2023-01-20 12.04.28.excalidraw]]
+![[Socio-écosystème schéma]]
 Nécessite de prendre en compte: les activités socio-économiques, et les acteurs du monde socio-économique
 
 Environnement -> approche multidisciplinaire à l'interface de 5 sphères
 - Biosphère *(Biota, abondance des espèces, physiologie, teneur en éléments (flux))
 - Anthroposhère *(Usage des terres, économie, transport)
-- Atmosphère *(Pollua*
+- Atmosphère *(Polluants, vent (vitesse), GES (gaz à effet de serre))*
+- Lithosphère *(Paramètre du sol, minéralogie, géologie de la roche mère, chimie du sol*
+- Hydrosphère *(Nappe phréatique, écoulement de surface, sédimentation, eutrophisation)*
+=> "Science of the total environnement"
+
+=> Sciende l'environnement total
+[récup diapo]
+
+
+#### Contexte historique : prise en compte de l'environnement dans les activités humaines
+
+- 1948, Fontainebleau : Création de l'**Union internationale pour la Conservation de la Nature** (U.I.C.N)
+- 1962 Publication du livre "Le printemps silencieux" de la biologiste Rachel Carlson
+- 1972 Stockholm : conférence des nations unies sur l'environnement : notion d'éco-développement, généralisation des études d'impact sur l'environnement et de l'éducation à l'environnement
+- 1980 Première mention du développement durable par l'UICN dans son ouvrage "Stratégie mondiale de la conservation"
+- 1992 Rio, Sommet de la Terre : "Déclaration de Rio sur l'environnement et le développement durable", Agenda pour le XXIe siècle "Action 21"
+- 
