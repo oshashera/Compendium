@@ -58,4 +58,17 @@ Relations d'interdépendances qui existe entre l'Homme, les sociétés et les co
 #### ... et de socio-écosystème ####
 
 Ecosystèmes: 
--
+-> exploités par l'Homme
+-> notion de valeurs associées
+
+**Valeurs associées à l'écosystème au sein du socio-écosystème**
+- Valeurs intrinsèques de la biodiversité -> indépendantes de toute utilisation/intérêts pour l'Homme
+- Valeurs d'usages de l'écosystème -> associées aux fonctions écologiques assurées par l'écosystème ; liées à l'utilisation par l'Homme de ces milieux
+
+![[Drawing 2023-01-20 12.04.28.excalidraw]]
+Nécessite de prendre en compte: les activités socio-économiques, et les acteurs du monde socio-économique
+
+Environnement -> approche multidisciplinaire à l'interface de 5 sphères
+- Biosphère *(Biota, abondance des espèces, physiologie, teneur en éléments (flux))
+- Anthroposhère *(Usage des terres, économie, transport)
+- Atmosphère *(Pollua*

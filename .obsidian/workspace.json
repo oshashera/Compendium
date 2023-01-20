@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "602cd68cba0731b0",
@@ -177,8 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cb9a3bd14249ec4",
+  "active": "f0c49ebe9abc546f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-20 12.04.28.excalidraw.md",
+    "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "La tige - tp.md",
     "La tige.md",
     "Appareil végétatif et adaptations.md",
@@ -186,8 +187,6 @@
     "Botanique Systématique (BOT).md",
     "Sol.md",
     "La feuille.md",
-    "La racine.md",
-    "L'épiderme.md",
-    "Texture minérale des sols (td).md"
+    "La racine.md"
   ]
 }
