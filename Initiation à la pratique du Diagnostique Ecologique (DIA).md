@@ -106,13 +106,13 @@ Convention sur la diversité biologique (CBD, 1999, Rio), stratégie nationale p
 **Code de l'environnement : qu'est ce que l'environnement?**
 **Livre premier, titre premier**
 Article L110-1
-I- Les espaces, ressources et milieux naturels, les sites et paysages, la qualité de l'air, les espèces animales et végétales, la diversité et les équilibres biologiques auxquels ils participent font partie du patrimoine commun de la nation
-II- Leur protection, leur mise en valeur, leur restauration, leur remise en état et leur gestion sont d'intérêt général et concourent à l'objectif de développement durable qui vise à satisfaire les besoins de développement et la santé des générations présentes sans compromettre la capacité des générations futures à répondre aux leurs.
+- *I- Les espaces, ressources et milieux naturels, les sites et paysages, la qualité de l'air, les espèces animales et végétales, la diversité et les équilibres biologiques auxquels ils participent font partie du **patrimoine commun de la nation**
+- II- Leur protection, leur mise en valeur, leur restauration, leur remise en état et leur gestion **sont d'intérêt général et concourent à l'objectif de développement durable** qui vise à satisfaire les besoins de développement et la santé des générations présentes sans compromettre la capacité des générations futures à répondre aux leurs.*
 
 Article L110-2
-Les lois et règlements organisent le droit de chacun à un environnement sain et contribuent à assurer un équilibre harmonieux entre les zones urbaines et les zones rurales.
-Il est du devoir de chacun de veiller à la sauvegarde et de contribuer à la protection de l'environnement.
-Les personnes publiques et privées doivent, dans toutes leurs activités, se conformer aux mêmes exigences.
+*Les lois et règlements organisent le **droit de chacun à un environnement sain** et contribuent à assurer un équilibre harmonieux entre les zones urbaines et les zones rurales.
+Il est du **devoir de chacun** de veiller à la sauvegarde et de contribuer à la protection de l'environnement.
+Les personnes **publiques et privées doivent**, dans toutes leurs activités, **se conformer aux mêmes exigences.**
 
 
 **Grands principe du droit de l'environnement**
@@ -135,4 +135,16 @@ L'évaluation environnementale vise à
 - de proposer des actions permettant de les prendre en compte
 >=> analyser et intégrer les enjeux environnementaux à un projet/plan (amon -> aval du projet)
 
-=> Nécessité d'une implication des acteurs de ter
+=> Nécessité d'une implication des acteurs de terrain
+**PROCESSUS D'AIDE A LA DECISION**
+
+Portée générale de l'évaluation environnementale au niveau réglementaire
+
+[insérer schéma diapo (schéma général de la démarche d'évaluation environnementale...)]
+
+
+![[Evaluation environnementale]]
+
+
+## Le diagnostique écologique fait appel à des notions-clés d'écologie
+
