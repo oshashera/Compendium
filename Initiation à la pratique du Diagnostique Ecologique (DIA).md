@@ -87,4 +87,23 @@ Environnement -> approche multidisciplinaire à l'interface de 5 sphères
 - 1972 Stockholm : conférence des nations unies sur l'environnement : notion d'éco-développement, généralisation des études d'impact sur l'environnement et de l'éducation à l'environnement
 - 1980 Première mention du développement durable par l'UICN dans son ouvrage "Stratégie mondiale de la conservation"
 - 1992 Rio, Sommet de la Terre : "Déclaration de Rio sur l'environnement et le développement durable", Agenda pour le XXIe siècle "Action 21"
-- 
+- 2002 Johannesburg, sommet mondial du développement durable
+
+Développement durable : "un développement qui répond aux besoins du présent sans compromette la capacité des générations futures de répondre aux leurs"
+*les 3 piliers : Social, Environnement, Economique*
+
+Convention sur la diversité biologique (CBD, 1999, Rio), stratégie nationale pour la biodiversité (SNB) -> prise en compte accrue de la biodiversité dans les politiques publiques et industrielles
+
+-1930, Loi sur la protection des monuments naturels, sites et paysages
+-1971, création du ministère de l'Environnement
+-1976, 
+<ul> -> Loi 76-629 du 10 juillet 1976 relative à la protection de la nature <br>
+"aucune action privée ou publique n'est neutre pour l'environnement: il est donc désormais obligatoire d'en apprécier à l'avance les conséquences collectives. L'étude d'impact est l'élément principal permettant cette prise en compte." <br>
+<br>
+-> Loi 76-663 du 19 juillet 1976 sur les installaction classées pour la protection de l'environnement (ICPE) dont site CEVESO par exemple, ou les éoliennes </ul>
+-2000, création du code de l'environnement pour ordonner la législation sur l'environnement
+
+**Code de l'environnement : qu'est ce que l'environnement?**
+**Livre premier, titre premier**
+Article L110-1
+I- Les espaces, ressources et milieux naturels, les sites et paysages, la qualité d

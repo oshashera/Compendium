@@ -4,17 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b32be448f6a3f4e0",
+        "id": "15c7b12d190924cf",
         "type": "tabs",
         "children": [
-          {
-            "id": "fbd643da5502f134",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "db01904bec264871",
             "type": "leaf",
@@ -26,9 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbd643da5502f134",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,6 +187,7 @@
   },
   "active": "db01904bec264871",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md",
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "Excalidraw/Socio-écosystème schéma.md",
     "La tige - tp.md",
@@ -196,7 +196,6 @@
     "Biostatistique IB2.md",
     "Botanique Systématique (BOT).md",
     "Sol.md",
-    "La feuille.md",
-    "La racine.md"
+    "La feuille.md"
   ]
 }
