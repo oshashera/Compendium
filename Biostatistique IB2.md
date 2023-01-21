@@ -112,7 +112,22 @@ Situation:
 
 H0? "la répartition des observations dans les différents groupes est conforme à la répartition attendue"
 
-**Statistique de test?**
+###### Statistique de test?
+
+**Répartition observée**
+| K     | L     | M     |
+| ----- | ----- | ----- |
+| $O_K$ | $O_L$ | $O_M$ |
+-> à comparer aux proportions théoriques $P_K$, $P_L$, $P_M$
+
+| K     | L   | M   |
+| ----- | --- | --- |
+| $q_K$ | $q_L$    | $q_M$     |
+*avec*  $q_{K}= \frac{O_K}{O_K+O_L+O_M}$
+<br>
+$(P_K-q_K)^2+(P_L-q_L)^2+(P_M-q_M)^2$
+
+T = $\sum$
 ![[Pasted image 20230118161218.png]]
 
 1. Calcul des effectifs dans chaque catégorie (table de contingence)

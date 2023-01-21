@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
+                "file": "Biostatistique IB2.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "6ed4f1aaa4fa258d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -107,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
+                "file": "Biostatistique IB2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
+                "file": "Biostatistique IB2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md"
+                "file": "Biostatistique IB2.md"
               }
             }
           },
@@ -180,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
