@@ -23,21 +23,24 @@
             "id": "fbd643da5502f134",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "7c760490259cef9b",
+            "id": "6ed4f1aaa4fa258d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Evaluation environnementale.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +196,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0d6556087dc3267",
+  "active": "fbd643da5502f134",
   "lastOpenFiles": [
-    "Excalidraw/Evaluation environnementale.md",
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
-    "Excalidraw/Drawing 2023-01-16 15.57.57.excalidraw.md",
-    "Excalidraw/Socio-écosystème schéma.md",
-    "La tige - tp.md",
-    "La tige.md",
-    "Appareil végétatif et adaptations.md",
-    "Biostatistique IB2.md",
-    "Botanique Systématique (BOT).md",
-    "Sol.md"
+    "Autonomie.md",
+    "Champ de patate.md",
+    "Agroécologie.md",
+    "Associations et rotations culturales.md",
+    "Effet de bordure.md",
+    "Associations fixatrices d'azote.md",
+    "Lutte biologique.md",
+    "Ravageurs.md",
+    "Botanique Systématique (BOT).md"
   ]
 }

@@ -5,8 +5,37 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#s6",
+      "color": {
+        "a": 1,
+        "rgb": 14701173
+      }
+    },
+    {
+      "query": "tag:#excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 15987180
+      }
+    },
+    {
+      "query": "tag:#tantorum",
+      "color": {
+        "a": 1,
+        "rgb": 288518
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 15.8333333333333,
   "linkStrength": 0.614583333333333,
   "linkDistance": 67,
-  "scale": 1.4019828977761548,
+  "scale": 0.7132754626224698,
   "close": true
 }

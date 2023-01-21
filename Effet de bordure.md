@@ -1,3 +1,4 @@
+#tantorum
 ![[Pasted image 20221230175135.png]]
 
 L'effet de bordure (ou les effets de bordure) peuvent être bénéfiques comme négatifs pour un écosystème, ici, un agrosystème.

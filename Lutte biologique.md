@@ -1,4 +1,4 @@
-
+#tantorum 
 Une des pratiques issues de l'[[Agroécologie]], permet de selon les cas, de  prévenir, réduire le développement ou limiter les populations de [[Ravageurs]].
 
 ## Définition de la lutte biologique et utilisations 
