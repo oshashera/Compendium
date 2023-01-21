@@ -124,11 +124,16 @@ H0? "la répartition des observations dans les différents groupes est conforme 
 | ----- | --- | --- |
 | $q_K$ | $q_L$    | $q_M$     |
 *avec*  $q_{K}= \frac{O_K}{O_K+O_L+O_M}$
+vs $P_K,P_L,P_M$
 <br>
 $(P_K-q_K)^2+(P_L-q_L)^2+(P_M-q_M)^2$
 
-T = $\sum$
-![[Pasted image 20230118161218.png]]
+T = $\sum_{j=1}^{J}\frac{(O_j-N.P_j)^2}{N.P_{j}}$
+avec:
+- N = $O_{K}+ O_{L} + O_M$ = effectif total
+- $O_j$ l'effectif observé
+- $N.P_j$ l'effectif théorique
+
 
 1. Calcul des effectifs dans chaque catégorie (table de contingence)
 	- tab_sample <- table(sample)
