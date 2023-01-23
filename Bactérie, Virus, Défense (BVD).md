@@ -46,3 +46,21 @@ Il faut donc trouver un moyen de les identifier et les classer malgré tout.
 ![[Pasted image 20230123104922.png]]
 ¤Chémotaxonomie, étude de la composition chimique des constituants des cellules.
 
+#### I- La taxonomie phénotypique
+
+A) Les caractéristiques utilisées
+
+![[Pasted image 20230123105832.png]]
+
+Colonie = ensemble/amas d'individus issus de la division d'une seule bactérie
+
+B) La chemotaxonomie
+
+C) Les résultats
+
+![[Pasted image 20230123110142.png]]
+Conception des 5 règnes dépassé ajd
+Celui des procaryotes est divisé en 4 division (nom des divisons/ caractéristiques à retenir, mais pas les noms des classes, sauf pour division !)
+
+
+####
