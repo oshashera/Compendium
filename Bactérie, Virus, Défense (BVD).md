@@ -32,4 +32,17 @@ Pourquoi on s'est intéressé aux bactéries alors que c'est difficile à observ
 => le domaine du médical, essor à la fin du 19ème siècle, découverte d'agents responsables de bactéries
 
 ![[Pasted image 20230123104443.png]]
+*liste mélange procaryotes et eucaryotes (pas bactéries)*
+
+### Les classifications du monde bactérien
+
+#### Introduction 
+
+Mode de reproduction et échanges de gènes très nombreux (dont échange horizontaux) donc difficile de classer les bactéries dans la définition standard de l'espèce.
+Il faut donc trouver un moyen de les identifier et les classer malgré tout.
+<br>
+
+**Histoire de classification des *Bacteria* et *Archea***
+![[Pasted image 20230123104922.png]]
+¤Chémotaxonomie, étude de la composition chimique des constituants des cellules.
 
