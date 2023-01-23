@@ -6,7 +6,7 @@ note finale = $\frac{2CC+3CT}{5}$
 
 # Les bactéries et les archées
 
-## I. Introduction
+## Introduction
 
 Séparation bactéries et archées
 Micro-organismes, pas visibles à l'oeil nu mais appartenant au monde vivant
@@ -101,7 +101,12 @@ Domaine des eucaryotes
 **C) Classification de Lecointre et Le Guyader**
 
 3ème édition en 2009, en 2013 ouvrage sur les plantes à fleurs, édition en septembre 2016
-
+<br>
+<br>
+___
+<br>
+<br>
+<br>
 ![[Pasted image 20230123112445.png]]
 *arbre moléculaire fondé sur l’ARN ribosomique 16S/18S*
 ![[Pasted image 20230123112528.png]]
@@ -109,4 +114,15 @@ pas de classification statique, ca boufe tjrs
 
 
 ![[Pasted image 20230123112554.png]]
-montre lien entre les 3 grands domaines, m
+montre lien entre les 3 grands domaines, montre échanges de gènes
+
+![[Pasted image 20230123112651.png]]
+<br>
+*A retenir : différentes représentation +/- complexe (une a connaitre au choix, juste les 3 domaines sans détails supplémentaires, et expliquer comment on est arrivé à cette arbre du vivant ajd (caractéristiques utilisées))
+
+___
+<br>
+<br>
+
+#### III- Définition phylogénétique d'une espèce bactérienne?
+
