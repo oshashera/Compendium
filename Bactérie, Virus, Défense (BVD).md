@@ -48,19 +48,39 @@ Il faut donc trouver un moyen de les identifier et les classer malgré tout.
 
 #### I- La taxonomie phénotypique
 
-A) Les caractéristiques utilisées
+**A) Les caractéristiques utilisées**
 
 ![[Pasted image 20230123105832.png]]
 
 Colonie = ensemble/amas d'individus issus de la division d'une seule bactérie
 
-B) La chemotaxonomie
+**B) La chemotaxonomie**
 
-C) Les résultats
+**C) Les résultats**
 
 ![[Pasted image 20230123110142.png]]
 Conception des 5 règnes dépassé ajd
-Celui des procaryotes est divisé en 4 division (nom des divisons/ caractéristiques à retenir, mais pas les noms des classes, sauf pour division !)
+Celui des procaryotes est divisé en 4 division (nom des divisons/ caractéristiques à retenir, mais pas les noms des classes, sauf pour division 3 et 4 puisque "synonymes"!)
 
 
-####
+#### II- La classification phylogénétique
+
+L'arrivée de la génomique a permis de mettre en avant l'importance des liens de parenté pour classer les micro-organismes
+
+**A) Les caractéristiques génomiques utilisées**
+
+1. Détermination du % de G+C (coeff de Chargaff, ce pourcentage est spécifique à une espèce)
+Pour appartenir à une même espèce il faut 97% d'homologie en G+C ou plus
+
+2. Hybridation DNA-DNA ou DDH
+
+![[Pasted image 20230123110843.png]]
+Propriété aussi utilisée pour la PCR
+Tm = température de dénaturation -> 50% ADN double brin, 50% ADN simple brin
+
+Entre deux organismes:
+![[Pasted image 20230123111239.png]]
+Ces deux critères sont utilisés comme caractères pour classer les bactéries
+Le pourcentage d'hybridation ADN-ADN doit être au moins de 70% et le deltaTm doit être inférieur ou égale à 5°C pour appartenir à la même espèce
+
+3. Une classification génotypique basée sur l'ARN 16S
