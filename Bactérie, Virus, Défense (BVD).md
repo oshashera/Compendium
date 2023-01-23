@@ -134,3 +134,18 @@ C'est le 16S qui est l'entrée principale, par ex le delta Tm seul ne suffit pas
 <br>
 
 #### IV- Comparaison des domaines Eucaryotes-Bactéries-Archées
+
+![[Pasted image 20230123115621.png]]
+*tableau outil de révision a enrichir*
+<br>
+
+## Conclusion
+
+Classification qui évolue énormément, avec comme moteurs le domaine médicale et le domaine agroalimentaire.
+Au niveau académique se pose tjrs la question de la classification de certains organismes au frontières, par exemple les *mégavirus*, découverts en 2003, à marseille, a découvert un mimi-virus qui est plus grand que d'habitude (plus grand que l'ordre nanomètre habituel) et 400 gènes (bien plus que d'habitude, les virus étaient souvent limité à qq protéines dont la capside).
+Ces méga virus sont un groupe ni bactérie ni archées ni eucaryotes qu'on sait pas très bien classer.
+
+On voit alors apparaitre ce genre de proposition:
+![[Pasted image 20230123120444.png]]
+
+*mimi-virus = microbe-mimicing virus,*
