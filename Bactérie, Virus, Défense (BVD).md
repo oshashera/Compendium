@@ -84,3 +84,29 @@ Ces deux critères sont utilisés comme caractères pour classer les bactéries
 Le pourcentage d'hybridation ADN-ADN doit être au moins de 70% et le deltaTm doit être inférieur ou égale à 5°C pour appartenir à la même espèce
 
 3. Une classification génotypique basée sur l'ARN 16S
+Molécule considéré comme une horloge, constitue une partie des ribosomes, comme ribosomique on le trouve chez toutes les cellules, intéressant pour comparaison, molécule bien conservé (structure) durant l'évolution, ARN abondants dans cellules qu'on sait purifier et étudier.
+Le 16S (S, coefficient de svedberd, coefficient de sédimentation).
+- Procaryotes : 30S avec 16S+protéines et grande sous unité 50S avec 23S et protéines -> ribosomes 70 S
+- Eucaryotes -> ribosome 80S
+
+**B) La classification de Woese**
+
+Première fois qu'on a les archées séparées des bactéries
+![[Pasted image 20230123112046.png]]
+Dans domaine des bactéries, on a le filum des chloroplastes, et celui des mitochondries (endosymbiose)
+Domaine des archées, plus proche des eucaryotes (séparé par critères génomiques)
+Domaine des eucaryotes
+
+
+**C) Classification de Lecointre et Le Guyader**
+
+3ème édition en 2009, en 2013 ouvrage sur les plantes à fleurs, édition en septembre 2016
+
+![[Pasted image 20230123112445.png]]
+*arbre moléculaire fondé sur l’ARN ribosomique 16S/18S*
+![[Pasted image 20230123112528.png]]
+pas de classification statique, ca boufe tjrs
+
+
+![[Pasted image 20230123112554.png]]
+montre lien entre les 3 grands domaines, m
