@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f41af677a1cac05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bactérie, Virus, Défense (BVD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dedcc54b4ff0a8e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-01-23 10.15.51.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biostatistique IB2.md",
+                "file": "Excalidraw/Drawing 2023-01-23 10.15.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biostatistique IB2.md",
+                "file": "Excalidraw/Drawing 2023-01-23 10.15.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biostatistique IB2.md"
+                "file": "Excalidraw/Drawing 2023-01-23 10.15.51.excalidraw.md"
               }
             }
           },
@@ -189,8 +211,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbd643da5502f134",
+  "active": "dedcc54b4ff0a8e4",
   "lastOpenFiles": [
+    "Bactérie, Virus, Défense (BVD).md",
+    "Biostatistique IB2.md",
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "Autonomie.md",
     "Champ de patate.md",
@@ -198,8 +222,6 @@
     "Associations et rotations culturales.md",
     "Effet de bordure.md",
     "Associations fixatrices d'azote.md",
-    "Lutte biologique.md",
-    "Ravageurs.md",
-    "Botanique Systématique (BOT).md"
+    "Lutte biologique.md"
   ]
 }
