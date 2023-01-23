@@ -148,4 +148,11 @@ Ces méga virus sont un groupe ni bactérie ni archées ni eucaryotes qu'on sait
 On voit alors apparaitre ce genre de proposition:
 ![[Pasted image 20230123120444.png]]
 
-*mimi-virus = microbe-mimicing virus,*
+*mimi-virus = microbe-mimicing virus, ajd plutôt appelé **megavirus** (4 grand types identifiés ajd)*
+
+___
+<br>
+<br>
+<br>
+<br>
+# La cellule bactérienne, une cellule originale
