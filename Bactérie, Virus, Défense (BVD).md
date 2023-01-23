@@ -126,6 +126,10 @@ ___
 
 #### III- Définition phylogénétique d'une espèce bactérienne?
 
+Pour définir et appartenir une espèce bactérienne ajd, avec les technologies actuelles, il faut une homologie de séquence supérieur ou égale à 97% au niveau des séquences des gènes codant les ARN 16S, delta Tm inférieur ou égal à 5°C entre 2 bactéries, et hybridations DNA-DNA supérieures ou égales à 70%.
+Définition principalement basée sur les techniques génomiques, et plus particulièrement focus sur les ARN 16S.
+On a parfois que l'accès aux génomes, par exemple certaines sp de microbiotes sont pas cultivables (enfin on arrive pas), donc c'est le critère principal.
+C'est le 16S qui est l'entrée principale, par ex le delta Tm seul ne suffit pas pour mettre dans la même espèce, il faut au moins le 16S.
 
 <br>
 
