@@ -21,3 +21,9 @@ Contraintes:
 
 *Il existe différents systèmes dunaires, dunes embryonnaires, dunes blanches, dunes grises (différents stades), et des espèces spécifiques à chaque système dunaire, la plupart du temps des espèces protégées*
 
+
+Protocole
+- Eau de javel (détruit contenu cellulaire, laisse que paroi)
+- Eau acétique 20% (technique du mordancage, perce des trous dans la paroi pour laisser le colorant dedans -> plus épaisse  = plus colorée)
+- Carmin-vert (colorant double, cellulose en rose, lignine en vert)
+
