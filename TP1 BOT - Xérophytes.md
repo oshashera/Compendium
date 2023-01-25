@@ -53,15 +53,20 @@ Epillet avec lemmes sans arêtes
 Rhizone horizontal
 
 
-| Mécanismes                   | Adaptation                       | Exemple                 |
-| ---------------------------- | -------------------------------- | ----------------------- |
-| Limitation de la perte d'eau | **cuticule** céreuse et épaisse  | Opiunta                 |
-|                              | Nombre réduit de **stomates**    |                         |
-|                              | Réduction de la surface foliaire |                         |
-|                              | Sunken stomata                   | Pinus                   |
-|                              | Stomates ouverts la nuit         | Carpobrotus edulis      |
-|                              | Duvet à la surface               | Sempervivum arachoideum |
-|                              | Feuilles incurvées               | Ammophilia              |
-| Stockage de l'eau            | Feuilles succulentes             | Bryophyllum             |
-|                              | Tige succulente                  | Caulanthus inflatus     |
-|                              | **tubercule** charnu             | Raphui                        |
+| Mécanismes                   | Adaptation                                                      | Exemple                   |
+| ---------------------------- | --------------------------------------------------------------- | ------------------------- |
+| Limitation de la perte d'eau | **cuticule** céreuse et épaisse                                 | Opiunta                   |
+|                              | Nombre réduit de **stomates**                                   |                           |
+|                              | Réduction de la surface foliaire                                |                           |
+|                              | Sunken stomata                                                  | Pinus                     |
+|                              | Stomates ouverts la nuit                                        | Carpobrotus edulis        |
+|                              | Duvet à la surface                                              | Sempervivum arachoideum   |
+|                              | Feuilles incurvées                                              | Ammophilia                |
+| Stockage de l'eau            | Feuilles succulentes                                            | Bryophyllum               |
+|                              | Tige succulente                                                 | Caulanthus inflatus       |
+|                              | **tubercule** charnu                                            | Raphionacme               |
+| Prise d'eau                  | système racinaire profond directement à la **nappe phréatique** | Acacia et Nerium oleander |
+|                              | système racinaire étendu peu profond                            |                         |
+|                              |  absorption de l'humidité de l'air                              | Tillandsia                                 |                           |
+
+
