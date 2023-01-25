@@ -70,3 +70,18 @@ Rhizone horizontal
 |                              |  absorption de l'humidité de l'air                              | Tillandsia                                 |                           |
 
 
+
+
+Tige: xylème et phloème superposés -> faisceau cribio-vasculaire
+épiderme et cuticule
+
+Racine: xylème et phloème alternés
+rhizoderme
+
+Une paroi cellulosique est une paroi perméable à l'eau et aux sels minéraux
+
+
+> Ici on a une symétrie bilatérale pour notre feuille d'oyat.
+
+Présence de poils (plus long aux extrém)
+Carènes ° vallécules permettent d'augmenter la surface protégée lors du repliement du limbe sur lui-même.
