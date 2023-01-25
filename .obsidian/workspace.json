@@ -11,8 +11,12 @@
             "id": "144338ed9dae3da3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Botanique Systématique (BOT).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -26,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e15907e26fc161d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP4 BOT - Trachéophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TP1 BOT - Xérophytes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TP1 BOT - Xérophytes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TP1 BOT - Xérophytes.md"
+              }
             }
           },
           {
@@ -192,13 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "144338ed9dae3da3",
+  "active": "ac0a93d54f564c5e",
   "lastOpenFiles": [
-    "TP2 BOT - Hydrophytes.md",
-    "TP1 BOT - Xérophytes.md",
-    "TP4 BOT - Trachéophytes.md",
-    "TP3 BOT - Gymnospermes.md",
     "Botanique Systématique (BOT).md",
+    "TP1 BOT - Xérophytes.md",
+    "TP3 BOT - Gymnospermes.md",
+    "TP2 BOT - Hydrophytes.md",
+    "TP4 BOT - Trachéophytes.md",
     "Anglais S6 on se fait ierch.md",
     "Vers de terre.md",
     "Champ de patate.md",

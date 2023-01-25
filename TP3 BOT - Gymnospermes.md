@@ -1,2 +1,2 @@
-#s6 #bot
+#bot
 Trachéophytes, gymnospermes

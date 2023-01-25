@@ -1,6 +1,10 @@
 #s6 #bot 
 20h de cours, 15h TD, 14h TP, 6h excursion botanique
 <br>
+CC1 : TP1 à 4 (6 mars)
+CC2  : TP5 à 8 (12 avril)
+CC3 : 17/18 avril, sortie botanique puis cc
+<br>
 
 Classification phylogénétique de la diversité des plantes/végétaux
 
