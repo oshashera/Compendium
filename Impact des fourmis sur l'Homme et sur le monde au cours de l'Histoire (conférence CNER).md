@@ -52,4 +52,8 @@ Un superorganisme est une colonie d'individus travaillant de concert pour produi
 - reine = cellules / fonction reproductrice
 
 Une vision biaisée des fourmis
--
+- Les fourmis seraient des travailleurses acharnées et assidues qui travaillent jusqu'à l'épuisement pour le bien commun
+- Cette image est fausse
+	- La moitié des ouvrières restent inactives
+	- Seules 3% restent en permanence en activité
+
