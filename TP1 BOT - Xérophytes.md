@@ -20,6 +20,7 @@ Contraintes:
 	- Mutations possibles dans les cellules (dégradation de l'ADN)
 
 *Il existe différents systèmes dunaires, dunes embryonnaires, dunes blanches, dunes grises (différents stades), et des espèces spécifiques à chaque système dunaire, la plupart du temps des espèces protégées*
+![[Plage]]
 
 
 Protocole
@@ -38,3 +39,29 @@ Ecologie
 Distribution géographique
 - Subatlantique. Espèce abondante sur la majorité des dunes littorales car favorisée par l'Homme (programmes de réhabilitation des dunes)
 
+![[Tige poacée]]
+<br>
+[[Cf diapo "Ammophila arenaria, fam. poacées, cl monocot"]]
+-> ligule bifide
+Feuilles vert grisâtres, pointues, à bords enroulés, 5 mm de large
+
+Panicule spiciforme, dense
+
+Epillet avec lemmes sans arêtes
+
+**Racines adventives**
+Rhizone horizontal
+
+
+| Mécanismes                   | Adaptation                       | Exemple                 |
+| ---------------------------- | -------------------------------- | ----------------------- |
+| Limitation de la perte d'eau | **cuticule** céreuse et épaisse  | Opiunta                 |
+|                              | Nombre réduit de **stomates**    |                         |
+|                              | Réduction de la surface foliaire |                         |
+|                              | Sunken stomata                   | Pinus                   |
+|                              | Stomates ouverts la nuit         | Carpobrotus edulis      |
+|                              | Duvet à la surface               | Sempervivum arachoideum |
+|                              | Feuilles incurvées               | Ammophilia              |
+| Stockage de l'eau            | Feuilles succulentes             | Bryophyllum             |
+|                              | Tige succulente                  | Caulanthus inflatus     |
+|                              | **tubercule** charnu             | Raphui                        |
