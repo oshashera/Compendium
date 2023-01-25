@@ -1,4 +1,4 @@
-#s6
+#s6 #bot 
 20h de cours, 15h TD, 14h TP, 6h excursion botanique
 <br>
 
