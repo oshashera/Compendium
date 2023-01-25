@@ -13,6 +13,11 @@ Indentify a debate question for everyone to debate on.
 Assign ourselves some roles, and group students and give them a role.
 (have to identify approximately 6 roles)
 
+___
+
+Idea for debate:
+
+"communications through mushrooms"
 
 
 
