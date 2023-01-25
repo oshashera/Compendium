@@ -27,3 +27,14 @@ Protocole
 - Eau acétique 20% (technique du mordancage, perce des trous dans la paroi pour laisser le colorant dedans -> plus épaisse  = plus colorée)
 - Carmin-vert (colorant double, cellulose en rose, lignine en vert)
 
+Morphologie
+- Tiges raides atteignant environ 120 cm de hauteur
+	- Très vivace, propagation via de longs rhizomes (tige souterraine à propagation généralement horizontale) => Plantée pour maintenir les dunes du littoral en place
+	- Tiges feuillées 
+
+Ecologie
+- dunes blanches mobiles en voie de fixation
+
+Distribution géographique
+- Subatlantique. Espèce abondante sur la majorité des dunes littorales car favorisée par l'Homme (programmes de réhabilitation des dunes)
+
