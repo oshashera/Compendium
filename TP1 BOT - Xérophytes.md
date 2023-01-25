@@ -83,5 +83,14 @@ Une paroi cellulosique est une paroi perméable à l'eau et aux sels minéraux
 
 > Ici on a une symétrie bilatérale pour notre feuille d'oyat.
 
-Présence de poils (plus long aux extrém)
+Présence de poils (plus long aux extrémités et plus cours dans les vallécules) qui piègent l'eau qui s'évapore
 Carènes ° vallécules permettent d'augmenter la surface protégée lors du repliement du limbe sur lui-même.
+Proportion tissus lignifié/cellulosique : bcp de tissus lignifiés -> rigidité et imperméabilisation des parois, limitation pertes eau.
+Face tjrs exposé à l'extérieur, que des tissus lignifiés
+
+
+Xylème -> tissu hétérogène:
+- trachéides (protoxylème) + vaisseaux (métaxylème)
+- fibres sclérenchymateuses
+- parenchyme de réserve (l+)
+Phloème -> tissu hétérogène
