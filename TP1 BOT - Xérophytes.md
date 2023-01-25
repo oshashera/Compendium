@@ -90,7 +90,12 @@ Face tjrs exposé à l'extérieur, que des tissus lignifiés
 
 
 Xylème -> tissu hétérogène:
-- trachéides (protoxylème) + vaisseaux (métaxylème)
+- trachéides (protoxylème) + vaisseaux (métaxylème) -> élements conducteurs lignifiés
 - fibres sclérenchymateuses
-- parenchyme de réserve (l+)
+- parenchyme de réserve (+/- lignifié)
 Phloème -> tissu hétérogène
+- tubes criblés + cellules compagnes
+- parenchyme cellulosique (rôle de réserve)
+- fibres sclérenchimateuses 
+
+> le protoxylème pointe toujours vers la face supérieure (ici le coté ou y a des poils)
