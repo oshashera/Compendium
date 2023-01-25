@@ -172,8 +172,8 @@
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "144338ed9dae3da3",
