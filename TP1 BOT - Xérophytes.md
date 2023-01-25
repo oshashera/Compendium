@@ -100,4 +100,5 @@ Phloème -> tissu hétérogène
 
 > le protoxylème pointe toujours vers la face supérieure (ici le coté ou y a des poils)
 
-
+==[[mettre diapo du prof de tp pour schéma]]
+[[refaire schéma morgan]]==
