@@ -32,3 +32,24 @@ Caractère social apparu très tard dans l'histoire évolutive des insectes
 
 
 Quel est le régime politique des fourmis???
+Le plus ressemblant est une anarchie organisée : elles agissent pcq elles ont besoin d'agir, pas sur ordre
+
+2 théories
+- **La connaissance globale**
+	- comportement inné, génétiquement codé
+- **La stygmergie**
+	- Mécanisme de coordination indirecte entre les individus, la trace laissée dans l'environnement par l'action initiale stimule une action suivante
+		- Auto organisation (ex: fait action, laisse phéromone, autres réagissent)
+		- Auto assemblage (réagit à forme, évolution forme stimule autre comportements)
+
+Le but de chaque être vivant est de se reproduire
+- Les ouvrières sont stériles
+- Leur seul moyen de transmettre leur gènes est que la reine elle-même se reproduise
+
+Un superorganisme est une colonie d'individus travaillant de concert pour produire un phénomène gouverné par la collectivité. C'eest un concept sociobiologique selon lequel une organisation comme une communauté, transcende les organes biologiques qui la composent
+- Phéromones = hormones
+- gardes = système immunitaire
+- reine = cellules / fonction reproductrice
+
+Une vision biaisée des fourmis
+-
