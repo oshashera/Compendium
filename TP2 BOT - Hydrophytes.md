@@ -89,6 +89,6 @@ Comparé au xérophylles:
 - cylindre central >>>> écorce -> tige
 - pas de stomates, car directement sous l'épiderme du collenchyme (paroi primaire (cellulosique) épaisse (grotréroz), pas d'espaces entre les cellules)
 - empilement de 2 cellules parfois = poils tecteurs bicellulaires -> témoigne d'ancêtre terrestres
-
+m
 ![[Pasted image 20230201160525.png]]
 
