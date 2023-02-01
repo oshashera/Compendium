@@ -53,4 +53,21 @@ Pétiole nénuphare un peu singulier : circulaire et ressemble à une tige (orga
 Limbe nénuphare :
 - Face sup, aspect d'une feuille de plante terreste : épiderme avec stomates, parenchyme palissadique assimilateur,...
 - **Face inférieure caractéristique d'une plante aquatique:** grandes lacunes aérifères, épiderme à cuticule fine et sans stomates 
--
+
+
+
+##### La pesse d'eau ou l'hippuris
+
+Classe : Magnoliopsida
+Fam. Hippuridaceae
+Genre : Hippuris .sp
+
+Aire de distribution: zones tempérées du globe (eaux stagnantes froides et peu profondes : les marais), jusqu'à 1500 m d'altitude
+
+- protégée dans de nombreuses régions
+- plante aquatique émergent (20 à 40 cm de haut)
+- Elle est rhizomateuse, vivace, au fauillage caduc.
+- introdute en bassing, étang pour ses propriétés **épuratives**
+- maintenant utilisée dans les stations d'épuration qui utilisent le lagunage
+
+
