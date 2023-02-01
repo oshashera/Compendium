@@ -12,3 +12,12 @@ Trachéophytes, Angiospermes
 
 ## Hydrophytes : Adaptation aux milieux aquatiques
 
+Nénuphar
+Fam. Nymphéacées (Dicot. Proches des Renonculacées)
+
+*Nymphaea alba* (nénuphar blanc)
+- Fleurs de 12 à 15 cm de diamètre
+- 4s bicolores (vert/blanc) + 15 à 18 P + nE + 15C
+- Espèce européenne, protégée (petites populations)
+![[Schéma nénuphar blanc]]
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Hydrophytes Hélophytes schéma.md"
+                "file": "Excalidraw/Schéma nénuphar blanc.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "2f728be332a046ff",
   "lastOpenFiles": [
+    "Excalidraw/Schéma nénuphar blanc.md",
     "Excalidraw/Hydrophytes Hélophytes schéma.md",
     "TP2 BOT - Hydrophytes.md",
     "Questions pour le TP2 de bot.md",
@@ -198,7 +199,6 @@
     "Excalidraw/TP1 bot différentiation critères.md",
     "Mails stages.md",
     "Anglais S6 on se fait ierch.md",
-    "To do List.md",
-    "TP Pucerons - bandes fleuries.md"
+    "To do List.md"
   ]
 }
