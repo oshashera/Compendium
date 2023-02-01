@@ -7,11 +7,13 @@ ___
 - [ ] Récup TD (1) BVD
 - [ ] Récup 1 cm de DIA
 - [ ] Update cm de Bot
+- [ ] Récup 1 cm de IB2
 - [x] Update TP1 BOT - Xérophytes avec schéma de fin
+	- [ ] (faut encore insérer une diapo mais y a pas les diapo)
 <br>
 ___
 ## Préparations
-- [ ] Mail demande de stage écobio vie du sol avril si possible
+- [ ] Mail demande de stage écobio vie du sol avril si possible **==URGENT==**
 <br>
 ___
 ## Update Obsdian avec les anciennes UE

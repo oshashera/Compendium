@@ -23,18 +23,6 @@
             "id": "2c29e6fb68e7947e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP1 BOT - Xérophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bffcf2a970222b8",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -52,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TP1 BOT - Xérophytes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TP1 BOT - Xérophytes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TP1 BOT - Xérophytes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,17 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7be871a0628971b5",
+  "active": "2c29e6fb68e7947e",
   "lastOpenFiles": [
+    "TP1 BOT - Xérophytes.md",
+    "TP Pucerons - bandes fleuries.md",
+    "Excalidraw/Drawing 2023-02-01 07.16.19.excalidraw.md",
+    "To do List.md",
     "Excalidraw/TP1 bot différentiation critères.md",
     "Biblio.md",
-    "To do List.md",
     "Botanique Systématique (BOT).md",
     "Pédologie.md",
     "Texture minérale des sols (td).md",
-    "Pollution des sols.md",
-    "Sol.md",
-    "TP1 BOT - Xérophytes.md",
-    "Impact des fourmis sur l'Homme et sur le monde au cours de l'Histoire (conférence CNER).md"
+    "Pollution des sols.md"
   ]
 }
