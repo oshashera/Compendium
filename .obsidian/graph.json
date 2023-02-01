@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#bot",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 15.8333333333333,
   "linkStrength": 0.614583333333333,
   "linkDistance": 67,
-  "scale": 0.7132754626224783,
-  "close": true
+  "scale": 0.5087618855792859,
+  "close": false
 }

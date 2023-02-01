@@ -1,4 +1,4 @@
-	#bot 
+#bot 
 
 > **Xérophytes** : plantes des milieux secs, stress hydrique
 

@@ -11,17 +11,9 @@
             "id": "144338ed9dae3da3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2287a5156f21b60",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Impact des fourmis sur l'Homme et sur le monde au cours de l'Histoire (conférence CNER).md",
+                "file": "To do List.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,8 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bffcf2a970222b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,12 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "602cd68cba0731b0",
@@ -192,10 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "144338ed9dae3da3",
+  "active": "2bffcf2a970222b8",
   "lastOpenFiles": [
-    "To do List.md",
     "TP1 BOT - Xérophytes.md",
+    "To do List.md",
     "Impact des fourmis sur l'Homme et sur le monde au cours de l'Histoire (conférence CNER).md",
     "Excalidraw/Drawing 2023-01-25 18.04.15.excalidraw.md",
     "Excalidraw/TP1 bot différentiation critères.md",
