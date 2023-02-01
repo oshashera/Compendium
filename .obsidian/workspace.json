@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "000ecdfc40edcc88",
+            "id": "079a0f1d51d65302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais S6 on se fait ierch.md",
+                "file": "Mails stages.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anglais S6 on se fait ierch.md",
+                "file": "Mails stages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anglais S6 on se fait ierch.md",
+                "file": "Mails stages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anglais S6 on se fait ierch.md"
+                "file": "Mails stages.md"
               }
             }
           },
@@ -190,9 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "000ecdfc40edcc88",
+  "active": "079a0f1d51d65302",
   "lastOpenFiles": [
     "Questions pour le TP2 de bot.md",
+    "Anglais S6 on se fait ierch.md",
     "To do List.md",
     "TP1 BOT - Xérophytes.md",
     "TP Pucerons - bandes fleuries.md",
@@ -200,7 +201,6 @@
     "Excalidraw/TP1 bot différentiation critères.md",
     "Biblio.md",
     "Botanique Systématique (BOT).md",
-    "Pédologie.md",
-    "Texture minérale des sols (td).md"
+    "Pédologie.md"
   ]
 }
