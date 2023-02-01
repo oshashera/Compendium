@@ -94,7 +94,9 @@ m
 *méat = espace intercellulaire, bordé par 3 cellules, si bordé par plus on parle de petite lacune*
 
 cercle avec croix = fibre sclérenchymateuse isolée/seule 
+lacune aquifère (protoxylème résorbé)
 
+[[insérer schéma global moi et diapo]]
+[[update photo faisnceaux vasculaires hugo]]
 
-[[insérer schéma]]
-[[update avec cm du cou]]
+Devoir: diagnose organe, systématique, adaptation
