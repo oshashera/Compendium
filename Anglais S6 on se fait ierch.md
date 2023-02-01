@@ -20,8 +20,7 @@ Idea for debate:
 "communications through mushrooms"
 
 
-
-
+___
  
 
 
