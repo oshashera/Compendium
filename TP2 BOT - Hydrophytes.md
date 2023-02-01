@@ -48,4 +48,9 @@ Pétiole nénuphare un peu singulier : circulaire et ressemble à une tige (orga
 ##### Feuille:
 <u>Face sup:</u>
 - épiderme finement cutinisé + stomates 
--  
+-  ![[mésophylle nénuphare]]
+
+Limbe nénuphare :
+- Face sup, aspect d'une feuille de plante terreste : épiderme avec stomates, parenchyme palissadique assimilateur,...
+- **Face inférieure caractéristique d'une plante aquatique:** grandes lacunes aérifères, épiderme à cuticule fine et sans stomates 
+-
