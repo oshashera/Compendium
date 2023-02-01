@@ -62,13 +62,35 @@ Dossier
 - info perso, cv, bacc, relevé de notes post bac justifiant 180 ects ou 5 semestres si le dernier est pas encore disponible
 - + des éléments uniques à chaque mention (lettre motive, avi poursuitte étude, lettre recommandation)
 
+
+Critères: **LETTRE DE MOTIVATION**, les résultats dans les matières de la spécialité d'intérêt pour le master
+
 On peut avoir
 - Refus motivé
 - Positionnement en liste d'attente
 - Avis favorable
 
-Critères: **LETTRE DE MOTIVATION**, les résultats dans les matières de la spécialité d'intérêt pour le master
-
 Le candidat peut alors :
 - soit refuser
 - soir accepter provisoirement (pcq on veut voir si on est pris finalement accepté dans une autre formation)
+- soit accepter définitivement
+**ATTENTION** 
+1) on peut accepter définitivement qu'une seule proposition
+2) on ne peut accepter provisoirement qu'une seule proposition. on doit alors indiquer sur la plateforme les voeurx encore en attente que vous souhaitez conserver
+
+Les délais de réponse sont les suivant :
+- 48h pour les propositions initiales (aka 2j plus tard 23h59 max) (recues avant le 24 juin inclus)
+- 24h pour tt les propositions recues entre le 25 juin et le 20 juillet inclus (i.e avant 23h59 le jour suivant)
+
+QUe ces passe t il le 21 juillet? (hors formation alternance)
+- si accepté provisoirement, une proposition est considérée comme acceptée définitivmeent, et on doit s'inscrire dans l'établissement concerné
+- si aucune proposition, une notiffication de non admission est envoyée, qui permettra si les conditions sont rempliées, de saisir le recteur.
+
+L'acceptation ne vaut pas inscription, en tout état de cause, vous devez aller vous inscrire administrativement au niveau de l'établissement. Si vous ne respectez pas le calendrier d'inscription de l'établissement vous risquez de perdre le bénéfice de la proposition et la place peut être reproposée à un autre étudiant en attente. -> SURVEILLER LES MAILS ET LES PROCEDURES ADMINISTRATIVES DE L'ETABLISSEMENT -> inscrit avant le 21 juillet.
+
+
+Questions relatives à une mauvaise utilisation de la plateforme (erreur dans mon  dossier de candidature)
+écrire à l'adresse contact.monmaster@enseignementsup.gouv.fr
+
+**ATTENTION** ne faite pas d'erreur dans la réponse aux établissement
+
