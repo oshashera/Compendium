@@ -56,6 +56,7 @@ Limbe nénuphare :
 
 
 
+
 ##### La pesse d'eau ou l'hippuris
 
 Classe : Magnoliopsida
@@ -81,5 +82,13 @@ Aire de distribution: zones tempérées du globe (eaux stagnantes froides et peu
 - endorderme à cadre de caspari (sert à gérer l'entrée d'eau et d'ions)-> racine (de dicotylédone)
 Mais si on prends en compte le milieu de vie du nénuphar, les éléments pointant vers une racine sont en réalité des adaptations.
 
+##### Nénuphar 
 Comparé au xérophylles:
-- très peu de tissus lignifiés, majorité de tissus cellulosiques, perméables à l'eau et au sel minéraux, suggère
+- très peu de tissus lignifiés, majorité de tissus cellulosiques, perméables à l'eau et au sel minéraux, suggère vie dans un milieu plutôt aqueux pcq sensible à déshydratation.
+- présence de grosse lacunes aérifères, plus grandes au centre
+- cylindre central >>>> écorce -> tige
+- pas de stomates, car directement sous l'épiderme du collenchyme (paroi primaire (cellulosique) épaisse (grotréroz), pas d'espaces entre les cellules)
+- empilement de 2 cellules parfois = poils tecteurs bicellulaires -> témoigne d'ancêtre terrestres
+
+![[Pasted image 20230201160525.png]]
+

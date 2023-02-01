@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29c546f96375eebd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/mésophylle nénuphare.md"
-              }
-            }
-          },
-          {
             "id": "2f728be332a046ff",
             "type": "leaf",
             "state": {
@@ -40,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ceb1ec3167cdd1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botanique Systématique (BOT).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,9 +191,9 @@
   },
   "active": "2f728be332a046ff",
   "lastOpenFiles": [
-    "Botanique Systématique (BOT).md",
-    "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
+    "TP2 BOT - Hydrophytes.md",
+    "Botanique Systématique (BOT).md",
     "Excalidraw/mésophylle nénuphare.md",
     "Excalidraw/Schéma nénuphar blanc.md",
     "Excalidraw/Hydrophytes Hélophytes schéma.md",
