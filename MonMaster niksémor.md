@@ -88,9 +88,14 @@ QUe ces passe t il le 21 juillet? (hors formation alternance)
 
 L'acceptation ne vaut pas inscription, en tout état de cause, vous devez aller vous inscrire administrativement au niveau de l'établissement. Si vous ne respectez pas le calendrier d'inscription de l'établissement vous risquez de perdre le bénéfice de la proposition et la place peut être reproposée à un autre étudiant en attente. -> SURVEILLER LES MAILS ET LES PROCEDURES ADMINISTRATIVES DE L'ETABLISSEMENT -> inscrit avant le 21 juillet.
 
-
+![[Pasted image 20230201131146.png]]
 Questions relatives à une mauvaise utilisation de la plateforme (erreur dans mon  dossier de candidature)
 écrire à l'adresse contact.monmaster@enseignementsup.gouv.fr
 
 **ATTENTION** ne faite pas d'erreur dans la réponse aux établissement
+
+Que faire si aucune de mes candidatures n'a été retenue? 
+
+Le service commun universitaire d'information et d'orientation (scuio) de votre université est également disponible pour toutes les question d'orientation
+On peut saisir le recteur si on a fait au moins 3 candidatures
 
