@@ -37,6 +37,9 @@ Pay attention to sentence lenght!
 - "French likes noun whereas English prefers using verbs"
 
 
+Deadline : 10 of february
+
+
 
 
 
