@@ -1,3 +1,4 @@
+#sol
 ![[Pasted image 20230117191311.png]]
 ![[Pasted image 20230117191320.png]]
 ![[Pasted image 20230117191332.png]]

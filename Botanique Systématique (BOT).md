@@ -1,6 +1,11 @@
 #s6 #bot 
 20h de cours, 15h TD, 14h TP, 6h excursion botanique
 <br>
+[[TP1 BOT - Xérophytes]]
+[[TP2 BOT - Hydrophytes]]
+[[TP3 BOT - Gymnospermes]]
+[[TP4 BOT - Trachéophytes]]
+
 CC1 : TP1 à 4 (6 mars)
 CC2  : TP5 à 8 (12 avril)
 CC3 : 17/18 avril, sortie botanique puis cc

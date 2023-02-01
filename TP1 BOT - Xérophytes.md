@@ -80,7 +80,7 @@ rhizoderme
 
 Une paroi cellulosique est une paroi perméable à l'eau et aux sels minéraux
 
-
+![[TP1 bot différentiation critères]]
 > Ici on a une symétrie bilatérale pour notre feuille d'oyat.
 
 Présence de poils unicellulaires (plus long aux extrémités et plus cours dans les vallécules) qui piègent l'eau qui s'évapore

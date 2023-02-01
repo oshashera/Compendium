@@ -36,10 +36,31 @@
       }
     },
     {
+      "query": "tag:#sol",
+      "color": {
+        "a": 1,
+        "rgb": 8272903
+      }
+    },
+    {
+      "query": "tag:#biblio",
+      "color": {
+        "a": 1,
+        "rgb": 15638873
+      }
+    },
+    {
+      "query": "tag:#à_faire_connard",
+      "color": {
+        "a": 1,
+        "rgb": 13697024
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 11621088
       }
     }
   ],
@@ -53,6 +74,6 @@
   "repelStrength": 15.8333333333333,
   "linkStrength": 0.614583333333333,
   "linkDistance": 67,
-  "scale": 0.5087618855792859,
-  "close": false
+  "scale": 0.7132754626224828,
+  "close": true
 }
