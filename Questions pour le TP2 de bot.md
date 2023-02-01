@@ -48,9 +48,10 @@ ___
 - Cuticule cireuse très épaisse dans l'épiderme inférieur (exposé en permanence au milieu)
 - stomates protégés dans les vallécules de la face supérieure du limbe
 
-> Repliement du limbe sur lui-même, protection de la face supérieure et piégage de l'humidité
+> Repliement du limbe sur lui-même, protection de la face supérieure et piégage de l'humidité, création d'une atmosphère interne, augmentation de la surface d'échange
 - cellule bulliforme sur la face supérieure
 - poils tecteurs sur la face supérieure
+- organisation en carènes et vallécules
 
 > Limitation des pertes d'eau par les parois
 - tissus lignifiés : présence de sclérenchyme surtout sur la face inférieure et l'épiderme (int et ext), gaines de fibres périfasciculaires (protège tissus conducteurs de la déshydratation)
