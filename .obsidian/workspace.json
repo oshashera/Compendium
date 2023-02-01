@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "000ecdfc40edcc88",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions pour le TP2 de bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions pour le TP2 de bot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Questions pour le TP2 de bot.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "191a07573d62ae00",
+  "active": "000ecdfc40edcc88",
   "lastOpenFiles": [
+    "Questions pour le TP2 de bot.md",
     "To do List.md",
     "TP1 BOT - Xérophytes.md",
     "TP Pucerons - bandes fleuries.md",
@@ -187,7 +193,6 @@
     "Biblio.md",
     "Botanique Systématique (BOT).md",
     "Pédologie.md",
-    "Texture minérale des sols (td).md",
-    "Pollution des sols.md"
+    "Texture minérale des sols (td).md"
   ]
 }
