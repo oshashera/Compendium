@@ -21,7 +21,21 @@ Idea for debate:
 
 
 ___
+ Paraphrasing tips
+ - Use synonyms
+ - Change from direct to indirect speech or vice versa
+ - Change from the active form to the passive form
+ - Use different connecting words
+ - Change the way the results are presented
+ > At least 2 used at the same time
  
+ BUT
+
+Pay attention to sentence lenght!
+- Use shorte sentences to emphacize a point; use longer ones to connect ideas
+- Punctuate
+- "French likes noun whereas English prefers using verbs"
+
 
 
 
