@@ -44,6 +44,13 @@ ___
 
 **Critères anatomiques d'une Xerophylle => Adaptation au milieu sec**
 
->
+>Limitation de la perte en eau cuticulaire
+- Cuticule cireuse très épaisse dans l'épiderme inférieur (exposé en permanence au milieu)
+- stomates protégés dans les vallécules de la face supérieure du limbe
 
-Cuticule cireuse
+> Repliement du limbe sur lui-même, protection de la face supérieure et piégage de l'humidité
+- cellule bulliforme sur la face supérieure
+- poils tecteurs sur la face supérieure
+
+> Limitation des pertes d'eau par les parois
+- tissus lignifiés : présence de sclérenchyme surtout sur la face inférieure et l'épiderme (int et ext), gaines de fibres périfasciculaires (protège tissus conducteurs de la déshydratation)
