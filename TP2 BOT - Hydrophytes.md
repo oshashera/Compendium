@@ -71,7 +71,7 @@ Aire de distribution: zones tempérées du globe (eaux stagnantes froides et peu
 - maintenant utilisée dans les stations d'épuration qui utilisent le lagunage
 
 
-
+![[Pasted image 20230201155827.png]]
 - symétrie axiale : tige ou racine
 - Ecorce >>>>> cyclindre central -> racine
 - Epiderme cutinisé -> tige
@@ -80,3 +80,6 @@ Aire de distribution: zones tempérées du globe (eaux stagnantes froides et peu
 - Parenchyme médulaire en grande quantité -> tige 
 - endorderme à cadre de caspari (sert à gérer l'entrée d'eau et d'ions)-> racine (de dicotylédone)
 Mais si on prends en compte le milieu de vie du nénuphar, les éléments pointant vers une racine sont en réalité des adaptations.
+
+Comparé au xérophylles:
+- très peu de tissus lignifiés, majorité de tissus cellulosiques, perméables à l'eau et au sel minéraux, suggère
