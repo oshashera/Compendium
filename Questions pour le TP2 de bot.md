@@ -1,0 +1,1 @@
+1) Diagnoses d'organe feuille 2) Diagnose de classification (mono/eudicot) 3) Critères d'adaptation au milieu sec + rôles des adaptations/caractères
