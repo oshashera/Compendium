@@ -7,4 +7,4 @@ A
  -> aiment bien prendre des étudiants de l3
 Bien étoffer candidature et montrer l'amour qu'on a
 Préciser si réponse négative, passer annonce aux collègues
-Si pas de réponse, prévenir Josso
+Si pas de réponse, prévenir Josso / niogret
