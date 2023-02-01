@@ -91,4 +91,8 @@ Comparé au xérophylles:
 - empilement de 2 cellules parfois = poils tecteurs bicellulaires -> témoigne d'ancêtre terrestres
 m
 ![[Pasted image 20230201160525.png]]
+*méat = espace intercellulaire, bordé par 3 cellules, si bordé par plus on parle de petite lacune*
+
+cercle avec croix = fibre sclérenchymateuse isolée/seule 
+
 
