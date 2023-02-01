@@ -35,4 +35,17 @@ Ces gaz circulent bcp moins vite dans l'eau que dans l'air
 - La tige creuse et pleine d'air d'*Ipomeoa aquatica* (Convolvulaceae)
 - La base du pétiole, renflée-aérifère : la jacinthe d'eau, *Eichhornia crassipes*
 - Inflorescence soutenues par des flotteurs spongieux-aérifères développées à partir de différents types d'organes 
-- Le revêtement pileux créant *un film d'air aut*
+- Le revêtement pileux créant *un film d'air autour des feuilles* -> feuilles non mouillable + rôle de flotteur
+
+Souvent les hydrophytes possèdent 2 types de feuilles =>hétérophyllie
+- feuilles submergées finement divisées
+- feuilles flottantes aux formes normales 
+	Ex: différentes espèces de renoncules (*Ranonculus aqualitis*)
+<br>
+<br>
+Pétiole nénuphare un peu singulier : circulaire et ressemble à une tige (organisation)
+
+##### Feuille:
+<u>Face sup:</u>
+- épiderme finement cutinisé + stomates 
+-  
