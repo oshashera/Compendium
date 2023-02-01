@@ -96,3 +96,5 @@ m
 cercle avec croix = fibre sclérenchymateuse isolée/seule 
 
 
+[[insérer schéma]]
+[[update avec cm du cou]]
