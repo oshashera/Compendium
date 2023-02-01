@@ -1,3 +1,6 @@
+[[TP1 BOT - Xérophytes]]
+___
+
 1) Diagnose feuille / organes
 - Symétrie bilatérale
 - Présence de stomates
@@ -21,3 +24,4 @@
 - cellules bulliformes -> repliement du limbe (protection face supérieure)
 - stomates dans vallécule en face sup -> limitation perte d'eau stomatique
 - carène + vallécule + poils -> conservation eau dans l'enroulement du limbe folaire
+

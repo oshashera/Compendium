@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Questions pour le TP2 de bot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c546f96375eebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TP2 BOT - Hydrophytes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adb8b071adaa99ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MonMaster niksémor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,17 +202,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a264720247a6f11e",
+  "active": "adb8b071adaa99ae",
   "lastOpenFiles": [
-    "Mails stages.md",
     "Questions pour le TP2 de bot.md",
+    "TP2 BOT - Hydrophytes.md",
+    "Excalidraw/TP1 bot différentiation critères.md",
+    "MonMaster niksémor.md",
+    "Mails stages.md",
     "Anglais S6 on se fait ierch.md",
     "To do List.md",
     "TP1 BOT - Xérophytes.md",
     "TP Pucerons - bandes fleuries.md",
-    "Excalidraw/Drawing 2023-02-01 07.16.19.excalidraw.md",
-    "Excalidraw/TP1 bot différentiation critères.md",
-    "Biblio.md",
-    "Botanique Systématique (BOT).md"
+    "Excalidraw/Drawing 2023-02-01 07.16.19.excalidraw.md"
   ]
 }
