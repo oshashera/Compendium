@@ -389,4 +389,12 @@ Tout dans la capsule est 2n
 
 
 Le sucoire s'enfonce dans la tige feuillée **mais il n'existe pas de plasmodesmes** entre les cellules des 2 générations.
-Les cellules du so
+Les cellules du suçoir : paroi très épaisses avec des replis, dites **cellules de transfert**
+Les échanges se font au travers de sparois et les surfaces d'échange [récup diapo]
+
+#### mousses bryales
+[diapo]
+en jaune haploide, vert diploide
+
+[diapo]
+
