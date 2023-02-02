@@ -372,3 +372,21 @@ Chez la majorité des mousses on a une séparation de ces deux gamétanges sur d
 La fécondation nécessite la présence d'eau : c'est une **zoïdogamie**
 
 
+Après formation du zygote (2n), de nomreuses mitoses donnent naissance au sporophyte (2n) ou sporogone
+
+#### a.3 Appareil végétatif du sporogone
+
+[diapo évolution de l'archégone fécondé et développement du sporophyte ou sporogone]
+En grisé : l'archégone (plus particulièrement oosphère) fécondée.
+Les autres vont progressivement disparaitre
+Formation d'un embryon.
+Avec l'apparition de l'embryon, le ventre et le col vont s'allonger/s'agrandir mais sont haploïdes.
+On voit se mettre en place la soie ou le pédicelle (et le haut se fermer) qui est diploïde (résultat de la fécondation).
+Au bout d'un moment le col se déchire et forme la coiffe (ou calyptra), qui est haploide
+Ensuite la partie basale de la soie s'enfonce de plus en plus dans le gamétophyte, avec formation d'un suçoir (haustorium) pour avoir plus de nutriments
+
+Tout dans la capsule est 2n
+
+
+Le sucoire s'enfonce dans la tige feuillée **mais il n'existe pas de plasmodesmes** entre les cellules des 2 générations.
+Les cellules du so
