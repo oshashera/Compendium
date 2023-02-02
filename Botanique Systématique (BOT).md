@@ -330,5 +330,45 @@ _____
 [diapo polytric]
 Le polytric présente des tissus conducteurs centraux dans la tige et dans les nervures des feuilles **non lignifiés**
 
+Hydroïdes pas éléments du xylème puisque pas de lignification
+Tout autour un anneau de petites cellules cellulosiques assueant la circulation de la sève élaborée.
+
+[diapo suivante coupe de la soie ou pédicelle]
+
+[diapo suivante]
+Les rhizoïdes, constitués d'une **rangée de cellules** chez les mousses (permet de les caractériser par ailleurs), ancrent ces dernières dans le substrat.
+
+[diapo suivante texte]
+
+
+##### a.2. Reproduction sexuée de ce gamétophyte
+[diapo]
+
+[diapo gamétophyte mâle]
+On peut observer à l'extémité des tiges des corbeilles à anthéridies (gamétanges mâles)
+
+[diapo c.l tige feuillée d'un gamétophyte mâle, tout est cellulosique (coloration différente)]
+Paraphyse = éléments protégeant anthéridies
+
+[diapo formation d'une anthéridie chez une mousse]
+Certaines cell vont former une enveloppe pluricellulaire, et le reste à l'intérieur continue de se diviser pour former les gamètes mâles (anthérozoïdes).
+En haut de l'enveloppe se trouve une cellule appelée capuchon qui arrivé à maturité và s'enlever?
+[diapo différenciation des anthérozoïdes à partir des cellules spermatogènes]
+paroi se désagrège à la fin
+
+[insérer les diapos]
+
+[diapo différenciation archégone]
+Cellules centrales vont se résorber, pour faire un canal rempli de mucilage
+[c.l. corbeille à archégones]
+
+
+Chez certaines mousses dans la même corbeille on peut avoir anthéridies et archégones : hermaphorodites
+Chez certaines au centre archégones et sur le tour des anthéridies : monoïque
+Chez la majorité des mousses on a une séparation de ces deux gamétanges sur deux pieds différents : dioïque
+
+
+[diapo]
+La fécondation nécessite la présence d'eau : c'est une **zoïdogamie**
 
 
