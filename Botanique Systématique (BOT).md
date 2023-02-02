@@ -317,3 +317,18 @@ Cylindrique, à très forte polarité de développement : la partie basale reste
 - les feuilles sont souvent lobées ou découpées, **sans nervures** -> "feuilles" sont des phyllidies
 - Leurs cellules sont **isodiamétriques** et contiennent pour certaines un organite particulier, unique à ce groupe : les **oléocorps**
 
+
+
+
+
+
+
+
+[insérer cm manqué]
+
+_____
+[diapo polytric]
+Le polytric présente des tissus conducteurs centraux dans la tige et dans les nervures des feuilles **non lignifiés**
+
+
+
