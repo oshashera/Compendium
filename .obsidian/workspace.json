@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b1946a238e9ac2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP1 BOT - Xérophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -90,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,6 +191,8 @@
   },
   "active": "3c25a30abd9bbdd9",
   "lastOpenFiles": [
+    "Pasted image 20230202101048.png",
+    "BCV.md",
     "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
     "Botanique Systématique (BOT).md",
@@ -211,8 +200,6 @@
     "Excalidraw/Schéma nénuphar blanc.md",
     "Excalidraw/Hydrophytes Hélophytes schéma.md",
     "Questions pour le TP2 de bot.md",
-    "MonMaster niksémor.md",
-    "Excalidraw/TP1 bot différentiation critères.md",
-    "Mails stages.md"
+    "MonMaster niksémor.md"
   ]
 }

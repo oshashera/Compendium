@@ -30,7 +30,18 @@ Génome circulaire (caractéristique de type procaryote)
 <br>
 - La majorité des gènes n'ont **pas d'introns** (=type procaryote)
 	- 18 gènes plastidiaux ont des introns (conservé chez les plantes à flaur)
-	- 15 n'en
+	- 15 n'en ont qu'1, 3 en ont 2 = 21 introns/génome
+
+##### Quelles sont les fonctions des gènes plastidiaux ?
+![[Pasted image 20230202101146.png]]
+Chez l'ensemble des plantes supérieures ont à plus ou moins le même nombre de gènes (101-150), mais par rapport à ce que code le génome on va trouver 2 grandes catégories en terme de fonction:
+- une partie va coder des gènes qui ont un rapport avec **l'expression** de ce génome
+rRNA permettent de composer les ribosomes trouvés dans le chloroplaste
+- une partie est exclusivement liée à la photosynthèse
+
+	les mitochondries ont la même "histoire" que le plaste (endisymbiose), et dans la mitochondrie a la même organisation en 2 parties : 1 partie qui va se concentrer sur l'expression, et l'autre mobilisée pour la chaine de transfert des électrons mitochondiraux
+<br>
+
 ### II. Expression du génome plastidial : mécanismes et principales régulations
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
