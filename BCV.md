@@ -63,7 +63,24 @@ Il faut parfois plus d'une dizaine de protéine différentes, une partie d'entre
 ![[Pasted image 20230202104438.png]]
 CP = chloro protéines : permettent de fixer la chlorophylle.
 Ou sont les gènes correspondant?
-Concernant le phytosystème II: hydrophobic subunit, et hydrophylic subunit
+Concernant le phytosystème II: hydrophobic subunit (codées par génome plastidial), et hydrophylic subunit (codées par génome nucléaire).
+Un standard du fonctionnement du chloroplaste : les gènes codant les protéines D1 et D2 ont un turnover très important, ces 2 protéines ont une régulation qui leur est propre et qui est particulièrement controlée.
+psb[ ] pcq photosystème II, donc II=b
+<br>
+<br>
+![[Pasted image 20230202105114.png]]
+Majorité des gènes sur le tableau sont des gènes nucléaires
+<br>
+![[Pasted image 20230202105216.png]]
+LHCa ou LHCb selon PSII ou PSI
+Ces gènes servent de modèle pour check les interactions entre le noyau et le chloroplaste.
+Ces gènes sont particulièrement représentatif de l'évolution du plaste en chloroplaste.
+Quand on veut suivre le processus de différentiation du plaste en chloroplaste, on va regarder des marqueurs, et les gènes LHC sont étudiés systématiquement
+
+
+
+
+
 
 ### II. Expression du génome plastidial : mécanismes et principales régulations
 
