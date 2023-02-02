@@ -90,9 +90,9 @@ En violet : ce qui correspond à la transcription/traduction
 En vert: lié à photosynthèse
 En rouge:génome nucléaire
 
-![[Pasted image 20230202110724.png]]
+![[Pasted image 20230202110810.png]]
+Protéines ammenées majoritairement par le système toc-tic : toc passe la protéine à travers la première membrane plastidiale, tic pour membrane interne.
 
-<br>
 
 
 

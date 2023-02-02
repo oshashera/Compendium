@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c25a30abd9bbdd9",
+            "id": "943a3d3fc2b8b706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BCV.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -176,17 +176,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c25a30abd9bbdd9",
+  "active": "943a3d3fc2b8b706",
   "lastOpenFiles": [
-    "Pasted image 20230202101048.png",
     "BCV.md",
+    "Pasted image 20230202110256.png",
+    "Pasted image 20230202101048.png",
     "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
     "Botanique Systématique (BOT).md",
     "Excalidraw/mésophylle nénuphare.md",
     "Excalidraw/Schéma nénuphar blanc.md",
     "Excalidraw/Hydrophytes Hélophytes schéma.md",
-    "Questions pour le TP2 de bot.md",
-    "MonMaster niksémor.md"
+    "Questions pour le TP2 de bot.md"
   ]
 }
