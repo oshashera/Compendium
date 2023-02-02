@@ -76,7 +76,23 @@ LHCa ou LHCb selon PSII ou PSI
 Ces gènes servent de modèle pour check les interactions entre le noyau et le chloroplaste.
 Ces gènes sont particulièrement représentatif de l'évolution du plaste en chloroplaste.
 Quand on veut suivre le processus de différentiation du plaste en chloroplaste, on va regarder des marqueurs, et les gènes LHC sont étudiés systématiquement
+<br>
+<br>
+![[Pasted image 20230202105852.png]]
+![[Pasted image 20230202110100.png]]
+<br>
+![[Pasted image 20230202110113.png]]
+En jaune tt les polypeptides codés par le génome nucléaire, et en vert ceux codés par le génome plastidial.
+<br>
+##### Les plastes ne sont donc pas autonomes
+![[Pasted image 20230202110256.png]]
+En violet : ce qui correspond à la transcription/traduction
+En vert: lié à photosynthèse
+En rouge:génome nucléaire
 
+![[Pasted image 20230202110724.png]]
+
+<br>
 
 
 
