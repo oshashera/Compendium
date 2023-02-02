@@ -48,6 +48,13 @@ Epigagus (colonne de droite), une plante épiphyte => pas de gènes associés à
 <br>
 Illustration du fonctionnement particulier du génome plastidial, en tt cas différentié du génome nucléaire
 ![[Pasted image 20230202102656.png]]
+Ribosomes tjrs composés de 2 sous unités, de 2 ARN et des protéines
+
+Chez procaryotes, ribosome 70S, sous unité font 30S (16ARN et 21 protéines) et 50S (23 et 5 ARN, et 31 protéines).
+Quand on regarde pour les ribosomes du génome nucléaire, on voit des ribosomes typiquement eucaryotiques (40S et 60S; ARN différents en tailles et nombre différents)
+Si je compare tout ca avec les ribosomes des plastes, on a une organisation similaire aux procaryotes :70S, même poids de sous unité, ARN ribosomiques très distincts de ceux des ribosomes cytoplasmiques (de type eucaryotiques), protéines nb similaire à procaryotes
+
+
 ### II. Expression du génome plastidial : mécanismes et principales régulations
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
