@@ -36,12 +36,18 @@ Génome circulaire (caractéristique de type procaryote)
 ![[Pasted image 20230202101146.png]]
 Chez l'ensemble des plantes supérieures ont à plus ou moins le même nombre de gènes (101-150), mais par rapport à ce que code le génome on va trouver 2 grandes catégories en terme de fonction:
 - une partie va coder des gènes qui ont un rapport avec **l'expression** de ce génome
-rRNA permettent de composer les ribosomes trouvés dans le chloroplaste
+<ul> rRNA permettent de composer les ribosomes (permettent la traduction d'ARNm en protéines) trouvés dans le chloroplaste <br>
+les tRNA (arn de transfert), une partie voir tous sont nécessaires pour la traduction<br>
+ribosomales proteines small (s), large (l)</ul>
 - une partie est exclusivement liée à la photosynthèse
 
-	les mitochondries ont la même "histoire" que le plaste (endisymbiose), et dans la mitochondrie a la même organisation en 2 parties : 1 partie qui va se concentrer sur l'expression, et l'autre mobilisée pour la chaine de transfert des électrons mitochondiraux
-<br>
+> les mitochondries ont la même "histoire" que le plaste (endisymbiose), et dans la mitochondrie a la même organisation en 2 parties : 1 partie qui va se concentrer sur l'expression, et l'autre mobilisée pour la chaine de transfert des électrons mitochondiraux
 
+Epigagus (colonne de droite), une plante épiphyte => pas de gènes associés à la trancription ni à la photosyntèse
+<br>
+<br>
+Illustration du fonctionnement particulier du génome plastidial, en tt cas différentié du génome nucléaire
+![[Pasted image 20230202102656.png]]
 ### II. Expression du génome plastidial : mécanismes et principales régulations
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
