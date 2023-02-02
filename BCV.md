@@ -53,7 +53,17 @@ Ribosomes tjrs composés de 2 sous unités, de 2 ARN et des protéines
 Chez procaryotes, ribosome 70S, sous unité font 30S (16ARN et 21 protéines) et 50S (23 et 5 ARN, et 31 protéines).
 Quand on regarde pour les ribosomes du génome nucléaire, on voit des ribosomes typiquement eucaryotiques (40S et 60S; ARN différents en tailles et nombre différents)
 Si je compare tout ca avec les ribosomes des plastes, on a une organisation similaire aux procaryotes :70S, même poids de sous unité, ARN ribosomiques très distincts de ceux des ribosomes cytoplasmiques (de type eucaryotiques), protéines nb similaire à procaryotes
-
+<br>
+<br>
+![[Pasted image 20230202103954.png]]
+Sur le détail de la membrane on voit un zoom du dessin de gauche.
+Il faut parfois plus d'une dizaine de protéine différentes, une partie d'entre elle sont codées par le génome plastidial, et une autre par le génome nucléaire. Ce qui veut dire que pour que ces systèmes fonctionnent il faut absolument que des gènes nucléaires soit exprimés dans le noyaux, traduit dans le cytosome puis amené dans le plaste.
+<br>
+<br>
+![[Pasted image 20230202104438.png]]
+CP = chloro protéines : permettent de fixer la chlorophylle.
+Ou sont les gènes correspondant?
+Concernant le phytosystème II: hydrophobic subunit, et hydrophylic subunit
 
 ### II. Expression du génome plastidial : mécanismes et principales régulations
 
