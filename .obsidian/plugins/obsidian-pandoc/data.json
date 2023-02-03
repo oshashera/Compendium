@@ -8,7 +8,7 @@
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
   "pandoc": null,
-  "pdflatex": null,
+  "pdflatex": "C:\\Users\\Elève\\AppData\\Local\\Programs\\MiKTeX\\pdftex",
   "outputFolder": "",
   "extraArguments": "",
   "exportFrom": "md"
