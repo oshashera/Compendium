@@ -43,6 +43,9 @@
       "name": "OPML"
     }
   ],
+  "pandocPath": {
+    "win32": "C:\\Users\\Elève\\AppData\\Local\\Pandoc"
+  },
   "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
   "version": "1.1.8",

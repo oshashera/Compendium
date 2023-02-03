@@ -9,14 +9,14 @@
   "obsidian-annotator",
   "emoji-shortcodes",
   "obsidian-image-toolkit",
-  "obsidian-enhancing-export",
   "obsidian-reading-time",
   "obsidian-plugin-toc",
   "tag-wrangler",
   "obsidian-git",
-  "better-pdf-plugin",
   "calendar",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "better-pdf-plugin",
+  "obsidian-enhancing-export"
 ]
