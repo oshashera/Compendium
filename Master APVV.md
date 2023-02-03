@@ -14,4 +14,19 @@ Mélanie Jugot (généticienne quantitative, institu agro) et Antoine Gravot (fa
 4 Mineures proposées
 
 Historiquement le parcours était orienté sur le végétal mais partait dans différentes directions, y avait notamment la dimension génétique (amélioration), physio, agro, substances naturelles et améliorations.
-La nouvelle version
+La nouvelle version du master est centrée sur ce qu'on peut apporter par rapport aux questions de transitions agroécologiques.
+On forme donc des cadres scientifiques qui ont besoin d'une vision large sur tous les niveaux d'approche (écologique/agronomie au niveau des systèmes, génétique dans l'optique agroéco (conservation, domestication, protection), physiologique (intéractions écologiques notamment; on a décidé de mettre un accent fort sur la physiologie **chimique**))
+Vision interdisciplinaire mais pas l'impression que ces disciplines soient juxtaposées.
+Jusqu'à présent même chez les chercheurs c'était assez cloisonné.
+C'est comme ca qu'est basé le système de majeures.
+
+4 domaines sur lesquelles ils veulent focus (~mineures) mais seront tous un minimum présentés dans le tronc commun.
+1.  en génétique, génomique et amélioration des plantes,
+2.  en physiologie de la plante et de ses adaptations aux stress,
+3.  en écologie des interactions plantes/bioagresseurs
+4.  sur le fonctionnement et la gestion des agrosystèmes.
+
+
+Compétences développées: on va rentrer dans des métiers ou les connaissances vont évoluer vite, donc on attendra de nous professionnellement d'être capable d'évoluer, de s'adapter.
+Donc surtout on va apprendre à identifier un probleme, l'analyser, voir des solutions, intégrer/s'adapter aux nouvelles connaissances.
+
