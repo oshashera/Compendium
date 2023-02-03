@@ -1,4 +1,5 @@
 
+PAS BESOIN DE TOEIC OU AUTRE POUR RENTRER!!!!
 
 Sont en dialogue avec les équipes info pour poster les infos sur internet mais ils sont débordés.
 
@@ -60,7 +61,13 @@ UE transversales
 
 ![[Pasted image 20230203103147.png]]
 - Anglais (sur tout l'année en vrai)
+- Analyses de données multidimensionnelles (suite des stats)
+- Démarche scientifique : on vérifié qu'on sait faire de la synthèse biblio, qui peut correspondre au stage effectué durant le S2 (permet de préparer le stade), ou peut être articulé avec la conduite de projet
+- conduite de projet, à l'inra du Reu, sur 1 semaine (en un coup ou 1j/semaine), on nous pose une question, on fait la biblio, on co-construit l'experimentation, chaque spé/type de centre d'intérêt vont analyser une partie des résultats (même si on touche à tout), permettra d'utiliser aussi les trucs vus en stat
 
 ![[Pasted image 20230203103157.png]]
-
+L'objectif est de choisir exactement ce qu'on veut en ue parce que l'idée c'est que tt les disciplines vont potentiellement contribuer à la transition et on sait pas quelle association de disciplines va être la plus importante dans le futur.
+Ceci étant dit, selon la mineure désirée en M2, on peut en avoir des "fortement recommandée/obligatoires"
+- GEN : pour apprendre à faire des QTL (quantitative trait loci), analyse génétique
+- 
 ![[Pasted image 20230203103206.png]]
