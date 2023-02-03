@@ -10,7 +10,7 @@ Ils ont choisi cette mention pour s'adosser à l'institut agro de rennes pcq il 
 Mention biologie agroscience dirigée (co accrédité) : Joceline Flamand (bio animale, agronomie, Institut agro) et Alain Bouchereau (bio végétale, Université).
 
 Parcours APVV (https://formations.univ-rennes.fr/master-mention-biologie-agrosciences-parcours-adaptation-protection-valorisation-du-vegetal-apvv)
-Mélanie Jugot (généticienne quantitative, institu agro) et Antoine Gravot (fac) coordonnent ce parcours au niveau scientifique et administratif.
+Mélanie Jubault (généticienne quantitative, institu agro) et Antoine Gravot (fac) coordonnent ce parcours au niveau scientifique et administratif.
 
 
 4 Mineures proposées
@@ -49,7 +49,7 @@ Tronc commun avec le minimum à savoir sur tous les thèmes.
 ![[Pasted image 20230203102348.png]]
 **UE interdisciplinaires**
 - Ecologie fonctionnelle : introduction des différentes échelles et leur importance (sandrine monie (jsp l'orthographe), fac ; édith lecadre, institut agro)
-- Origine (armel salmon, paul simion (fac)) et usages (maria manzannares, Mélanie Jugot,... (institut agro)) de la diversité cultivée.
+- Origine (armel salmon, paul simion (fac)) et usages (maria manzannares, Mélanie Jubault,... (institut agro)) de la diversité cultivée.
 - Physiologie (gravot, articulation avec des enjeux concrets, par exemple l'assimilation de l'azote) et génomique fonctionnelle 
 - Sols, plantes et agrosystèmes (que des gens de l'institut agro) : panorama global destiné à tout le monde
 - Interactions biotiques et immunité (christophe lemai et florence val, profs à l'agro, et edith lecadre) : bioagresseurs, symbioses, comment ca s'articule avec des pratiques professionnelles.
@@ -104,6 +104,18 @@ Formation reconnue, orientée vers la production.
 ![[Pasted image 20230203105016.png]]
 gravot en est responsable
 - BBI : interactions plantes bioagresseurs et plantes microorganismes bénéfiques....
-- BGM :
+- BGM : analyse du métabolome
+- RCA : l'équivalent de la première mais en abiotique
+- BCB : comment peut ont utiliser les notions précédentes pour controler
 
 ![[Pasted image 20230203105038.png]]
+Relativement soeur de la mineure PMAS (3 UE/4 partagées)
+L'ue qui change : EBG 
+Dimension en écologie bcp plus forte.
+
+Fin du master en juin (plus tot que d'autres) : pcq 20 % des gens se destinent à la thèse donc faut déjà avoir le diplome pcq bourses de thèse (suis pas sur d'avoir bien entendu) données fin juin
+
+Modalité de controle des connaissances : controle continu intégral au M1, et mélange de controle continu et des partiels au M2 (ex: FGA, grand oral très long ou on remobilise l'ensembnle des cours | en physio il y a dissertation de 4h, avec cours et documents autorisés )
+
+
+Responsables pédagogiques : contacts en bas de la page du site
