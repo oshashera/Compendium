@@ -29,4 +29,16 @@ C'est comme ca qu'est basé le système de majeures.
 
 Compétences développées: on va rentrer dans des métiers ou les connaissances vont évoluer vite, donc on attendra de nous professionnellement d'être capable d'évoluer, de s'adapter.
 Donc surtout on va apprendre à identifier un probleme, l'analyser, voir des solutions, intégrer/s'adapter aux nouvelles connaissances.
+*pour plus de détails aller voir la description détaillée sur le site*
 
+Les plus de la formation : la co-accréditation bénéfique pour tout le monde, regards différents, et aussi que tous les enseignants sont liés à des instituts (inrae, cnrs, instituts techniques ou scientifiques) qui permettent de faire venir des intervenants et ouvre des portes de stages et de potentielles visites.
+
+Poursuite d'études:
+- partie relativement importante d'étudiants qui partent en thèse (peut se faire dans le public et dans des partenariats avec le privé (CIFRE)).
+*pb des thèses est la dimension mobilité : on voit du pays (différents pays littéralement)*
+*dans le cadre des thèses cifre c'est moins le cas*
+
+
+##### Organisation pédagogique:
+*programme détaillé en bas du site, pas encore update (falloir attendre qq semaines -> tt est inclus (à jour) dans organisation pédagogique*
+Tronc commun avec le minimum à savoir sur tous les thèmes.
