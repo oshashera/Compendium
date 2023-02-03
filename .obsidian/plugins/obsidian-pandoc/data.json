@@ -9,7 +9,7 @@
   "highDPIDiagrams": true,
   "pandoc": null,
   "pdflatex": "C:\\Users\\Elève\\AppData\\Local\\Programs\\MiKTeX\\pdftex",
-  "outputFolder": "",
+  "outputFolder": "C:\\Users\\Elève\\Documents\\Tantorum pdf",
   "extraArguments": "",
-  "exportFrom": "md"
+  "exportFrom": "html"
 }
