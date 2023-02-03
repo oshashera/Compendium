@@ -44,7 +44,7 @@
     }
   ],
   "pandocPath": {
-    "win32": "C:\\Users\\Elève\\AppData\\Local\\Pandoc"
+    "win32": "C:\\Users\\Elève\\AppData\\Local\\Pandoc\\pandoc.exe"
   },
   "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
