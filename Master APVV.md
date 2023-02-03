@@ -1,4 +1,5 @@
 
+
 PAS BESOIN DE TOEIC OU AUTRE POUR RENTRER!!!!
 
 Sont en dialogue avec les équipes info pour poster les infos sur internet mais ils sont débordés.
@@ -69,5 +70,22 @@ UE transversales
 L'objectif est de choisir exactement ce qu'on veut en ue parce que l'idée c'est que tt les disciplines vont potentiellement contribuer à la transition et on sait pas quelle association de disciplines va être la plus importante dans le futur.
 Ceci étant dit, selon la mineure désirée en M2, on peut en avoir des "fortement recommandée/obligatoires"
 - GEN : pour apprendre à faire des QTL (quantitative trait loci), analyse génétique
-- 
+- BBM : techniques de séquencage, transgénèse, etc
+- BBA : traité par l'Institut : y a bcp de bioagresseurs, faut connaitre leur fonctionnement, leur cycle et site de vie, que ce soit champis, insectes, etc.... c'est en lien avec la pratique et les pbs actuels.
+- PHM : connaissances et méthodo moderne pour analyser la chimie associé à des processus biologiques, domaine hyper en développement actuellement, s'adresse aux gens qui s'intéressent à la physio, mais aussi à l'écologie des intéractions, s'intéressent aussi aux polluants.
+- EPC : méthodes mathématiques et pratiques et comment l'appliquer à la protection
+- BSM : questions relative à l'eau et sa modélisation dans les agrosystèmes et paysages : modélisation mathématique.
+
 ![[Pasted image 20230203103206.png]]
+Soutenance fin juin 
+
+
+##### Les ues du S5
+
+![[Pasted image 20230203104951.png]]
+
+![[Pasted image 20230203105005.png]]
+
+![[Pasted image 20230203105016.png]]
+
+![[Pasted image 20230203105038.png]]
