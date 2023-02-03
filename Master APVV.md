@@ -82,10 +82,28 @@ Soutenance fin juin
 
 ##### Les ues du S5
 
+Tronc commun
+![[Pasted image 20230203105238.png]]
+- projet professionnalisant varie selon les mineures choisies.
+
+4 mineures ( ya des ues potentiellement mutualisées)
+
 ![[Pasted image 20230203104951.png]]
+- GEB : méthodo essentiellement des outils informatiques
+- DIG : 
+- GEQ : analyses QTL, pas mal de maths/stats
+- SDS : comment utiliser les autres ues pour sélectionner bien, dialoguer avec les autres disciplines,...
+Formation connue en France, y a ici, montpellier, et 3 étudiants cette années à agroparis
+Le métier de sélectionneur n'est pas du bureau, c'est bcp de terrain et d'observation des plantes
 
 ![[Pasted image 20230203105005.png]]
+Une ue après l'autre dans l'edt, on veut nous apprendre à caractériser les différentes organisations, itinéraires techniques.
+Montrent des outils qui permettent de rigoureusement comparer els différentes organisations d'agrosystèmes, et être capable de diagnostiquer un dispositif, et proposer des améliorations possibles.
+Formation reconnue, orientée vers la production.
 
 ![[Pasted image 20230203105016.png]]
+gravot en est responsable
+- BBI : interactions plantes bioagresseurs et plantes microorganismes bénéfiques....
+- BGM :
 
 ![[Pasted image 20230203105038.png]]
