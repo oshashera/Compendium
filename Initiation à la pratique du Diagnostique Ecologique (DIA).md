@@ -158,3 +158,17 @@ Portée générale de l'évaluation environnementale au niveau réglementaire
 >=> conception systémique de l'écologie
 
 
+[insérer cm loupé]
+
+
+
+
+#### 2. Le diagnostic écologique fait appel à des notions-clés d'écologie
+
+**La notion de succession et le temps de réponse de la biodiversité**
+
+Quel délai de réponse aux changement de l'énvironnement?
+[insérer schéma diapo]
+
+**Intérêt de l'écologie du paysage pour le diagnostic écologique**
+[insérer schéma]

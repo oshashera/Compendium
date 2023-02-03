@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "943a3d3fc2b8b706",
+            "id": "b04bd1cdfc5ba466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "523e51e6ee380ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master APVV.md",
+                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master APVV.md",
+                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master APVV.md",
+                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master APVV.md"
+                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md"
               }
             }
           },
@@ -189,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "523e51e6ee380ac5",
+  "active": "b04bd1cdfc5ba466",
   "lastOpenFiles": [
+    "Master APVV.md",
     "Botanique Systématique (BOT).md",
     "BCV.md",
     "Pasted image 20230202110256.png",
@@ -199,7 +187,6 @@
     "TP1 BOT - Xérophytes.md",
     "Excalidraw/mésophylle nénuphare.md",
     "Excalidraw/Schéma nénuphar blanc.md",
-    "Excalidraw/Hydrophytes Hélophytes schéma.md",
-    "Questions pour le TP2 de bot.md"
+    "Excalidraw/Hydrophytes Hélophytes schéma.md"
   ]
 }
