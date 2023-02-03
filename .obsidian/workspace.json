@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
+                "file": "Master APVV.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
+                "file": "Master APVV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
+                "file": "Master APVV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiation à la pratique du Diagnostique Ecologique (DIA).md"
+                "file": "Master APVV.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "b04bd1cdfc5ba466",
   "lastOpenFiles": [
+    "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "Master APVV.md",
     "Botanique Systématique (BOT).md",
     "BCV.md",
@@ -186,7 +187,6 @@
     "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
     "Excalidraw/mésophylle nénuphare.md",
-    "Excalidraw/Schéma nénuphar blanc.md",
-    "Excalidraw/Hydrophytes Hélophytes schéma.md"
+    "Excalidraw/Schéma nénuphar blanc.md"
   ]
 }

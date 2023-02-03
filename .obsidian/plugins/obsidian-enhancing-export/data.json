@@ -43,7 +43,12 @@
       "name": "OPML"
     }
   ],
-  "defaultExportDirectoryMode": "Auto",
+  "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
-  "version": "1.1.8"
+  "version": "1.1.8",
+  "openExportedFileLocation": true,
+  "customDefaultExportDirectory": {
+    "win32": "C:\\Users\\Elève\\Documents"
+  },
+  "lastEditName": "PDF"
 }
