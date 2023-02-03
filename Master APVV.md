@@ -39,6 +39,28 @@ Poursuite d'études:
 *dans le cadre des thèses cifre c'est moins le cas*
 
 
-##### Organisation pédagogique:
+### Organisation pédagogique:
 *programme détaillé en bas du site, pas encore update (falloir attendre qq semaines -> tt est inclus (à jour) dans organisation pédagogique*
 Tronc commun avec le minimum à savoir sur tous les thèmes.
+
+##### Les ue obligatoires du S1
+![[Pasted image 20230203102348.png]]
+**UE interdisciplinaires**
+- Ecologie fonctionnelle : introduction des différentes échelles et leur importance (sandrine monie (jsp l'orthographe), fac ; édith lecadre, institut agro)
+- Origine (armel salmon, paul simion (fac)) et usages (maria manzannares, Mélanie Jugot,... (institut agro)) de la diversité cultivée.
+- Physiologie (gravot, articulation avec des enjeux concrets, par exemple l'assimilation de l'azote) et génomique fonctionnelle 
+- Sols, plantes et agrosystèmes (que des gens de l'institut agro) : panorama global destiné à tout le monde
+- Interactions biotiques et immunité (christophe lemai et florence val, profs à l'agro, et edith lecadre) : bioagresseurs, symbioses, comment ca s'articule avec des pratiques professionnelles.
+
+UE transversales
+- Analyses de données : in peu d'informatique (comment gérer des gros tableaux de données), des statistiques (gros pole de stat à l'institut agro, références nationales).
+- Environnement professionnel
+
+##### Les ue du S2
+
+![[Pasted image 20230203103147.png]]
+- Anglais (sur tout l'année en vrai)
+
+![[Pasted image 20230203103157.png]]
+
+![[Pasted image 20230203103206.png]]
