@@ -70,7 +70,7 @@ psb[ ] pcq photosystème II, donc II=b
 <br>
 <br>
 ![[Pasted image 20230202105114.png]]
-Majorité des gènes sur le tableau sont des gènes nucléaires
+Majorité des gènes sur le tableau sont des gènes nucléaires (ceux entourés de vert son chloroplastiques)
 <br>
 ![[Pasted image 20230202105216.png]]
 LHCa ou LHCb selon PSII ou PSI
@@ -92,7 +92,7 @@ En vert: lié à photosynthèse
 En rouge:génome nucléaire
 
 ![[Pasted image 20230202110810.png]]
-Protéines ammenées majoritairement par le système toc-tic : toc passe la protéine à travers la première membrane plastidiale, tic pour membrane interne.
+Protéines ammenées majoritairement par le système toc-tic : toc passe la protéine à travers la première membrane plastidiale (externe), tic pour membrane interne.
 
 
 
