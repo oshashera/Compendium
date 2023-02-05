@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca8b4eeb18dff089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BCV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do List.md",
+                "file": "BCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To do List.md",
+                "file": "BCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To do List.md"
+                "file": "BCV.md"
               }
             }
           },
@@ -176,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe5a999a7694f11b",
+  "active": "ca8b4eeb18dff089",
   "lastOpenFiles": [
-    "Canva test.canvas",
     "To do List.md",
+    "Canva test.canvas",
     "TP1 BOT - Xérophytes.md",
     "Botanique Systématique (BOT).md",
     "TP2 BOT - Hydrophytes.md",
