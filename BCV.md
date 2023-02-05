@@ -18,13 +18,29 @@ Ces plastes fonctionnent nécessairement en échange/collaboration avec le reste
 - Complémentarité et échanges entre les 3 génomes
 
 
-Arabidopsis thaliana, espèce modèle pour la génétique végétale. Avec un génome plutôt petit par rapport aux autres plantes.
+Arabidopsis thaliana, espèce modèle pour la génétique végétale. Avec un génome plutôt petit par rapport aux autres plantes (un des plus petit connu).
 Avec :
+-- 125 millions de paires de base
+-- regroupées en 5 chromosomes
+-- estimé à environ 25438 gènes
+*cf: en 2000, premier génome séquencé*
+Ces gènes permettent de synthétiser plus de 27 000 protéines, des ARNm, etc...
+
+
 ![[dessin cellule 3 génomes niogret]]
-<mark style="background: #1553D0A6;">--</mark> le noyau : délimité par une double membrane, contient la plus grande part de l'information génétique cellulaire = **génome nucléaire**. Forme un réseau irrégulier de chromatides pendant l'interphase, individualisées en chromosome au cours de la mitose.
+<mark style="background: #1553D0A6;">__</mark> le noyau : délimité par une double membrane, contient la plus grande part de l'information génétique cellulaire = **génome nucléaire**. Forme un réseau irrégulier de chromatides pendant l'interphase, individualisées en chromosome au cours de la mitose.
 NE : Nuclear enveloppe ; N : Nucleus ; NU : Nucleolus
 
-<mark style="background: #FF8500A6;">--</mark> Dans la mitochondrie, organite commun à toutes les cellules eukaryotes, délimitées par une double membrane (enveloppe mitochondriale) et contiennent leur propre information génétique = **génome mitochondrial** 
+<mark style="background: #FF8500A6;">__</mark> Dans la mitochondrie, organite commun à toutes les cellules eukaryotes, délimitées par une double membrane (enveloppe mitochondriale) et contiennent leur propre information génétique = **génome mitochondrial** 
+369 000 pb. De 200 à 750 kb chez les plantes supérieures / 15 à 17 kb chez les animaux.
+/-> 57 gènes, 32 protéines ; environ 10% du génome code pour les ARN, une part pour les introns, et bcp d'infos non codantes (= info moins dense chez les plantes) 
+
+<mark style="background: #09B609A6;">__</mark> Dans les plastes, organites majeurs spécifiques des plantes et algues (vertes et rouges), délimité par une double membrane (enveloppe plastidiale) et contiennent un **génome plastidial**.
+**Plantes** = famille d'organites de différentes formes (aspects) et fonctions issu d'une même structure (proplaste) présente = génome identique pour tous les plastes d'une même individu, mais ce génome s'exprime différemment.
+154 000 pb, 133 gènes, 88 protéines 
+
+On peut parler de génome cytoplasmique = extrachromosomique.
+Mitochondries et plastes sont dits "semi-autonomes", car dans ces organites des protéines sont synthétisées sans gène nucléaire impliqué, donc autonomie relative, mais reste dépendante du reste de la cell
 
 ## Le génome plastidial
 
