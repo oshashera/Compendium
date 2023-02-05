@@ -17,3 +17,10 @@ Les autres sont les insectes plus évolués qui connaissent une métamorphose **
 Beaucoup d'insectes sont phytophages.
 Les insectes contribuent à la pollinisation.
 Détritivores existent aussi.
+
+Insectes (s.s.) ont des pièces buccales à **l'intérieur de la bouche**
+
+
+Liste des insectes protégés au niveau national : https://inpn.mnhn.fr/reglementation/protection/listeEspecesParArrete/625
+
+
