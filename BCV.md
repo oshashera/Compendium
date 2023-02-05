@@ -50,7 +50,10 @@ Mitochondries et plastes sont dits "semi-autonomes", car dans ces organites des 
 *génomes proches -> origine procaryotique*
 
 Et génome plutôt distant avec le génome nucléaire de la cellule.
-Acquisition par la cellule eukaryote (cellule hôte) primitive d'organites par endosymbiose
+Acquisition par la cellule eukaryote (cellule hôte) primitive d'organites par endosymbiose.
+![[Pasted image 20230205125241.png]]
+![[Pasted image 20230205125253.png]]
+
 Les endosymbiontes deviennent des **composants essentiels** au fonctions des cellules -> **co-évolution** des génomes des cellules hôtes et des endosymbiontes, des échanges entre partenaires.
 /-> deviennent des **organites**, avec un génome propre, "semi-autonomes"
 
@@ -64,7 +67,27 @@ Quand il y a eu redondance de l'information génétique, l'évolution a "favorit
 Et de très nombreux gènes essentiels au bon fonctionnement de ces organites ont été transférés dans le noyau.
 La majorité des protéines mitochondriales et plastidiales sont actuellement codées par le génome nucléaire, et étaient à l'origine codées par le génome de l'organite.
 
+	A. thaliana : 18% de son génome nucléaire proviendrait du génome de la cyanobactérie ancestrale.
++flux de gènes du génome plastidial vers le génome mitochondrial
 
+	1,2% du génome mitochondrial proviendrait du génome plastidial
++très rare,  transfert de gènes du génome nucléaire vers le génome mitochondrial.
+
+![[Pasted image 20230205125330.png]]
+![[Pasted image 20230205125725.png]]
+
+	Pour les chloroplastes en activité photosynthétique dans le mésophylle, on tronve 2500 protéines environ. Gènes du noyau codent des protéines pour les fonctions des plastes.
+	MAIS bcp de gènes contenus dans le noyau proviennent de la cellule eukaryote ancestrale
+
+##### Complémentarité et interactions entre les 3 génomes
+
+Compartimentations… mais pas « étanchéité » 
+**Interactions entre les génomes :** 
+- à l’échelle de l’évolution : 
+	- échange de matériel génétique 
+- à l’échelle du fonctionnement cellulaire : 
+	- import / export de « matériel » moléculaire (protéines, ARNs) 
+	- échange de signaux
 
 ## Le génome plastidial
 
