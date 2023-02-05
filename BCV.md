@@ -1,7 +1,7 @@
 ___
-*partie Tournesol qui sue pendant une journée ensolleillée *
+*partie Tournesol qui sue pendant une journée ensolleillée de 16h*
 [insérer tt les cm/td loupés]
-[[lire ces cm de mort]]
+[lire ces cm de mort]
 
 
 
