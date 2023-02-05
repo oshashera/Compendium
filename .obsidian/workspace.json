@@ -30,16 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0dc2abbcc3e28313",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dessin cellule 3 génomes niogret.md"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -201,9 +191,9 @@
   },
   "active": "ca8b4eeb18dff089",
   "lastOpenFiles": [
-    "Excalidraw/dessin cellule 3 génomes niogret.md",
-    "BCV.md",
     "To do List.md",
+    "BCV.md",
+    "Excalidraw/dessin cellule 3 génomes niogret.md",
     "Canva test.canvas",
     "TP1 BOT - Xérophytes.md",
     "Botanique Systématique (BOT).md",
