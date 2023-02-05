@@ -18,6 +18,9 @@ Ces plastes fonctionnent nécessairement en échange/collaboration avec le reste
 - Complémentarité et échanges entre les 3 génomes
 
 
+-- le noyau : délimité par une double membrane, contient la plus grande part de l'information génétique cellulaire = **génome nucléaire**. Forme un réseau irrégulier de chromatides pendant l'interphase, individualisées en chromosome au cours de la mitose.
+NE : Nuclear enveloppe ; N : Nucleus ; NU : Nucleolus
+
 
 ## Le génome plastidial
 
