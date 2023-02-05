@@ -18,9 +18,13 @@ Ces plastes fonctionnent nécessairement en échange/collaboration avec le reste
 - Complémentarité et échanges entre les 3 génomes
 
 
--- le noyau : délimité par une double membrane, contient la plus grande part de l'information génétique cellulaire = **génome nucléaire**. Forme un réseau irrégulier de chromatides pendant l'interphase, individualisées en chromosome au cours de la mitose.
+Arabidopsis thaliana, espèce modèle pour la génétique végétale. Avec un génome plutôt petit par rapport aux autres plantes.
+Avec :
+![[dessin cellule 3 génomes niogret]]
+<mark style="background: #1553D0A6;">--</mark> le noyau : délimité par une double membrane, contient la plus grande part de l'information génétique cellulaire = **génome nucléaire**. Forme un réseau irrégulier de chromatides pendant l'interphase, individualisées en chromosome au cours de la mitose.
 NE : Nuclear enveloppe ; N : Nucleus ; NU : Nucleolus
 
+<mark style="background: #FF8500A6;">--</mark> Dans la mitochondrie, organite commun à toutes les cellules eukaryotes, délimitées par une double membrane (enveloppe mitochondriale) et contiennent leur propre information génétique = **génome mitochondrial** 
 
 ## Le génome plastidial
 

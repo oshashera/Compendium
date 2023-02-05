@@ -4,7 +4,6 @@
   "highlighters": {
     "Pink": "#FFB8EBA6",
     "Red": "#FF5582A6",
-    "Orange": "#FFB86CA6",
     "Yellow": "#FFF3A3A6",
     "Green": "#BBFABBA6",
     "Cyan": "#ABF7F7A6",
@@ -12,12 +11,12 @@
     "Purple": "#D2B3FFA6",
     "Grey": "#CACFD9A6",
     "Bleu": "#1553D0A6",
-    "vert": "#09B609A6"
+    "vert": "#09B609A6",
+    "Orange": "#FF8500A6"
   },
   "highlighterOrder": [
     "Pink",
     "Red",
-    "Orange",
     "Yellow",
     "Green",
     "Cyan",
@@ -25,6 +24,7 @@
     "Purple",
     "Grey",
     "Bleu",
-    "vert"
+    "vert",
+    "Orange"
   ]
 }
