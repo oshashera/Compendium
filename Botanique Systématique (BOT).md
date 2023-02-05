@@ -346,13 +346,13 @@ Cylindrique, à très forte polarité de développement : la partie basale reste
 ![[Pasted image 20230205071737.png]]
 ![[Pasted image 20230205071746.png]]
 ![[Pasted image 20230205071755.png]]
-
-
-
-
-
-
-==[insérer cm manqué]==
+![[Pasted image 20230205071806.png]]
+![[Pasted image 20230205071814.png]]
+![[Pasted image 20230205071828.png]]
+![[Pasted image 20230205071838.png]]
+![[Pasted image 20230205071845.png]]
+![[Pasted image 20230205071859.png]]
+![[Pasted image 20230205071920.png]]
 
 _____
 [diapo polytric]

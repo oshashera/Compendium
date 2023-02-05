@@ -5,8 +5,10 @@ ___
 - [ ] Récup TD BCV
 - [ ] Récup CM (1) BVD
 - [ ] Récup TD (1) BVD
-- [ ] Récup 1 cm de DIA
+- [ ] Récup 2 cm de DIA
 - [ ] Update cm de Bot
+	- [x] CM3 à finir (j'ai pris les diapos)
+	- [ ] CM4 à récup quand diapo est dispo
 - [ ] Récup 1 cm de IB2
 - [x] Update TP1 BOT - Xérophytes avec schéma de fin
 	- [ ] (faut encore insérer une diapo mais y a pas les diapo)
