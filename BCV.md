@@ -1,4 +1,5 @@
-
+___
+*partie Tournesol qui sue pendant une journée ensolleillée *
 [insérer tt les cm/td loupés]
 [[lire ces cm de mort]]
 
@@ -88,14 +89,59 @@ Compartimentations… mais pas « étanchéité »
 - à l’échelle du fonctionnement cellulaire : 
 	- import / export de « matériel » moléculaire (protéines, ARNs) 
 	- échange de signaux
+ 
+![[Pasted image 20230205125929.png]]
+![[Pasted image 20230205125957.png]]
+![[Pasted image 20230205130007.png]]
 
-## Le génome plastidial
+## I. Caractéristiques générales du génome plastidial : transmission, organisation, composition
 
-### Introduction
 
-### I. Caractéristiques générales du génome plastidial: transmission, structure, organisation
+##### Génome plastidial
 
-[insérer cm]
+Démontrée pour la première fois par Ris et Plaut (1962) dans le chloroplaste de l’algue unicellulaire *Chlamydomonas*, la présence de l'ADN a ensuite été retrouvée dans toutes les types de plastes (*proplaste, étioplaste, chromoplaste, leucoplaste et chloroplaste*) et chez toutes les espèces végétales
+
+Les analyses microscopiques, optique et électronique, montrent que les fibrilles d'ADN sont localisées dans des zones plastidiales « discrètes » : **les nucléoïdes**
+
+**Nombre très variable :**
+- de copies de génome plastidial par nucléoïdes (environ 2 à 20) 
+- de nucléoïdes par plaste (environ 10 à 20) 
+- de plastes par cellule (environ 10 à 100)
+**/-> Plusieurs milliers de copies de génome plastidial par celluleReprésentant jusqu’à 20 % de l’ADN cellulaire** 
+
+##### Transmission des plastes et du génome plastidial au cours des divisions cellulaires
+
+Au cours des mitoses, chacune des cellules filles reçoit le même nombre de chloroplastes.
+La division des chloroplastes dans les cellules méristématiques a lieu pendant la phase G2
+
+##### Transmission des plastes et du génome plastidial au cours de la reproduction sexuée
+***Héritabilité du génome plastidial***
+
+- Chez les angiospermes : 
+	- Hérédité **maternelle** (80 % des espèces) 
+	- Hérédité **biparentale** (20 % des cas ex: Pelargonium, Plumbago, Oenothera) 
+	- Cas unique d’hérédité exclusivement paternelle : Actinidia speciosa 
+		- La modalité « maternelle » est ancestrale
+
+- Chez les gymnospermes : 
+	- Généralement considérée comme paternelle
+	- Les 3 situations sont décrites
+
+Les plastes sont transmis à la descendance par les gamètes femelles (transmission maternelle) ou mâles (transmission paternelle) ou les 2. Dans tous les cas, ils sont transmis sous forme de proplastes.
+
+##### Description des génomes plastidiaux
+
+- 1986 : Séquençage des 2 premiers génomes plastidiaux
+	- Nicotiana tabacum (Shinozaki et al) 
+	-  Marchantia polymorpha (Ohyama et al)
+- 1996 : 10 génomes plastidiaux séquencés
+- 2006 : 81 génomes plastidiaux séquencés
+- 2011 : 205 génomes plastidiaux séquencés
+	- 118 Angiospermes
+	- 16 Gymnospermes
+
+
+
 > plastes d'origine procaryotiques dont a conservé des caractéristiques procaryotypes
 
 Génome circulaire (caractéristique de type procaryote)
