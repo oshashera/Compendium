@@ -40,7 +40,31 @@ NE : Nuclear enveloppe ; N : Nucleus ; NU : Nucleolus
 154 000 pb, 133 gènes, 88 protéines 
 
 On peut parler de génome cytoplasmique = extrachromosomique.
-Mitochondries et plastes sont dits "semi-autonomes", car dans ces organites des protéines sont synthétisées sans gène nucléaire impliqué, donc autonomie relative, mais reste dépendante du reste de la cell
+Mitochondries et plastes sont dits "semi-autonomes", car dans ces organites des protéines sont synthétisées sans gène nucléaire impliqué, donc autonomie relative, mais reste dépendante du reste de la cellule.
+
+### Origine évolutives de plantes et mitochondries
+
+= Deux organites à l'organisation du génome et mécanismes d'expression des gènes communs avec les **procaryotes**
+<mark style="background: #FF8500A6;">-></mark> Richettria (protéobactérie)
+<mark style="background: #09B609A6;">-></mark> Synechococcus (cyanobactérie)
+*génomes proches -> origine procaryotique*
+
+Et génome plutôt distant avec le génome nucléaire de la cellule.
+Acquisition par la cellule eukaryote (cellule hôte) primitive d'organites par endosymbiose
+Les endosymbiontes deviennent des **composants essentiels** au fonctions des cellules -> **co-évolution** des génomes des cellules hôtes et des endosymbiontes, des échanges entre partenaires.
+/-> deviennent des **organites**, avec un génome propre, "semi-autonomes"
+
+Ajd on constate une situation résultant de ces mécanisme/histoires évolutives.
+
+### Les grandes lignes de la coévolution des génomes
+
+-> **réduction massive** de la taille du génome <mark style="background: #FF8500A6;">mitochondrien</mark> et <mark style="background: #09B609A6;">plastidial</mark> + **transfert de gènes** des organites vers le <mark style="background: #1553D0A6;">noyau</mark> + des gènes perdus
+
+Quand il y a eu redondance de l'information génétique, l'évolution a "favorité" le maintien des gènes nucléaires et les pertes de ceux correspondant dans le génome.
+Et de très nombreux gènes essentiels au bon fonctionnement de ces organites ont été transférés dans le noyau.
+La majorité des protéines mitochondriales et plastidiales sont actuellement codées par le génome nucléaire, et étaient à l'origine codées par le génome de l'organite.
+
+
 
 ## Le génome plastidial
 
