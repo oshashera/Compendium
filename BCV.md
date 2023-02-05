@@ -5,6 +5,19 @@
 
 
 ___
+*partie Niogret*
+
+# Organisation, expression, régulation, interactions
+
+Il y a un génome contenu dans les plastes, des organites spécifiques aux végétaux.
+Ces plastes fonctionnent nécessairement en échange/collaboration avec le reste de la cellule.
+
+**Les 3 génomes de la cellule végétale:**
+- Origine évolutive des génomes plastidiale et mitochondriale
+- Dynamique évolutive des 3 génomes
+- Complémentarité et échanges entre les 3 génomes
+
+
 
 ## Le génome plastidial
 
