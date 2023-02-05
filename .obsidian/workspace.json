@@ -49,12 +49,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Faisceaux cribro-vasculaires (schéma fin TP2 BOT).md"
+                "file": "Excalidraw/Faisceaux cribro-vasculaires doubles (schéma fin TP2 BOT).md"
+              }
+            }
+          },
+          {
+            "id": "6ce31c4d5fbd0133",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Faisceaux cribro-vasculaires simple (schéma fin TP2 bot).md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Faisceaux cribro-vasculaires (schéma fin TP2 BOT).md",
+                "file": "Excalidraw/Faisceaux cribro-vasculaires simple (schéma fin TP2 bot).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Faisceaux cribro-vasculaires (schéma fin TP2 BOT).md",
+                "file": "Excalidraw/Faisceaux cribro-vasculaires simple (schéma fin TP2 bot).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Faisceaux cribro-vasculaires (schéma fin TP2 BOT).md"
+                "file": "Excalidraw/Faisceaux cribro-vasculaires simple (schéma fin TP2 bot).md"
               }
             }
           },
@@ -211,8 +221,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f72beb8d50ca519",
+  "active": "6ce31c4d5fbd0133",
   "lastOpenFiles": [
+    "Excalidraw/Faisceaux cribro-vasculaires doubles (schéma fin TP2 BOT).md",
     "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
     "To do List.md",
@@ -221,7 +232,6 @@
     "BCV.md",
     "Master APVV.md",
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
-    "Pasted image 20230202110256.png",
-    "Pasted image 20230202101048.png"
+    "Pasted image 20230202110256.png"
   ]
 }
