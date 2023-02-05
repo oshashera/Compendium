@@ -237,6 +237,7 @@ Dans embryophytes:
 * Hépatiques
 * Mousses ou Bryophytes *s.t.* (sens strict)
 -> trachéophytes (plantes vasculaires)
+![[Pasted image 20230205070812.png]]
 <br>
 
 ### Embryophytes, groupe monophylétique
@@ -278,22 +279,22 @@ racine, pluricellulaire, différents tissus*
 - Archégones et anthéridies permettant une fécondation interne : **cryptogames**
 - Cycle digénétique à **gamétophyte dominant** et sporophyte toujours dépendant du gamétophyte (le sporophyte va s'alimenter sur le gamétophyte)
 
-[diapo cycle digénétique bryophyte de mes couilles]
+![[Pasted image 20230205070837.png]]
 *règle, typo différente pour différencier évènement (fécondation/méiose) rapidement, autre diapo pour la phase (sporo/gametophyte), couleur: n=bleu, 2n=rouge*
 
-[diapo réparition des bryophytes en 3 lignées du démon de ses morts]
+![[Pasted image 20230205070911.png]]
 
 ### I.1 Anthocérotes : anthocérophytes
 
 1 famille: Anthocerotaceae ; 6 genre ; 301 sp.
 Seulement 4 espèces d'Anthocérotes en France, on en trouve en inde aussi mais surtout aux US
 
-[diapo anthocérotes -> le gamétophyte ; capsule allongé du sporophyte]
+![[Pasted image 20230205070947.png]]
 
-[diapo appareil végétatif thalloïde = gamétophyte (n)]
+![[Pasted image 20230205071004.png]]
 *pyrénoïde (concentré de protéine et des enzyme responsables de la photosynthèse, RubisCo en particulier) caractérise ce groupe (anthocérotes) et sont aussi présent chez des algues vertes -> caractère ancestral*
 
-[diapo reproduction du gamétophyte (n)]
+![[Pasted image 20230205071025.png]]
 *eau nécessaire à la fécondation -> zoïdogamie, caractère ancestral*
 
 **L'anthéridie**
@@ -302,14 +303,14 @@ Seulement 4 espèces d'Anthocérotes en France, on en trouve en inde aussi mais 
 
 **Le sporophyte (2n)**
 La capsule du sporophyte présente des stomates et des cellules chlorophylliennes
-[insérer schéma diapo]
+![[Pasted image 20230205071115.png]]
 Cylindrique, à très forte polarité de développement : la partie basale reste au stade juvénile (bcp de divisions), alors que la partie apicale a terminé la différenciation des spores.
 
-[diapo du démon]
+![[Pasted image 20230205071133.png]]
 *suçoir pcq dépendant du gamétophyte
-élétère ou jsp quoi sont diploïdes*
+élatère  sont diploïdes*
 
-[diapo du cyle de vie du démon d'une anthocérote]
+![[Pasted image 20230205071157.png]]
 *toujours caractériser le cycle : ici : digénétique, hétéromorphe (sporophyte n'a rien à voir morphologiquement avec le gamétophyte ; haplodiplophasique (n into 2n), isosporie (spores de même taille), ne produisent donc qu'un type de gamétophyte -> isoprothallie*
 
 ### I.2 Hépatiques, Hépatichophytes ou Marchantiophytes
@@ -318,14 +319,40 @@ Cylindrique, à très forte polarité de développement : la partie basale reste
 - les feuilles sont souvent lobées ou découpées, **sans nervures** -> "feuilles" sont des phyllidies
 - Leurs cellules sont **isodiamétriques** et contiennent pour certaines un organite particulier, unique à ce groupe : les **oléocorps**
 
+#### a. Metzgériales (~500 espèces)
+
+![[Pasted image 20230205071356.png]]
+
+![[Pasted image 20230205071405.png]]
+
+![[Pasted image 20230205071418.png]]
+![[Pasted image 20230205071428.png]]
+
+#### b. Jungermaniales
+
+![[Pasted image 20230205071535.png]]
+![[Pasted image 20230205071546.png]]
+![[Pasted image 20230205071555.png]]
+![[Pasted image 20230205071607.png]]
+![[Pasted image 20230205071618.png]]
+![[Pasted image 20230205071637.png]]
+![[Pasted image 20230205071650.png]]
+
+#### c. Marchantiales
+
+![[Pasted image 20230205071710.png]]
+![[Pasted image 20230205071717.png]]
+![[Pasted image 20230205071726.png]]
+![[Pasted image 20230205071737.png]]
+![[Pasted image 20230205071746.png]]
+![[Pasted image 20230205071755.png]]
 
 
 
 
 
 
-
-[insérer cm manqué]
+==[insérer cm manqué]==
 
 _____
 [diapo polytric]
