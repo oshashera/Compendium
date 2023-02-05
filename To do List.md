@@ -9,9 +9,10 @@ ___
 - [ ] Update cm de Bot
 	- [x] CM3 à finir (j'ai pris les diapos)
 	- [ ] CM4 à récup quand diapo est dispo
+	- [x] TP2 update
 - [ ] Récup 1 cm de IB2
 - [x] Update TP1 BOT - Xérophytes avec schéma de fin
-	- [ ] (faut encore insérer une diapo mais y a pas les diapo)
+	- [x] (faut encore insérer une diapo mais y a pas les diapo)
 <br>
 ___
 ## Préparations

@@ -96,7 +96,12 @@ m
 cercle avec croix = fibre sclérenchymateuse isolée/seule 
 lacune aquifère (protoxylème résorbé)
 
-[[insérer schéma global moi et diapo]]
+*dessin (pas très juste au niveau des parois) de qqs cellules épidermiques incluant un poil tecteur et quelque cellules de collenchyme*
+![[Pasted image 20230205082257.png]]
+
+![[Pasted image 20230205082321.png]]
+![[Pasted image 20230205082329.png]]
+
 
 
 ![[Faisceaux cribro-vasculaires simple (schéma fin TP2 bot)]]
