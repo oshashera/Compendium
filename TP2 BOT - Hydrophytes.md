@@ -97,7 +97,10 @@ cercle avec croix = fibre sclérenchymateuse isolée/seule
 lacune aquifère (protoxylème résorbé)
 
 [[insérer schéma global moi et diapo]]
-[[update photo faisnceaux vasculaires hugo]]
+
+
+![[Faisceaux cribro-vasculaires simple (schéma fin TP2 bot)]]
+![[Faisceaux cribro-vasculaires doubles (schéma fin TP2 BOT)]]
 
 Devoir: diagnose organe, systématique, adaptation
  
