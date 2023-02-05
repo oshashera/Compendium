@@ -204,22 +204,23 @@ Innovations évolutives importantes permettant l'adaptation à la vie terrestre
 - Protection (et miniaturisation) des éléments de reproduction
 - Développement de relations symbiotiques végétaux / champignons / bactéries
 
-[diapo arbres chlorobiontes]
-"depuis y a des trucs qui ont changé"
+![[Pasted image 20230205070359.png]]
+*"depuis y a des trucs qui ont changé"*
 
-[diapo les chlorobiontes arbre rose]
+![[Pasted image 20230205070427.png]]
 "oogamie = deux gamètes de taille différentes, femelle sans flagelle, grande, et avec réserves, et le male avec flagelle, sans réserve, petit"
-"tellophase, séparation du contenu cellulaire des 2 filles en 2 cellule, apparition du plasmodesme, permet une continuité cytoplasmique entre les deux cellules adjacentes
-"
-[diapo phragmoplaste]
+"tellophase, séparation du contenu cellulaire des 2 filles en 2 cellule, apparition du plasmodesme, permet une continuité cytoplasmique entre les deux cellules adjacentes"
+
+![[Pasted image 20230205070450.png]]
 Chez les algues vertes au cours de la division cellulaire on voit que le contenu cellulaire, matos génétique (rouge) va se séparer, l'orientation de la division se fait dans le sens des microtubules => phycoplasme
 Chez charophytes et Embryophytes microtubules perpendiculaires au plan de division => phragmoplaste, vesicules se forment vers l'extérieur, pour faire reconstitution centrales
 
-[arbre embryo frère de zygmatales] update récente
+![[Pasted image 20230205070515.png]]update récente
+<br>
 
 #### Evolution de l'arbre phylogénétique des premières Embryophytes
 
-*Jusque vers 2010*, les Charophytes (algues vertes), plus proches des Embryophytes et plus particulièrement des ==[récup texte diapo]==
+*Jusque vers 2010*, les Charophytes (algues vertes), plus proches des Embryophytes et plus particulièrement des Coleochaetales (petites algues filamenteuses ou discoïdes)
 
 *2012 à 2018*, les zygnématophycées plus proches des embryophytes
 
@@ -227,7 +228,7 @@ Chez charophytes et Embryophytes microtubules perpendiculaires au plan de divisi
 
 *Donc* le dernier ancêtre commun était déjà adapté à la vie terreste
 
-[arbre encore, chrolophylle b, amidon etc moncul]
+![[Pasted image 20230205070552.png]]
 boite = apparitions importantes
 
 Dans embryophytes:
@@ -256,12 +257,12 @@ Dans embryophytes:
 formant de nouvelles cellules reproductrices (spores ou gamètes), *après une vie végétative marquée par la présence de cellule(s), dite(s), végétative(s)*
 
 Alternance de générations dans le cycle de la vie
-[mettre diapo arbre bleu-rouge de merde]
+![[Pasted image 20230205070635.png]]
 
 Chez Bryophyte, génération dominante, c'est la génération gamétophytique qui est dominante, et chez trachéophyte c'est devenu la génération sporophytique qui est dominante.
 
-**Spores** et **gamètes** sont formés dans des organes (**-ange** = enveloppe) et non plus dans des cellules (**cystes**)
-[diapo spores et gamètes embryo vs thallphytes]
+**Spores** et **gamètes** sont formés dans des organes (**-ange** = enveloppe) et non plus dans des cellules (**-cystes**)
+![[Pasted image 20230205070717.png]]
 
 
 ## I. Les "bryophytes" au sens large
