@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a0fc70e75afde28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entomologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entomologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Entomologie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +205,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00437f623f09224e",
+  "active": "9a0fc70e75afde28",
   "lastOpenFiles": [
+    "Entomologie.md",
     "BCV.md",
     "To do List.md",
     "Excalidraw/dessin cellule 3 génomes niogret.md",
@@ -211,7 +216,6 @@
     "Botanique Systématique (BOT).md",
     "TP2 BOT - Hydrophytes.md",
     "Excalidraw/Faisceaux cribro-vasculaires simple (schéma fin TP2 bot).md",
-    "Excalidraw/Faisceaux cribro-vasculaires doubles (schéma fin TP2 BOT).md",
-    "Vacances février.md"
+    "Excalidraw/Faisceaux cribro-vasculaires doubles (schéma fin TP2 BOT).md"
   ]
 }
