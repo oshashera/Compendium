@@ -266,3 +266,31 @@ Environnements chauds et secs (bcp d'évaporation)
 
 
 ##### 2-2 Leurs adaptations
+
+![[Pasted image 20230206113317.png]]
+
+### C- La concentration en sels minéraux
+
+#### 1- Leurs habitats
+
+![[Pasted image 20230206113515.png]]
+
+Halophiles, [NaCl] élevée, proche du pt de saturation de l'eau.
+
+
+##### 1-2 Leurs adaptations 
+
+![[Pasted image 20230206113802.png]]
+![[Pasted image 20230206113809.png]]
+
+K+ et Cl- intracellulaire permettent de maintenir l'osmolarité de la cellule en adéquation avec le milieu de vie
+
+### D- La pression : barotolérantes et barophiles
+
+#### 1- Leurs habitats
+
+Pression élevée dans les océans (400 atmosphère (barotolérantes, seuil max) à 600 atmosphère (barophiles, tout après 400 atm.))
+
+##### 2- Leurs adaptations
+
+![[Pasted image 20230206114058.png]]
