@@ -174,4 +174,8 @@ La synthèse commence dans le cytoplasme en particulier à partir de l'udp, auqu
 Certains antibio vont cibler la paroi de la bactérie (muréine exclusive aux bactéries) qui évitent donc des effets secondaires chez les cellules eukaryotes.
 
 MDP a deux propriétés :
-- adjuvant ()
+- adjuvant (boosts du système immunitaire (activation dy système, sont pas spécifique))
+- pyrogène (stimule le système nerveux central et causer la fièvre)
+
+Au niveau de la mb externe: LPS (fonction de reconnaissance (antigènes), et une activité toxique (endotoxines)) ; Porines (perméabilité sélective, barrière potentielle au passage d'antibiotique ou autres molécules de défense)
+Au niveau de la mb plasmique (différence aux eukaryotes) : rôle de protection abiotique (archées, résistance extrémophile) ; chaîne respiratoire ; chez certaines bactéries photoS : chaînes de photoS
