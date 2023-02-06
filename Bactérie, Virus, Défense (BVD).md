@@ -214,3 +214,18 @@ Trouvés dans mers et océans (en profondeur, à 400m on est déjà à 2-3°C), 
 cfu = unité formée de colonie 
 Plus la température est basse, meilleur est le rendement de croissance mais le temps de génération est plus long.
 A 4° on a une forte activité des enzymes, alors qu'à 18 ou 25° c'est peu actif
+Enzymes étudiées avec cristallographie rayons X.
+
+**Enzymes :** On voit qu'il y a des différences de structure tertiaire, de conformation, entre les enzymes des mesophiles et des psychrophile.
+Ca reste fonctionnel , protège site catalitique et dedans le site actif des températures froides chez les psychrophiles
+
+**Adaptations au niveau des membranes** : 
+- chez les archées on a les tétraéthers
+- augmentation du nombre d'insaturations (double liaisons) phospholipides
+/-> si on diminue la température de fusion on conserve la fluidité
+![[Pasted image 20230206111025.png]]
+
+#### 2- Les hyperthermophiles
+
+##### 2-1 Leurs habitats
+Températures extrêmement élevées (sources thermales, chauffe eau)
