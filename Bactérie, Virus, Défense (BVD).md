@@ -156,3 +156,13 @@ ___
 <br>
 <br>
 # La cellule bactérienne, une cellule originale
+
+[[insérer cm2 de ses morts]]
+
+
+
+*CM3*
+
+![[Pasted image 20230206102054.png]]
+*faut savoir expliquer sans connaître tt les étapes*
+

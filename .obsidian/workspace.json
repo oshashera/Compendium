@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe5a999a7694f11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To do List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca8b4eeb18dff089",
             "type": "leaf",
             "state": {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entomologie.md",
+                "file": "TP2 BOT - Hydrophytes.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,12 +35,16 @@
             "id": "9a0fc70e75afde28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bactérie, Virus, Défense (BVD).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bactérie, Virus, Défense (BVD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bactérie, Virus, Défense (BVD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bactérie, Virus, Défense (BVD).md"
+              }
             }
           },
           {
@@ -207,15 +203,15 @@
   },
   "active": "9a0fc70e75afde28",
   "lastOpenFiles": [
-    "Entomologie.md",
     "BCV.md",
-    "To do List.md",
-    "Excalidraw/dessin cellule 3 génomes niogret.md",
-    "Canva test.canvas",
-    "TP1 BOT - Xérophytes.md",
-    "Botanique Systématique (BOT).md",
+    "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "TP2 BOT - Hydrophytes.md",
-    "Excalidraw/Faisceaux cribro-vasculaires simple (schéma fin TP2 bot).md",
-    "Excalidraw/Faisceaux cribro-vasculaires doubles (schéma fin TP2 BOT).md"
+    "TP1 BOT - Xérophytes.md",
+    "Entomologie.md",
+    "Biostatistique IB2.md",
+    "To do List.md",
+    "Bactérie, Virus, Défense (BVD).md",
+    "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md",
+    "Excalidraw/dessin cellule 3 génomes niogret.md"
   ]
 }
