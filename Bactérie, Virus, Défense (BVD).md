@@ -302,12 +302,24 @@ Pression élevée dans les océans (400 atmosphère (barotolérantes, seuil max)
 
 
 
+## II- La croissance bactérienne
 
+### A- Définition
+croissance bactérienne : nb de bactéries pas croissance de la cellule
 
-
+### B - milieu de cultures
 
 -milieu riche (**auxotrophes**) (facteur de croissance, élément indispensable à la croissance d'un organisme qu'il n'est pas capable de synthétiser : Vit, bases azotées et acides aminés) LB, sang, oeuf, lait
 -milieu minimum en H20, sels minéraux + 1 sucre ou source (**autotrophe**) de C minéral  ou organique (**prototrophe**)
 	
 Prototrophes et auxotrophes forment les hétérotrophes
 
+#### C- Mesure de la croissance
+
+#### 1- mesure de la concentration cellulaire
+
+culture, dilutions (en général d'un facteur 10) into comptage de colonies into prélevage et incubations sur boite de pétri et comptage de colonies
+
+#### 2- Mesure de la densité bactérienne
+
+densité optique avec le spectrophotomètre (on mesure le trouble du à la multiplication des cellules)
