@@ -166,3 +166,12 @@ ___
 ![[Pasted image 20230206102054.png]]
 *faut savoir expliquer sans connaître tt les étapes*
 
+Chaines reliées par des ponts inter-peptidiques.
+La synthèse commence dans le cytoplasme en particulier à partir de l'udp, auquel est ajouté un M et une chaine de 5 aa.
+1 des deux phosphate de l'UDP va aller au niveau du truc appelé BP (c'est un des 2 P)
+
+![[Pasted image 20230206102839.png]]
+Certains antibio vont cibler la paroi de la bactérie (muréine exclusive aux bactéries) qui évitent donc des effets secondaires chez les cellules eukaryotes.
+
+MDP a deux propriétés :
+- adjuvant ()
