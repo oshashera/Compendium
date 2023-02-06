@@ -229,3 +229,14 @@ Ca reste fonctionnel , protège site catalitique et dedans le site actif des tem
 
 ##### 2-1 Leurs habitats
 Températures extrêmement élevées (sources thermales, chauffe eau)
+
+##### 2-2 Les adaptations
+
+**Enzymes** : encore une fois conformations spécifiques pour protéger 
+**membranes** : idem , tétraéthers chez archées
+On a des molécules qui vont également protéger l'ADN
+
+### B- Le pH
+
+#### 1- Les acidophiles
+
