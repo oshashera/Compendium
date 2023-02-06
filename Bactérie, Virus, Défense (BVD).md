@@ -179,3 +179,29 @@ MDP a deux propriétés :
 
 Au niveau de la mb externe: LPS (fonction de reconnaissance (antigènes), et une activité toxique (endotoxines)) ; Porines (perméabilité sélective, barrière potentielle au passage d'antibiotique ou autres molécules de défense)
 Au niveau de la mb plasmique (différence aux eukaryotes) : rôle de protection abiotique (archées, résistance extrémophile) ; chaîne respiratoire ; chez certaines bactéries photoS : chaînes de photoS
+
+
+
+# LA CROISSANCE DES CELLULES BACTERIENNES
+
+## I- FACTEURS INFLUENCANT LA CROISSANCE
+
+- **T°C**
+- **pH**
+- milieu nitriments
+- lumière (UV)
+- **salinité**
+- **pression**
+- H20 disponible
+
+### A- La température
+
+#### 1- Les psychrophiles
+
+On classe les micro-organisme en 4 catégories en fonction de la température: 
+- psychrophile : êtres vivants avec T° de croissance inférieures à 20°C
+- mesophile :êtres vivants avec T° de croissance entre 20 et 40-45°C
+- thermophile :être vivants avec T° de croissance entre 45 et 70°C
+- êtres vivants avec T° de croissance supérieur à 70°C
+##### 1-1 Leurs habitats
+##### 1-2 leurs adaptations
