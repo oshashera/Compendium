@@ -196,12 +196,21 @@ Au niveau de la mb plasmique (différence aux eukaryotes) : rôle de protection 
 
 ### A- La température
 
+On classe les micro-organisme en 4 catégories en fonction de la température: 
+- **psychrophile** : êtres vivants avec T° de croissance inférieures à 20°C
+- **mesophile** : êtres vivants avec T° de croissance entre 20 et 40-45°C
+- **thermophile** : être vivants avec T° de croissance entre 45 et 70°C
+- **thermophile extrême** : êtres vivants avec T° de croissance supérieur à 70°C
+
 #### 1- Les psychrophiles
 
-On classe les micro-organisme en 4 catégories en fonction de la température: 
-- psychrophile : êtres vivants avec T° de croissance inférieures à 20°C
-- mesophile :êtres vivants avec T° de croissance entre 20 et 40-45°C
-- thermophile :être vivants avec T° de croissance entre 45 et 70°C
-- êtres vivants avec T° de croissance supérieur à 70°C
 ##### 1-1 Leurs habitats
+
+Trouvés dans mers et océans (en profondeur, à 400m on est déjà à 2-3°C), et antartique et autres biotopes froids.
+
 ##### 1-2 leurs adaptations
+
+![[Pasted image 20230206105544.png]]
+cfu = unité formée de colonie 
+Plus la température est basse, meilleur est le rendement de croissance mais le temps de génération est plus long.
+A 4° on a une forte activité des enzymes, alors qu'à 18 ou 25° c'est peu actif
