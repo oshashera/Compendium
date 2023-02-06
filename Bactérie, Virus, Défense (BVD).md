@@ -238,5 +238,31 @@ On a des molécules qui vont également protéger l'ADN
 
 ### B- Le pH
 
+4 catégories :
+- acidophiles (ph 1 à 5,5)
+- netrophiles (ph 5,5 à 8)
+- alcaliphiles (ph 8 à 10)
+- alcaliphiles extrêmes (pH 10-11)
 #### 1- Les acidophiles
 
+#### 1-1 Leurs habitats
+
+Zones de volcanismes actives, bassins souffrés, tourbières, salines, marais salants 
+
+##### 1-2 Leurs adaptations
+
+![[Pasted image 20230206112508.png]]
+Potassium s'oppose à la rentrée de H+, mb imperméable aux protons
+
+
+![[Pasted image 20230206112819.png]]
+![[Pasted image 20230206112826.png]]
+
+#### 2- Les alcaliphiles
+
+##### 2-1 Leur habitat
+
+Environnements chauds et secs (bcp d'évaporation)
+
+
+##### 2-2 Leurs adaptations
