@@ -298,3 +298,16 @@ Pression élevée dans les océans (400 atmosphère (barotolérantes, seuil max)
 
 ![[Pasted image 20230206114206.png]]
 
+
+
+
+
+
+
+
+
+-milieu riche (**auxotrophes**) (facteur de croissance, élément indispensable à la croissance d'un organisme qu'il n'est pas capable de synthétiser : Vit, bases azotées et acides aminés) LB, sang, oeuf, lait
+-milieu minimum en H20, sels minéraux + 1 sucre ou source (**autotrophe**) de C minéral  ou organique (**prototrophe**)
+	
+Prototrophes et auxotrophes forment les hétérotrophes
+
