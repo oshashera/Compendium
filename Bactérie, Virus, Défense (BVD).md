@@ -294,3 +294,7 @@ Pression élevée dans les océans (400 atmosphère (barotolérantes, seuil max)
 ##### 2- Leurs adaptations
 
 ![[Pasted image 20230206114058.png]]
+
+
+![[Pasted image 20230206114206.png]]
+
