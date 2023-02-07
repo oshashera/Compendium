@@ -81,3 +81,20 @@ Entre-deux-guerres : ZI Trublet avec installation de plus de 300 entreprises (é
 
 [insérer diapo de merde "exemple de données de pollution au niveau des prairies st martin"]
 
+#### Projet d'Aménagement du Parc Naturel Urbain des prairies St Martin
+
+**Vaste étude sur la pollution du site**
+- caractérisation de la pollution
+- quantification et localisation de la pollution
+
+**utilisation d'outils biologiques reconnus pertinents pour évaluer la qualité du sol**
+- 2 bioindicateurs de transfert ou d'accumulation (indice CET-végétaux et indice SET-animaux)
+	- CET : indice de phytodisponibilité des métaux dans les sols
+	- SET : indice de zoodisponibilité des métaux dans les sols
+
+- 1 bioindicateur d'effets (indice Oméga-3-végétaux (acides gras des mb du chloroplaste)):
+	- Biomarqueur métabolique d'exposition et d(effets précoses au polluants)
+
+=> renseignent sur les transferts et les effets des contaminants présents dans le sol vers les premiers maillons d'une chaîne trophique (végétaux, escargots).
+
+[insérer ]
