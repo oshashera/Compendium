@@ -295,7 +295,13 @@ NEP = nuclear encoded polymérase.
 On a mise en évidence une NEP, qui certes est codée par un gène nucléaire, mais est dédiée à la transcription de gènes de type procaryotiques, et on dit que ses caractéristiques est qu'elle ressemble à une rna polymérase bactériophage.
 Cette NEP on va la trouver active dans le plaste
 
+![[Pasted image 20230207092822.png]]
 
+![[Pasted image 20230207093007.png]]
+
+
+![[Pasted image 20230207093505.png]]
+Une différence entre les 2 situations est que les facteurs sigmas utilisés pour rbcL peuvent être phosphorilé ou non, en fonction de leur niveau de phosphorilation on aura une activité transcriptionnel différente (phosphorilation**s** : activité augmentée, sinon basale).
 
 
 
