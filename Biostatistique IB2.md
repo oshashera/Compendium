@@ -323,4 +323,35 @@ avec :
 - ychapeaui = alpha0 + alpha1xi pour l'observation i
 
 Pour trouver la meilleur droite (estimer les coefficients alpha0 et alpha1) on minimise la somme des carrés des résidus : Méthode des moindres carrés 
-$$RSS~(résidual~sum~of~squares)  = \sum(y^{i}- y_i)$$
+$$RSS~(résidual~sum~of~squares)  = \sum(\hat{y}i - y_i)$$
+
+Il faut que la droite soit "au milieu" du nuage de points : on regarde les résidus et on test leur normalité
+- > mod$residuals
+- > shapiro.test(mod$residuals)
+
+##### Interprétation des coefficients
+
+- >summary(mod)
+Donne plein d'infos, certaines utiles, d'autre non.
+-> rappelle la formule
+-> donne les residuts
+->donne les **coefficients** (nous intéresse)
+-> residual standard error : nous donne le "multiple R-squared" qui est la p-value qu'on regarde (pas l'autre)
+
+Pour les **coeffs**
+- colonne Estimate : intercept est l'ordonnée à l'origine (alpha0)
+- colonne Estimate : X = nombre du coeff associé à X (alpha1)
+- colonne Pr(>|t|) c'est la p-value
+
+Si x = 0 on aura une forte p-value
+Si x est grand, p-value très loin de 0, coeff significatif, et une variable permet donc d'edxpliquer l'autre.
+
+R effectue un test statistique pour comparer la valeur du coefficient à 0, la p-value correspondante est dans la colonne Pr(>|t|) : si la pvalue est inférieure au seuil, le coeff est significativement différent de 0 et il y a donc un lien entre x et y (pas valable pour alpha0)
+
+Une régression linéaire est un cas particulier de modèle linéaire : 
+- y est la variable expliquée
+- x est la variable explicative
+
+On peut construire des modèles linéaire avec plusieurs variables explicatives (quantitatives ou qualitatives)
+
+
