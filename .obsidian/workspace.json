@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca8b4eeb18dff089",
+            "id": "9a0fc70e75afde28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "00437f623f09224e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP2 BOT - Hydrophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a0fc70e75afde28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md",
+                "file": "BCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md",
+                "file": "BCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md"
+                "file": "BCV.md"
               }
             }
           },
@@ -203,6 +178,7 @@
   },
   "active": "9a0fc70e75afde28",
   "lastOpenFiles": [
+    "Bactérie, Virus, Défense (BVD).md",
     "BCV.md",
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "TP2 BOT - Hydrophytes.md",
@@ -210,7 +186,6 @@
     "Entomologie.md",
     "Biostatistique IB2.md",
     "To do List.md",
-    "Bactérie, Virus, Défense (BVD).md",
     "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md",
     "Excalidraw/dessin cellule 3 génomes niogret.md"
   ]

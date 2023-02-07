@@ -230,5 +230,8 @@ Protéines ammenées majoritairement par le système toc-tic : toc passe la prot
 
 ### II. Expression du génome plastidial : mécanismes et principales régulations
 
+![[Pasted image 20230207080628.png]]
+
+
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
 
