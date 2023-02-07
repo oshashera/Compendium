@@ -272,4 +272,15 @@ Vu que les échantillons (suivent/ne suivent pas) une loi Normale, on effectue u
 - >*cor.test(s&,s2,methode="pearson/spearman"*
 On obtient une p-value=pval. Au risque alpha = 0,05, on (peut/ne peut pas) rejeter l'hypothèse H0, et on conclut donc que les échantillons (sont/ne sont pas) corrélés linéairement.
 
+##### Exemples (avec le qcm rempli à l'avance)
 
+- **Les températures idéales à l'intérieur et l'extérieur sont-elles corrélées?**
+On vérifie que les échantillons pour la T° ext et int suivent bien une loi Normale -> shapiro.test
+On obtient les pvalues 0,006 et 6E-7 au risque alpha = 0,05, on peut donc rejeter H0 et on conclut qu'aucun échantillon ne suit de loi Normale 
+On fait un test de spearman (pas de normalité des données)
+Pvalue 0,01 à alpha = 0,05 donc on rejette H0 et on conclut que les échantillons sont corrélés. Il existe donc un lien linéaire entre la température idéale à l'intérieur et à l'extérieur.
+
+- **Existe-t-il un lien entre le jour de naissance et le nombre de mails non lus?**
+Test de normalité des données -> test de shapiro
+Les deux ne suivent pas de loi normale, donc encore un test de spearman à faire.
+Test de spearman, pvalue = 
