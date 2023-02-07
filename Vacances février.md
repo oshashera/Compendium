@@ -9,3 +9,4 @@ ___
 - [ ] Récupérer insectes résine
 - [ ] Réparer loupe géante
 - [ ] Prendre en note les intéractions plante- parasite
+- [ ] faire sieste dans le tipi

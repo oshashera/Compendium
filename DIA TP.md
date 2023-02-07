@@ -108,7 +108,20 @@ Entre-deux-guerres : ZI Trublet avec installation de plus de 300 entreprises (é
 
 #### Caractérisation du niveau de toxicité d'un sol potentiellement pollué des prairies ST-Martin par étude des effets sur les espèces gétéales
 
-1. choix du site de prélèvement, et qu'est ce que j'utilise comme sol de référence?
-2. Choix des espèces
-3. Réalisation de l'exposition et mesures initiales
-4. Réalisation des mesures en fin d'exposi
+1. **Choix du site de prélèvement, et qu'est ce que j'utilise comme sol de référence?**
+[diapoS cartes mékouy]
+Sol controle prélevé sur les prairies st martin mais pas au même endroit (donc pas un endroit avec sol reconstitué), parcelle pas toute proche de celle utilisée (texture différente) -> protocole critiquable
+2. **Choix des espèces**
+Article à récup sur le diapo
+
+**=>** 
+<ul>Etude des réponses des espèces aux polluants : pesticides, ETM, hydrocarbures<br>
+Espèces représentative de la biodiversité prairiale<br>
+Réponses en termes de croissance racinaire et de croissance des parties aériennes</ul>
+3. **Réalisation de l'exposition et mesures initiales (TP1)**
+
+4. **Réalisation des mesures en fin d'exposition (3 semaine plus tard (après les vacances)**
+
+5. **Analyse des résultats et interprétation (semaine 11 (vendredi 17/03) -> dépot sur moodle d'un rapport noté)**
+
+
