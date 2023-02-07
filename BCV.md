@@ -232,6 +232,23 @@ Protéines ammenées majoritairement par le système toc-tic : toc passe la prot
 
 ![[Pasted image 20230207080628.png]]
 
+On s'intéresse à l'évolution de ces plastes en chloroplastes, soit à partir de proplastes, soit à partir des étioplastes (trouvés dans plantes cultivées à l'obscurité).
+On focus sur le génome plastidial et comment il est régulé, mais dans l'optique des plastes et du chloroplaste
+
+![[Pasted image 20230207081344.png]]
+comment la lumière va faire évoluer le comportement plastidial pour le faire se différencier en chloroplaste?
+en fonction de l'age on va voir les tissus passer des protoplasres vers les chloroplastes.
+On peut étudier ce phénomène de différentiation plastidiale sur un modèle unique à un temps t: en se promenant le long d'une feuille de graminée (cf schéma au dessus)
+elles ont des feuilles qui partent de la base et s'étirent, et quand on observe en remontant, on observe différents stades de différentiation des cellules végétales photosynthétiques
+- A la base : majoritairement cellules à caractère méristématique, on va y trouver les protoplastes (cellules totipotentes)
+- Si on se trouve à la lumière, au milieu du limbe foliaire, on va avoir des forme
+
+
+
+
+
+
+
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
 
