@@ -118,8 +118,18 @@ Article à récup sur le diapo
 <ul>Etude des réponses des espèces aux polluants : pesticides, ETM, hydrocarbures<br>
 Espèces représentative de la biodiversité prairiale<br>
 Réponses en termes de croissance racinaire et de croissance des parties aériennes</ul>
+[récup diapo]
+ex: bleuet inhibé par zinc et hydrocarbures
+
 3. **Réalisation de l'exposition et mesures initiales (TP1)**
 
+Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol pollué (pré des ânes, prairies ST- Martin)
+**-> test sur la germination des graines** 
+- incubation des graines dans des boites de pétri en présence de sol pollué *vs* contrôle
+(10-15j)
+- Mesures de taux de germination
+**-> test sur la croissance des plantules**
+- prélèvement de jeunes plantules, mesures initiales et mise en culture individu
 4. **Réalisation des mesures en fin d'exposition (3 semaine plus tard (après les vacances)**
 
 5. **Analyse des résultats et interprétation (semaine 11 (vendredi 17/03) -> dépot sur moodle d'un rapport noté)**
