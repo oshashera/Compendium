@@ -274,7 +274,14 @@ Les gènes LHC (gènes permettant la synthèse de protéines qui vont participer
 Y a des mutants de gènes nucléaires qui vont fortement impacter le fonctionnement plastidial
 
 
+### 1/ Mécanismes de régulation de la transcription des gènes plastidiaux
 
+![[Pasted image 20230207090106.png]]
+Gènes rpo codent des sous unité d'une ARN polymérase très ressemblante à celle de chez e.coli
+On a un polypeptide 'facteur sigma' ("-35" ici) crucial pour fonctionner procaryotiquement.
+Il intéragit directement avec l'ADN, vient compléter le complexe ARN polymérasre et permet de se poser au niveau du promoteur -35.
+Ce sont deux régions importante de la transcription procaryotique : -10 et -35.
+Il y a une seule ARN polymérase procaryotique, mais plusieurs facteurs sigma.
 
 
 
