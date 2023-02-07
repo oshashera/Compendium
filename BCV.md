@@ -254,8 +254,10 @@ On s'attend en particulier à ce que en présence de lumière on ait des mécani
 
 ![[Pasted image 20230207082542.png]]
 Ici il s'agit de différentes formes plastidiales observées chez le maïs (poacée).
+Sur les photos fond noir on voit de manière macroscopique des fortes différences : différences de hauteur, de couleur (jaune pale obscurité, et vert lumière), et de taille des cotylédons
 
-
+Quand on regarde la structure du plaste on a des processus très caractérisés : la forme étioplaste est une forme très particulière, un plaste avec un système membranaire très organisé appelé **corps prolamellaire** avec un aspect critallin (organisation des mb).
+Lors qu'on fait arriver de la lumière dessus, on va assez rapidement voir que ces étioplastes vont évoluer en protochloroplastes.
 
 
 
