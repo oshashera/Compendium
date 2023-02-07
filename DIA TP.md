@@ -143,9 +143,10 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 **Test sur la croissance des plantules**
 2 sols
 5 sp.
-Pour chaque espèce:
+3 sp / binome 
 -> remplir 1 godet de chaque sol
 ->ajouter de l'eau
+-> mesures de la plantules : nb de feuilles, hauteurs partie aérienne, taille racine
 
 4. **Réalisation des mesures en fin d'exposition (3 semaine plus tard (après les vacances)**
 
