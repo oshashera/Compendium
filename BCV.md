@@ -238,12 +238,22 @@ On focus sur le génome plastidial et comment il est régulé, mais dans l'optiq
 ![[Pasted image 20230207081344.png]]
 comment la lumière va faire évoluer le comportement plastidial pour le faire se différencier en chloroplaste?
 en fonction de l'age on va voir les tissus passer des protoplasres vers les chloroplastes.
-On peut étudier ce phénomène de différentiation plastidiale sur un modèle unique à un temps t: en se promenant le long d'une feuille de graminée (cf schéma au dessus)
+On peut étudier ce phénomène de différentiation plastidiale sur un modèle unique à un temps t: en se promenant le long d'une feuille de graminée/poacée (cf schéma au dessus)
 elles ont des feuilles qui partent de la base et s'étirent, et quand on observe en remontant, on observe différents stades de différentiation des cellules végétales photosynthétiques
-- A la base : majoritairement cellules à caractère méristématique, on va y trouver les protoplastes (cellules totipotentes)
-- Si on se trouve à la lumière, au milieu du limbe foliaire, on va avoir des forme
+- A la base : majoritairement cellules à caractère méristématique, on va y trouver les protoplastes (cellules totipotentes) et un peu plus loin des formes intermédiaires (amyloplastes, amoeboplastes et **protochloroplastes**)
+- Si on se trouve à la lumière, au milieu du limbe foliaire, on va avoir des formes bien différenciées, avec des chloroplastes bien matures,
+- Au bout, cellules en train d'entrer en sénescence
+
+On voit donc un gradient de différentiation cellulaire accompagné d'un gradient de différentiation plastidial (participant à la diff cell).
+
+Si c'est à l'obscurité on aura des etioplastes.
+
+Ces processus vont opérer sur la base d'un génome plastidial unique, mais on a une plasticité de son expression (différents plastes), et on peut supposer qu'on a une régulation assez spécifique de ces gènes plastidiaux.
+On s'attend en particulier à ce que en présence de lumière on ait des mécanismes qui se mettent en place  et qui permettent au plaste d'évoluer vers la forme chloroplastique.
 
 
+![[Pasted image 20230207082542.png]]
+Ici il s'agit de différentes formes plastidiales observées chez le maïs (poacée).
 
 
 
