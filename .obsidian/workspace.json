@@ -11,11 +11,9 @@
             "id": "9a0fc70e75afde28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Biostatistique IB2.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-02-07 14.23.40.excalidraw.md"
               }
             }
           },
@@ -31,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIA TP.md",
+                "file": "Excalidraw/Drawing 2023-02-07 14.23.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIA TP.md",
+                "file": "Excalidraw/Drawing 2023-02-07 14.23.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIA TP.md"
+                "file": "Excalidraw/Drawing 2023-02-07 14.23.40.excalidraw.md"
               }
             }
           },
@@ -189,9 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b03d3875fbed09e",
+  "active": "9a0fc70e75afde28",
   "lastOpenFiles": [
     "Biostatistique IB2.md",
+    "DIA TP.md",
     "Excalidraw/Linéaire ou non linéaire IB2.md",
     "mettre cCM2.md",
     "BCV.md",
@@ -199,7 +197,6 @@
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
-    "Entomologie.md",
-    "To do List.md"
+    "Entomologie.md"
   ]
 }

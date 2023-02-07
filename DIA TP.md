@@ -37,4 +37,12 @@ Usages privés et des collectivités (pesticides et autres)
 
 => contamination de tous les compartiments de l'environnement : eau, sol/sédiment, air
 
-Dans l'environnement on a généralement des contaminations multiples (contaminations par des mélanges, par exemple des métaux, ou des métaux et hydrocarb)
+Dans l'environnement on a généralement des contaminations multiples (contaminations par des mélanges, par exemple des métaux, ou des métaux et hydrocarbures (organique))
+
+### 3. Dynamique des contaminants dans l'environnement
+<ul><ul><ul><ul><ul><ul><b> Cas d'un écosystème terreste</b></ul></ul></ul></ul></ul></ul>
+
+[insérer schéma diapo]
+Dynamique influencée par des processus abiotique et biotiques
+
+Ex: système terrestre
