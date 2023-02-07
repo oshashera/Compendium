@@ -75,3 +75,9 @@ tannage : à la fin utilise tannage au chrome
 
 [insérer diapo "les émissions de polluants à l'issue du tannage" (valeurs données pour une tonne de peau)]
 
+1929 : mise en place de 8ha de jardins ouvriers (pour les occupants des logements sociaux)
+
+Entre-deux-guerres : ZI Trublet avec installation de plus de 300 entreprises (équarissage, production d'engrais, production de peintures, nettoyage de matériels à l'acide, dépot/remplissage de barreries, dépôt de fioul, carrosserie...)
+
+[insérer diapo de merde "exemple de données de pollution au niveau des prairies st martin"]
+
