@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fe58ab312191625",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biostatistique IB2.md",
+                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biostatistique IB2.md",
+                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biostatistique IB2.md"
+                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md"
               }
             }
           },
@@ -176,17 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a0fc70e75afde28",
+  "active": "2fe58ab312191625",
   "lastOpenFiles": [
-    "mettre cCM2.md",
     "Biostatistique IB2.md",
+    "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md",
+    "mettre cCM2.md",
     "BCV.md",
     "Bactérie, Virus, Défense (BVD).md",
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
     "Entomologie.md",
-    "To do List.md",
-    "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md"
+    "To do List.md"
   ]
 }

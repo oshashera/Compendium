@@ -209,3 +209,21 @@ Il existe d'autres valeurs pour alternative (dans le CM8)
 
 [insérer diapo]
 mais corrélation =/= causalité, pas forcément lié.
+
+##### Pourquoi ces corrélations?
+
+- facteurs de confusion : A -> B et A -> C, on observe une corrélation entre B et C
+- facteurs intermédiaures : A -> B -> C, on observe une corrélation entre A et C
+- hasard
+- manipulation des données
+
+### Tests de corrélation (linéaire)
+
+#### Coefficient de corrélation
+
+Situation : 2 mesures quantitatives chez un groupe d'individus
+=> existe-t-il un lien (linéaire) entre ces deux mesures?
+
+Exemple:
+La taille et le poids sont-ils liés chez différentes espèces d'oiseaux?
+#### Démarche
