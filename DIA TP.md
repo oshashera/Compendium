@@ -46,3 +46,4 @@ Dans l'environnement on a généralement des contaminations multiples (contamina
 Dynamique influencée par des processus abiotique et biotiques
 
 Ex: système terrestre
+![[dessin dia tp1 (1) abiotique]]
