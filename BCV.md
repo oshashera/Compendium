@@ -288,6 +288,13 @@ Il y a une seule ARN polymérase procaryotique, mais plusieurs facteurs sigma.
 ![[Pasted image 20230207091011.png]]
 Ces facteurs sigma sont pas codé par le génome plastidial mais le génome nucléaire.
 
+![[Pasted image 20230207092545.png]]
+on a quand même une activité transcriptionnelle, même si pas de traduction
+
+NEP = nuclear encoded polymérase.
+On a mise en évidence une NEP, qui certes est codée par un gène nucléaire, mais est dédiée à la transcription de gènes de type procaryotiques, et on dit que ses caractéristiques est qu'elle ressemble à une rna polymérase bactériophage.
+Cette NEP on va la trouver active dans le plaste
+
 
 
 
