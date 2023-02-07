@@ -285,6 +285,12 @@ Il y a une seule ARN polymérase procaryotique, mais plusieurs facteurs sigma.
 
 
 
+![[Pasted image 20230207091011.png]]
+Ces facteurs sigma sont pas codé par le génome plastidial mais le génome nucléaire.
+
+
+
+
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
 
