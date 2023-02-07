@@ -46,4 +46,16 @@ Dans l'environnement on a généralement des contaminations multiples (contamina
 Dynamique influencée par des processus abiotique et biotiques
 
 Ex: système terrestre
-![[dessin dia tp1 (1) abiotique]]
+![[dessin dia tp1 (1)]]
+
+Les polluants ont aussi des effets sur le vivant
+Ces effets dépendent de:
+- la biodisponibilité de la pollution
+-  le niveau de tolérance des espèces à cette pollution
+
+#### 4. Notion d'écotoxicologie, d'écotoxicité
+
+**Ecotoxicologie**:
+Notion définie par Jean-Michel Jouany en 1971.
+
+Science qui étudie 
