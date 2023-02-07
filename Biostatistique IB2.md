@@ -299,10 +299,28 @@ Test de spearman -> 0,359 donc on peut pas rejeter H0 donc pas de corrélation
 
 ##### Régression linéaire - démarche
 
-1. créer la régression linéaire et estimer les coefficients alpha0 et alpha1
+1. Créer la régression linéaire et estimer les coefficients alpha0 et alpha1
 - > mod >- lm(y~x) 
 *lm = linear model*
 *y en fonction de x*
-2. vérifier la validité du modèle (la régression linéaire): tester la normalité des résidus
+2. Vérifier la validité du modèle (la régression linéaire): tester la normalité des résidus
 - > shapiro.test(mod$residuals)
-3. Si la régression linéaire est v
+3. Si la régression linéaire est valide : interprêter les coefficents 
+- > summary(mod)
+4. Utiliser la régression : tracé de la droite de régression, prédictions...
+
+#### Régression linéaire - meilleur droite
+
+- > mod = lm(y~x)
+- > plot(x,y)
+- > abline(mod)
+
+On défini les résidus (différences entre la droite et les observations)
+Ei = yi - y(avec chapeau)i
+
+avec :
+- yi l'observation i
+- ychapeaui = alpha0 + alpha1xi pour l'observation i
+
+Pour trouver la meilleur droite (estimer les coefficients alpha0 et alpha1) on minimise la somme des carrés des résidus : Méthode des moindres carrés 
+$$RSS~(résidual~sum~of~squares)  = \sum(y^{i}- y_i)$$
