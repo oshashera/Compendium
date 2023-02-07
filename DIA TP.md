@@ -58,4 +58,20 @@ Ces effets dépendent de:
 **Ecotoxicologie**:
 Notion définie par Jean-Michel Jouany en 1971.
 
-Science qui étudie 
+Science qui étudie les modalités de contamination de l'environnement par les agents naturels ou artificiels produits par les activités humaines, ainsi que leur mécanisme d'action et leurs effets sur l'ensemble des êtres vivants qui peuplent la biosphère (Ramade 1977)
+-> science qui étudie les effets des polluants sur les écosystèmes
+
+**Ecotoxicité**
+Evaluation des effets toxiques d'un ou plusieurs composés seuls ou en mélange appliqué(s) à des conditions réalistes sur des espèces modèles ou d'intérêt écologique (peuvent être retrouvés sur les site pollués étudiés ou bien des espèces qu'on voudrait implanter sur le site) ou agronomique.
+
+### Le cas des prairies Saint Martin
+
+#### Historique
+
+Jusqu'au 19ème siècle : prairies humides vouées aux pâturages, 2 moulins
+19è et 20è siècle : habitats le long du canal, mise en place de lavoirs et **de tanneries** (début du relargage de contaminants des eaux et des sols sur le site)
+
+tannage : à la fin utilise tannage au chrome
+
+[insérer diapo "les émissions de polluants à l'issue du tannage" (valeurs données pour une tonne de peau)]
+

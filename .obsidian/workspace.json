@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a0fc70e75afde28",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dessin dia tp1 (1).md"
-              }
-            }
-          },
-          {
             "id": "2b03d3875fbed09e",
             "type": "leaf",
             "state": {
@@ -27,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d3f2d92dc437525c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIA TP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIA TP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DIA TP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,17 +181,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b03d3875fbed09e",
+  "active": "d3f2d92dc437525c",
   "lastOpenFiles": [
-    "Excalidraw/dessin dia tp1 (1).md",
+    "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md",
     "DIA TP.md",
+    "Excalidraw/dessin dia tp1 (1).md",
     "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
     "Biostatistique IB2.md",
     "Excalidraw/Linéaire ou non linéaire IB2.md",
     "mettre cCM2.md",
     "BCV.md",
     "Bactérie, Virus, Défense (BVD).md",
-    "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
-    "TP2 BOT - Hydrophytes.md"
+    "Initiation à la pratique du Diagnostique Ecologique (DIA).md"
   ]
 }
