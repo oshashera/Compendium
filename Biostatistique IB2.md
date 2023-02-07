@@ -382,4 +382,6 @@ Donc summary(mod_temp_saison)
 Sur le summary y a que 3 saison : la 4 ème, le printemps , est utilisée en intersect (prédiction printemps), et les autres lignes c'est les différences par rapport à la modalité printemps.
 
 La saison printemps n'apparait pas : c'est la modalité de référence du modèle linéaire. Toutes les autres coefficients sont calculés par rapport à la valeur prédite au printemps.
-Ici tous les coefficients sont associés à des pvalules>0,05 donc il n'y a pas d'effet de différence de température idéale par rapport au printemps 
+Ici tous les coefficients sont associés à des pvalules>0,05 donc il n'y a pas d'effet de différence de température idéale par rapport au printemps [récup diapo]
+
+
