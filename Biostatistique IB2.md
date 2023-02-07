@@ -200,3 +200,12 @@ Démarche:
 2) Réaliser le test exact de Fisher : 
 	fisher.test(tab,alternative = "two.sided") 
 Il existe d'autres valeurs pour alternative (dans le CM8)
+
+[[mettre CM2]]
+
+*cm3*
+
+### Exemple de corrélation
+
+[insérer diapo]
+mais corrélation =/= causalité, pas forcément lié.

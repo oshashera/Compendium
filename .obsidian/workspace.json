@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BCV.md",
+                "file": "Biostatistique IB2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCV.md",
+                "file": "Biostatistique IB2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BCV.md",
+                "file": "Biostatistique IB2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BCV.md"
+                "file": "Biostatistique IB2.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "9a0fc70e75afde28",
   "lastOpenFiles": [
-    "Bactérie, Virus, Défense (BVD).md",
+    "mettre cCM2.md",
+    "Biostatistique IB2.md",
     "BCV.md",
+    "Bactérie, Virus, Défense (BVD).md",
     "Initiation à la pratique du Diagnostique Ecologique (DIA).md",
     "TP2 BOT - Hydrophytes.md",
     "TP1 BOT - Xérophytes.md",
     "Entomologie.md",
-    "Biostatistique IB2.md",
     "To do List.md",
-    "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md",
-    "Excalidraw/dessin cellule 3 génomes niogret.md"
+    "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md"
   ]
 }
