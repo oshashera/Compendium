@@ -248,5 +248,28 @@ estimation du coeff r pour deux échantillons X et Y:
 1. tester la normalité des échantillons : test de Shapiro
 2. Appliquer le test de corrélation approprié
 - Si les deux suivent une loi Normale : test de corrélation de Pearson (paramétrique)
-	- *cor.test(s1,s2, method = "pearson"*
-- Sinon : test de corrélation de Spea
+	- *cor.test(s1,s2, method = "pearson"*)
+- Sinon : test de corrélation de Spearman (non paramétrique)
+	- *cor.test(s1,s2, method = "spearman")*
+3. Conclusion du test
+
+$$H_{0}~les~échantillons~ne~sont~pas~corrélés~(r = 0 ~donc)$$
+##### Test de corrélation de Pearson
+
+Si les deux échantillons (x et y) suivent une loi Normale
+- >*cor.test(x,y,method="pearson")*
+Il nous donne bcp de trucs dont "cor : (valeur)" et la p-value 
+
+##### Test de corrélation de Spearman
+
+Si les deux échantillons (x et y) suivent une loi Normale
+- >*cor.test(x,y,method="spearman")*
+Il nous donne bcp de trucs dont "cor : (valeur)" et la p-value 
+
+##### Test de corrélation - rédation
+
+Vu que les échantillons (suivent/ne suivent pas) une loi Normale, on effectue un test de corrélation de (Pearson/Spearman) :
+- >*cor.test(s&,s2,methode="pearson/spearman"*
+On obtient une p-value=pval. Au risque alpha = 0,05, on (peut/ne peut pas) rejeter l'hypothèse H0, et on conclut donc que les échantillons (sont/ne sont pas) corrélés linéairement.
+
+
