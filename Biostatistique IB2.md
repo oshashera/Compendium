@@ -272,7 +272,7 @@ Vu que les échantillons (suivent/ne suivent pas) une loi Normale, on effectue u
 - >*cor.test(s&,s2,methode="pearson/spearman"*
 On obtient une p-value=pval. Au risque alpha = 0,05, on (peut/ne peut pas) rejeter l'hypothèse H0, et on conclut donc que les échantillons (sont/ne sont pas) corrélés linéairement.
 
-##### Exemples (avec le qcm rempli à l'avance)
+### Exemples (avec le qcm rempli à l'avance)
 
 - **Les températures idéales à l'intérieur et l'extérieur sont-elles corrélées?**
 On vérifie que les échantillons pour la T° ext et int suivent bien une loi Normale -> shapiro.test
@@ -283,4 +283,26 @@ Pvalue 0,01 à alpha = 0,05 donc on rejette H0 et on conclut que les échantillo
 - **Existe-t-il un lien entre le jour de naissance et le nombre de mails non lus?**
 Test de normalité des données -> test de shapiro
 Les deux ne suivent pas de loi normale, donc encore un test de spearman à faire.
-Test de spearman, pvalue = 
+Test de spearman, pvalue = 0,247 on peut pas rejeter H0 donc on conclut que pas de corrélation.
+
+- **Existe-t-il un lien entre le jour de naissance et la température idéale à l'intérieur et extérieur**
+Test de shapiro -> aucun normal
+Test de spearman -> 0,359 donc on peut pas rejeter H0 donc pas de corrélation
+
+### Vers les modèles linéaires
+
+#### Régression linéaire - meilleur droite
+
+[insérer diapo]
+*alpha0 est l'ordonnée à l'origine et alpha1 c'est la pente*
+*alpha 0 + alpha1 = taille*
+
+##### Régression linéaire - démarche
+
+1. créer la régression linéaire et estimer les coefficients alpha0 et alpha1
+- > mod >- lm(y~x) 
+*lm = linear model*
+*y en fonction de x*
+2. vérifier la validité du modèle (la régression linéaire): tester la normalité des résidus
+- > shapiro.test(mod$residuals)
+3. Si la régression linéaire est v
