@@ -355,3 +355,31 @@ Une régression linéaire est un cas particulier de modèle linéaire :
 On peut construire des modèles linéaire avec plusieurs variables explicatives (quantitatives ou qualitatives)
 
 
+#### Retour sur le questionnaire
+
+- **les températures idéales à l'intérieur et l'extérieur sont-elles corrélées?**
+y a une droite, pas très penchée, mais existante.
+
+On réalise une régression linéaire pour expliquer la température idéale à l'extérieur en fonction de la température idéale à l'intérieur :
+- >mod_temperatures = lm(T_exterieur ~ T_interieur , data = cm3)
+*particulier, faut lui préciser le jeu de données, après (data =)*
+On vérifie la normalité des résidus pour voir si le modèle est valide:
+- > shapiro.test(mod_temperatures$residuals)
+On a pas de normalité des données donc on est pas censé regarder le summary (on va quan même le faire):
+regardons quand même les caractéristiques du modèle
+- > summary(mod_temperatures)
+Intersect 7,2 et coeff de 0,77 avec un p value de 0,02 -> proche du seuil, on considère qu'on a un lien entre T° ext et T° int
+
+- **Existe-t-il un lien entre la saison de naissance et la température?**
+on voit des différences sur des boites à moustache mais on sait pas.
+
+On réalise une régression linéaire pour expliquer la température idéale à l'intérieur en fonction de la saison de naissance:
+- >mod_temp_saison = lm(T_interieur~saison, data=cm3)
+On vérifie la normalité des résidus
+- >shapiro.test(mod_temp_saison$residuals)
+Ca marche, le modèle est valide (normalité)
+Donc summary(mod_temp_saison)
+Sur le summary y a que 3 saison : la 4 ème, le printemps , est utilisée en intersect (prédiction printemps), et les autres lignes c'est les différences par rapport à la modalité printemps.
+
+La saison printemps n'apparait pas : c'est la modalité de référence du modèle linéaire. Toutes les autres coefficients sont calculés par rapport à la valeur prédite au printemps.
+Ici tous les coefficients sont associés à des pvalules>0,05 donc il n'y a pas d'effet de différence de température idéale par rapport au printemps 
