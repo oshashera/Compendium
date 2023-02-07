@@ -129,7 +129,24 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 (10-15j)
 - Mesures de taux de germination
 **-> test sur la croissance des plantules**
-- prélèvement de jeunes plantules, mesures initiales et mise en culture individu
+- prélèvement de jeunes plantules, mesures initiales et mise en culture individuelle sur un sol pollué *vs* contrôle
+(10-15j)
+- mesures de croissance 
+
+**Test sur la germination des graines**
+2 sols
+5 espèces : *A.stolonifera, L. corniculatus, C. cyanus, L. perenne, P. pratense*
+1 espèce par binome (2 boites de pétri)
+-> couvrir de sol (vers mi-hauteur, enlever cailloux et racines) et arroser(eau du robinet) (et annoter sur la partie du bas)
+-> ajouter 30 graines **exactement**
+
+**Test sur la croissance des plantules**
+2 sols
+5 sp.
+Pour chaque espèce:
+-> remplir 1 godet de chaque sol
+->ajouter de l'eau
+
 4. **Réalisation des mesures en fin d'exposition (3 semaine plus tard (après les vacances)**
 
 5. **Analyse des résultats et interprétation (semaine 11 (vendredi 17/03) -> dépot sur moodle d'un rapport noté)**
