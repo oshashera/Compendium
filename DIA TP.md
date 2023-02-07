@@ -97,4 +97,18 @@ Entre-deux-guerres : ZI Trublet avec installation de plus de 300 entreprises (é
 
 => renseignent sur les transferts et les effets des contaminants présents dans le sol vers les premiers maillons d'une chaîne trophique (végétaux, escargots).
 
-[insérer ]
+[insérer diapo carte prairies st martin]
+*tout en petits encarts : zones d'échantillonages des polluants dans différentes matrices (eau, sol à différentes profondeurs*
+
+[idem]
+
+[encore une carte]
+*à gauche les 3 parties en fonction du bioindicateur, légende couleur à droite*
+
+
+#### Caractérisation du niveau de toxicité d'un sol potentiellement pollué des prairies ST-Martin par étude des effets sur les espèces gétéales
+
+1. choix du site de prélèvement, et qu'est ce que j'utilise comme sol de référence?
+2. Choix des espèces
+3. Réalisation de l'exposition et mesures initiales
+4. Réalisation des mesures en fin d'exposi
