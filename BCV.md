@@ -267,9 +267,14 @@ Le schéma montre les différents niveaux d'organisations des systèmes.
 
 ![[Pasted image 20230207084455.png]]
 
-Les gènes LHC (gènes permettant la synthèse de protéines qui vont participer aux antennes collectrices),
+Les gènes LHC (gènes permettant la synthèse de protéines qui vont participer aux antennes collectrices), sont des gènes (nucléaires) très fortement induits par la lumière, tout comme la RubisCo (2 gènes, 1 dans le génome plastidial (grande sous unité), et **nucléaire (petite sous unité, amenée par peptide de transfert)**)
+
 
 ![[Pasted image 20230207084639.png]]
+Y a des mutants de gènes nucléaires qui vont fortement impacter le fonctionnement plastidial
+
+
+
 
 
 
