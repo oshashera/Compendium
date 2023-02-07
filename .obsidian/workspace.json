@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2fe58ab312191625",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md",
+                "file": "Biostatistique IB2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md",
+                "file": "Biostatistique IB2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md"
+                "file": "Biostatistique IB2.md"
               }
             }
           },
@@ -187,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2fe58ab312191625",
+  "active": "9a0fc70e75afde28",
   "lastOpenFiles": [
+    "Excalidraw/Linéaire ou non linéaire IB2.md",
     "Biostatistique IB2.md",
-    "Excalidraw/Drawing 2023-02-07 10.00.22.excalidraw.md",
     "mettre cCM2.md",
     "BCV.md",
     "Bactérie, Virus, Défense (BVD).md",

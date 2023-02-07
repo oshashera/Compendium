@@ -221,9 +221,32 @@ mais corrélation =/= causalité, pas forcément lié.
 
 #### Coefficient de corrélation
 
+![[Linéaire ou non linéaire IB2]]
 Situation : 2 mesures quantitatives chez un groupe d'individus
 => existe-t-il un lien (linéaire) entre ces deux mesures?
 
 Exemple:
 La taille et le poids sont-ils liés chez différentes espèces d'oiseaux?
+
+##### Coefficient de corrélation
+Le coefficient de corrélation (r) varie entre -1 et 1
+- -1 = négativement corrélées (1 augmente l'autre diminue)
+- 1 = positivement corrélées
+- 0 = pas corrélées
+- entre : nuances
+
+$$r = \frac{Cov(X,Y)}{\sigma_x \sigma_y}$$
+avec : 
+- Cov(X,Y), la covariance des variables X et Y (~écarts des variables par rapport à leurs moyennes respectives)
+- $$\sigma_i$$l'écart type de la variable i (~&cart de la variable à sa moyenne)
+
+estimation du coeff r pour deux échantillons X et Y:
+[récup diapo]
+
 #### Démarche
+
+1. tester la normalité des échantillons : test de Shapiro
+2. Appliquer le test de corrélation approprié
+- Si les deux suivent une loi Normale : test de corrélation de Pearson (paramétrique)
+	- *cor.test(s1,s2, method = "pearson"*
+- Sinon : test de corrélation de Spea
