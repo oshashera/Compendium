@@ -257,7 +257,19 @@ Ici il s'agit de différentes formes plastidiales observées chez le maïs (poac
 Sur les photos fond noir on voit de manière macroscopique des fortes différences : différences de hauteur, de couleur (jaune pale obscurité, et vert lumière), et de taille des cotylédons
 
 Quand on regarde la structure du plaste on a des processus très caractérisés : la forme étioplaste est une forme très particulière, un plaste avec un système membranaire très organisé appelé **corps prolamellaire** avec un aspect critallin (organisation des mb).
-Lors qu'on fait arriver de la lumière dessus, on va assez rapidement voir que ces étioplastes vont évoluer en protochloroplastes.
+Lors qu'on fait arriver de la lumière dessus, on va assez rapidement voir que ces étioplastes vont évoluer en protochloroplastes ou on voit (pt noir) des photosystèmes se mettre en place.
+
+![[Pasted image 20230207084051.png]]
+	
+	Diapo complétant la précedente (*the plant cell étant le journal américain de biologie végétale*, et elle fournit des diaporamas (certains gratuit, d'autres non), mais tjrs est-il qu'il y a tt une série de sujets traités sous forme pédagogique (sous forme pointue tho), et donne des visuels à partir des résultats obtenus par les chercheurs).
+
+Le schéma montre les différents niveaux d'organisations des systèmes.
+
+![[Pasted image 20230207084455.png]]
+
+Les gènes LHC (gènes permettant la synthèse de protéines qui vont participer aux antennes collectrices),
+
+![[Pasted image 20230207084639.png]]
 
 
 
