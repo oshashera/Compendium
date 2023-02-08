@@ -19,4 +19,7 @@ Trachéophytes, gymnospermes
 Seule les cernes les plus périphériques vont assurer la circulation de la sève brute (aubier)
 Les autres, au centre (bois de coeur), sont mort et très résistant (et chez certaines espèces sert de stock de métabolites secondaires notamment antibactériens et antifongiques)
 
-On peut différencier bois de gymnospermes et d'angiosperme par la présence de rayons ligneux formant le système horizontal
+On peut différencier bois de gymnospermes et d'angiosperme par la présence de rayons ligneux formant le système horizontal (si dans liber : rayons libérien, l'ensemble c'est les rayons libéro-ligneux)
+Chez les angiospermes le rayon libérien est composés de cellules avec paroi cellulosique alors que le rayon ligneux les cellules sont lignifiées (les deux stockent des réserves sous forme d'amidon utiles au printemps)
+Le reste est le système vertical.
+Chez les gymnospermes on ne voit pas les rayons à l'échelle macroscopique (oeil nu)
