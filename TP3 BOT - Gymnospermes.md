@@ -30,3 +30,5 @@ Chez les gymnospermes on ne voit pas les rayons à l'échelle macroscopique (oei
 ponctuation **simple** ou **pinoïde**, dans système horizontal = cellules de parenchumes cellulosiques
 Années +/- pluvieuses (ou autres conditions changeantes) = différences dans les tailles des cernes
 
+Quand on parle d'homoxylé ou d'hétéroxylé (bois) on ne s'appuie que sur le système vertical
+[insérer photo/schéma différence entre les deux]
