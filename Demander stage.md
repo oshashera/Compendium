@@ -1,0 +1,6 @@
+- Vincent Jung
+- Laurent Leport
+- Simon Chollet
+- gens à l'inra et inra rh
+- anne marie cortesero (https://www6.rennes.inrae.fr/igepp/Equipes-de-recherche/EGI-Ecologie-et-Genetique-des-Insectes)
+- 
