@@ -15,4 +15,6 @@ Trachéophytes, gymnospermes
 - l'intérieur : le phelloderme, parenchyme cellulosique secondaire (car cellules alignées du fait de l'assise secondaire) : cellule vivantes
 **Suber + phellogène + Phelloderme = le périderme**
 
-Un cerne 
+**Un cerne** = une unité de croissance = production de bois pendant un an
+Seule les cernes les plus périphériques vont assurer la circulation de la sève brute (aubier)
+Les autres, au centre (bois de coeur), sont mort et très résistant (et chez certaines espèces sert de stock de métabolites secondaires notamment antibactériens et antifongiques)
