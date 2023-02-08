@@ -165,7 +165,7 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 | Hauteur parties aériennes (cm) | 5,5 cm        | 4 cm             |
 | Longueur racines (cm)          | 2 cm          | 2 cm             |
 
-
+![[plan godets tp1]]
 4. **Réalisation des mesures en fin d'exposition (3 semaine plus tard (après les vacances)**
 
 5. **Analyse des résultats et interprétation (semaine 11 (vendredi 17/03) -> dépot sur moodle d'un rapport noté)**
