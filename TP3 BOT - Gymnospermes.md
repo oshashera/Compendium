@@ -25,4 +25,5 @@ Le reste est le système vertical.
 Chez les gymnospermes on ne voit pas les rayons à l'échelle macroscopique (oeil nu)
 
 
-[mettre schéma torus empèchant l'appariton d'emboliés]
+[mettre schéma torus empèchant l'appariton d'embolies]
+
