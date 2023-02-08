@@ -8,26 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b03d3875fbed09e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP3 BOT - Gymnospermes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0fc59440314f98c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Demander stage.md",
-                "mode": "source",
-                "source": false
+                "file": "Canva test.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -512.9140625,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -98,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TP3 BOT - Gymnospermes.md",
+                "file": "Canva test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TP3 BOT - Gymnospermes.md",
+                "file": "Canva test.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TP3 BOT - Gymnospermes.md"
+                "file": "Canva test.canvas"
               }
             }
           },
@@ -188,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b03d3875fbed09e",
+  "active": "0fc59440314f98c7",
   "lastOpenFiles": [
     "Demander stage.md",
     "TP3 BOT - Gymnospermes.md",
