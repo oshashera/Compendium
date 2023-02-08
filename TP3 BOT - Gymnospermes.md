@@ -23,3 +23,6 @@ On peut différencier bois de gymnospermes et d'angiosperme par la présence de 
 Chez les angiospermes le rayon libérien est composés de cellules avec paroi cellulosique alors que le rayon ligneux les cellules sont lignifiées (les deux stockent des réserves sous forme d'amidon utiles au printemps)
 Le reste est le système vertical.
 Chez les gymnospermes on ne voit pas les rayons à l'échelle macroscopique (oeil nu)
+
+
+[mettre schéma torus empèchant l'appariton d'emboliés]
