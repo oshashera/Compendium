@@ -68,7 +68,7 @@ Aire de distribution: zones tempérées du globe (eaux stagnantes froides et peu
 - protégée dans de nombreuses régions
 - plante aquatique émergent (20 à 40 cm de haut)
 - Elle est rhizomateuse, vivace, au fauillage caduc.
-- introdute en bassing, étang pour ses propriétés **épuratives**
+	- introduite en bassin, étang pour ses propriétés **épuratives**
 - maintenant utilisée dans les stations d'épuration qui utilisent le lagunage
 
 
@@ -89,7 +89,7 @@ Comparé au xérophylles:
 - cylindre central >>>> écorce -> tige
 - pas de stomates, car directement sous l'épiderme du collenchyme (paroi primaire (cellulosique) épaisse (grotréroz), pas d'espaces entre les cellules)
 - empilement de 2 cellules parfois = poils tecteurs bicellulaires -> témoigne d'ancêtre terrestres
-m
+
 ![[Pasted image 20230201160525.png]]
 *méat = espace intercellulaire, bordé par 3 cellules, si bordé par plus on parle de petite lacune*
 

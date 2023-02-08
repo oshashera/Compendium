@@ -25,10 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demander stage.md",
+                "file": "TP2 BOT - Hydrophytes.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a49d62ea3d2e90ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -99,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demander stage.md",
+                "file": "TP2 BOT - Hydrophytes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demander stage.md",
+                "file": "TP2 BOT - Hydrophytes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demander stage.md"
+                "file": "TP2 BOT - Hydrophytes.md"
               }
             }
           },
@@ -191,6 +199,8 @@
   },
   "active": "219576a309922096",
   "lastOpenFiles": [
+    "TP2 BOT - Hydrophytes.md",
+    "Demander stage.md",
     "Anglais S6 on se fait ierch.md",
     "DIA TP.md",
     "Excalidraw/plan godets tp1.md",
@@ -198,8 +208,6 @@
     "TP1 BOT - Xérophytes.md",
     "Vacances février.md",
     "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md",
-    "Excalidraw/dessin dia tp1 (1).md",
-    "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
-    "Biostatistique IB2.md"
+    "Excalidraw/dessin dia tp1 (1).md"
   ]
 }
