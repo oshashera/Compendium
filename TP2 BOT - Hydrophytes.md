@@ -127,5 +127,6 @@ Devoir: diagnose organe, systématique, adaptation
 | Critère                                                                                | Rôle |
 | -------------------------------------------------------------------------------------- | ---- |
 | Parois à majorité pecto-cellulosique                                                   | parois cellulosiques perméables à l'eau et aux sels minéraux -> rôle de nutrition |
-| Peu de xy |  idem    |
-| Présence de méats et lacunes (=> aérenchyme = parenchyme lacuneux à lacunes aérifères)     |      |
+| Peu de xylème et protoxylème résorbé (-> lacunes aquifères) |  idem    |
+| Présence de méats et lacunes (=> aérenchyme = parenchyme lacuneux à lacunes aérifères)     | => flottaison + circulation et stockage des gaz ( pour respiration et photosynthèse)     |
+
