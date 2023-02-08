@@ -42,4 +42,9 @@ Deadline : 10 of february
 
 ____
 
+Opinion text:
+- What did you learn (interesting, surprising, useful...)
+- What new questions do you have about the issue after reading the article?
+- What research areas can you identify that follows from the issue in question?
+
 
