@@ -106,6 +106,17 @@ lacune aquifère (protoxylème résorbé)
 
 ![[Faisceaux cribro-vasculaires simple (schéma fin TP2 bot)]]
 ![[Faisceaux cribro-vasculaires doubles (schéma fin TP2 BOT)]]
-
+____
 Devoir: diagnose organe, systématique, adaptation
- 
+**POUR LE NENUPHAR**
+
+**Critères d'organe** : *caractère de tige, organe : pétiole*
+- Symétrie axiale
+- Cuticule : épiderme cutinisé
+- Xylème et phloème superposés formant des faisceaux cribo-vasculaires
+- Xylème à différentiation centrifuge
+- Ecorce <<< cyclindre central
+- pas d'endoderme
+
+**Critères de systématique**
+- 
