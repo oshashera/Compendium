@@ -27,3 +27,5 @@ Chez les gymnospermes on ne voit pas les rayons à l'échelle macroscopique (oei
 
 [mettre schéma torus empèchant l'appariton d'embolies]
 
+ponctuation **simple** ou **pinoïde**, dans système horizontal = cellules de parenchumes cellulosiques
+Années +/- pluvieuses (ou autres conditions changeantes) = différences dans les tailles des cernes
