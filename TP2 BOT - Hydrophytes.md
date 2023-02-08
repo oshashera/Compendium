@@ -116,7 +116,16 @@ Devoir: diagnose organe, systématique, adaptation
 - Xylème et phloème superposés formant des faisceaux cribo-vasculaires
 - Xylème à différentiation centrifuge
 - Ecorce <<< cyclindre central
-- pas d'endoderme
+- pas d'endoderme, pas de péricycle
 
 **Critères de systématique**
-- 
+- faisceaux cribo-vaculaire sur plusieurs cercles (n > 2) -> monocotylédone
+- pas de cambium (et donc de tissus conducteurs secondaires) -> monocotylédone
+
+**Critères d'adaptation au milieu aquatique**
+
+| Critère                                                                                | Rôle |
+| -------------------------------------------------------------------------------------- | ---- |
+| Parois à majorité pecto-cellulosique                                                   | parois cellulosiques perméables à l'eau et aux sels minéraux -> rôle de nutrition |
+| Peu de xy |  idem    |
+| Présence de méats et lacunes (=> aérenchyme = parenchyme lacuneux à lacunes aérifères)     |      |
