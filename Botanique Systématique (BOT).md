@@ -450,7 +450,6 @@ en jaune haploide, vert diploide
 
 ### A. Origine - Classification - caractères communs - généralités
 
-#### 1. L'origine des ptéridophytes
 
 - Primaire : Silurien - Dévonien (~400-450 Ma)
 - Apogée au Carbonifère (~300 Ma) -> immenses forêts (fossilisations => gisements de charbon)
@@ -472,10 +471,23 @@ Lycopodiales, Sélaginellales, Isoétales
 - PTERIDOPHYTES ou FILICOPHYTES (les fougères)
 [arbre du démon "phylogénie supposée des trachéophytes (dans simpson 2019)"]
 
-##### Caractères communs
+##### Caractères communs 
 - Le **gamétophyte** (n) est **thalloïde** (petite lame chlorophyllienne pourvue de rhizoïdes) et transitoire.
-- 
- 
+- Gamétophyte est indépendant du sporophyte (2n)
+
+#### 1. L'origine des ptéridophytes
+[arbre du démon avec en bas à gauche un carré jaune taxon éteint]
+
+##### Phylum des rhyniophytes
+[diapo phylumm des rhyniophytes]
+On a trouvé des spores triotiques formés par la méiose
+Tige contenant des trachéides de xylème -> il devait être une plante vasculaire
+[mettre diapo]
+
+[ct de tige montrant le cordon vasculaire + cuticule + stomate]
+
+##### Phylum des Zosterophytes
+
 
 #### 2. Un appareil végétatif adapté au port dressé et au milieu aérien
 
