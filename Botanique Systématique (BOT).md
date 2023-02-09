@@ -468,7 +468,14 @@ Lycopodiales, Sélaginellales, Isoétales
 ##### Phylum des Monilophytes (12400 sp.)
 - Mégaphyles = euphylles (nervation ramifiée, vraie feuille)
 - PSYLOPHYTES (*Psilotum* et *Tmesipteris* : 2 genres tropicaux)
-- SPHENOPHYTES (Equisetum = les prêles)
+- SPHENOPHYTES (*Equisetum* = les prêles)
 - PTERIDOPHYTES ou FILICOPHYTES (les fougères)
+[arbre du démon "phylogénie supposée des trachéophytes (dans simpson 2019)"]
+
+##### Caractères communs
+- Le **gamétophyte** (n) est **thalloïde** (petite lame chlorophyllienne pourvue de rhizoïdes) et transitoire.
+- 
+ 
+
 #### 2. Un appareil végétatif adapté au port dressé et au milieu aérien
 
