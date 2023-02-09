@@ -39,6 +39,15 @@ phosphates limitants dans bcp d'écosystèmes donc peu de phospholipides utilis�
 
 ![[Pasted image 20230209162636.png]]
 
+![[Pasted image 20230209164044.png]]
+
+![[Pasted image 20230209164101.png]]
+
+![[Pasted image 20230209164257.png]]
+
+![[Pasted image 20230209164423.png]]
+![[Pasted image 20230209164435.png]]
+![[Pasted image 20230209164443.png]]
 
 
 
