@@ -23,11 +23,16 @@
             "id": "8e1e75915e3af1cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Anglais S6 on se fait ierch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demander stage.md",
+                "file": "Anglais S6 on se fait ierch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demander stage.md",
+                "file": "Anglais S6 on se fait ierch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demander stage.md"
+                "file": "Anglais S6 on se fait ierch.md"
               }
             }
           },
@@ -184,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fc59440314f98c7",
+  "active": "8e1e75915e3af1cd",
   "lastOpenFiles": [
     "Demander stage.md",
     "Canva test.canvas",
