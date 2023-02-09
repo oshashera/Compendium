@@ -3,7 +3,20 @@ ___
 [insérer tt les cm/td loupés]
 [lire ces cm de mort]
 
+![[Pasted image 20230209155728.png]]
+![[Pasted image 20230209155840.png]]
+enveloppe plastidiale = double mb
+intérieur formé par le stroma dans lesquelles les membranes thyllakoidiennes baignent.
+Elles constituent un système unique (continuité des mb thyllakoides).
+il va donc y avoir un espace délimité unique : le lumen
+Régions d'empillement = 1 granum, ensemble des granum = grana
+On a des lamelles stromatiques qui ne sont pas dans les empilements, sont au contact du stroma des deux cotés.
+On trouve différentes inclusions dans le stroma: les grains d'amidon (accumulation temporelle).
+On trouve aussi de l'ADN chloroplastique.
+On trouve aussi des lipides (plastoglobules) et des ribosomes particuliers : les plastoribosomes.
 
+![[Pasted image 20230209160508.png]]
+Deux mb lisses placées en parallèle
 
 ___
 *partie Niogret*
