@@ -453,6 +453,22 @@ en jaune haploide, vert diploide
 #### 1. L'origine des ptéridophytes
 
 - Primaire : Silurien - Dévonien (~400-450 Ma)
-- Apogée au Ca
+- Apogée au Carbonifère (~300 Ma) -> immenses forêts (fossilisations => gisements de charbon)
+- Extinction au Permien (~200 Ma)
+- ~1200 sp. actuellement
 
+Les fougères s.l. un groupe paraphylétique
+[arbre du démon]
+
+##### Phylum des Lycophytes ou Lycopodiophytes (1340 sp.)
+- plantes herbacées, rampantes
+- **microphylles** (feuilles uninervées)
+Lycopodiales, Sélaginellales, Isoétales
+
+##### Phylum des Monilophytes (12400 sp.)
+- Mégaphyles = euphylles (nervation ramifiée, vraie feuille)
+- PSYLOPHYTES (*Psilotum* et *Tmesipteris* : 2 genres tropicaux)
+- SPHENOPHYTES (Equisetum = les prêles)
+- PTERIDOPHYTES ou FILICOPHYTES (les fougères)
 #### 2. Un appareil végétatif adapté au port dressé et au milieu aérien
+
