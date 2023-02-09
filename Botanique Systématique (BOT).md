@@ -541,4 +541,14 @@ Mais seulement chez certaines **ptéridophytes fossiles**
 
 La croissance des **tiges** et des **racines** se fait par les divisions d'une **cellule apicale**
 [diapo]
-*au stage 48 h on voit 2 cellules apicales qui se *
+*au stage 48 h on voit 2 cellules apicales qui sont a l'opposée l'une de l'autre*
+Les cloisonements de 2 cellules apicales seront à l'origine de la tige et de la racine
+- installation de la **bipolarité** de l'organisme.
+[diapo apex de rhizome de polypode]
+
+Chez *Pteris cretica* mise en place d'un **territoire cellulaire méristématique** (ou massif cellulaire, pas juste une seule cellule) où chaque zone édifie une partie précise de l'organisme.
+[diapo]
+*Zi = zone initiale*
+*procambium donne xylème et phloème*
+
+Evolution du **type de feuilles** au sein des "Ptéridophytes"
