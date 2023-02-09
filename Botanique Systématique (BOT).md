@@ -433,3 +433,26 @@ en jaune haploide, vert diploide
 ## Trachéophytes = Polysporangiophytes 
 330 000 sp.
 
+[diapo arbre de ses morts]
+
+#### Caractères communs
+
+- Le sprorophyte est constitué d'un **cormus** : tige feuillé + racine
+- **Voie de la synthèse des lignines** :
+	- tissus conducteurs : Xylème
+	- tissus de soutien (Sclérenchyme)
+-->permettent un port érigé et des plantes de grande taille 
+
+- Cycle digénétique hétéromorphe, **génération du sporophyte devient la génération dominante**, réduction de la taille et de la durée de vie du gamétophyte
+- Sporanges multiples
+
+## II. Les fougères s.l. ou "ptéridophytes"
+
+### A. Origine - Classification - caractères communs - généralités
+
+#### 1. L'origine des ptéridophytes
+
+- Primaire : Silurien - Dévonien (~400-450 Ma)
+- Apogée au Ca
+
+#### 2. Un appareil végétatif adapté au port dressé et au milieu aérien
