@@ -32,6 +32,20 @@ Pohsphatidiléthanolamine abondante dans autres mb, absentes ici
 
 ![[Pasted image 20230209162339.png]]
 
+![[Pasted image 20230209162616.png]]
+phosphates limitants dans bcp d'écosystèmes donc peu de phospholipides utilisés
+
+![[Pasted image 20230209162628.png]]
+
+![[Pasted image 20230209162636.png]]
+
+
+
+
+
+
+
+
 
 
 ___
