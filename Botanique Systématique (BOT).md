@@ -426,3 +426,10 @@ en jaune haploide, vert diploide
 
 [diapo]
 
+
+
+
+
+## Trachéophytes = Polysporangiophytes 
+330 000 sp.
+
