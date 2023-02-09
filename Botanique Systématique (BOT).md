@@ -505,5 +505,18 @@ Tige contenant des trachéides de xylème -> il devait être une plante vasculai
 *dans les cellules plus agées la spécialisation va concerner des cellules plus grandes, avec lignification +importante (metaxylème)*
 *spécialisation du proto-vers méta (= sens de différenciation*
 
-Des tissus conducteurs primaires mis en place à partir de cellules issues du méristème apical :
-Phloème I = protophloème et métaphloème (éléments conducteurs : cellules criblées **sans cellule)
+Des tissus conducteurs primaires mis en place à partir de cellules issues du **méristème apical** :
+**Phloème I** = protophloème et métaphloème (éléments conducteurs : cellules criblées **sans** cellules compagnes)
+**Xylème I** = protoxylème et métaxylème (éléments conducteurs : Trachéides uniquement, à ponctuations scalariformes)
+
+[schéma poly tp3 éléments conducteurs du xylème]
+
+Au cours de l'évolution, les tissu conducteurs **xylème** et **phloème** vont mettre en place 2 types de stèles
+La stèle est la zone ou on trouve les tissus conducteurs (plus tard appelée cylindre central)
+
+1. Stèles sans moelle axiale : Protostèles (le type le plus ancien)
+[récup diapo]
+*de gauche à droite : plus agé au plus jeune*
+*sans moelle axiale car pas de tissus autre que vasculaires dans la stèle sauf le péricycle autour (qui appartient à la stèle*
+*endorerme formant l'écorce, on est bien dans l'organe tige*
+*a*
