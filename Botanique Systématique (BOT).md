@@ -525,3 +525,20 @@ La stèle est la zone ou on trouve les tissus conducteurs (plus tard appelée cy
 [diapo]
 fait suite à l'apparition des vraies feuilles
 **cylinde central** car formation faisceaux fibro-vasculaires
+
+Structures conductrices primaires
+
+|   | Lycophytes et Monylophyte  | Gymnospermes Angiospermes |
+| ------ | -------------------------- | ------------------------- |
+| TIGE   | Protostèle ou Siphonostèle | Siphonostèle              |
+| RACINE | Protostèle                 | Protostèle                          |
+
+Des tissus conducteurs secondaires mis en place à partir de cellules issues du **cambium**
+-> invension de l'arbre
+- Xylème II ou bois
+- Phloème II ou liber
+Mais seulement chez certaines **ptéridophytes fossiles**
+
+La croissance des **tiges** et des **racines** se fait par les divisions d'une **cellule apicale**
+[diapo]
+*au stage 48 h on voit 2 cellules apicales qui se *
