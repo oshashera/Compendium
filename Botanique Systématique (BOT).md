@@ -519,4 +519,9 @@ La stèle est la zone ou on trouve les tissus conducteurs (plus tard appelée cy
 *de gauche à droite : plus agé au plus jeune*
 *sans moelle axiale car pas de tissus autre que vasculaires dans la stèle sauf le péricycle autour (qui appartient à la stèle*
 *endorerme formant l'écorce, on est bien dans l'organe tige*
-*a*
+*actinostèle : fracture l'anneau de l'anneau de phloème : alternance entre xy et phlo.*
+
+2. Stèles avec moelle axiale : Siphonostèles
+[diapo]
+fait suite à l'apparition des vraies feuilles
+**cylinde central** car formation faisceaux fibro-vasculaires
