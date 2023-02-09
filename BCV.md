@@ -1,3 +1,4 @@
+
 ___
 *partie Tournesol qui sue pendant une journée ensolleillée de 16h*
 [insérer tt les cm/td loupés]
@@ -24,6 +25,14 @@ Teneur en galactolipide, dans les autres mb c'est surtout des phospholipides.
 Pohsphatidiléthanolamine abondante dans autres mb, absentes ici
 
 ![[Pasted image 20230209161427.png]]
+
+![[Pasted image 20230209161652.png]]
+
+![[Pasted image 20230209162000.png]]
+
+![[Pasted image 20230209162339.png]]
+
+
 
 ___
 *partie Niogret*
