@@ -487,7 +487,23 @@ Tige contenant des trachéides de xylème -> il devait être une plante vasculai
 [ct de tige montrant le cordon vasculaire + cuticule + stomate]
 
 ##### Phylum des Zosterophytes
+[diapos]
+
+##### Phylum des Trimerophytes
+[diapos]
+
+##### Conclusion 
+- Les premières plantes vasculaires étaient constituées d'un système d'axes à **ramifications dichotomes**
+- Au cours de l'évolution, apparaissent les tiges feuillées **puis** les racines
 
 
-#### 2. Un appareil végétatif adapté au port dressé et au milieu aérien
+#### 2. Un appareil végétatif adapté au port dressé et à la nutrition en milieu aérien
 
+[diapo croissance apicale de l'organe]
+*cellule initiale en rouge*
+*différentiation/spécialisation, première différenciée formant le prooxylème*
+*dans les cellules plus agées la spécialisation va concerner des cellules plus grandes, avec lignification +importante (metaxylème)*
+*spécialisation du proto-vers méta (= sens de différenciation*
+
+Des tissus conducteurs primaires mis en place à partir de cellules issues du méristème apical :
+Phloème I = protophloème et métaphloème (éléments conducteurs : cellules criblées **sans cellule)
