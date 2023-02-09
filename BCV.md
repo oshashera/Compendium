@@ -17,6 +17,13 @@ On trouve aussi des lipides (plastoglobules) et des ribosomes particuliers : les
 
 ![[Pasted image 20230209160508.png]]
 Deux mb lisses placées en parallèle
+Mb interne avec surface plus importante que la mb externe, sera repliée pour former le réticulum périphérique (plantes C4)
+
+![[Pasted image 20230209160731.png]]
+Teneur en galactolipide, dans les autres mb c'est surtout des phospholipides.
+Pohsphatidiléthanolamine abondante dans autres mb, absentes ici
+
+![[Pasted image 20230209161427.png]]
 
 ___
 *partie Niogret*
