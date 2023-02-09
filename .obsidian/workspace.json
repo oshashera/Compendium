@@ -11,16 +11,20 @@
             "id": "0fc59440314f98c7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canva test.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -512.9140625,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Demander stage.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "8e1e75915e3af1cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canva test.canvas",
+                "file": "Demander stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canva test.canvas",
+                "file": "Demander stage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canva test.canvas"
+                "file": "Demander stage.md"
               }
             }
           },
@@ -183,6 +187,7 @@
   "active": "0fc59440314f98c7",
   "lastOpenFiles": [
     "Demander stage.md",
+    "Canva test.canvas",
     "TP3 BOT - Gymnospermes.md",
     "TP2 BOT - Hydrophytes.md",
     "Anglais S6 on se fait ierch.md",
@@ -190,7 +195,6 @@
     "Excalidraw/plan godets tp1.md",
     "Botanique Systématique (BOT).md",
     "TP1 BOT - Xérophytes.md",
-    "Vacances février.md",
-    "Excalidraw/Drawing 2023-02-06 10.15.12.excalidraw.md"
+    "Vacances février.md"
   ]
 }
