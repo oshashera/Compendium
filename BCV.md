@@ -358,6 +358,18 @@ Cette NEP on va la trouver active dans le plaste
 ![[Pasted image 20230207093505.png]]
 Une différence entre les 2 situations est que les facteurs sigmas utilisés pour rbcL peuvent être phosphorilé ou non, en fonction de leur niveau de phosphorilation on aura une activité transcriptionnel différente (phosphorilation**s** : activité augmentée, sinon basale).
 
+____
+**Elements important : NEP ET PEP
+2 ARN polymérases pouvant fonctionner sur le génome plastidial:
+- **1 est de nature procaryotique (PEP, Plastid Encoding Polymerase, codé par rPO, c1,c2,A,B), mais a besoin de facteurs sigma.
+<ul>Ce sont des facteurs de transcription qui vont placer l'ARN polymérase au bon endroit.
+Ces facteurs sigma sont codés par le génome nucléaire</ul>
+- **Il existe aussi une arn polymérase dont le gène est nucléaire, avec un fonctionnement typique sur les systèmes procaryotiques (proche du type phage des virus s'attaquant aux bactéries).
+
+**Elles fonctionnent sur des gènes différents et à des moments différents dans le fonctionnement du plaste.**
+___
+PEP apparait au stade précoce des plaste, permet 
+
 
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
