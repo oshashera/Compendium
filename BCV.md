@@ -371,10 +371,19 @@ Elle va se placer devant des "gènes de ménage", des gènes codant des fonction
 La NEP va permettre la transcription de rPO et donc de la PEP
 
 ![[Pasted image 20230207093505.png]]
-Une différence entre les 2 situations est que les facteurs sigmas utilisés pour rbcL peuvent être phosphorilé ou non, en fonction de leur niveau de phosphorilation on aura une activité transcriptionnel différente (phosphorilation**s** : activité augmentée, sinon basale).
+Une différence entre les 2 situations est que les facteurs sigmas utilisés pour rbcL peuvent être phosphorilé ou non, en fonction de leur niveau de phosphorilation on aura une activité transcriptionnel différente (phosphorilation**S** : activité basale).
+![[Pasted image 20230210101811.png]]
+Avec lumière déphosphorilation, activité transcriptionnelle augmentée
 
+![[Pasted image 20230210101928.png]]
+D2 et CP43 sont codées dans ce système (a minima), sont des protéines au coeur du PSII.
+*Les boites du dessous nous intéressent pas. Les boites du dessus oui (psbC/D et autres)*
+Les gènes du dessus peuvent fonctionner de manière coordonnées.
+ORF : open reading frame, séquence qui ont toutes les caractéristiques d'un gène, mais qu'on sait pas encore pour quoi elle codent.
+Plusieurs site d'initiations possibles (flèches noires) qui vont transcrire jusqu'à psbC.
+Y a un jeu facteur de transcription / promoteur.
 
-
-
+Quand on regarde l'ensemble des transcrits produits dans la région on a l'encadré rouge:
+	
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
 
