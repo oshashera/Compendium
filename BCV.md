@@ -416,6 +416,7 @@ PEP a besoin de sigma (qui vient du noyau), transcrit d'autres protéines.
 Ca veut pas dire que NEP est pas active plus tard dans le développement du plaste, mais en tt cas elle est essentielle au début.
 Cette transcription est hyper-régulée de différentes façons (toutes les flèches extérieures)
 Dont l'horloge circadienne (cf td).
+*flèche = stimule, T = inhibe la traduction*
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
 
@@ -428,3 +429,5 @@ Dont l'horloge circadienne (cf td).
 
 ___
 # TD SIG5 et rythme circadien
+
+TD = ancien sujet d'exam (**DOC 1**) issus d'un article de science (**DOC 2**) (2013) portant sur le control circadien de la transcription dans le chloroplaste par un signal codé par le noyau (un facteur sigma)
