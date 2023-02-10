@@ -431,3 +431,9 @@ ___
 # TD SIG5 et rythme circadien
 
 TD = ancien sujet d'exam (**DOC 1**) issus d'un article de science (**DOC 2**) (2013) portant sur le control circadien de la transcription dans le chloroplaste par un signal codé par le noyau (un facteur sigma)
+
+On a remarque que l'horloge a un intérêt biologique fort, il a été démontré que lorsqu'elle ne fonctionne plus correctement, ca donne des plantes pas compétitives.
+
+![[Pasted image 20230210110557.png]]
+On a le niveau d'expression de différents gènes en f(x) de la lumière.
+Ici on a regardé parallèlement ce qui se passe quand on maintient le cycle jour nuit normal et ce qui se passe lorsqu'on met de la lumière en continu.
