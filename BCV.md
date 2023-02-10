@@ -380,10 +380,21 @@ D2 et CP43 sont codées dans ce système (a minima), sont des protéines au coeu
 *Les boites du dessous nous intéressent pas. Les boites du dessus oui (psbC/D et autres)*
 Les gènes du dessus peuvent fonctionner de manière coordonnées.
 ORF : open reading frame, séquence qui ont toutes les caractéristiques d'un gène, mais qu'on sait pas encore pour quoi elle codent.
-Plusieurs site d'initiations possibles (flèches noires) qui vont transcrire jusqu'à psbC.
+Plusieurs site d'initiations possibles (flèches noire/ blanches) qui vont transcrire jusqu'à psbC.
 Y a un jeu facteur de transcription / promoteur.
 
 Quand on regarde l'ensemble des transcrits produits dans la région on a l'encadré rouge:
-	
+série d'ARN qu'on a trouvé dans les plastes.
+On peut voir que à partir du premier promoteur on peut obtenir différent transcrits, par exemple le premier correspond à la notion de polycistron (1a).
+Idem pour les autres promoteurs.
+Certaines situations plus intéressantes dans un contexte donnée -> variété intéressante.
+Parmis tout ces transcrits là, les bleus sont particulièrement stables.
+Synthétisés à partir d'un promoteur Sigma 5 qui est particulièrement présent en présence de lumière forte.
+Ces transcrits là sont plus stables, il se trouve qu'ils sont obtenu à l'aide de SIG5 mais y a pas causalité : c'est pas pcq SIG5 que plus stables.
+
+En fonction des situations on va avoir des panels de facteurs sigma différents, et donc on peut avoir des transcrits différents, ce qui peut être intéressant d'un pt de vue physiologique.
+un choix de facteur de transcription correspond à un choix de promoteur.
+
+
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
 
