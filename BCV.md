@@ -395,6 +395,36 @@ Ces transcrits là sont plus stables, il se trouve qu'ils sont obtenu à l'aide 
 En fonction des situations on va avoir des panels de facteurs sigma différents, et donc on peut avoir des transcrits différents, ce qui peut être intéressant d'un pt de vue physiologique.
 un choix de facteur de transcription correspond à un choix de promoteur.
 
+![[Pasted image 20230210103756.png]]
+Positionnement ARN pep lié par AGF/SIG5.
+AGF/SIG5 stimulé par bleu/UV
+SIG5 se pose en amont des 2 gènes psbD et C.
+On peut noter en passant que le promoteur en question fait mention de son action particulière  (booster transcription) dans des conditions de lumière bleue/UV
+
+
+![[Pasted image 20230210104005.png]]
+*vue d'ensemble, on a déjà décortiqué chaque bout à part*
+
+![[Pasted image 20230210104033.png]]
+On voit des gènes plastidiaux (rpo, psb).
+*protéine D1 codé par psbA, D2 codé par psbD*
+*psbA est comme rbcL, c'est un gène de type monocistron*
+On a les 2 systèmes de transcription positionnées:
+NEP en jaune. TFs? = facteurs de transcription? (pas sigma). 
+NEP permet la transcription des gènes rpO, donc la pdtion de PEP.
+PEP a besoin de sigma (qui vient du noyau), transcrit d'autres protéines.
+Ca veut pas dire que NEP est pas active plus tard dans le développement du plaste, mais en tt cas elle est essentielle au début.
+Cette transcription est hyper-régulée de différentes façons (toutes les flèches extérieures)
+Dont l'horloge circadienne (cf td).
 
 ### III. Interactions fonctionnelles entre le génome plastidial et le génome nucléaire.
 
+
+
+
+
+
+
+
+___
+# TD SIG5 et rythme circadien
