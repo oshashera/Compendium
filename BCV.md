@@ -437,3 +437,10 @@ On a remarque que l'horloge a un intérêt biologique fort, il a été démontr�
 ![[Pasted image 20230210110557.png]]
 On a le niveau d'expression de différents gènes en f(x) de la lumière.
 Ici on a regardé parallèlement ce qui se passe quand on maintient le cycle jour nuit normal et ce qui se passe lorsqu'on met de la lumière en continu.
+Ici les profils sont ceux obtenus lorsque exposé en lumière continue (mais on a la barre en haut pour voir le rythme jour/nuit correspondant à la nuit quand les plantes avaient été élevées (elles ont été élevées en amont avec ce cycle))
+
+CAB3, profil se répétant, et très intéressant.
+CAB est un gène nucléaire facilement inductible par la lumière (=LHC A ou B selon psI ou psII).
+C'est donc un gène codant LHC, protéine intéressante surtout en période de lumière, ou les antennes collectrices sont fonctionnelles.
+Expression plus importante en jour qu'en nuit.
+Alors qu'on est encore en 
