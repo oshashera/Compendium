@@ -350,14 +350,6 @@ NEP = nuclear encoded polymérase.
 On a mise en évidence une NEP, qui certes est codée par un gène nucléaire, mais est dédiée à la transcription de gènes de type procaryotiques, et on dit que ses caractéristiques est qu'elle ressemble à une rna polymérase bactériophage.
 Cette NEP on va la trouver active dans le plaste
 
-![[Pasted image 20230207092822.png]]
-
-![[Pasted image 20230207093007.png]]
-
-
-![[Pasted image 20230207093505.png]]
-Une différence entre les 2 situations est que les facteurs sigmas utilisés pour rbcL peuvent être phosphorilé ou non, en fonction de leur niveau de phosphorilation on aura une activité transcriptionnel différente (phosphorilation**s** : activité augmentée, sinon basale).
-
 ____
 **Elements important : NEP ET PEP
 2 ARN polymérases pouvant fonctionner sur le génome plastidial:
@@ -368,7 +360,19 @@ Ces facteurs sigma sont codés par le génome nucléaire</ul>
 
 **Elles fonctionnent sur des gènes différents et à des moments différents dans le fonctionnement du plaste.**
 ___
-PEP apparait au stade précoce des plaste, permet 
+
+![[Pasted image 20230207092822.png]]
+NEP apparait au stade précoce des plaste, permet aux jeunes plastes d'avoir un génome qui commence à s'exprimer (proplaste).
+
+![[Pasted image 20230207093007.png]]
+C'est la NEP qui prend la main ici. Exprimée dans noyau, traduit en polypept dans le cyto, et traverse la mb plastidiale (possiblement avec un système toc-tic) et une fois sur le plaste va se poser sur l'ADN plastidial.
+Mais on peut se demander sur quel gène elle va se poser, quel promoteur...
+Elle va se placer devant des "gènes de ménage", des gènes codant des fonctions de bases (transcription, traduction...) pour que le génome et la cellule (ou ici le plaste) fonctionne 
+La NEP va permettre la transcription de rPO et donc de la PEP
+
+![[Pasted image 20230207093505.png]]
+Une différence entre les 2 situations est que les facteurs sigmas utilisés pour rbcL peuvent être phosphorilé ou non, en fonction de leur niveau de phosphorilation on aura une activité transcriptionnel différente (phosphorilation**s** : activité augmentée, sinon basale).
+
 
 
 
