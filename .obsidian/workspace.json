@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Demande de stage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demander stage.md",
+                "file": "Demande de stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demander stage.md",
+                "file": "Demande de stage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demander stage.md"
+                "file": "Demande de stage.md"
               }
             }
           },
@@ -188,12 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e1e75915e3af1cd",
+  "active": "38d2b2613dd0e35b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Demander stage.md",
+    "Demande de stage.md",
     "BCV.md",
     "Template Cornell.md",
-    "Demander stage.md",
     "Botanique Systématique (BOT).md",
     "Anglais S6 on se fait ierch.md",
     "Canva test.canvas",
