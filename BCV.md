@@ -443,4 +443,5 @@ CAB3, profil se répétant, et très intéressant.
 CAB est un gène nucléaire facilement inductible par la lumière (=LHC A ou B selon psI ou psII).
 C'est donc un gène codant LHC, protéine intéressante surtout en période de lumière, ou les antennes collectrices sont fonctionnelles.
 Expression plus importante en jour qu'en nuit.
-Alors qu'on est encore en 
+Alors qu'on est encore en nuit (fin on devrait : selon barre du haut ca donne l'équivalent), on a augmentation de l'augmentation de ce gène avant que la lumière arrive.
+Donc au moins au niveau de se gène CAB, le plaste se prépare à l'arrivée de la lumière.
