@@ -20,27 +20,18 @@
             }
           },
           {
-            "id": "58cd219df438b977",
+            "id": "38d2b2613dd0e35b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BCV.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "38d2b2613dd0e35b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCV.md",
+                "file": "Demander stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BCV.md",
+                "file": "Demander stage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BCV.md"
+                "file": "Demander stage.md"
               }
             }
           },
@@ -197,17 +188,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58cd219df438b977",
+  "active": "8e1e75915e3af1cd",
   "lastOpenFiles": [
-    "Template Cornell.md",
+    "Untitled.md",
     "BCV.md",
+    "Template Cornell.md",
     "Demander stage.md",
     "Botanique Systématique (BOT).md",
     "Anglais S6 on se fait ierch.md",
     "Canva test.canvas",
     "TP3 BOT - Gymnospermes.md",
     "TP2 BOT - Hydrophytes.md",
-    "DIA TP.md",
-    "Excalidraw/plan godets tp1.md"
+    "DIA TP.md"
   ]
 }
