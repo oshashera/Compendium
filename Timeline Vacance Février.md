@@ -36,9 +36,15 @@ ___
 	- [ ] faire playlist pour contrer ca
 	- [ ] au moins 1h30 de long sans répétition si possible
 ___
-- [ ] Voir avec miliau / cathy pour les affair
+- [ ] Voir avec miliau / cathy pour les affaires cet été
 ___
-- [ ] t
+- [ ] **ENOLA GARANT AAAAH**
 ___
+- [ ] Comment coder une fonction sur R?
+___
+- [ ] Plugin paul sinon je l'encule
+___
+
+
 
 

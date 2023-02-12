@@ -11,18 +11,6 @@
             "id": "e8a2b768ae6fd84c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline Vacance Février.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86ad35286256dd19",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -94,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline Vacance Février.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline Vacance Février.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Timeline Vacance Février.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,15 +170,15 @@
   },
   "active": "e8a2b768ae6fd84c",
   "lastOpenFiles": [
+    "MonMaster niksémor.md",
     "Timeline Vacance Février.md",
-    "Demande de stage.md",
+    "Mails stages.md",
+    "Mails de stage.md",
     "Demander stage.md",
     "BCV.md",
     "Template Cornell.md",
     "Botanique Systématique (BOT).md",
     "Anglais S6 on se fait ierch.md",
-    "Canva test.canvas",
-    "TP3 BOT - Gymnospermes.md",
-    "TP2 BOT - Hydrophytes.md"
+    "Canva test.canvas"
   ]
 }
