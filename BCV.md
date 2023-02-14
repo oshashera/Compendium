@@ -1,5 +1,5 @@
-[[#*partie Tournesol qui sue pendant une journée ensolleillée de 16h*]]
-[[#*partie Niogret*]]
+[[#*partie Tournesol qui sue pendant une journée ensolleillée de 16h* | partie Cabello]]
+[[#*partie Niogret*| partie Niogret]]
 
 ___
 ##### *partie Tournesol qui sue pendant une journée ensolleillée de 16h*
