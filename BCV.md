@@ -147,7 +147,15 @@ Va être un hétérodimère, avec chaque monomère contenant un noyau composé d
 
 ![[Pasted image 20230214145530.png]]
 
-Le cytochrome F codé par le gène pepA, possède un groupe hème (grosse barre noire)
+Le cytochrome F codé par le gène pepA, possède un groupe hème (grosse barre noire) de type C.
+Qp = forme réduite = plastoquinole
+
+![[Pasted image 20230214150605.png]]
+PQH2 = plastoquinole
+PQ = plastoquinone
+Le premier turnover on aura l'oxydation de la plastoquinone.
+PQH2 oxydé en semiquinole -> on va avoir qu'un seul électron qui est libéré, va être transféré au cytochrome F, puis transféré vers la plastocyanine
+La plasto
 
 ___
 *partie Niogret*
