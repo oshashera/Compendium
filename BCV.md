@@ -114,8 +114,16 @@ Pour antenne collectrice 1 : **constituée des 4 polypeptides Lhca1/2/3/4**
 Chaque psI est entouré par **1 copie de chacun de ces polypeptides** (donc pas 8, erreur de la diapo), disposés en demi-lune (cf schéma diapo)
 Souvent récupérés sous forme d'hétérodimères : Lhca1/4 (LHCI 730) et Lhca3/2 (LHCI 680)
 
+Pour antenne collectrice 2:
+Y a 6 protéines mais en vrai, y en à 3 polypeptides Lhcb1/2/3 qui vont former les trimères (couleur vert clair)
+Les 3 autres forment des interconnexions entre les trimères et entre les trimères et l'antenne intrasèque PSII.
 
+Image diapo : organisation différente, mais on voit qu'il y a 2 psII cote à cote pour former des supercomplexes de configurations C2(2coeurs)S2(antenne collectrice de type S)M2(antenne collectrice M)
+Différences de structures/liens entre M et S (voir diapo)
 
+la phosphorylation des antennes collec 2 les amène vers psI donc augmente efficacité du psI et diminue celle du pSII.
+On peut avoir le fonctionnement des 2 photosyst. donc faut équilibrer pour assurer le flux d'électrons.
+	
 
 
 
