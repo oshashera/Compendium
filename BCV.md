@@ -1,6 +1,8 @@
+[[#*partie Tournesol qui sue pendant une journée ensolleillée de 16h*]]
+[[#*partie Niogret*]]
 
 ___
-*partie Tournesol qui sue pendant une journée ensolleillée de 16h*
+##### *partie Tournesol qui sue pendant une journée ensolleillée de 16h*
 [insérer tt les cm/td loupés]
 [lire ces cm de mort]
 
@@ -176,9 +178,37 @@ LE facteur de couplage F1 est composé de 5 polypeptides différents : 3 alphas,
 Le site catalytique est sur le complexe F1, est c'est seulement les polypeptides Bétas qui ont le site catalytique.
 Gamma/epsilon vont être en liaison avec la partie formé par les canaux à protons, qui est une partie rotative (flèche qui tourne), avec le passage des protons.
 Le complexe F0 formé de 4 polypeptides, avec les III formant les canaux.
-Les 1,3 et 4 vont servire à 
+Les I,II et IV vont servire à la fixation du F1 à la base et à la mb.
+La rotation des sous unité 3 fait aussi la rotation de la protéine gamma, qui est placé à l'intérieur des protéines alpha/béta.
+La rotation de gamma, va provoquer des changement de conformation au niveau des polypeptides béta, provoquant la synthèse d'atp.
+L'énergie du gradient électrochimique va provoquer des changement de conformation, pour que de facon favorable adp+pi -> atp
+![[Pasted image 20230214153232.png]]
+
+**Fonctionnement du complexe :**
+➔ Modèle de changement de conformation
+Les sites actifs peuvent adopter 3 types de conformation :
+- La conformation O : Open (ouverte)
+- La conformation L : Loose (relâchée)
+- La conformation T : Tight (serrée)
+A un temps T chacun des sites sera dans une conformation différente.
+Quand les protons passent à travers le canal formé par les protéines FO, il y a une rotation du canal
+lié à la protéine gamma ce qui provoque aussi une rotation de la protéine gamma. La rotation de la
+protéine gamma provoque le changement de conformation de tous les sites actifs de la protéine β:
+- O→L : il attrape ADP+P,
+- L→T : catalyse de la liaison Phosphate pour former l’ATP
+- T →O : relâche l’ATP
+
+
+
+
+
+
+
+
+
+
 ___
-*partie Niogret*
+##### *partie Niogret*
 
 # Organisation, expression, régulation, interactions
 
