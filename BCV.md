@@ -165,6 +165,18 @@ On aura donc
 ![[rendement cytB6F]]
 
 
+![[Pasted image 20230214152102.png]]
+3 gènes nucléaires, les autres plastidiaux.
+
+![[Pasted image 20230214152326.png]]
+chacun de ces facteurs là fait référence à une partie du complexe ATPase
+Facteurs de couplage ATPase F1 se trouve au niveau du stroma, et va être attaché à la mb par le pédoncule. Ce complexe F1 contient la partie catalytique (flèche ADP+Pi -> ATP).
+Le facteur F0 va être formé dans le pédoncule qui relie la partie F1 à la mb. Contient le système des canaux dans lesquels vont transité les protons du lumen vers le stroma.
+LE facteur de couplage F1 est composé de 5 polypeptides différents : 3 alphas, 3bétas, gamma (sinsère au milieu des canaux), delta et epsilon.
+Le site catalytique est sur le complexe F1, est c'est seulement les polypeptides Bétas qui ont le site catalytique.
+Gamma/epsilon vont être en liaison avec la partie formé par les canaux à protons, qui est une partie rotative (flèche qui tourne), avec le passage des protons.
+Le complexe F0 formé de 4 polypeptides, avec les III formant les canaux.
+Les 1,3 et 4 vont servire à 
 ___
 *partie Niogret*
 
