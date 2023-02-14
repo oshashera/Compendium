@@ -57,9 +57,25 @@ La plupart des gènes sont codés par le génome nucléaire.
 
 
 ![[Pasted image 20230214140814.png]]
-Complexe psI va prendre des éléc de la plasto
+Complexe psI va prendre des éléc de la plastocyanine (pc) et l'oxyder, et réduire la ferrédoxine (fd).
+Cette fd va transférer les électrons à de l'NADP (accepteur final)
+==revoir pla==
+Si on considère le psI le complexe est formé par 15 protéines.
+2 grandes centrales en bleu : PsaA et PsaB (chiffres sont masses en kDalton), qui vont s'associer aux cofacteurs rédox par lesquels transitent les électrons, et associés à des chlorophylles.
+Associé à ces 2 prot, du coté stroma, on a une petite protéine avec 8,9 kDA avec PsaC (et des cofacteurs redox Fa et FA). 
+Associé aux 2 centrales on a des prot transmb : PsaJ/K et PsaL/I ; ces protéines vont surtout avoir un rôle d'association aux antennes collectrices. 
 
+**Les antennes LHCI et LHCII**
+Elles sont associées à chaque photosystème. On utilise l’abréviation LHC pour Light Harvesting
+Complexes. Ces antennes complètent les capacités de captation de la lumière qu’ont les antennes
+internes au complexe.
 
+**LHCI :** Elle est constituée de 4 types de protéines.
+Ses protéines entourent le PSI d’un côté, en disposition de demi-lune. LHCI est une antenne toujours associée au PSI.
+**LHCII :** 3 protéines forment cette antenne. Certaines sont liés au cœur du PSII par des forces
+moyennes alors que d’autres y sont fortement liées cela dépend de l’emplacement.
+On a 2 noyaux PSII, chaque noyau est entouré par 3 chlorophyllo protéines. La structuration du LHCII est variable et mobile
+Ces antennes sont associées à différents pigments avec des proportions et des ratios différents.
 
 
 
