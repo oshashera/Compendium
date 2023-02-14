@@ -148,6 +148,7 @@ Va être un hétérodimère, avec chaque monomère contenant un noyau composé d
 ![[Pasted image 20230214145530.png]]
 
 Le cytochrome F codé par le gène pepA, possède un groupe hème (grosse barre noire) de type C.
+Les 2 BARRES sont des hèmes de type B
 Qp = forme réduite = plastoquinole
 
 ![[Pasted image 20230214150605.png]]
@@ -155,7 +156,14 @@ PQH2 = plastoquinole
 PQ = plastoquinone
 Le premier turnover on aura l'oxydation de la plastoquinone.
 PQH2 oxydé en semiquinole -> on va avoir qu'un seul électron qui est libéré, va être transféré au cytochrome F, puis transféré vers la plastocyanine
-La plasto
+La plastosemiquinole va être oxylé (perd son deuxième électron) par les groupes Hèmes de Type B du cytochrome B6F, ces deux hèmes ont un potentiel électrique différent. Le première a faible potentiel (bl pour low), et le deuxième a haut potentiel (bh pour high).
+Cet électron va être ensuite transféré à une molécule de quinone liée au site Qn (en haut), et va produire une plastosemiquinone.
+
+Dans le deuxième turnover, le cycle sse répète une fois de plus pour oxylé une deuxième plastoquinole, à nouveau un e- vers Pc, et le second électron est transféré vers le site Qn, ajouté à la plastosemiquinone formé avant, forme plastoquinole avec 2 protons, se dégage du site Qn.
+On vient de régénérer un plastoquinol.
+On aura donc
+![[rendement cytB6F]]
+
 
 ___
 *partie Niogret*
