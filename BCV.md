@@ -46,12 +46,18 @@ phosphates limitants dans bcp d'écosystèmes donc peu de phospholipides utilis�
 ![[Pasted image 20230209164257.png]]
 
 ![[Pasted image 20230209164423.png]]
-italique = gène, droit = protéine
+==italique = gène, droit = protéine==
 ![[Pasted image 20230209164435.png]]
 protéines associées à la plupart des cofactors associées au transport des électrons.
 
 ![[Pasted image 20230209164443.png]]
 
+Antenne collectrice II mobile, la I est associée au psI.
+La plupart des gènes sont codés par le génome nucléaire.
+
+
+![[Pasted image 20230214140814.png]]
+Complexe psI va prendre des éléc de la plasto
 
 
 

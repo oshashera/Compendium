@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d677444f54e3375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BCV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline Vacance Février.md",
+                "file": "BCV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline Vacance Février.md",
+                "file": "BCV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline Vacance Février.md"
+                "file": "BCV.md"
               }
             }
           },
@@ -176,14 +189,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8a2b768ae6fd84c",
+  "active": "8d677444f54e3375",
   "lastOpenFiles": [
-    "MonMaster niksémor.md",
     "Timeline Vacance Février.md",
+    "BCV.md",
+    "MonMaster niksémor.md",
     "Mails stages.md",
     "Mails de stage.md",
     "Demander stage.md",
-    "BCV.md",
     "Template Cornell.md",
     "Botanique Systématique (BOT).md",
     "Anglais S6 on se fait ierch.md",

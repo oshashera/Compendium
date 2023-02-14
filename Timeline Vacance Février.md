@@ -47,7 +47,8 @@ ___
 - [ ] Récup les nouveaux badges / certifs 
 ___
 - [ ] Update CV avec ca
-
+___
+- [ ] Préparer les fiches TP DE MORT DE SALO DE KONAR DE BCV
 
 
 
