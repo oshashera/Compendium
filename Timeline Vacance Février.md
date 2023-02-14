@@ -16,8 +16,6 @@ ___
 ___
 - [ ] PYTHON AVOIR DEUXIEME BADGE
 ___
-- [ ] UPDATE CV
-___
 - [ ] Faire un protocole de prise de note pour les CM / TD : **templates**
 ___
 - [ ] Faire un protocole pour le deuxième cerveau / tout lier : scolaire et extra-scolaire : quelle organisation.
@@ -44,6 +42,11 @@ ___
 ___
 - [ ] Plugin paul sinon je l'encule
 ___
+- [ ] Télécharger tous les transcripts des MOOC agroéco - abeilles - arbres
+___
+- [ ] Récup les nouveaux badges / certifs 
+___
+- [ ] Update CV avec ca
 
 
 
