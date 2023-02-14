@@ -47,6 +47,16 @@ phosphates limitants dans bcp d'écosystèmes donc peu de phospholipides utilis�
 
 ![[Pasted image 20230209164423.png]]
 ==italique = gène, droit = protéine==
+
+**Le complexe PSII (photosystème II)**
+Nomenclature : psbA : gène PsbA : protéines
+Ce macro complexe catalyse la réaction d’oxydation de l’eau et la réduction de la plastoquinone. De par son activité biochimique il s’agit d’une eau-plastoquinone oxydoréductase.
+Associé à ce complexe central il y une série de protéines cote lumen, on a notamment les protéines
+du complexe cristallisateur du dégagement d’oxygène (OEE), ce sont des protéines qui sont
+impliquées dans la stabilisation de la photolyse de l’eau (récupération des électrons provenant de
+l’eau), et le dégagement de l’oxygène.
+On a en plus des chlorophyllo protéines : L’une d’elle s’associe à des chlorophylles mais ne participe pas à la captation de la lumière, elle a un rôle dans la dissipation de l’énergie non photochimique.
+La disposition des antennes périphérique varie selon la situation dans le chloroplaste mais le cœur du PSII ne varie pas.
 ![[Pasted image 20230209164435.png]]
 protéines associées à la plupart des cofactors associées au transport des électrons.
 
@@ -89,10 +99,27 @@ Vertes = chlorophylloprotéines formant anttenne **collectrice 1** !!!. mais y e
 
 pour association à Pc et Fd, c'est le couple Psa-D/Psa-E qui s'en charge
 
-**cf équation de mort en bas de la diapo
+**cf trajet/équation de mort en bas de la diapo**
 Losanges noir = chlorophyles
 Cercles noirs c'est de la vitamine K1
-F c'est les centres des groupes Fer-Souffre 
+F c'est les centres des groupes Fer-Souffre
+A c'est des chlorophylles
+
+tous ces cofacteurs sont associés aux bleu sauf 2 qui sont sur PsaC
+On a une situation jumelle, sauf Fx qui est du coté PsaA, a nouveau le flux se fait de facon préférentielle, ici PsaA
+
+
+![[Pasted image 20230214143224.png]]
+Pour antenne collectrice 1 : **constituée des 4 polypeptides Lhca1/2/3/4**
+Chaque psI est entouré par **1 copie de chacun de ces polypeptides** (donc pas 8, erreur de la diapo), disposés en demi-lune (cf schéma diapo)
+Souvent récupérés sous forme d'hétérodimères : Lhca1/4 (LHCI 730) et Lhca3/2 (LHCI 680)
+
+
+
+
+
+
+
 ___
 *partie Niogret*
 
