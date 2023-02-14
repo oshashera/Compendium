@@ -123,10 +123,31 @@ Différences de structures/liens entre M et S (voir diapo)
 
 la phosphorylation des antennes collec 2 les amène vers psI donc augmente efficacité du psI et diminue celle du pSII.
 On peut avoir le fonctionnement des 2 photosyst. donc faut équilibrer pour assurer le flux d'électrons.
-	
 
+![[Pasted image 20230214144935.png]]
 
+**Complexe cytochrome b6f :**
+Formé par différentes protéines majoritairement codées par le génome plastidial. Ce complexe va
+oxyder le plastoquinol et réduire la plastocyanine → plastoquinol-plastocyanine oxydoréductase. Il
+se trouve entre PSI et PSII.
+Il y a 2 protons au niveau de ce complexe qui sont transférés vers le lumen pour chaque électron.
+Le cœur fonctionnel de ce complexe est formé par 4 protéines + des protéines périphériques qui
+vont stabiliser le complexe
+Cofacteurs :
+- Le cytochrome f possède un groupe hème: cofacteur redox
+- Le cytochrome b6 possède 2 groupes hème.
+- La protéine de Rieske a un centre Fer-Souffre (2Fe-2S)
+- La sous unité IV est impliqué dans les liaisons avec des quinones
+![[Pasted image 20230214145023.png]]
+Oxyle la forme réduite (plastoquinone) et transfert les électrons sur la plastocyanine.
 
+Le cytochrome B6F est composé de 6 protéines (cf au dessus), en vertes, sont codées par le plaste
+
+Va être un hétérodimère, avec chaque monomère contenant un noyau composé de 4 transporteurs d'électrons.
+
+![[Pasted image 20230214145530.png]]
+
+Le cytochrome F codé par le gène pepA, possède un groupe hème (grosse barre noire)
 
 ___
 *partie Niogret*
