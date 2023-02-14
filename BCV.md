@@ -77,11 +77,22 @@ moyennes alors que d’autres y sont fortement liées cela dépend de l’emplac
 On a 2 noyaux PSII, chaque noyau est entouré par 3 chlorophyllo protéines. La structuration du LHCII est variable et mobile
 Ces antennes sont associées à différents pigments avec des proportions et des ratios différents.
 
+PC et FD sont des "docking" protéines
 
+PsaD est chargé + et FD chargé - donc aide à assemblage.
 
+Coté lumen 
+PsaF positif intéragit avec PC chargé - facilite rapprochement.
+PsaO va participer à l'assemblage avec l'antenne collectrice 2
 
+Vertes = chlorophylloprotéines formant anttenne **collectrice 1** !!!. mais y en a antenne collectrice 2, qui est associée majoritairement à psII, mais parfois il peut être phosphorilé et va se dissocier du psII et aller s'associer au psI.
 
+pour association à Pc et Fd, c'est le couple Psa-D/Psa-E qui s'en charge
 
+**cf équation de mort en bas de la diapo
+Losanges noir = chlorophyles
+Cercles noirs c'est de la vitamine K1
+F c'est les centres des groupes Fer-Souffre 
 ___
 *partie Niogret*
 
