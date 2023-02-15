@@ -60,6 +60,47 @@ Eustèles = évolution chez spermaphytes (appartient pas aux "ptéridophytes")
 
 
 
+
+On commence par une tige de *psylotum*, groupe Monilophytes
+![[Pasted image 20230215144617.png]]
+***Psilotum sp.***
+Psylophyte, Monilophytes, Trachéophytes, Embryophytes
+
+Protostèle : actinostèle (différent de tiges Angiospermes) caractérise plutôt les Lycophyte mais parfois aussi les Monilophyt
+Xylème centripète (différent de tiges Angiospermes)
+Stèles <<< Ecorce (différent de tiges angiospermes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 |          | **Angiosperme**                                                           | **"Ptéridophytes"** |
 | -------- | ------------------------------------------------------------------------- | ------------------- |
 | **Tige** | Cylindre central >> écorce                                                |                     |
@@ -68,43 +109,6 @@ Eustèles = évolution chez spermaphytes (appartient pas aux "ptéridophytes")
 |          | Epiderme cutinisé                                                         |                     |
 |          | Stomates                                                                  |                     |
 |          | Endoderme + péricycle absent                                              |                     |
-
-
-On commence par une tige de *psylotum*, groupe Monilophytes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
