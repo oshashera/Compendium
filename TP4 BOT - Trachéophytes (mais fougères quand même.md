@@ -40,11 +40,25 @@ Ils ont une forme polygonales (cf diapo)
 
 
 Rappel mise en place tissus primaires:
-![[Pasted image 20230215142102.png]]
+![[Pasted Image 20230215143025_502.png]]
 Cordon de xylème et tt autour du phloème : premières trachéophytes (Haplostèle)
 Puis évolution en particuler du xylème au cours du temps, qui engendre des conséquence au niveau du phloème.
+Phloème centripète
 Qq soit la situation, dans la partie centrale(stèle) y a que tissus conducteurs : pas de moelle axiale
 => protostèle.
+
+
+![[Pasted image 20230215142310.png]]
+Présence de moelle = siphonostèle
+Stèle va se fragmenter par l'apparition des vraies feuilles.
+-> Caractérise bon nombre de Monilophytes qui présentent des Euphylles, vraies feuilles, alimentées par des tissus conduceurs partant de la stèle caulinaire, et cette alimentation va produire une brèche dans le cylindre central colinaire, remplie par du parenchyme.
+Plus on regarde vers les espèces apparues plus récemment, on constate l'apparition de nb feuilles causant une fragmentation avancée du stèle caulinaire, menant à douter si c'est une stèle caulinaire ou foliaire (cf Dictyostèle : difficile de savoir)
+
+Eustèles = évolution chez spermaphytes (appartient pas aux "ptéridophytes")
+
+![[Pasted image 20230215143733.png]]
+
+
 
 |          | **Angiosperme**                                                           | **"Ptéridophytes"** |
 | -------- | ------------------------------------------------------------------------- | ------------------- |
@@ -54,17 +68,45 @@ Qq soit la situation, dans la partie centrale(stèle) y a que tissus conducteurs
 |          | Epiderme cutinisé                                                         |                     |
 |          | Stomates                                                                  |                     |
 |          | Endoderme + péricycle absent                                              |                     |
-| **Racine**         |                                                                           |                     |
+
+
+On commence par une tige de *psylotum*, groupe Monilophytes
 
 
 
 
 
-![[Pasted image 20230215142310.png]]
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___
 

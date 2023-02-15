@@ -23,14 +23,11 @@
             "id": "2246454b9ca6d91f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/stèle annotation.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/stèle annotation.md",
+                "file": "TP4 BOT - Trachéophytes (mais fougères quand même.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/stèle annotation.md",
+                "file": "TP4 BOT - Trachéophytes (mais fougères quand même.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/stèle annotation.md"
+                "file": "TP4 BOT - Trachéophytes (mais fougères quand même.md"
               }
             }
           },
@@ -187,8 +184,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2246454b9ca6d91f",
+  "active": "3838f5f28ce81c1f",
   "lastOpenFiles": [
+    "Excalidraw/stèle annotation.md",
     "TP4 BOT - Trachéophytes (mais fougères quand même.md",
     "TP3 BOT - Gymnospermes.md",
     "Anglais S6 on se fait ierch.md",
@@ -197,7 +195,6 @@
     "Timeline Vacance Février.md",
     "MonMaster niksémor.md",
     "Mails stages.md",
-    "Mails de stage.md",
-    "Demander stage.md"
+    "Mails de stage.md"
   ]
 }
