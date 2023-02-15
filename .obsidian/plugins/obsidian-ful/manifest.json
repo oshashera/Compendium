@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-ful",
+	"name": "ful",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "",
+	"author": "Wydra",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
