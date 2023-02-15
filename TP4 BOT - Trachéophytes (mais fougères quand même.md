@@ -93,7 +93,31 @@ Pour déterminer combien d'assises forment le péricycle:
 - endoderme : parois radiales renforcées (semble noiratre) : endoderme à cadre de caspari, subérifiée
 ![[Pasted image 20230215145826.png]]
 
+Pour la caractérisation :
+**Organe :**
+- Symétrie axiale
+- Epiderme avec stomates
+=> Tige
 
+**Caractère systématique :**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[Pasted image 20230215153207.png]]
 
 
 
