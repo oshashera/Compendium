@@ -108,7 +108,7 @@ ___
 **Stèle avec très peu de moelle, xylème en étoile** <mark style="background: #ADCCFFA6;"><b>=></b></mark> **PROTOSTELE ACTINOSTELE**
 ___
 
-<mark style="background: #FF8500A6;">coloration pas carmino-vert : ROSE = lignifié et vert = cellulosique</mark>
+<mark style="background: #FF8500A6;">coloration pas carmino-vert, mais au SAPRASIL: ROSE = lignifié et vert = cellulosique</mark>
 ![[Pasted image 20230215155216.png]]
 ***Lycopodium***
 Lycophytes
@@ -179,6 +179,15 @@ Filicophytes
 |          | Epiderme cutinisé                                                         | Epiderme cutinisé                    |
 |          | Stomates                                                                  | Stomates                    |
 |          | Endoderme + péricycle absent                                              | Endoderme + péricycle présent                    |
+
+
+
+
+
+
+
+
+
 
 
 ![[Pasted image 20230215160205.png]]
