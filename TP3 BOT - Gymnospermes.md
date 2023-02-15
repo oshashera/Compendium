@@ -24,6 +24,7 @@ Chez les angiospermes le rayon libérien est composés de cellules avec paroi ce
 Le reste est le système vertical.
 Chez les gymnospermes on ne voit pas les rayons à l'échelle macroscopique (oeil nu)
 
+[gné dernier schéma poly récup légendes]
 
 [mettre schéma torus empèchant l'appariton d'embolies]
 
@@ -32,3 +33,7 @@ Années +/- pluvieuses (ou autres conditions changeantes) = différences dans le
 
 Quand on parle d'homoxylé ou d'hétéroxylé (bois) on ne s'appuie que sur le système vertical
 [insérer photo/schéma différence entre les deux]
+
+Chez gymno: on a un seul type de cellules dans le xylème -> bois homoxylé
+Chez angiospermes, dans le système vertical : parenchyme (réserve et soutiens), fibres scléren(soutien) et vaisseaux. ->bois hétéroxylé
+
