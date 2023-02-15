@@ -39,4 +39,32 @@ Trachéides de forme différentes de celles des gymnospermes
 Ils ont une forme polygonales (cf diapo)
 
 
-Ra
+Rappel mise en place tissus primaires:
+![[Pasted image 20230215142102.png]]
+Cordon de xylème et tt autour du phloème : premières trachéophytes (Haplostèle)
+Puis évolution en particuler du xylème au cours du temps, qui engendre des conséquence au niveau du phloème.
+Qq soit la situation, dans la partie centrale(stèle) y a que tissus conducteurs : pas de moelle axiale
+=> protostèle.
+
+|          | **Angiosperme**                                                           | **"Ptéridophytes"** |
+| -------- | ------------------------------------------------------------------------- | ------------------- |
+| **Tige** | Cylindre central >> écorce                                                |                     |
+|          | Xylème centrifuge                                                         |                     |
+|          | Observation de faisceaux cribo-vasculaires (superposition xylème/phloème) |                     |
+|          | Epiderme cutinisé                                                         |                     |
+|          | Stomates                                                                  |                     |
+|          | Endoderme + péricycle absent                                              |                     |
+| **Racine**         |                                                                           |                     |
+
+
+
+
+
+![[Pasted image 20230215142310.png]]
+
+
+
+
+
+
+
