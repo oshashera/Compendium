@@ -64,4 +64,8 @@ The evaluation:
 
 Would it be possible for both farmers and industrial representatives and consumer (tomato nutrient for example) to agree on a solution for GMOs?
 
-
+**How can we reduce and optimize the usage of GMOs in agriculture?**
+- industrials
+- farmers
+- consumers
+- mediators
