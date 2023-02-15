@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a546cdbb317c730",
+            "id": "467650c9daaf5015",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TP4 BOT - Trachéophytes (mais fougères quand même.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TP4 BOT - Trachéophytes (mais fougères quand même.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TP4 BOT - Trachéophytes (mais fougères quand même.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TP4 BOT - Trachéophytes (mais fougères quand même.md"
+              }
             }
           },
           {
@@ -168,17 +176,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a546cdbb317c730",
+  "active": "467650c9daaf5015",
   "lastOpenFiles": [
-    "Anglais S6 on se fait ierch.md",
+    "Ravageurs.md",
+    "Lutte biologique.md",
     "TP4 BOT - Trachéophytes (mais fougères quand même.md",
+    "Anglais S6 on se fait ierch.md",
     "Pasted Image 20230215143025_502.png",
     "Pasted image 20230215143733.png",
     "Pasted image 20230215144617.png",
     "Pasted image 20230215145826.png",
     "Pasted image 20230215155324.png",
-    "Pasted image 20230215155216.png",
-    "Pasted Image 20230215151120_144.png",
-    "Pasted image 20230215153207.png"
+    "Pasted image 20230215155216.png"
   ]
 }
