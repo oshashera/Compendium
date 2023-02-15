@@ -87,7 +87,7 @@ On va décrire de la périphérie vers le centre
 <mark style="background: #FF5582A6;">MOELLE DONC PAS VRAIMENT UNE PROTOSTELE mais spécialistes disent "yapabcp" donc ca va c'est une actinostèle</mark>
 Entre 6 et 8 pôles de protoxylème et le phloème entre.
 
-
+![[Endoderme psilotum]]
 Pour déterminer combien d'assises forment le péricycle:
 - on voit deux assises de petite tailles (se mettre au niveau du protoxylème (la p'tite boule sombre au bout des bras de l'étoile)), on regarde
 - endoderme : parois radiales renforcées (semble noiratre) : endoderme à cadre de caspari, subérifiée

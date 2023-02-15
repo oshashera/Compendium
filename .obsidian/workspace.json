@@ -23,8 +23,10 @@
             "id": "2246454b9ca6d91f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Endoderme psilotum.md"
+              }
             }
           }
         ]
@@ -186,15 +188,15 @@
   },
   "active": "3838f5f28ce81c1f",
   "lastOpenFiles": [
-    "Excalidraw/stèle annotation.md",
+    "Excalidraw/Endoderme psilotum.md",
     "TP4 BOT - Trachéophytes (mais fougères quand même.md",
+    "Excalidraw/stèle annotation.md",
     "TP3 BOT - Gymnospermes.md",
     "Anglais S6 on se fait ierch.md",
     "BCV.md",
     "Excalidraw/rendement cytB6F.md",
     "Timeline Vacance Février.md",
     "MonMaster niksémor.md",
-    "Mails stages.md",
-    "Mails de stage.md"
+    "Mails stages.md"
   ]
 }
