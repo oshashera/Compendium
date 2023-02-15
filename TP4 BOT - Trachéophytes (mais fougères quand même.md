@@ -103,7 +103,8 @@ Pour la caractérisation :
 - Tige avec xylème centripète
 - Tige à xylème et phloème alternes : **pas spermaphyte**
 - Pas de formations secondaires conductrices : **pas gymno, ni angio Eudicotylédone**
-- Trachéides polygonales a ponctuations scalariformes : <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
+- Trachéides polygonales a ponctuations scalariformes
+<mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
 ___
 **Stèle avec très peu de moelle, xylème en étoile** <mark style="background: #ADCCFFA6;"><b>=></b></mark> **PROTOSTELE ACTINOSTELE**
 ___
@@ -132,22 +133,41 @@ Pour la caractérisation :
 - Tige avec xylème centripète
 - Tige à xylème et phloème alternes : **pas spermaphyte**
 - Pas de formations secondaires conductrices : **pas gymno, ni angio Eudicotylédone**
-- Trachéides polygonales a ponctuations scalariformes : <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
+- Trachéides polygonales a ponctuations scalariformes 
+<mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
 ___
 **Stèle sans moelle  <mark style="background: #BBFABBA6;"><b>=></b></mark> PROTOSTELE 
 Xylème et phloème en bandes alternées  <mark style="background: #BBFABBA6;"><b>=></b></mark> PLECTOSTELE
 ___
-
+ICI DE NOUVEAU CARMINO VERT**
 ![[Pasted image 20230215160233.png]]
 **Polypodium**
-Filicophytes
+Lycophytes
+Trachéophytes
+Embryophytes
 
+![[Pasted image 20230215165233.png]]
 
+![[Pasted image 20230215165246.png]]
 
+Pour la caractérisation :
+**Organe :**
+- Symétrie axiale
+- Epiderme avec stomates
+- Moelle développée (parenchyme médulaire)
+<mark style="background: #ADCCFFA6;"><b>=> Tige</b></mark>
 
-
-
-
+**Caractère systématique :**
+- Tige avec xylème centripète: **pas spermaphyte**
+- Pas de formations secondaires conductrices : **pas gymno, ni angio Eudicotylédone**
+- Un seul cercle de faisceaux conducteurs : **pas Monocotylédones**
+- Trachéides polygonales a ponctuations scalariformes 
+- Endoderme, péricycle
+<mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
+___
+**Plusieurs Méristèles autour d’une moelle axiale <mark style="background: #FFF3A3A6;"><b>=></b></mark> SIPHONOSTELE 
+Xylème et phloème en bandes alternées  <mark style="background: #FFF3A3A6;"><b>=></b></mark> DICTYOSTELE**
+___
 
 
 
