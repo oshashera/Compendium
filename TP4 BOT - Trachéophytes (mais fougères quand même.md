@@ -134,13 +134,13 @@ Pour la caractérisation :
 - Pas de formations secondaires conductrices : **pas gymno, ni angio Eudicotylédone**
 - Trachéides polygonales a ponctuations scalariformes : <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
 ___
-**Stèle sans moelle  <mark style="background: #BBFABBA6;"><b>=></b></mark> **PROTOSTELE 
-Xylème et phloème en bandes alternées 
+**Stèle sans moelle  <mark style="background: #BBFABBA6;"><b>=></b></mark> PROTOSTELE 
+Xylème et phloème en bandes alternées  <mark style="background: #BBFABBA6;"><b>=></b></mark> PLECTOSTELE
 ___
 
-
-
-
+![[Pasted image 20230215160233.png]]
+**Polypodium**
+Filicophytes
 
 
 
@@ -181,6 +181,6 @@ ___
 |          | Endoderme + péricycle absent                                              | Endoderme + péricycle présent                    |
 
 
-
+![[Pasted image 20230215160205.png]]
 ___
 
