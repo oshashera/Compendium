@@ -66,14 +66,24 @@ On commence par une tige de *psylotum*, groupe Monilophytes
 ***Psilotum sp.***
 Psylophyte, Monilophytes, Trachéophytes, Embryophytes
 
-Protostèle : actinostèle (différent de tiges Angiospermes) caractérise plutôt les Lycophyte mais parfois aussi les Monilophyt
+Protostèle : actinostèle (différent de tiges Angiospermes) caractérise plutôt les Lycophyte mais parfois aussi les Monilophytes
 Xylème centripète (différent de tiges Angiospermes)
 Stèles <<< Ecorce (différent de tiges angiospermes)
+Pas de superposition xylème/phloème (différent de tiges Angiospermes), alternance (caractérise tiges de "ptéridophytes")
+MAIS PAS RACINE CAR: 
+Stomates
+Epiderme cutinisé
 
-
-
-
-
+On va décrire de la périphérie vers le centre
+- **Epiderme cutinisé** avec parois cellulosiques (lignifiées parfois selon l'âge) et stomates
+- On a l'impression que jointif et parois épaisse mais en faisant varier la mise au point : on voit des gros espaces intercellulaires (méats) : **parenchyme cellulosique à replis** composé de cellules gondolées (3/4 assises)
+- **Sclérenchyme
+- **Parenchyme +/- lignifié
+- **Endoderme à cadre subérifié**
+- **Péricycle cellulosique**
+- **Phloème centripète
+- Xylème (m)
+![[Pasted image 20230215145826.png]]
 
 
 
