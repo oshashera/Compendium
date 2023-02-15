@@ -17,27 +17,29 @@ Aquisition de la voie de synthèse de la lignine :
 - port érigé (tissus de soutiens)
 - tissus conducteurs primaires (xylèmes)
 
-[diapo fougères s.l. groupe paraphylétique arc en ciel]
+![[Pasted image 20230215172629.png]]
 
 filicophytes = ptérophytes (=/= ptéridophytes)
 
 ##### Lycophytes
 
-Lycopode, 
+*Lycopode*, 
 Présente une tige +/- tracante avec un port érigé,
 
-Sélaginelle,
+*Sélaginelle*,
 Croissance horizontale, présente de toute petite (fausses) feuilles appelées microphylles
 
-##### Monilophytes
-[mettre diapo]
+![[Pasted image 20230215172751.png]]
+<br>
 
+##### Monilophytes
+![[Pasted image 20230215172739.png]]
 ![[Pasted image 20230215141911.png]]
 
 ![[Pasted image 20230215141857.png]]
 Trachéides de forme différentes de celles des gymnospermes
 Ils ont une forme polygonales (cf diapo)
-
+<br>
 
 Rappel mise en place tissus primaires:
 ![[Pasted Image 20230215143025_502.png]]
@@ -46,7 +48,7 @@ Puis évolution en particuler du xylème au cours du temps, qui engendre des con
 Phloème centripète
 Qq soit la situation, dans la partie centrale(stèle) y a que tissus conducteurs : pas de moelle axiale
 => protostèle.
-
+<br>
 
 ![[Pasted image 20230215142310.png]]
 Présence de moelle = siphonostèle
@@ -57,9 +59,7 @@ Plus on regarde vers les espèces apparues plus récemment, on constate l'appari
 Eustèles = évolution chez spermaphytes (appartient pas aux "ptéridophytes")
 
 ![[Pasted image 20230215143733.png]]
-
-
-
+<br>
 
 On commence par une tige de *psylotum*, groupe Monilophytes
 ![[Pasted image 20230215144617.png]]
@@ -106,7 +106,7 @@ Pour la caractérisation :
 - Trachéides polygonales a ponctuations scalariformes
 <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
 ___
-**Stèle avec très peu de moelle, xylème en étoile** <mark style="background: #ADCCFFA6;"><b>=></b></mark> **PROTOSTELE ACTINOSTELE**
+>**Stèle avec très peu de moelle, xylème en étoile** <mark style="background: #ADCCFFA6;"><b>=></b></mark> **PROTOSTELE ACTINOSTELE**
 ___
 
 <mark style="background: #FF8500A6;">coloration pas carmino-vert, mais au SAPRASIL: ROSE = lignifié et vert = cellulosique</mark>
@@ -116,12 +116,9 @@ Lycophytes
 Trachéophytes
 Embryophytes
 
-
 ![[Pasted image 20230215155324.png]]
 
-
 ![[Pasted image 20230215155632.png]]
-
 
 Pour la caractérisation :
 **Organe :**
@@ -136,14 +133,14 @@ Pour la caractérisation :
 - Trachéides polygonales a ponctuations scalariformes 
 <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
 ___
-**Stèle sans moelle  <mark style="background: #BBFABBA6;"><b>=></b></mark> PROTOSTELE 
-Xylème et phloème en bandes alternées  <mark style="background: #BBFABBA6;"><b>=></b></mark> PLECTOSTELE
+>**Stèle sans moelle  <mark style="background: #BBFABBA6;"><b>=></b></mark> PROTOSTELE**
+>**Xylème et phloème en bandes alternées  <mark style="background: #BBFABBA6;"><b>=></b></mark> PLECTOSTELE <
 ___
+
 <mark style="background: #FF8500A6;"><b>ICI DE NOUVEAU CARMINO VERT</b></mark>
 ![[Pasted image 20230215160233.png]]
-
 **Polypodium**
-Lycophytes
+Monilophytes
 Trachéophytes
 Embryophytes
 
@@ -166,9 +163,11 @@ Pour la caractérisation :
 - Endoderme, péricycle
 <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
 ___
-**Plusieurs Méristèles autour d’une moelle axiale <mark style="background: #FFF3A3A6;"><b>=></b></mark> SIPHONOSTELE 
-Xylème et phloème en bandes alternées  <mark style="background: #FFF3A3A6;"><b>=></b></mark> DICTYOSTELE**
+>**Plusieurs Méristèles autour d’une moelle axiale <mark style="background: #FFF3A3A6;"><b>=></b></mark> SIPHONOSTELE**
+>**Xylème et phloème en bandes alternées  <mark style="background: #FFF3A3A6;"><b>=></b></mark> DICTYOSTELE**
 ___
+
+<mark style="background: #FF8500A6;"><b>CT RACINE POLYPODE</b></mark>
 ![[Pasted image 20230215171354.png]]
 
 ![[Pasted image 20230215171405.png]]
@@ -191,29 +190,10 @@ Pour la caractérisation :
 - Trachéides polygonales a ponctuations scalariformes 
 <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
 ___
-Stèle sans moelle axiale et xylème non entouré par le phloème <mark style="background: #FFF3A3A6;"><b>=></b></mark> PROTOSTELE DIARCHE
+>**Stèle sans moelle axiale et xylème non entouré par le phloème <mark style="background: #FF8500A6;"><b>=></b></mark> PROTOSTELE DIARCHE
 ___
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### COMPARAISON DE TIGES :
 |          | **Angiosperme**                                                           | **"Ptéridophytes"** |
 | -------- | ------------------------------------------------------------------------- | ------------------- |
 | **Tige** | Cylindre central >> écorce                                                | Stèle << écorce                    |
@@ -222,16 +202,6 @@ ___
 |          | Epiderme cutinisé                                                         | Epiderme cutinisé                    |
 |          | Stomates                                                                  | Stomates                    |
 |          | Endoderme + péricycle absent                                              | Endoderme + péricycle présent                    |
-
-
-
-
-
-
-
-
-
-
 
 ![[Pasted image 20230215160205.png]]
 ___
