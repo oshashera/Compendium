@@ -100,6 +100,18 @@ Pour la caractérisation :
 => Tige
 
 **Caractère systématique :**
+- Tige avec xylème centripète
+- Tige à xylème et phloème alternes : **pas spermaphyte**
+- Pas de formations secondaires conductrices : **pas gymno, ni angio Eudicotylédone**
+- Trachéides polygonales a ponctuations scalariformes : <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
+___
+**Stèle avec très peu de moelle, xylème en étoile** <mark style="background: #ADCCFFA6;"><b>=></b></mark> **PROTOSTELE ACTINOSTELE**
+___
+
+***Lycopodium***
+
+
+
 
 
 
