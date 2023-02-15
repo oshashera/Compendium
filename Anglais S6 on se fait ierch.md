@@ -53,5 +53,15 @@ ____
 - Imagine you are in a pub alone. the person sitting next to you is also a scientist and a discussion emerges.
 - Objectve - expressing opinions
 - After 5 minute talk to a different person in the class
+-----
+
+The evaluation:
+- You will prepare and take part in a 30 min scientific debate as part of your final evaluation.
+- Subject - your choice. BUT scientifically themed.
+- Assign yourself roles, and roles for groups of 4 in the class.
+- You can include a short video to bring everyone up to speed on the subject.
+- The next few lessons are dedicated to debate practice.
+
+Would it be possible for both farmers and industrial representatives and consumer (tomato nutrient for example) to agree on a solution for GMOs?
 
 
