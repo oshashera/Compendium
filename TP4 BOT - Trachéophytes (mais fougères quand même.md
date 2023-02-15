@@ -139,15 +139,16 @@ ___
 **Stèle sans moelle  <mark style="background: #BBFABBA6;"><b>=></b></mark> PROTOSTELE 
 Xylème et phloème en bandes alternées  <mark style="background: #BBFABBA6;"><b>=></b></mark> PLECTOSTELE
 ___
-ICI DE NOUVEAU CARMINO VERT**
+<mark style="background: #FF8500A6;"><b>ICI DE NOUVEAU CARMINO VERT</b></mark>
 ![[Pasted image 20230215160233.png]]
+
 **Polypodium**
 Lycophytes
 Trachéophytes
 Embryophytes
 
 ![[Pasted image 20230215165233.png]]
-
+<mark style="background: #FF8500A6;"><b>RHIZOME = TIGE SOUTERRAINE</b></mark>
 ![[Pasted image 20230215165246.png]]
 
 Pour la caractérisation :
@@ -168,8 +169,30 @@ ___
 **Plusieurs Méristèles autour d’une moelle axiale <mark style="background: #FFF3A3A6;"><b>=></b></mark> SIPHONOSTELE 
 Xylème et phloème en bandes alternées  <mark style="background: #FFF3A3A6;"><b>=></b></mark> DICTYOSTELE**
 ___
+![[Pasted image 20230215171354.png]]
 
+![[Pasted image 20230215171405.png]]
 
+![[Pasted image 20230215171415.png]]
+
+Pour la caractérisation :
+**Organe :**
+- Symétrie axiale
+- Rhizoderme dégénérescent et zone subéreuse
+- Ecorce plus développée que le cylindre central
+- Endoderme et péricycle séparant écorce du cylindre central
+- Xylème et phoème alternes et xylème I centripète
+<mark style="background: #ADCCFFA6;"><b>=> Racine</b></mark>
+
+**Caractère systématique :**
+- Tige avec xylème centripète: **pas spermaphyte**
+- Pas de formations secondaires conductrices : **pas gymno, ni angio Eudicotylédone**
+--2 pôles de xylème (N< 8) : **pas Monocotylédones**
+- Trachéides polygonales a ponctuations scalariformes 
+<mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
+___
+Stèle sans moelle axiale et xylème non entouré par le phloème <mark style="background: #FFF3A3A6;"><b>=></b></mark> PROTOSTELE DIARCHE
+___
 
 
 
