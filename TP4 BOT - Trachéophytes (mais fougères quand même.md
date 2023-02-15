@@ -97,7 +97,7 @@ Pour la caractérisation :
 **Organe :**
 - Symétrie axiale
 - Epiderme avec stomates
-=> Tige
+<mark style="background: #ADCCFFA6;"><b>=> Tige</b></mark>
 
 **Caractère systématique :**
 - Tige avec xylème centripète
@@ -108,7 +108,35 @@ ___
 **Stèle avec très peu de moelle, xylème en étoile** <mark style="background: #ADCCFFA6;"><b>=></b></mark> **PROTOSTELE ACTINOSTELE**
 ___
 
+<mark style="background: #FF8500A6;">coloration pas carmino-vert : ROSE = lignifié et vert = cellulosique</mark>
+![[Pasted image 20230215155216.png]]
 ***Lycopodium***
+Lycophytes
+Trachéophytes
+Embryophytes
+
+
+![[Pasted image 20230215155324.png]]
+
+
+![[Pasted image 20230215155632.png]]
+
+
+Pour la caractérisation :
+**Organe :**
+- Symétrie axiale
+- Epiderme avec stomates
+<mark style="background: #ADCCFFA6;"><b>=> Tige</b></mark>
+
+**Caractère systématique :**
+- Tige avec xylème centripète
+- Tige à xylème et phloème alternes : **pas spermaphyte**
+- Pas de formations secondaires conductrices : **pas gymno, ni angio Eudicotylédone**
+- Trachéides polygonales a ponctuations scalariformes : <mark style="background: #ADCCFFA6;"><b>=> Fougères s.l.</b></mark>
+___
+**Stèle sans moelle  <mark style="background: #BBFABBA6;"><b>=></b></mark> **PROTOSTELE 
+Xylème et phloème en bandes alternées 
+___
 
 
 
@@ -118,18 +146,6 @@ ___
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-![[Pasted image 20230215153207.png]]
 
 
 
@@ -157,12 +173,12 @@ ___
 
 |          | **Angiosperme**                                                           | **"Ptéridophytes"** |
 | -------- | ------------------------------------------------------------------------- | ------------------- |
-| **Tige** | Cylindre central >> écorce                                                |                     |
-|          | Xylème centrifuge                                                         |                     |
-|          | Observation de faisceaux cribo-vasculaires (superposition xylème/phloème) |                     |
-|          | Epiderme cutinisé                                                         |                     |
-|          | Stomates                                                                  |                     |
-|          | Endoderme + péricycle absent                                              |                     |
+| **Tige** | Cylindre central >> écorce                                                | Stèle << écorce                    |
+|          | Xylème centrifuge                                                         | Xylème centripète                    |
+|          | Observation de faisceaux cribo-vasculaires (superposition xylème/phloème) | Xylème/phloème en alternance                    |
+|          | Epiderme cutinisé                                                         | Epiderme cutinisé                    |
+|          | Stomates                                                                  | Stomates                    |
+|          | Endoderme + péricycle absent                                              | Endoderme + péricycle présent                    |
 
 
 
