@@ -48,5 +48,10 @@ Opinion text:
 - What research areas can you identify that follows from the issue in question?
 ____
 
+2 scientists meet in a pub
+- 5 minute discussions
+- Imagine you are in a pub alone. the person sitting next to you is also a scientist and a discussion emerges.
+- Objectve - expressing opinions
+- After 5 minute talk to a different person in the class
 
 
