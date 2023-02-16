@@ -8,7 +8,16 @@
 	25%
 Test/qcm en tp 2 4 et 6   
 
+### RAPPELS R BQ1
 
+![[Pasted image 20230216124949.png]]
+
+![[Pasted image 20230216125008.png]]
+
+Comparaison de moyennes
+![[Pasted image 20230216125024.png]]
+
+![[Pasted image 20230216125038.png]]
 
 # CM1: principe des tests statistiques, test du x² (chi²)
 
