@@ -1,6 +1,6 @@
 [[Vacances février]] #à_faire_connard 
 ___
-- [ ] Réparer LOUPES
+- [x] Réparer LOUPES
 ___
 - [ ] ==EMMENER MAMAN AU RESTO ==
 ___
