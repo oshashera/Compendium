@@ -37,8 +37,18 @@ ___
 <br>
 ____
 MOOC :
-- [ ] Récup transcrits MOOC ARBRES
-- [ ] Récup transcrits MOOC ABEILLES
-- [ ] Récup transcripts MOOC AGROECOLOGIE
-- [ ] Finir MOOC AGROECOLOGIE
-- [ ] 
+- [ ] <mark style="background: #FF5582A6;">Finir MOOC AGROECOLOGIE</mark>
+- [ ] <mark style="background: #FF5582A6;">Récup transcrits MOOC ARBRES</mark>
+- [ ] <mark style="background: #FF5582A6;">Récup transcrits MOOC ABEILLES</mark>
+- [ ] <mark style="background: #FF5582A6;">Récup transcripts MOOC AGROECOLOGIE</mark>
+- [ ] <mark style="background: #FFF3A3A6;">Faire MOOC Introduction à la statistique avec R</mark>
+- [ ] <mark style="background: #FFF3A3A6;">Faire MOOC Introduction analyse multidimensionnelle avec R</mark>
+- [ ] <mark style="background: #BBFABBA6;">Faire MOOC techniques d'irrigation</mark>
+- [ ] <mark style="background: #BBFABBA6;">Faire MOOC Coopération agricole</mark>
+- [ ] <mark style="background: #BBFABBA6;">Faire MOOC conseil et innovation en agriculture</mark>
+- [ ] <mark style="background: #BBFABBA6;">Faire MOOC NECTAR</mark>
+
+
+
+
+
