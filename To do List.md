@@ -16,7 +16,7 @@ ___
 <br>
 ___
 ## Préparations
-- [ ] Mail demande de stage écobio vie du sol avril si possible **==URGENT==**
+- [x] Mail demande de stage écobio vie du sol avril si possible **==URGENT==**
 <br>
 ___
 ## Update Obsdian avec les anciennes UE
@@ -36,3 +36,9 @@ ___
 - [ ] Comment faire un grand herbier?
 <br>
 ____
+MOOC :
+- [ ] Récup transcrits MOOC ARBRES
+- [ ] Récup transcrits MOOC ABEILLES
+- [ ] Récup transcripts MOOC AGROECOLOGIE
+- [ ] Finir MOOC AGROECOLOGIE
+- [ ] 
