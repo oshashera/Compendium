@@ -37,9 +37,9 @@ ___
 <br>
 ____
 MOOC :
-- [ ] <mark style="background: #FF5582A6;">Finir MOOC AGROECOLOGIE</mark>
-- [ ] <mark style="background: #FF5582A6;">Récup transcrits MOOC ARBRES</mark>
-- [ ] <mark style="background: #FF5582A6;">Récup transcrits MOOC ABEILLES</mark>
+- [ ] <mark style="background: #FF5582A6;">Finir MOOC AGROECOLOGIE</mark> **FIN LE 19 MARS**
+- [x] <mark style="background: #FF5582A6;">Récup transcrits MOOC ARBRES</mark>
+- [x] <mark style="background: #FF5582A6;">Récup transcrits MOOC ABEILLES</mark> **EN ffait y a une chaine YOUTUBE**
 - [ ] <mark style="background: #FF5582A6;">Récup transcripts MOOC AGROECOLOGIE</mark>
 - [ ] <mark style="background: #FFF3A3A6;">Faire MOOC Introduction à la statistique avec R</mark>
 - [ ] <mark style="background: #FFF3A3A6;">Faire MOOC Introduction analyse multidimensionnelle avec R</mark>

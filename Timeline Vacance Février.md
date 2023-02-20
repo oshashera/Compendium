@@ -36,7 +36,7 @@ ___
 ___
 - [ ] Voir avec miliau / cathy pour les affaires cet été
 ___
-- [ ] **ENOLA GARANT AAAAH**
+- [x] **ENOLA GARANT AAAAH**
 ___
 - [ ] Comment coder une fonction sur R?
 ___
