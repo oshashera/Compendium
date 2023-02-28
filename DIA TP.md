@@ -139,6 +139,7 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 1 espèce par binome (2 boites de pétri)
 -> couvrir de sol (vers mi-hauteur, enlever cailloux et racines) et arroser(eau du robinet) (et annoter sur la partie du bas)
 -> ajouter 30 graines **exactement**
+-> on a pris ** **
 
 **Test sur la croissance des plantules**
 2 sols
@@ -171,7 +172,16 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 4. **Réalisation des mesures en fin d'exposition (3 semaine plus tard (après les vacances)**
 
 <u>Comptage boite de pétri </u>
-/!\ Les sols utilisés peuvent contenir autre chose que les 30 graines qu'on a mis donc faut faire gaffe quand on comp
+
+<mark style="background: #FF8500A6;">/!\</mark> *Les sols utilisés peuvent contenir autre chose que les 30 graines qu'on a mis donc faut faire gaffe quand on compte*
+
+Le tableau excel à 3 onglets :
+- consigne (comment présenter données pour chacun des tests)
+- 
+
+
+
+
 
 5. **Analyse des résultats et interprétation (semaine 11 (vendredi 17/03) -> dépot sur moodle d'un rapport noté)**
 
