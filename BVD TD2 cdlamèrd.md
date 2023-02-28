@@ -86,8 +86,25 @@ On dispose de deux cristallisoirs dans lesquels on immerge une gorgone saine dan
 
 - 0,02 DO mais 0,1 DO = 10^8 UFC/mL donc Ci = 2x10^7 UFC/mL
 
-- Vi = (Cf x Vf )/ Ci => (10^5 x 10^3)/ 2x10^7 = 0,5
+- Vi = (Cf x Vf )/ Ci => (10^5 x 10^3)/ 2x10^7 = 0,5 x 10 = 5mL
+
 **3.b.** *Donner la composition et le rôle des témoins négatifs.* 
 
+![[Dessin gorgone bvd nul]]
 
 **3.c.** *Analyser les résultats obtenus et conclure.*
+
+On peut faire un lien entre la température et la pathogénicité de la souche X
+
+
+##### 4. Détermination de l’activité anti-microbienne des gorgones.
+
+Les gorgones, comme les coraux, libèrent de nombreuses substances anti-microbiennes dont des antibiotiques. On souhaite analyser ici le pouvoir antibactérien des gorgones nécrosées prélevées à la fin de l’été 2020 en le comparant à celui d’un antibiotique de référence, noté ATB, actif sur la souche X. 
+
+On réalise 5 dilutions en cascade de raison ½ de l’ATB initialement à 2048 U.mL-1 (U pour unité d’activité) et d’un filtrat issu de gorgones nécrosées. Dans des tubes stériles on introduit 1 mL d’une des dilutions d’ATB ou de filtrat et on ajoute 1 mL d’une suspension de la souche X (tableau ci-dessous). Les tubes sont incubés 24 h à 30°C. Les tubes où les bactéries se sont développées présentent un milieu trouble contrairement à ceux où les bactéries ne se sont pas développées qui apparaissent limpides.
+
+| Tubes                                                                                   | 1      | 2       | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| --------------------------------------------------------------------------------------- | ------ | ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Volume de suspension bactérienne (mL)                                                   | 1      | 1       | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
+| Solution d’ATB (initialement à 2048 U.mL-1):  dilution utilisée - volume introduit (mL) | ND - 1 | 1/2 - 1 |     |     |     |     |     |     |     |     |     |     |
+| Filtrat de gorgone nécrosée: - dilution utilisée / volume introduit (mL)                |        |         |     |     |     |     |     |     |     |     |     |     |

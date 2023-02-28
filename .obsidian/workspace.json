@@ -23,11 +23,9 @@
             "id": "5a609a5eb8c4037b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "BVD TD2 cdlamèrd.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Dessin gorgone bvd nul.md"
               }
             }
           },
@@ -37,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do List.md",
+                "file": "BVD TD2 cdlamèrd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,17 +199,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a609a5eb8c4037b",
+  "active": "704e6bbefc06597a",
   "lastOpenFiles": [
-    "DIA TP.md",
+    "Excalidraw/Dessin gorgone bvd nul.md",
+    "BVD TD2 cdlamèrd.md",
     "To do List.md",
+    "DIA TP.md",
     "Timeline Vacance Février.md",
     "BCV.md",
     "TP2 BOT - Hydrophytes.md",
     "Biostatistique IB2.md",
     "TP4 BOT - Trachéophytes (mais fougères quand même.md",
-    "Ravageurs.md",
-    "Lutte biologique.md",
-    "Anglais S6 on se fait ierch.md"
+    "Ravageurs.md"
   ]
 }
