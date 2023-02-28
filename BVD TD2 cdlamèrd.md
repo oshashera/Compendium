@@ -15,8 +15,11 @@ surface d'un cercle = rayon² x pi
 
 | Surface d'un champ (oculaire x10 et | objectif x100 à l'immersion) |
 | ----------------------------------- | ---------------------------- |
-| En µm² : 150xpi = 17671.4586764                       | En cm²   :  17671.4586764x 10^8                      |
+| En µm² : 150xpi = 17671.4586764                       | En cm²   :  17671.4586764x 10^-8 = 1,767 x 10^-4                      |
 
 |                                               | Filtrat issu d'une gorgone saine | Filtrat issu d'une gorgone nécrosée |
 | --------------------------------------------- | -------------------------------- | ----------------------------------- |
-| Nombre moyen de bactéries observées par champ | 0,5                              |                                     |
+| Nombre moyen de bactéries observées par champ  | 0,5                              | 1,4                                 |
+| Nombre moyen de bactéries pour 1 cm2          | 2840,9                                 | 7954,5                                   |
+| Nombre moyen de bactéries par µL de filtrat   |                                | 0,7 x 10^8                                    |
+| Nombre moyen de bactéries par mL de filtrat                                              |                                  |                                     |
