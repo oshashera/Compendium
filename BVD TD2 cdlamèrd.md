@@ -40,6 +40,7 @@ Si on peut prendre plusieurs valeurs on fait une moyenne
 On obtient des valeurs inférieurs à celles du **1.a** parce que dans le 1.b
 on compte un échantillon de bactéries, et dans cet échantillon on peut avoir des cellules en fin de croissances, des mortes, etc, et une fois repiquées sur boite de pétri, celles morte vont pas donner de colonnies alors que la technique du 1.a on colore et la coloration compte aussi les cellules mortes.
 C'est donc normal d'avoir des valeurs plus faibles grâce à la première technique.
+<br>
 
 ##### 2. Identification d’une souche bactérienne X retrouvée en quantité importante sur les gorgones nécrosées :
 
@@ -57,8 +58,34 @@ Chaque acronyme correspond à un test sur le schéma ci-dessus.
 On a des changements de couleurs qui indiquent si le test est positif ou négatif.
 On passe ensuite à l'interprétation, et notamment un code numérique:
 On prend les trinomes de test, et on note dans le cercle en dessous (vide sur le schéma) le nombre du test positif, et si j'en ai 2 on met la somme des deux.
-Si aucun on met 0
+Si aucun on met 0.
 On répète pour chaque trinome.
-On pourra avec le code 
+On pourra avec le code avoir des genres rattachés.
+
+
 *Exploiter les résultats présentés ci-dessous et identifier la souche X en utilisant les données suivantes :*
-* Le code 0116000 correspond à Proteus mirabilis Le code 1155571 correspond à Yersinia intermedia Le code 4206005 correspond à Pseudomonas cepacia Le code 4346104 correspond à Vibrio parahaemolyticus
+* Le code 0116000 correspond à *Proteus mirabilis* 
+* Le code 1155571 correspond à *Yersinia intermedia* 
+* Le code 4206005 correspond à *Pseudomonas cepacia* 
+* Le code 4346104 correspond à *Vibrio parahaemolyticus*
+
+On trouve 4346104 donc *Vibrio parahaemolyticus*
+
+**2.c.** Après l’ensemencement de la galerie API, on réalise un contrôle de pureté à partir du bouillon restant. *Comment fait-on ce contrôle de pureté et pourquoi le fait-on ?*
+
+Si on a une galerie avec un échantillon contaminé ca fausse tout.
+Pour tester la pureté, on prend ce qu'il y a dans un des API et on dépose (après dilution ou en utilisant la technique des stries épuisantes/méthode des cadrants) sur un milieu riche
+<br>
+
+##### 3. Détermination du pouvoir nécrotique de la souche bactérienne X sur les gorgones à différentes températures :
+
+On dispose de deux cristallisoirs dans lesquels on immerge une gorgone saine dans 1L d’eau de mer stérile. On ensemence alors les cristallisoirs à l’aide d’une culture liquide de la souche X (de concentration inconnue égale à Ci UFC.mL-1) afin d’obtenir une concentration finale de 105 UFC.mL-1. L’un des cristallisoirs est placé à 18°C et l’autre à 23°C. Les temps T50 et T90 nécessaires pour obtenir respectivement 50% et 90% de nécrose tissulaire des gorgones sont déterminés. Cette expérience est menée sur 60 jours. Les résultats sont présentés ci-dessous :
+![[Pasted image 20230228150638.png]]
+
+**3.a.** Sachant que la culture bactérienne initiale de concentration Ci présente une valeur d’opacimétrie à 600nm égale à 0,020 et qu’on estime que 0,1 unité de DO correspond à 108 UFC.mL-1, calculer Ci. *En déduire le volume de culture que l’on a introduit dans les cristallisoirs pour obtenir la concentration finale souhaitée*. 
+
+
+**3.b.** *Donner la composition et le rôle des témoins négatifs.* 
+
+
+**3.c.** *Analyser les résultats obtenus et conclure.*
