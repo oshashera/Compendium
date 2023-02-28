@@ -4,7 +4,7 @@
 
 A la fin de l’été 2020, une mortalité massive des grands invertébrés marins et notamment des gorgones a été observée en Méditerranée. En septembre 2020, juste avant l’apparition des nécroses tissulaires sur les gorgones, la température de l’eau de mer à 30 mètres de profondeur atteignait 23°C contre 18°C en septembre 2019. Cette hausse de température aurait pu être bénéfique à la prolifération de microorganismes susceptibles de participer au phénomène de nécrose. En octobre 2020, des échantillons de gorgones nécrosées ont été prélevés afin d’étudier cette hypothèse.
 
-##### 1.Dénombrement des bactéries revivifiables aérobies sur les gorgones nécrosées : 
+##### 1. Dénombrement des bactéries revivifiables aérobies sur les gorgones nécrosées : 
 
 On dénombre les bactéries revivifiables aérobies dans trois échantillons : un échantillon d’eau de mer, un filtrat obtenu à partir d’une gorgone nécrosée broyée dans de l’eau de mer stérile et un filtrat issu d’une gorgone saine.
 
@@ -33,7 +33,32 @@ Après 24 h d’incubation à 30°C, on dénombre les colonies sur les géloses.
 
 <u>Eau de mer :</u> 63 colonnies pour 0,1 mL ensemencé donc on a 630 bactéries dans 1mL?
 <u>Gorgones saines :</u> 103 fois pour le 10^-3 donc pour le non dilué on a 103x10^4  bactéries par mL, 
-/!\ on prends dans le tableau les valeurs ent
+<mark style="background: #FF8500A6;">/!\</mark> on prends dans le tableau les valeurs entre 300 et 15 (je suis pas sur pour le 300)
+Si on peut prendre plusieurs valeurs on fait une moyenne
 <u>Gorgones nécrosées :</u> 31 fois pour 10^-4 donc 31x10^4 pour le non-dilué donc 310k bactéries par mL et pour le 10^-3 on trouve 280x10^4 donc on fait la moyenne des deux et on obtient 2,95x10^6 bactéries par mL en moyenne
 
-On obtient des valeurs inférieurs à celles du **1.a** parce que 
+On obtient des valeurs inférieurs à celles du **1.a** parce que dans le 1.b
+on compte un échantillon de bactéries, et dans cet échantillon on peut avoir des cellules en fin de croissances, des mortes, etc, et une fois repiquées sur boite de pétri, celles morte vont pas donner de colonnies alors que la technique du 1.a on colore et la coloration compte aussi les cellules mortes.
+C'est donc normal d'avoir des valeurs plus faibles grâce à la première technique.
+
+##### 2. Identification d’une souche bactérienne X retrouvée en quantité importante sur les gorgones nécrosées :
+
+**2.a.** L’analyse microscopique d’une coloration de Gram d’un frottis de la souche à identifier révèle des bactéries colorées en rose de forme allongée. *Interpréter.*
+
+Gram négative = coloration rose
+Allongée = bacille
+On a donc un bacille Gram -
+
+**2.b.** La souche est ensuite isolée à l’aide d’une galerie API 20 E. 
+Les galeries API existent pour différents types de bactéries.
+![[Pasted image 20230228145621.png]]
+Plein de test biochimiques et enzymatiques dans des petites galeries, pratique pour déposer peu de culture.
+Chaque acronyme correspond à un test sur le schéma ci-dessus.
+On a des changements de couleurs qui indiquent si le test est positif ou négatif.
+On passe ensuite à l'interprétation, et notamment un code numérique:
+On prend les trinomes de test, et on note dans le cercle en dessous (vide sur le schéma) le nombre du test positif, et si j'en ai 2 on met la somme des deux.
+Si aucun on met 0
+On répète pour chaque trinome.
+On pourra avec le code 
+*Exploiter les résultats présentés ci-dessous et identifier la souche X en utilisant les données suivantes :*
+* Le code 0116000 correspond à Proteus mirabilis Le code 1155571 correspond à Yersinia intermedia Le code 4206005 correspond à Pseudomonas cepacia Le code 4346104 correspond à Vibrio parahaemolyticus
