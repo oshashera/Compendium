@@ -31,6 +31,9 @@ Après 24 h d’incubation à 30°C, on dénombre les colonies sur les géloses.
 
 ![[Pasted image 20230228143438.png]]
 
-Eau de mer : 63 colonnies pour 0,1 mL ensemencé donc on a 630 bactéries dans 1mL?
-Gorgones saines : + de 12 fois pour le 10^-4 donc pour le non dilué on a 12x10^4 = 120k, 
-Gorgones nécrosées : idem?
+<u>Eau de mer :</u> 63 colonnies pour 0,1 mL ensemencé donc on a 630 bactéries dans 1mL?
+<u>Gorgones saines :</u> 103 fois pour le 10^-3 donc pour le non dilué on a 103x10^4  bactéries par mL, 
+/!\ on prends dans le tableau les valeurs ent
+<u>Gorgones nécrosées :</u> 31 fois pour 10^-4 donc 31x10^4 pour le non-dilué donc 310k bactéries par mL et pour le 10^-3 on trouve 280x10^4 donc on fait la moyenne des deux et on obtient 2,95x10^6 bactéries par mL en moyenne
+
+On obtient des valeurs inférieurs à celles du **1.a** parce que 
