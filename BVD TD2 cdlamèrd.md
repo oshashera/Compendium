@@ -112,16 +112,23 @@ On réalise 5 dilutions en cascade de raison ½ de l’ATB initialement à 2048 
 *Cases barrées : non introduit dans le tube. ND : non dilué. - : pas de trouble observé. + : trouble observé*
 
 **4.a.** *Calculer les concentrations finales d’ATB et les dilutions finales de filtrat dans les tubes* 
+<mark style="background: #FF8500A6;">/!\</mark>*Ne pas négliger que dans les tubes on rajoutais au 1 mL initial 1mL d'une des suspension = 2 mL (d'ou le "non dilué" divisé par 2) -> 
+**dilution finale** = dilution utilisée /2 quel que soit la colonne*
 
-concentration finale d'ATB : non dilué on divise par 2 -> 2048/2 = 1024 et après pour les autres on multiplie par la concentration (1/2, 1/4, etc)
+**Concentration finale d'ATB** : non dilué on divise par 2 -> 2048/2 = 1024 et après pour les autres on multiplie 1024 par la dilution utilisée (pas finale) (1/2, 1/4, etc)
 
 **4.b.** *Donner la signification du sigle CMI et expliquer de quoi il s’agit.* 
 **Concentration minimal inhibitrice** =  la plus faible concentration qui empèche la croissance d'une bactérie.
 
 **4.c.** *Déterminer la CMI d’ATB pour la souche X (en U.mL-1).* 
 
+Compliqué d'estimer pcq c'est compris entre 128 et 256 (passage du - au +) mais on a pas plus de précision.
 
 **4.d.** *Quelle est la plus forte dilution de filtrat donnant une absence de croissance visible ? En déduire la concentration en principe actif antibactérien en U.mL-1 du filtrat de gorgone nécrosée.* 
+
+La plus forte dilution de filtrat donnant une absence de croissance visible est celle dans le tube 7 à savoir une dilution au 1/2 du filtrat issu de gorgones nécrosée.
+Cette dilution doit correspondre à une concentration en principe entre 128 et 256 U/mL
+Donc la concentration en principe actif antibactérien du filtrat de gorgone nécrose peut être entre 256 et 512) car dilution par 2 pour le "non dilué" 
 
 
 **4.e.** *Sachant qu’en septembre 2019, la concentration en principe actif antibactérien avait été estimée deux fois plus élevée que la précédente, proposez une explication qui permettrait de comprendre la nécrose des gorgones en Méditerranée à la fin de l’été 2020.*
