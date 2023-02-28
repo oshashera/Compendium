@@ -103,8 +103,25 @@ Les gorgones, comme les coraux, libèrent de nombreuses substances anti-microbie
 
 On réalise 5 dilutions en cascade de raison ½ de l’ATB initialement à 2048 U.mL-1 (U pour unité d’activité) et d’un filtrat issu de gorgones nécrosées. Dans des tubes stériles on introduit 1 mL d’une des dilutions d’ATB ou de filtrat et on ajoute 1 mL d’une suspension de la souche X (tableau ci-dessous). Les tubes sont incubés 24 h à 30°C. Les tubes où les bactéries se sont développées présentent un milieu trouble contrairement à ceux où les bactéries ne se sont pas développées qui apparaissent limpides.
 
-| Tubes                                                                                   | 1      | 2       | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
-| --------------------------------------------------------------------------------------- | ------ | ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Volume de suspension bactérienne (mL)                                                   | 1      | 1       | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
-| Solution d’ATB (initialement à 2048 U.mL-1):  dilution utilisée - volume introduit (mL) | ND - 1 | 1/2 - 1 |     |     |     |     |     |     |     |     |     |     |
-| Filtrat de gorgone nécrosée: - dilution utilisée / volume introduit (mL)                |        |         |     |     |     |     |     |     |     |     |     |     |
+| **Tubes**                                                                                   | 1      | 2       | 3       | 4       | 5        | 6        | 7      | 8       | 9       | 10      | 11       | 12       |
+| --------------------------------------------------------------------------------------- | ------ | ------- | ------- | ------- | -------- | -------- | ------ | ------- | ------- | ------- | -------- | -------- |
+| **Volume de suspension bactérienne (mL)**                                                   | 1      | 1       | 1       | 1       | 1        | 1        | 1      | 1       | 1       | 1       | 1        | 1        |
+| **Solution d’ATB (initialement à 2048 U.mL-1):  dilution utilisée**  volume introduit (mL) | ND - 1 | 1/2 - 1 | 1/4 - 1 | 1/8 - 1 | 1/16 - 1 | 1/32 - 1 |        |         |         |         |          |          |
+| **Filtrat de gorgone nécrosée:**  dilution utilisée / volume introduit (mL)                |        |         |         |         |          |          | ND - 1 | 1/2 - 1 | 1/4 - 1 | 1/8 - 1 | 1/16 - 1 | 1/32 - 1 |
+| **Résultat après incubation**                                                               | -      | -       | -       | +       | +        | +        | -      | +       | +       | +       | +        | +         |
+*Cases barrées : non introduit dans le tube. ND : non dilué. - : pas de trouble observé. + : trouble observé*
+
+**4.a.** *Calculer les concentrations finales d’ATB et les dilutions finales de filtrat dans les tubes* 
+
+concentration finale d'ATB : non dilué on divise par 2 -> 2048/2 = 1024 et après pour les autres on multiplie par la concentration (1/2, 1/4, etc)
+
+**4.b.** *Donner la signification du sigle CMI et expliquer de quoi il s’agit.* 
+**Concentration minimal inhibitrice** =  la plus faible concentration qui empèche la croissance d'une bactérie.
+
+**4.c.** *Déterminer la CMI d’ATB pour la souche X (en U.mL-1).* 
+
+
+**4.d.** *Quelle est la plus forte dilution de filtrat donnant une absence de croissance visible ? En déduire la concentration en principe actif antibactérien en U.mL-1 du filtrat de gorgone nécrosée.* 
+
+
+**4.e.** *Sachant qu’en septembre 2019, la concentration en principe actif antibactérien avait été estimée deux fois plus élevée que la précédente, proposez une explication qui permettrait de comprendre la nécrose des gorgones en Méditerranée à la fin de l’été 2020.*
