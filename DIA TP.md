@@ -186,3 +186,29 @@ Le tableau excel à 3 onglets :
 5. **Analyse des résultats et interprétation (semaine 11 (vendredi 17/03) -> dépot sur moodle d'un rapport noté)**
 
 
+
+
+
+
+____
+#### Rédaction du rapport :
+
+Titre scientifique explicité
+
+1. **Intro** (20aine de ligne max, police calibri 10)
+- Contexte et hypothèses de travail
+- Objectifs et hypothèses de travail
+
+2. **Matériels et méthodes** (30aine de lignes max, police calibri 10)
+- Matériel biologique utilisé
+- Méthodes expérmimentales
+- Méthodes de traitement des données avec justification
+
+3. **Résultats** (2p max, figures comprises, police calibri 10)
+- Présentation de vos résultats en les décrivants sur la base de figures
+
+4. **Conclusion (1p max, calibri 10)**
+- Interprétation de vos résultats pour répondre à vos hypothèses proposées en introduction
+- Conclusion quant au sol des prairies St.Martin
+- Aspect critique vis à vis du protocole ou du traitement des données
+
