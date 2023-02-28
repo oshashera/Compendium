@@ -146,6 +146,14 @@
             }
           },
           {
+            "id": "bb02f181be9c9088",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "0db1b51bcf404004",
             "type": "leaf",
             "state": {
@@ -153,14 +161,6 @@
               "state": {
                 "file": "BVD TD2 cdlamèrd.md"
               }
-            }
-          },
-          {
-            "id": "bb02f181be9c9088",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",

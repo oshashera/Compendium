@@ -9,9 +9,14 @@ A la fin de l’été 2020, une mortalité massive des grands invertébrés mari
 On dénombre les bactéries revivifiables aérobies dans trois échantillons : un échantillon d’eau de mer, un filtrat obtenu à partir d’une gorgone nécrosée broyée dans de l’eau de mer stérile et un filtrat issu d’une gorgone saine.
 
 **1.a.** Afin d’avoir une idée de l’ordre de grandeur du nombre de bactéries présentes dans les filtrats, un dénombrement rapide est effectué selon la technique de Breed. 2 µL de chaque filtrat sont étalés sur une surface d’un cm2 , puis colorés au bleu de méthylène. 30 champs microscopiques sont observés au microscope photonique (oculaire x10 et objectif x100 à l’immersion). 
-*Sachant que le diamètre d’un champ, dans ces conditions, est de 150 µm, compléter les tableaux cidessous.*
+*Sachant que le diamètre d’un champ, dans ces conditions, est de 150 µm, compléter les tableaux ci-dessous.*
+diamètre = 150 donc rayon = 75 
+surface d'un cercle = rayon² x pi
 
-| Surface d'un champ (oculaire x10 et objectif x100 à l'immersion) |        |
-| ---------------------------------------------------------------- | ------ |
-| En µm²                                                           | En cm² |
-|                                                                  |        |
+| Surface d'un champ (oculaire x10 et | objectif x100 à l'immersion) |
+| ----------------------------------- | ---------------------------- |
+| En µm² : 150xpi = 17671.4586764                       | En cm²   :  17671.4586764x 10^8                      |
+
+|                                               | Filtrat issu d'une gorgone saine | Filtrat issu d'une gorgone nécrosée |
+| --------------------------------------------- | -------------------------------- | ----------------------------------- |
+| Nombre moyen de bactéries observées par champ | 0,5                              |                                     |
