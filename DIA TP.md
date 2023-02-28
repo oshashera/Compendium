@@ -190,15 +190,15 @@ Le tableau excel à 3 onglets :
 
 | Lotus (L.c)     | Sol contaminé | Sol contrôle |
 | ------------------------------ | ------------- | ------------ |
-| Nb feuille                     | 9 feuilles            | 48 feuilles + 2cotylédons          |
-| Hauteur parties aériennes (cm) | 3 cm          | 3,5 cm       |
-| Longueur racines (cm)          | 4 cm          | 6 cm             |
+| Nb feuille                     | 55 feuilles + 2 cotylédons            | 48 feuilles + 2cotylédons          |
+| Hauteur parties aériennes (cm) | 7 cm          | 10 cm       |
+| Longueur racines (cm)          | 9 cm          | 9,5 cm             |
 
 | Fréole (P.p)                   | Sol contaminé | Sol contrôle |
 | ------------------------------ | ------------- | ------------ |
-| Nb feuille                     | 2 feuilles    | 1 feuille    |
-| Hauteur parties aériennes (cm) | 5,5 cm        | 4 cm             |
-| Longueur racines (cm)          | 2 cm          | 2 cm             |
+| Nb feuille                     | 4 feuilles (+ une plante dicot à feuilles alternes -> contamination)   | 3 feuille    |
+| Hauteur parties aériennes (cm) | 10,5 cm        | 12 cm             |
+| Longueur racines (cm)          | 9 cm          | 7 cm             |
 
 
 
