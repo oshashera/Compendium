@@ -17,9 +17,20 @@ surface d'un cercle = rayon² x pi
 | ----------------------------------- | ---------------------------- |
 | En µm² : 150xpi = 17671.4586764                       | En cm²   :  17671.4586764x 10^-8 = 1,767 x 10^-4                      |
 
-|                                               | Filtrat issu d'une gorgone saine | Filtrat issu d'une gorgone nécrosée |
-| --------------------------------------------- | -------------------------------- | ----------------------------------- |
-| Nombre moyen de bactéries observées par champ  | 0,5                              | 1,4                                 |
-| Nombre moyen de bactéries pour 1 cm2          | 2840,9                                 | 7954,5                                   |
-| Nombre moyen de bactéries par µL de filtrat   |                                | 0,7 x 10^8                                    |
-| Nombre moyen de bactéries par mL de filtrat                                              |                                  |                                     |
+|                                                     | Filtrat issu d'une gorgone saine | Filtrat issu d'une gorgone nécrosée |
+| --------------------------------------------------- | -------------------------------- | ----------------------------------- |
+| **Nombre moyen de bactéries observées par champ (surface en µm² ci dessus)** | **0,5**                          | **1,4**                             |
+| **Nombre moyen de bactéries pour 1 cm²**            | 2840,9                           | 7954,5                              |
+| **Nombre moyen de bactéries par µL de filtrat**     | 1420                             | 3977,25                             |
+| **Nombre moyen de bactéries par mL de filtrat**     | 1420 x 10^3                     | 3977 x 10^3                        |
+
+**1.b.** Le dénombrement des bactéries est effectué sur un milieu gélosé à base d’eau de mer stérile. Pour chaque échantillon, on réalise des dilutions décimales et on ensemence 0,1 mL de chaque dilution sur une boîte de milieu gélosé. 
+
+Après 24 h d’incubation à 30°C, on dénombre les colonies sur les géloses. Un résultat de dénombrement est considéré comme significatif si il est compris entre <u>15 et 300 colonies par boîte</u>.
+![[Pasted image 20230228143420.png]]
+
+![[Pasted image 20230228143438.png]]
+
+Eau de mer : 63 colonnies pour 0,1 mL ensemencé donc on a 630 bactéries dans 1mL?
+Gorgones saines : + de 12 fois pour le 10^-4 donc pour le non dilué on a 12x10^4 = 120k, 
+Gorgones nécrosées : idem?
