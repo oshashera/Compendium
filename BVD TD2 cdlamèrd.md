@@ -79,12 +79,14 @@ Pour tester la pureté, on prend ce qu'il y a dans un des API et on dépose (apr
 
 ##### 3. Détermination du pouvoir nécrotique de la souche bactérienne X sur les gorgones à différentes températures :
 
-On dispose de deux cristallisoirs dans lesquels on immerge une gorgone saine dans 1L d’eau de mer stérile. On ensemence alors les cristallisoirs à l’aide d’une culture liquide de la souche X (de concentration inconnue égale à Ci UFC.mL-1) afin d’obtenir une concentration finale de 105 UFC.mL-1. L’un des cristallisoirs est placé à 18°C et l’autre à 23°C. Les temps T50 et T90 nécessaires pour obtenir respectivement 50% et 90% de nécrose tissulaire des gorgones sont déterminés. Cette expérience est menée sur 60 jours. Les résultats sont présentés ci-dessous :
+On dispose de deux cristallisoirs dans lesquels on immerge une gorgone saine dans 1L d’eau de mer stérile. On ensemence alors les cristallisoirs à l’aide d’une culture liquide de la souche X (de concentration inconnue égale à Ci UFC.mL-1) afin d’obtenir une concentration finale de 10^5 UFC.mL-1. L’un des cristallisoirs est placé à 18°C et l’autre à 23°C. Les temps T50 et T90 nécessaires pour obtenir respectivement 50% et 90% de nécrose tissulaire des gorgones sont déterminés. Cette expérience est menée sur 60 jours. Les résultats sont présentés ci-dessous :
 ![[Pasted image 20230228150638.png]]
 
-**3.a.** Sachant que la culture bactérienne initiale de concentration Ci présente une valeur d’opacimétrie à 600nm égale à 0,020 et qu’on estime que 0,1 unité de DO correspond à 108 UFC.mL-1, calculer Ci. *En déduire le volume de culture que l’on a introduit dans les cristallisoirs pour obtenir la concentration finale souhaitée*. 
+**3.a.** Sachant que la culture bactérienne initiale de concentration Ci présente une valeur d’opacimétrie à 600nm égale à 0,020 et qu’on estime que 0,1 unité de DO correspond à 10^8 UFC.mL-1 (Unité Formant Colonie), calculer Ci. *En déduire le volume de culture que l’on a introduit dans les cristallisoirs pour obtenir la concentration finale souhaitée*. 
 
+- 0,02 DO mais 0,1 DO = 10^8 UFC/mL donc Ci = 2x10^7 UFC/mL
 
+- Vi = (Cf x Vf )/ Ci => (10^5 x 10^3)/ 2x10^7 = 0,5
 **3.b.** *Donner la composition et le rôle des témoins négatifs.* 
 
 
