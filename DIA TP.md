@@ -182,6 +182,24 @@ Le tableau excel à 3 onglets :
 
 
 
+| Bleuet (C.c)                   | Sol contaminé             | Sol contrôle              | 
+| ------------------------------ | ------------------------- | ------------------------- |  
+| Nb feuille                     | 6 feuilles + 2 cotylédons | 5 feuilles + 2 cotylédons |     
+| Hauteur parties aériennes (cm) | 8,5 cm                      | 8 cm                      |     
+| Longueur racines (cm)          | 12 cm                     | 9 cm                      |    
+
+| Lotus (L.c)     | Sol contaminé | Sol contrôle |
+| ------------------------------ | ------------- | ------------ |
+| Nb feuille                     | 9 feuilles            | 48 feuilles + 2cotylédons          |
+| Hauteur parties aériennes (cm) | 3 cm          | 3,5 cm       |
+| Longueur racines (cm)          | 4 cm          | 6 cm             |
+
+| Fréole (P.p)                   | Sol contaminé | Sol contrôle |
+| ------------------------------ | ------------- | ------------ |
+| Nb feuille                     | 2 feuilles    | 1 feuille    |
+| Hauteur parties aériennes (cm) | 5,5 cm        | 4 cm             |
+| Longueur racines (cm)          | 2 cm          | 2 cm             |
+
 
 
 
