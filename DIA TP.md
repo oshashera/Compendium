@@ -139,7 +139,7 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 1 espèce par binome (2 boites de pétri)
 -> couvrir de sol (vers mi-hauteur, enlever cailloux et racines) et arroser(eau du robinet) (et annoter sur la partie du bas)
 -> ajouter 30 graines **exactement**
--> on a pris ** **
+-> on a pris **P.pratense**
 
 **Test sur la croissance des plantules**
 2 sols
@@ -178,6 +178,8 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 Le tableau excel à 3 onglets :
 - consigne (comment présenter données pour chacun des tests)
 - 
+- 
+
 
 
 
