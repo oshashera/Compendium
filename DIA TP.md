@@ -166,7 +166,12 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 | Longueur racines (cm)          | 2 cm          | 2 cm             |
 
 ![[plan godets tp1]]
+
+
 4. **Réalisation des mesures en fin d'exposition (3 semaine plus tard (après les vacances)**
+
+<u>Comptage boite de pétri </u>
+/!\ Les sols utilisés peuvent contenir autre chose que les 30 graines qu'on a mis donc faut faire gaffe quand on comp
 
 5. **Analyse des résultats et interprétation (semaine 11 (vendredi 17/03) -> dépot sur moodle d'un rapport noté)**
 
