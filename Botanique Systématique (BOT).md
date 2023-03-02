@@ -680,6 +680,19 @@ Ex. Polypodium
 [diapo un sore = un amas de sporange]
 Un sore = un amas de sporanges
 
+[diapo différents types de protection des sporanges]
+
+[diapo salviniales : fougères aquatiques]
+2 types de feuilles: en surface chlorophyllienne, et aquatiques
+
+[diapo salvinia sp. (Filicophytes)]
+Sporocapres en réalité contiennent les sporanges,
+
+[diapo sporanges en microscopie photonique]
+
+[diapo fonctionnement de l'assise mécanique]
+
+[diapo germination d'une spore : déeloppement d'un jeune prothalle (n) par mitoses successives]
 
 
 
