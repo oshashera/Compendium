@@ -621,3 +621,47 @@ Au sein d'une même tige on peut observer un micro- et un mégasporange
 ![[Pasted image 20230302081737.png]]
 Particularité des sélaginelles c'est que les microspores vont germer et donner le protalle, le gamétophyte, qui va rester à l'intérieur de l'enveloppe de la spore.
 
+![[Pasted image 20230302082110.png]]
+
+CCl, les Sélaginelles:
+![[Pasted image 20230302082213.png]]
+Heteroprothalie pcq microspores donnent protalle mâle et méga donnent protalle femelle
+
+
+#### Le genre ISOETES 
+~200 espèces 
+Plantes inféodées aux lieux humides : aquatiques, semi-aquatiques ou aériennes.
+
+![[Pasted image 20230302082314.png]]
+
+![[Pasted image 20230302082448.png]]
+
+[récup diapos]
+
+Fougères épiphytes
+
+
+#### I- Le cormus
+
+
+
+
+
+
+
+
+
+
+
+### SPHENOPHYTES ou EQUISETOPHYTES (ou classe des SPHENOPSIDES) 
+- Dans la lignée évolutive des Trimérophytes (fossiles)
+![[Pasted image 20230302082634.png]]
+
+![[Pasted image 20230302082652.png]]
+
+#### 1 Genre : EQUISETUM sp. = Les Prêles soient 15 espèces
+- Microphylles vascularisées 
+- tige avec siphonostèle 
+- vraies racines avec actinostèle
+
+##### EQUISETUM ARVENSE La prêle des champs
