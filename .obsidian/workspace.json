@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
+                "file": "DIA TP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
+                "file": "DIA TP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
+                "file": "DIA TP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botanique Systématique (BOT).md"
+                "file": "DIA TP.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "f7d178f80c9095e5",
   "lastOpenFiles": [
+    "Botanique Systématique (BOT).md",
     "Anglais S6 on se fait ierch.md",
     "TP BCV.md",
     "BVD TD2 cdlamèrd.md",
@@ -186,7 +187,6 @@
     "To do List.md",
     "DIA TP.md",
     "Timeline Vacance Février.md",
-    "BCV.md",
-    "TP2 BOT - Hydrophytes.md"
+    "BCV.md"
   ]
 }

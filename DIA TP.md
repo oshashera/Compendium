@@ -174,6 +174,8 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 <u>Comptage boite de pétri </u>
 
 <mark style="background: #FF8500A6;">/!\</mark> *Les sols utilisés peuvent contenir autre chose que les 30 graines qu'on a mis donc faut faire gaffe quand on compte*
+7/10 germé controle
+10/30 germé contaminé
 
 Le tableau excel à 3 onglets :
 - consigne (comment présenter données pour chacun des tests)
