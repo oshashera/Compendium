@@ -643,6 +643,26 @@ Fougères épiphytes
 
 #### I- Le cormus
 
+##### - La tige
+
+[diapo sporophyte 2n de Polypodium vulgare]
+
+Fougère arborescente
+Pas de tissus secondaires (bois)
+-> stipe, pas tronc
+
+MEGAPHYLLES OU FRONDES
+
+fougères produisent des frondes correspondant à des mégaphylles a nervation ramifiée.
+
+[diapo préfoliaison circinée]
+Feuille va se développer en se déroulant.
+Attention ce n'est pas spécifique à ces fougères, y a aussi Angiospermes qui présentent ce développement.
+Du à différence de mitoses entre la partie externe, et interne (+ de mitose pour faire toute la courbure)
+
+[diapo fronde tripennée (ou tétrapennée) de fougère aigle]
+
+[diapo feuilles modifiées retenant l'eau (Hétérophyllie)]
 
 
 
