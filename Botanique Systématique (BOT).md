@@ -722,21 +722,14 @@ Décalage entre la production d'anthéridies et d'archégones
 A part qq exception, dans ce groupe on a isoprothallie
 
 [diapo eusporange et leptosporange]
+Eusporanges :seule les cellules en rouge (sauf celle formant le tapetum) subissent la méiose
 
 
 
+### Spermaphytes : plantes à graines
+
+(1) Gymnospermes (graine nue)
+(2) Angiospermes (graine protégée dans ovaire/ fruit(après fécondation)) => plantes à fleurs
 
 
 
-### SPHENOPHYTES ou EQUISETOPHYTES (ou classe des SPHENOPSIDES) 
-- Dans la lignée évolutive des Trimérophytes (fossiles)
-![[Pasted image 20230302082634.png]]
-
-![[Pasted image 20230302082652.png]]
-
-#### 1 Genre : EQUISETUM sp. = Les Prêles soient 15 espèces
-- Microphylles vascularisées 
-- tige avec siphonostèle 
-- vraies racines avec actinostèle
-
-##### EQUISETUM ARVENSE La prêle des champs
