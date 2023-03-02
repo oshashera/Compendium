@@ -694,7 +694,34 @@ Sporocapres en réalité contiennent les sporanges,
 
 [diapo germination d'une spore : déeloppement d'un jeune prothalle (n) par mitoses successives]
 
+[diapo face intérieure du prothalle]
 
+[coupe dans un prothalle observée au microscope photonique]
+
+[coupe dans un prothalle au niveau de 2 archégones]
+
+[anthéridies observées en microscopie photonique sur la face inférieure du prothalle]
+
+[diapo favorise la fécondation croisée]
+Décalage entre la production d'anthéridies et d'archégones 
+
+[les gamètes mâles nagent dans l'eau vers l'archégone et pénètrent par le col : zoidogamie]
+
+[gamète mâle ou anthérozoïde multiflagellé en M.E.B]
+
+[le zygote ...]
+
+[le sporophyte épuise le gamétophyte]
+
+[gamétophytes n / jeunes sporophytes (2n photo)]
+
+- 2 générations hétéromorphes : sporophytes et gamétophytes.
+- 2 phases : diploïde et haploïde
+- Isosporie
+- Isoprothallie
+A part qq exception, dans ce groupe on a isoprothallie
+
+[diapo eusporange et leptosporange]
 
 
 
