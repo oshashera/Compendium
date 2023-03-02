@@ -552,3 +552,30 @@ Chez *Pteris cretica* mise en place d'un **territoire cellulaire méristématiqu
 *procambium donne xylème et phloème*
 
 Evolution du **type de feuilles** au sein des "Ptéridophytes"
+
+
+### Lycophytes (ou classe des Lycopsides)
+
+![[Pasted image 20230302080346.png]]
+- Microphylles vascularisées (mais on sous-entend bien que la nervure n'est pas ramifiée (sinon vraie feuille))
+- Stèles type protostèle (dans tige et racines)
+- Anatomie axes aériens et axes souterrains similaires 
+- Rhizophores ("porte-racines") chez Sélaginelles
+
+#### Le genre LYCOPODIUM
+
+![[Pasted image 20230302080535.png]]
+Sporophyte = génération dominante
+
+![[Pasted image 20230302080603.png]]
+Tige érigée partant d'une tige souterraine
+
+![[Pasted image 20230302080635.png]]
+
+![[Pasted image 20230302080832.png]]
+On dit sporophylle mais on peut dire aussi microphylle
+
+![[Pasted image 20230302080903.png]]
+
+![[Pasted image 20230302080929.png]]
+Sporange constitué de plusieurs assises de
