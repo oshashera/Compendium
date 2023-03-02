@@ -731,5 +731,14 @@ Eusporanges :seule les cellules en rouge (sauf celle formant le tapetum) subisse
 (1) Gymnospermes (graine nue)
 (2) Angiospermes (graine protégée dans ovaire/ fruit(après fécondation)) => plantes à fleurs
 
+- **Ovule** (sporange femelle), **sacs polliniques** (sporanges mâles)
+- **Endoprothallie**
+- **Siphonogamie** : de la Zoïdogamie (cycadophytes - ginkgophytes à la siphonogamie)
+	- Fécondation indépendante du milieu liquide interne, transport des gamètes mâles se fait par:
+	- Germination du gamétophyte m (*pollen*) en un tube pollinique transporant 2 gamètes m non flagellés (*spermaties*) jusqu'au gamétophyte f (*endosperme*)
+- **Graine** : élément de dissémination des espèces
+- Eustèles
+- Cambium bifacial : Bois, Liber
+- Phellogène => périderme : Suber, Phelloderme
 
-
+chez angiospermes, gamétophytes femelle = sac embryonnaire
