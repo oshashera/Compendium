@@ -554,6 +554,16 @@ Chez *Pteris cretica* mise en place d'un **territoire cellulaire méristématiqu
 Evolution du **type de feuilles** au sein des "Ptéridophytes"
 
 
+
+
+
+
+
+
+
+![[Pasted image 20230302081221.png]]
+
+
 ### Lycophytes (ou classe des Lycopsides)
 
 ![[Pasted image 20230302080346.png]]
@@ -578,4 +588,36 @@ On dit sporophylle mais on peut dire aussi microphylle
 ![[Pasted image 20230302080903.png]]
 
 ![[Pasted image 20230302080929.png]]
-Sporange constitué de plusieurs assises de
+Sporange constitué de plusieurs assises de cellules, caractère trouvé chez les ptéridophytes (les premières) permet de différencier eusporangiées et les autres
+
+![[Pasted image 20230302081023.png]]
+
+![[Pasted image 20230302081159.png]]
+
+#### Le genre SELAGINELLA
+
+![[Pasted image 20230302081311.png]]
+
+![[Pasted image 20230302081322.png]]
+chaque élément est une microphylle
+
+![[Pasted image 20230302081341.png]]
+
+![[Pasted image 20230302081441.png]]
+
+![[Pasted image 20230302081450.png]]
+On voit les sporanges devenu plus important, on a les deux types de sporanges qui se développent, c'est une particularité des Selaginelles entre autres.
+Chez ptéridophytes on a généralement de la monosporie.
+
+![[Pasted image 20230302081558.png]]
+Au sein d'une même tige on peut observer un micro- et un mégasporange 
+- Microsporange produit plein de microspores
+- Mégaspore donne au max 4 mégaspores
+
+![[Pasted image 20230302081607.png]]
+
+![[Pasted image 20230302081715.png]]
+
+![[Pasted image 20230302081737.png]]
+Particularité des sélaginelles c'est que les microspores vont germer et donner le protalle, le gamétophyte, qui va rester à l'intérieur de l'enveloppe de la spore.
+
