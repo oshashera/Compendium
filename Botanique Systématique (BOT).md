@@ -664,6 +664,21 @@ Du à différence de mitoses entre la partie externe, et interne (+ de mitose po
 
 [diapo feuilles modifiées retenant l'eau (Hétérophyllie)]
 
+[diapo polypodium sp, Polypodiaceae, Ptérophytes]
+Polypode a un seul niveau de découpe
+
+[diapo cycle de polypodium]
+
+[diapo ct de tige de polypodium : dictyostèle]
+
+[diapo dictyostèle (faisceau conducteur, moelle, fenetres, faisceau, paragraphe à droite)]
+[diapo c.t. de racine de polypodium : actinostèle]
+
+#### II- Cycle de reproduction 
+
+Ex. Polypodium
+[diapo un sore = un amas de sporange]
+Un sore = un amas de sporanges
 
 
 
