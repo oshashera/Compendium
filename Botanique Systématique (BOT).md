@@ -467,9 +467,27 @@ Tout dans la capsule est 2n
 
 ![[Pasted image 20230305151206.png]]
 
+![[Pasted image 20230305151814.png]]
+![[Pasted image 20230305151827.png]]
+![[Pasted image 20230305151839.png]]
+![[Pasted image 20230305151856.png]]
+![[Pasted image 20230305151904.png]]
 
+**Une spore (n)** donne naissance à **un protonéma** qui engendre plusieurs tiges feuillées
+![[Pasted image 20230305151944.png]]
 
+![[Pasted image 20230305151953.png]]
 
+**Protonéma** et **tiges feuillées** constituent la génération **du GAMETOPHYTE (n)**
+*Rq: Pour une tige, certains auteurs parlent de GAMETOPHORE*
+![[Pasted image 20230305152047.png]]
+
+## b. Mousses Sphagnales
+
+#### b.1. Appareil végétatif : tige feuillée = gamétophyte (n)
+
+![[Pasted image 20230305152147.png]]
+![[Pasted image 20230305152302.png]]
 
 
 ## Trachéophytes = Polysporangiophytes 
