@@ -5,9 +5,11 @@
 [[TP3 BOT - Gymnospermes]]
 [[TP4 BOT - Trachéophytes (mais fougères quand même)]]
 
+____
 CC1 : TP1 à 4 (6 mars)
 CC2  : TP5 à 8 (12 avril)
 CC3 : 17/18 avril, sortie botanique puis cc
+____
 <br>
 
 Classification phylogénétique de la diversité des plantes/végétaux

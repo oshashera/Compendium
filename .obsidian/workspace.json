@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ab70f1b8c576835f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP4 BOT - Trachéophytes (mais fougères quand même).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4a3231fe6c10319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP3 BOT - Gymnospermes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e5f0e2a76fa599c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP2 BOT - Hydrophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7667d408d51ea52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP1 BOT - Xérophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ddaa8ba24479546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conventions dessins botanique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conventions dessins botanique.md",
+                "file": "Botanique Systématique (BOT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conventions dessins botanique.md",
+                "file": "Botanique Systématique (BOT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conventions dessins botanique.md"
+                "file": "Botanique Systématique (BOT).md"
               }
             }
           },
@@ -237,16 +176,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ddaa8ba24479546",
+  "active": "f7d178f80c9095e5",
   "lastOpenFiles": [
+    "TP4 BOT - Trachéophytes (mais fougères quand même).md",
+    "TP3 BOT - Gymnospermes.md",
+    "TP2 BOT - Hydrophytes.md",
+    "TP1 BOT - Xérophytes.md",
+    "Conventions dessins botanique.md",
     "Pasted image 20230305160955.png",
     "Pasted image 20230305160905.png",
     "Pasted image 20230305160846.png",
-    "Conventions dessins botanique.md",
-    "TP1 BOT - Xérophytes.md",
-    "TP2 BOT - Hydrophytes.md",
-    "TP3 BOT - Gymnospermes.md",
-    "TP4 BOT - Trachéophytes (mais fougères quand même).md",
     "Botanique Systématique (BOT).md",
     "Pasted image 20230305155240.png",
     "Pasted image 20230305155156.png",
@@ -255,7 +194,6 @@
     "Pasted image 20230305155011.png",
     "Pasted image 20230305154958.png",
     "Pasted image 20230305154918.png",
-    "Pasted image 20230305154847.png",
     "DIA TP.md",
     "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
     "Anglais S6 on se fait ierch.md",
