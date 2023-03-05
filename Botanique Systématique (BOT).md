@@ -364,7 +364,7 @@ _____
 ![[Pasted image 20230305145627.png]]
 ![[Pasted image 20230305145642.png]]
 
-#### a.1 Appareil végétatif : tige feuillée
+##### a.1 Appareil végétatif : tige feuillée
 
 ![[Pasted image 20230305145714.png]]
 ![[Pasted image 20230305145722.png]]
@@ -402,6 +402,7 @@ La tige feuillée chlorophyllienne, pérenne appartient à la génération du **
 
 
 ##### a.2. Reproduction sexuée de ce gamétophyte
+
 ![[Pasted image 20230305150225.png]]
 
 <mark style="background: #FF8500A6;">Gametophyte mâle</mark>
@@ -441,7 +442,7 @@ La fécondation nécessite la présence d'eau : c'est une **zoïdogamie**
 
 Après formation du zygote (2n), de nomreuses mitoses donnent naissance au **sporophyte (2n)** ou **sporogone**
 
-#### a.3 Appareil végétatif du sporogone
+##### a.3 Appareil végétatif du sporogone
 
 ![[Pasted image 20230305150942.png]]
 En grisé : l'archégone (plus particulièrement oosphère) fécondée.
@@ -483,11 +484,50 @@ Tout dans la capsule est 2n
 ![[Pasted image 20230305152047.png]]
 
 ## b. Mousses Sphagnales
+sphaignes (milieu acide)
 
 #### b.1. Appareil végétatif : tige feuillée = gamétophyte (n)
 
 ![[Pasted image 20230305152147.png]]
 ![[Pasted image 20230305152302.png]]
+![[Pasted image 20230305152313.png]]
+![[Pasted image 20230305152334.png]]
+![[Pasted image 20230305152355.png]]
+![[Pasted image 20230305152406.png]]
+![[Pasted image 20230305152416.png]]
+
+#### b.2. REPRODUCTION SEXUEE
+
+**La tige feuillée = GAMETOPHYTE (n)**
+![[Pasted image 20230305152446.png]]
+
+Après formation du zygote, de nombreuses mitoses donnent naissance au SPOROPHYTE ou SPOROGONE
+
+![[Pasted image 20230305152503.png]]
+![[Pasted image 20230305152509.png]]
+![[Pasted image 20230305152520.png]]
+![[Pasted image 20230305152534.png]]
+![[Pasted image 20230305152541.png]]
+
+## c. Mousses Andraeales
+Petites Mousses noires des rochers acides
+
+![[Pasted image 20230305152808.png]]
+<u><b>Gamétophyte :</b></u>
+- Tiges feuillées proches des Bryales mais sans faisceau axial 
+- Feuilles sans nervures
+
+![[Pasted image 20230305152826.png]]
+<b><u>Sporophyte très différent des Bryales</u></b> 
+- P**seudopode (n)** 
+- Capsule pourvue d’une soie mais qui reste très courte 
+- Capsule **sans** opercule et **sans** péristome, s’ouvrant par 4 à 6 fentes de déhiscences 
+- Spores très riches en réserves
+
+![[Pasted image 20230305153041.png]]
+![[Pasted image 20230305153050.png]]
+
+# I.4 - REPRODUCTION ASEXUEE
 
 
 ## Trachéophytes = Polysporangiophytes 
