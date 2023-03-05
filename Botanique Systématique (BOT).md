@@ -404,39 +404,46 @@ La tige feuillée chlorophyllienne, pérenne appartient à la génération du **
 ##### a.2. Reproduction sexuée de ce gamétophyte
 ![[Pasted image 20230305150225.png]]
 
-[diapo gamétophyte mâle]
+<mark style="background: #FF8500A6;">Gametophyte mâle</mark>
+![[Pasted image 20230305150341.png]]
 On peut observer à l'extémité des tiges des corbeilles à anthéridies (gamétanges mâles)
 
-[diapo c.l tige feuillée d'un gamétophyte mâle, tout est cellulosique (coloration différente)]
+![[Pasted image 20230305150410.png]]
+*ici coloration différente, tout est cellulosique*
 Paraphyse = éléments protégeant anthéridies
+![[Pasted image 20230305150524.png]]
 
-[diapo formation d'une anthéridie chez une mousse]
+
+![[Pasted image 20230305150626.png]]
 Certaines cell vont former une enveloppe pluricellulaire, et le reste à l'intérieur continue de se diviser pour former les gamètes mâles (anthérozoïdes).
 En haut de l'enveloppe se trouve une cellule appelée capuchon qui arrivé à maturité và s'enlever?
-[diapo différenciation des anthérozoïdes à partir des cellules spermatogènes]
+![[Pasted image 20230305150637.png]]
 paroi se désagrège à la fin
 
-[insérer les diapos]
+<mark style="background: #FF8500A6;">Gamétophyte femelle</mark>
 
-[diapo différenciation archégone]
+![[Pasted image 20230305150746.png]]
+
+![[Pasted image 20230305150756.png]]
 Cellules centrales vont se résorber, pour faire un canal rempli de mucilage
-[c.l. corbeille à archégones]
+![[Pasted image 20230305150809.png]]
 
 
 Chez certaines mousses dans la même corbeille on peut avoir anthéridies et archégones : hermaphorodites
+![[Pasted image 20230305150853.png]]
 Chez certaines au centre archégones et sur le tour des anthéridies : monoïque
 Chez la majorité des mousses on a une séparation de ces deux gamétanges sur deux pieds différents : dioïque
 
 
-[diapo]
+![[Pasted image 20230305150908.png]]
 La fécondation nécessite la présence d'eau : c'est une **zoïdogamie**
 
 
-Après formation du zygote (2n), de nomreuses mitoses donnent naissance au sporophyte (2n) ou sporogone
+Après formation du zygote (2n), de nomreuses mitoses donnent naissance au **sporophyte (2n)** ou **sporogone**
 
 #### a.3 Appareil végétatif du sporogone
 
-[diapo évolution de l'archégone fécondé et développement du sporophyte ou sporogone]
+![[Pasted image 20230305150942.png]]
 En grisé : l'archégone (plus particulièrement oosphère) fécondée.
 Les autres vont progressivement disparaitre
 Formation d'un embryon.
@@ -448,15 +455,18 @@ Ensuite la partie basale de la soie s'enfonce de plus en plus dans le gamétophy
 Tout dans la capsule est 2n
 
 
-Le sucoire s'enfonce dans la tige feuillée **mais il n'existe pas de plasmodesmes** entre les cellules des 2 générations.
-Les cellules du suçoir : paroi très épaisses avec des replis, dites **cellules de transfert**
-Les échanges se font au travers de sparois et les surfaces d'échange [récup diapo]
+![[Pasted image 20230305151014.png]]
 
 #### mousses bryales
-[diapo]
-en jaune haploide, vert diploide
+![[Pasted image 20230305151028.png]]
+*en jaune haploide, vert diploide*
 
-[diapo]
+#### a.4. REPRODUCTION SEXUEE du sporophyte (2n)
+
+![[Pasted image 20230305151155.png]]
+
+![[Pasted image 20230305151206.png]]
+
 
 
 
