@@ -323,3 +323,11 @@ culture, dilutions (en général d'un facteur 10) into comptage de colonies into
 #### 2- Mesure de la densité bactérienne
 
 densité optique avec le spectrophotomètre (on mesure le trouble du à la multiplication des cellules)
+
+[insérer cm laura 27/02]
+
+
+Fin contenu cc1
+____
+
+suite
