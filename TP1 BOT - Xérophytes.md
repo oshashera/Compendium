@@ -41,16 +41,8 @@ Distribution géographique
 
 ![[Tige poacée]]
 <br>
-[[Cf diapo "Ammophila arenaria, fam. poacées, cl monocot"]]
--> ligule bifide
-Feuilles vert grisâtres, pointues, à bords enroulés, 5 mm de large
-
-Panicule spiciforme, dense
-
-Epillet avec lemmes sans arêtes
-
-**Racines adventives**
-Rhizone horizontal
+![[Pasted image 20230305190635.png]]
++racines adventives
 
 
 | Mécanismes                   | Adaptation                                                      | Exemple                   |
