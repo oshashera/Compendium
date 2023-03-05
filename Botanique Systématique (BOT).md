@@ -352,8 +352,6 @@ Cylindrique, à très forte polarité de développement : la partie basale reste
 ![[Pasted image 20230205071838.png]]
 ![[Pasted image 20230205071845.png]]
 ![[Pasted image 20230205071859.png]]
-![[Pasted image 20230205071920.png]]
-
 _____
 [diapo polytric]
 Le polytric présente des tissus conducteurs centraux dans la tige et dans les nervures des feuilles **non lignifiés**
