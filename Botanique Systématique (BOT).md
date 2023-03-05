@@ -689,8 +689,8 @@ Les **microphylles** ont évolué à partir d’excroissances, appelées **énat
 Les **mégaphylles** ont évolué par fusion de groupes de rameaux. La feuille serait issue d’un **système d’axes foliarisés**.
 
 ![[Pasted image 20230305155240.png]]
+#### Mise en place de vraies racines
 
-####
 
 
 
