@@ -312,7 +312,7 @@ Cylindrique, à très forte polarité de développement : la partie basale reste
 ![[Pasted image 20230205071157.png]]
 *toujours caractériser le cycle : ici : digénétique, hétéromorphe (sporophyte n'a rien à voir morphologiquement avec le gamétophyte ; haplodiplophasique (n into 2n), isosporie (spores de même taille), ne produisent donc qu'un type de gamétophyte -> isoprothallie*
 
-### I.2 Hépatiques, Hépatichophytes ou Marchantiophytes
+### I.2 Hépatiques, Hépatophytes ou Marchantiophytes
 
 - Soit **talloïdes**, soit **feuillées**, le gamétophyte présente une **symétrie dorso-ventrale**
 - les feuilles sont souvent lobées ou découpées, **sans nervures** -> "feuilles" sont des phyllidies
@@ -462,7 +462,7 @@ Tout dans la capsule est 2n
 ![[Pasted image 20230305151028.png]]
 *en jaune haploide, vert diploide*
 
-#### a.4. REPRODUCTION SEXUEE du sporophyte (2n)
+##### a.4. REPRODUCTION SEXUEE du sporophyte (2n)
 
 ![[Pasted image 20230305151155.png]]
 
@@ -483,10 +483,10 @@ Tout dans la capsule est 2n
 *Rq: Pour une tige, certains auteurs parlent de GAMETOPHORE*
 ![[Pasted image 20230305152047.png]]
 
-## b. Mousses Sphagnales
+#### b. Mousses Sphagnales
 sphaignes (milieu acide)
 
-#### b.1. Appareil végétatif : tige feuillée = gamétophyte (n)
+##### b.1. Appareil végétatif : tige feuillée = gamétophyte (n)
 
 ![[Pasted image 20230305152147.png]]
 ![[Pasted image 20230305152302.png]]
@@ -496,7 +496,7 @@ sphaignes (milieu acide)
 ![[Pasted image 20230305152406.png]]
 ![[Pasted image 20230305152416.png]]
 
-#### b.2. REPRODUCTION SEXUEE
+##### b.2. REPRODUCTION SEXUEE
 
 **La tige feuillée = GAMETOPHYTE (n)**
 ![[Pasted image 20230305152446.png]]
@@ -509,7 +509,7 @@ Après formation du zygote, de nombreuses mitoses donnent naissance au SPOROPHYT
 ![[Pasted image 20230305152534.png]]
 ![[Pasted image 20230305152541.png]]
 
-## c. Mousses Andraeales
+#### c. Mousses Andraeales
 Petites Mousses noires des rochers acides
 
 ![[Pasted image 20230305152808.png]]
@@ -527,13 +527,26 @@ Petites Mousses noires des rochers acides
 ![[Pasted image 20230305153041.png]]
 ![[Pasted image 20230305153050.png]]
 
-# I.4 - REPRODUCTION ASEXUEE
+## I.4 - REPRODUCTION ASEXUEE
 
+### <mark style="background: #ABF7F7A6;">La multiplication végétative</mark>
+- **Fragmentation du gamétophyte** (souvent les parties les plus anciennes) 
+- n’importe quel organe du gamétophyte peut proliférer 
+- **Propagules**: massifs cellulaires produits sur les marges d’organes existants ou au sommet des axes
+![[Pasted image 20230305153509.png]]
+
+![[Pasted image 20230305153518.png]]
+
+![[Pasted image 20230305153531.png]]
+
+![[Pasted image 20230305153618.png]]
+
+___
 
 ## Trachéophytes = Polysporangiophytes 
 330 000 sp.
 
-[diapo arbre de ses morts]
+![[Pasted image 20230305154125.png]]
 
 #### Caractères communs
 
@@ -557,7 +570,7 @@ Petites Mousses noires des rochers acides
 - ~1200 sp. actuellement
 
 Les fougères s.l. un groupe paraphylétique
-[arbre du démon]
+![[Pasted image 20230305154151.png]]
 
 ##### Phylum des Lycophytes ou Lycopodiophytes (1340 sp.)
 - plantes herbacées, rampantes
@@ -569,14 +582,15 @@ Lycopodiales, Sélaginellales, Isoétales
 - PSYLOPHYTES (*Psilotum* et *Tmesipteris* : 2 genres tropicaux)
 - SPHENOPHYTES (*Equisetum* = les prêles)
 - PTERIDOPHYTES ou FILICOPHYTES (les fougères)
-[arbre du démon "phylogénie supposée des trachéophytes (dans simpson 2019)"]
 
 ##### Caractères communs 
 - Le **gamétophyte** (n) est **thalloïde** (petite lame chlorophyllienne pourvue de rhizoïdes) et transitoire.
 - Gamétophyte est indépendant du sporophyte (2n)
+![[Pasted image 20230305154242.png]]
+
 
 #### 1. L'origine des ptéridophytes
-[arbre du démon avec en bas à gauche un carré jaune taxon éteint]
+![[Pasted image 20230305154258.png]]
 
 ##### Phylum des rhyniophytes
 [diapo phylumm des rhyniophytes]
