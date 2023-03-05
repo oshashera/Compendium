@@ -593,18 +593,27 @@ Lycopodiales, Sélaginellales, Isoétales
 ![[Pasted image 20230305154258.png]]
 
 ##### Phylum des rhyniophytes
-[diapo phylumm des rhyniophytes]
+
+![[Pasted image 20230305154315.png]]
 On a trouvé des spores triotiques formés par la méiose
 Tige contenant des trachéides de xylème -> il devait être une plante vasculaire
-[mettre diapo]
+![[Pasted image 20230305154336.png]]
 
-[ct de tige montrant le cordon vasculaire + cuticule + stomate]
+![[Pasted image 20230305154349.png]]
+
+*Rhynia/Cooksonia* - type de plante qui semble avoir disparu et donné d’autres formes rapidement, rien ne leur ressemble actuellement.
+
 
 ##### Phylum des Zosterophytes
-[diapos]
+*entièrement fossile également*
+![[Pasted image 20230305154441.png]]
+![[Pasted image 20230305154451.png]]
+
 
 ##### Phylum des Trimerophytes
-[diapos]
+*là encore entièrement fossile*
+![[Pasted image 20230305154527.png]]
+![[Pasted image 20230305154547.png]]
 
 ##### Conclusion 
 - Les premières plantes vasculaires étaient constituées d'un système d'axes à **ramifications dichotomes**
@@ -613,7 +622,7 @@ Tige contenant des trachéides de xylème -> il devait être une plante vasculai
 
 #### 2. Un appareil végétatif adapté au port dressé et à la nutrition en milieu aérien
 
-[diapo croissance apicale de l'organe]
+![[Pasted image 20230305154608.png]]
 *cellule initiale en rouge*
 *différentiation/spécialisation, première différenciée formant le prooxylème*
 *dans les cellules plus agées la spécialisation va concerner des cellules plus grandes, avec lignification +importante (metaxylème)*
@@ -623,25 +632,27 @@ Des tissus conducteurs primaires mis en place à partir de cellules issues du **
 **Phloème I** = protophloème et métaphloème (éléments conducteurs : cellules criblées **sans** cellules compagnes)
 **Xylème I** = protoxylème et métaxylème (éléments conducteurs : Trachéides uniquement, à ponctuations scalariformes)
 
-[schéma poly tp3 éléments conducteurs du xylème]
+![[Pasted image 20230305154751.png]]
 
 Au cours de l'évolution, les tissu conducteurs **xylème** et **phloème** vont mettre en place 2 types de stèles
 La stèle est la zone ou on trouve les tissus conducteurs (plus tard appelée cylindre central)
 
 1. Stèles sans moelle axiale : Protostèles (le type le plus ancien)
-[récup diapo]
+![[Pasted image 20230305154835.png]]
 *de gauche à droite : plus agé au plus jeune*
 *sans moelle axiale car pas de tissus autre que vasculaires dans la stèle sauf le péricycle autour (qui appartient à la stèle*
 *endorerme formant l'écorce, on est bien dans l'organe tige*
 *actinostèle : fracture l'anneau de l'anneau de phloème : alternance entre xy et phlo.*
 
 2. Stèles avec moelle axiale : Siphonostèles
-[diapo]
+![[Pasted image 20230305154847.png]]
 fait suite à l'apparition des vraies feuilles
 **cylinde central** car formation faisceaux fibro-vasculaires
 
-Structures conductrices primaires
+![[Pasted image 20230305154918.png]]
 
+
+Structures conductrices primaires
 |   | Lycophytes et Monylophyte  | Gymnospermes Angiospermes |
 | ------ | -------------------------- | ------------------------- |
 | TIGE   | Protostèle ou Siphonostèle | Siphonostèle              |
@@ -654,24 +665,32 @@ Des tissus conducteurs secondaires mis en place à partir de cellules issues du 
 Mais seulement chez certaines **ptéridophytes fossiles**
 
 La croissance des **tiges** et des **racines** se fait par les divisions d'une **cellule apicale**
-[diapo]
+![[Pasted image 20230305154958.png]]
 *au stage 48 h on voit 2 cellules apicales qui sont a l'opposée l'une de l'autre*
 Les cloisonements de 2 cellules apicales seront à l'origine de la tige et de la racine
 - installation de la **bipolarité** de l'organisme.
-[diapo apex de rhizome de polypode]
+![[Pasted image 20230305155011.png]]
 
 Chez *Pteris cretica* mise en place d'un **territoire cellulaire méristématique** (ou massif cellulaire, pas juste une seule cellule) où chaque zone édifie une partie précise de l'organisme.
-[diapo]
+![[Pasted image 20230305155026.png]]
 *Zi = zone initiale*
 *procambium donne xylème et phloème*
 
 Evolution du **type de feuilles** au sein des "Ptéridophytes"
 
+##### (1) Des MICROPHYLLES
 
+![[Pasted image 20230305155117.png]]
+Les **microphylles** ont évolué à partir d’excroissances, appelées **énations** produites par **l’axe principal** de la plante.
 
+##### (2) les MEGAPHYLLES
 
+![[Pasted image 20230305155156.png]]
+Les **mégaphylles** ont évolué par fusion de groupes de rameaux. La feuille serait issue d’un **système d’axes foliarisés**.
 
+![[Pasted image 20230305155240.png]]
 
+####
 
 
 
