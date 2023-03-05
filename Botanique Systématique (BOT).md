@@ -1,4 +1,3 @@
-#s6 #bot 
 20h de cours, 15h TD, 14h TP, 6h excursion botanique
 <br>
 [[TP1 BOT - Xérophytes]]
@@ -353,22 +352,57 @@ Cylindrique, à très forte polarité de développement : la partie basale reste
 ![[Pasted image 20230205071845.png]]
 ![[Pasted image 20230205071859.png]]
 _____
-[diapo polytric]
+## I.3 - Les BRYOPHYTES s.s. ou Mousses
+
+- Plantes pouvant être pionnières : colonisatrices des substrats nus 
+- Stations fraîches et humides voire aquatiques (Fontinalis), Absentes en milieu marin 
+- Milieux à humidité très variable : **capacité de reviviscence**
+- Tourbières acides (Sphagnum)
+
+#### a. Mousses Bryales
+
+![[Pasted image 20230305145627.png]]
+![[Pasted image 20230305145642.png]]
+
+#### a.1 Appareil végétatif : tige feuillée
+
+![[Pasted image 20230305145714.png]]
+![[Pasted image 20230305145722.png]]
+![[Pasted image 20230305145732.png]]
+
+<b><u>Phyllotaxie des mousses</u></b>
+
+- Les « feuilles » chez les mousses et chez les Trachéophytes seraient apparues indépendamment et auraient été maintenues au cours de l’évolution des deux groupes.
+- Processus d’évolution convergente des formes 
+- Insertion spiralée des feuilles résulte **d’une seule cellule méristématique chez les mousses.**
+![[Pasted image 20230305145858.png]]
+![[Pasted image 20230305145912.png]]
+
+<b><u>Phyllotaxie chez les mousses</u></b> 
+
+- Possible rôle de l’auxine présente dans le méristème des mousses, véhiculée via les transporteurs membranaires PIN 
+-  Possible rôle des cytokinines qui réguleraient la prolifération cellulaire et l’amorce des tiges.
+
+![[Pasted image 20230305150028.png]]
+![[Pasted image 20230305150037.png]]
+![[Pasted image 20230305150047.png]]
+
+![[Pasted image 20230305150058.png]]
 Le polytric présente des tissus conducteurs centraux dans la tige et dans les nervures des feuilles **non lignifiés**
 
 Hydroïdes pas éléments du xylème puisque pas de lignification
 Tout autour un anneau de petites cellules cellulosiques assueant la circulation de la sève élaborée.
 
-[diapo suivante coupe de la soie ou pédicelle]
+![[Pasted image 20230305150122.png]]
 
-[diapo suivante]
+![[Pasted image 20230305150137.png]]
 Les rhizoïdes, constitués d'une **rangée de cellules** chez les mousses (permet de les caractériser par ailleurs), ancrent ces dernières dans le substrat.
 
-[diapo suivante texte]
+La tige feuillée chlorophyllienne, pérenne appartient à la génération du **GAMETOPHYTE (n)**
 
 
 ##### a.2. Reproduction sexuée de ce gamétophyte
-[diapo]
+![[Pasted image 20230305150225.png]]
 
 [diapo gamétophyte mâle]
 On peut observer à l'extémité des tiges des corbeilles à anthéridies (gamétanges mâles)
