@@ -157,7 +157,27 @@ Pour une même échelle, le cadastre donne une meilleur résolution, des éléme
 
 
 
+- [ ] Analyse de documents et d'études se rapportant au territoire
+- Observatoires photos
+- Documents historiques anciens
 
+- [ ] Observation directe de terrain
+- Techniques de collectes des données sur la nature des éléments à cartographier
+	- Parcours exhaustif
+	- Echantillonage d'une zone et extrapolation des informations
+
+#### 2.3 La restitution
+
+- [ ] La mise en forme des données
+	- Nb d'information à mettre sur une carte
+
+- [ ] La symbologie
+	- Les couleurs
+	- Les symboles
+
+- [ ] L'échelle 
+- Rapport qui existe entre la carte et la réalité
+- Peut être
 
 
 
