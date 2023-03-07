@@ -203,9 +203,31 @@ Pour une même échelle, le cadastre donne une meilleur résolution, des éléme
 - Enjeux évalués aussi à une échelle plus importante
 
 *Exemple: établissement d'un plan de gestion*
+[diapoS]
+
+Dans l'idée faut faire plusieurs cartes pour montrer différents trucs
+
+### 5. Vers l'utilisation des SIG
+
+- [ ] **Définition**
+Système d'information géographique : outil informatique de représentation et d'analyse de données géograpiques référencées
+
+- [ ] **Utilisations**
+- Gérer des informations de tous types
+- Mise à jour et interrogations de ces informations sur la base de critères spatiaux ou non
+- Appliquer des règles de topologie pour générer de nouvelles couches d'information
+
+### 6. Présentation du site d'étude
+
+##### Les prairies st martin
+
 [diapo]
 
+##### Réalisation d'un parc naturel urbain
+-> Développement des vocations sociales et récréatives
+-> Mise en oeuvre de la trame verte bleue du projet urbain rennais
 
+[diapo évolution du paysage des prairies]
 
 
 
