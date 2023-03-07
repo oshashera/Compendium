@@ -98,4 +98,37 @@ Avantage radar: passe à travers le nuages
 - [ ] La photo-interprétation
 - Processus d'étude et de collecte des renseignements requis pour identifier les diverses entités anthropiques et naturelles.
 - Le plus souvent à partir des photographies aériennes (le plus simple pour commencer)
-- Plusieurs ci
+- Plusieurs critères permettant d'identifier les éléments paysagers
+- Se baser aussi sur des interprétations de terrain, pour être à jour.
+
+
+**La forme**
+[diapo photo]
+- Des formes régulières et univormes indiquent souvent une contribution de l'homme.
+
+**Le motif**
+[idem]
+- Disposition des objets dans l'espace (ex: cultures en rang par opposition à un pré)
+- Ex d'informations qui en découlent : nature des objets et de leur usages
+
+**La taille**
+[idem]
+- Utilisé pour comparer différents éléments
+
+**La tonalité / la couleur**
+[idem]
+- Caractéristiques colorimétriques des objets selon leur nature.
+
+**L'ombre**
+[idem]
+- Information sur la hauteur, la forme et l'orientation de l'objet qui la porte (ex: espèces d'arbres, distinctions talus vs fossé)
+
+**La texture**
+[idem]
+- Caractéristiques physiques d'un objet (ex: de l'eau calme a une texture lisse, un couvert forestier a une texture rugueuse)
+
+**L'association d'éléments**
+- Le fait d'associer la présence d'un objet avec un autre peut aider à identifier un objet (ex: un alignement d'arbre avec un cours d'eau, un plan d'eau de petite taille avec une route)
+
+**Le temps**
+*Ex: détection des prairies permanentes*

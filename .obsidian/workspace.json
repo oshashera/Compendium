@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7d178f80c9095e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP4 BOT - Trachéophytes (mais fougères quand même).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "722fe3ee740e5e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TP1 BOT - Xérophytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3148e3b95d59cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c582baa0ebc375da",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
