@@ -60,4 +60,42 @@ Les informations sont référencées dans l'espace
 
 *Exemple : typologie réalisée sur les haies - Breizh bocage*
 - Typologie basée sur la structure linéaire du bocage et son mode d'implantation
-[]
+[schéma diapo]
+- Structure en 3 strates
+[diapo]
+
+[diapo clés de détermination de l'implantation et du niveau des strates]
+
+*Exemple: typologie réalisée sur les haies*
+Evaluation de la capacité d'accueil vis-à-vis de la faune sauvage du réseau bocager de l'ouest de la France (Direction des Etudes et de la Recherche, ONCFS)
+[récup diapo]
+
+#### 2.3 Le mode d'aquisition des données
+
+- [ ] Les outiles de télédétection
+
+**Définition**
+- Technique qui, par l'aquisition d'images, permet d'obtenir de l'information sur la surface de la Terre sans contact direct avec celle-ci.
+- Processus qui constiste à capter et à enregistrer l'énergie d'un rayonnement électromagnétique émis ou réfléchi, à traiter et à analyser l'information, pour ensuite mettre en implication cette information.
+
+Classification automatisée d'images:
+- Principales "images" utilisées
+	- Radar
+	- Satellite
+	- Aéroportée
+	- LIDAR (LIght Detection And Ranging)
+
+Notion de résolution spatiale : ex images issues de stalellites:
+- 250m/30m/10m/3m/0,5m/0,3m résolution
+[récup diapo]
+On utilise souvent sentinel-2 (10m) et parfois pléiades (0,5)
+
+*Ex de classification automatisée d'images radar*
+[diapo]
+-> ici la couleur marque l'altitude
+Avantage radar: passe à travers le nuages
+
+- [ ] La photo-interprétation
+- Processus d'étude et de collecte des renseignements requis pour identifier les diverses entités anthropiques et naturelles.
+- Le plus souvent à partir des photographies aériennes (le plus simple pour commencer)
+- Plusieurs ci
