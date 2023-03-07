@@ -241,9 +241,12 @@ Système d'information géographique : outil informatique de représentation et 
 #### A faire pour la sortie cartographie
 
 - [ ] Appropriation des fonds de carte existant sur la zone
+
 - [ ] Planification de la cartographie sur le territoire d'étude
 - Déterminer les informations d'intérêts à cartographier
-- 
+- Déterminer les typologie(s) utilisée(s) pour chacun des types d'informations
+
+- [ ] Réalisation des documents de terrain
 
 
 
