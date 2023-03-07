@@ -32,3 +32,32 @@ Les informations sont référencées dans l'espace
 - [ ] Typologie au cas apr cas à définir en fonction de :
 - processus biologique étudié
 - finesse d'étude recherchée
+- contraintes techniques
+
+##### Les points communs de ces typologies
+
+- [ ] Souvent hierarchisées
+- Ex: typologie de l'occupation du sol
+[diapo arbre à choix]
+
+- [ ] Utilisation souvent au niveau d'un même niveau hierarchique
+
+*Exemple: les typologies "habitats naturels"*
+- Directive habitats, constitution du réseau Natura 2000
+- Corine biotopes : publiée officiellement en 1991 (Europe de l'Ouest), 1993 (europe entière):
+	- Référentiel européen des habitats natuels servant de référence dans de nombreux travaux de gestion des milieux naturels
+	- Uniquement habitats terrestres
+	- QUelques lacunes et incohérences
+
+- Eunis : remplace corine biotope (on en a une sur le polycopié)
+	- Tous habitats: naturels à artificiels, terrestres et aquatiques (dulcicoles et marins)
+	[récup dernier tiret]
+
+
+*Là on a une diapo avec photo et on doit déterminer avec EUNIS dans quel typo ca tombe* :
+-> J
+-> on cherche dans J : J 4.2 
+
+*Exemple : typologie réalisée sur les haies - Breizh bocage*
+- Typologie basée sur la structure linéaire du bocage et son mode d'implantation
+[]
