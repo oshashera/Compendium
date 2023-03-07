@@ -177,7 +177,33 @@ Pour une même échelle, le cadastre donne une meilleur résolution, des éléme
 
 - [ ] L'échelle 
 - Rapport qui existe entre la carte et la réalité
-- Peut être
+- Peut être exprimée par une fraction (1/X)
+- Grande échelle (= petit territoire)/ Petite échelle (=grand territoire)
+
+- [ ] La légende
+- Liste de tout ce qui y est représenté. Ces éléments sont regroupés en plusieurs catégories, ce qui facilité leur identification
+- Légende catégorielle / quantitative / toponymique (1 symbole/nom de ville par exemple mais c'est rarement utilisé en diag éco)
+
+### 3. 
+[récup titre]
+
+- [ ] Le système d'orientation
+- Flèche du Nord à minima, ou rosace.
+
+
+### 4 : comment se servir des cartographies dans le diagnostic écologique?
+
+- [ ] Confronter à une situation de référence
+- Situation historique (ex du programme Breizh bocage)
+- Normes réglementaires (ex de la qualité de l'eau)
+- Critère biologique
+
+- [ ] Mettre en avant les zones à enjeux écologiques
+- Enjeux locaux (sp rare/protégée, habitats rares/protégés)
+- Enjeux évalués aussi à une échelle plus importante
+
+*Exemple: établissement d'un plan de gestion*
+[diapo]
 
 
 
