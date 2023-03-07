@@ -228,7 +228,22 @@ Système d'information géographique : outil informatique de représentation et 
 -> Mise en oeuvre de la trame verte bleue du projet urbain rennais
 
 [diapo évolution du paysage des prairies]
+[diapo timeline]
 
+**Les contraintes**
+- Le caractère inondable: zone classée en zone d'expansion des crues par le Plan de prévention des risques d'inondation
+- La pollution des sols: pollution au métaux lourds (notamment au plomb Pb)
+- La proximité de la ville dense
+
+[diapo carte]
+
+
+#### A faire pour la sortie cartographie
+
+- [ ] Appropriation des fonds de carte existant sur la zone
+- [ ] Planification de la cartographie sur le territoire d'étude
+- Déterminer les informations d'intérêts à cartographier
+- 
 
 
 
