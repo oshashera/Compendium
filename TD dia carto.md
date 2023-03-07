@@ -146,10 +146,34 @@ Avantage radar: passe à travers le nuages
 Pour une même échelle, le cadastre donne une meilleur résolution/de meilleurs détails, mais la photographie aériennes permet d'identifier plus rapidement les éléments selon leur nature (notamment la couleur)
 
 **Q3: Donner un exemple pour chacun des critères utilisés pour la photointerprétation**(photo aériennes):
-- Forme : lotissement en spirale
-- Motif : 
-- Taille : compairaison : péniche même taille 
+- Forme : lotissement en spirale, stade
+- Motif : cour vs cimetierre
+- Taille : comparaison : péniche même taille 
 - Couleur : champs et pré
 - Ombre: hauteur batiment
 - Texture : forêt vs rivière
-- Association d'éléments: échangeur de ses morts
+- Association d'éléments: carré bleu a coté maison = piscine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____
+- geoportail, ign, pour voir en ligne
+- pour dl, 2 possibilité : lien à rentrer dans QGIS (wfs ou wcs), soit tu les télécharge, ca peut prendre bcp de place, photo, ou sous forme de vecteurs (plus léger, moins de détails, genre axes routiers, bocage), site de l'IGN, data.gouv (mais faut chercher)
+___
