@@ -131,4 +131,25 @@ Avantage radar: passe à travers le nuages
 - Le fait d'associer la présence d'un objet avec un autre peut aider à identifier un objet (ex: un alignement d'arbre avec un cours d'eau, un plan d'eau de petite taille avec une route)
 
 **Le temps**
+- Utilisation de séries temporelles
+
 *Ex: détection des prairies permanentes*
+[diapo]
+
+
+***Exercice***
+**Q1: Quels sont les impacts du changement d'échelle**
+-Une plus petite échelle permet de mieux rendre compte des détails.
+-Une plus grande échelle permet de recontextualiser dans un paysage.
+
+**Q2: Qu'apporte chacun des fonds de carte (cadastre/photo aériennes)**
+
+
+**Q3: Donner un exemple pour chacun des critères utilisés pour la photointerprétation**(photo aériennes):
+- Forme
+- Motif
+- Taille
+- Couleur
+- Ombre
+- Texture
+- Association d'éléments
