@@ -138,15 +138,16 @@ Avantage radar: passe à travers le nuages
 
 
 ***Exercice***
+
 **Q1: Quels sont les impacts du changement d'échelle**
 -Une plus petite échelle permet de mieux rendre compte des détails.
 -Une plus grande échelle permet de recontextualiser dans un paysage.
 
 **Q2: Qu'apporte chacun des fonds de carte (cadastre/photo aériennes)**
-Pour une même échelle, le cadastre donne une meilleur résolution/de meilleurs détails, mais la photographie aériennes permet d'identifier plus rapidement les éléments selon leur nature (notamment la couleur)
+Pour une même échelle, le cadastre donne une meilleur résolution, des éléments de contexte, donne des indices sur la gestion de l'habitat (donne les parcelle nettement), mais la photographie aériennes permet d'identifier plus rapidement les éléments selon leur nature (notamment la couleur) et donne plus de détails.
 
 **Q3: Donner un exemple pour chacun des critères utilisés pour la photointerprétation**(photo aériennes):
-- Forme : lotissement en spirale, stade
+- Forme : lotissement/quartier en spirale (années 70), stade
 - Motif : cour vs cimetierre
 - Taille : comparaison : péniche même taille 
 - Couleur : champs et pré
@@ -174,6 +175,7 @@ Pour une même échelle, le cadastre donne une meilleur résolution/de meilleurs
 
 
 ____
+**Pour avoir fond de carte**
 - geoportail, ign, pour voir en ligne
 - pour dl, 2 possibilité : lien à rentrer dans QGIS (wfs ou wcs), soit tu les télécharge, ca peut prendre bcp de place, photo, ou sous forme de vecteurs (plus léger, moins de détails, genre axes routiers, bocage), site de l'IGN, data.gouv (mais faut chercher)
 ___
