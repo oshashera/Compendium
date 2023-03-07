@@ -143,13 +143,13 @@ Avantage radar: passe à travers le nuages
 -Une plus grande échelle permet de recontextualiser dans un paysage.
 
 **Q2: Qu'apporte chacun des fonds de carte (cadastre/photo aériennes)**
-
+Pour une même échelle, le cadastre donne une meilleur résolution/de meilleurs détails, mais la photographie aériennes permet d'identifier plus rapidement les éléments selon leur nature (notamment la couleur)
 
 **Q3: Donner un exemple pour chacun des critères utilisés pour la photointerprétation**(photo aériennes):
-- Forme
-- Motif
-- Taille
-- Couleur
-- Ombre
-- Texture
-- Association d'éléments
+- Forme : lotissement en spirale
+- Motif : 
+- Taille : compairaison : péniche même taille 
+- Couleur : champs et pré
+- Ombre: hauteur batiment
+- Texture : forêt vs rivière
+- Association d'éléments: échangeur de ses morts
