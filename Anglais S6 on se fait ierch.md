@@ -67,10 +67,14 @@ Would it be possible for both farmers and industrial representatives and consume
 **How can we reduce and optimize the usage of GMOs in agriculture?**
 
 <u>Roles :</u>
-- industrials
-- farmers
-- consumers
-- mediators
+- industrials (*against*)
+- farmers (small one) (*for, better, durable but still it's hard to do*)
+- consumers (*some for, some against*) -> 2
+- scientists (geneticians)
+
+- mediators 
+
+
 
 Direct question:
 - How does my cat sweat?
