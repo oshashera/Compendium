@@ -12,7 +12,8 @@
     "Grey": "#CACFD9A6",
     "Bleu": "#1553D0A6",
     "vert": "#09B609A6",
-    "Orange": "#FF8500A6"
+    "Orange": "#FF8500A6",
+    "jaune": "#E3CA26A6"
   },
   "highlighterOrder": [
     "Pink",
@@ -25,6 +26,7 @@
     "Grey",
     "Bleu",
     "vert",
-    "Orange"
+    "Orange",
+    "jaune"
   ]
 }
