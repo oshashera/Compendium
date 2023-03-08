@@ -70,9 +70,9 @@ Would it be possible for both farmers and industrial representatives and consume
 - industrials (*against*)
 - farmers (small one) (*for, better, durable but still it's hard to do*)
 - consumers (*some for, some against*) -> 2
-- scientists (geneticians)
+- scientists (geneticians, *for, "we can use it for the greater good"*)
 
-- mediators 
+- mediators (us)
 
 
 
