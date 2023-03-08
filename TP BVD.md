@@ -8,7 +8,9 @@ TP expérimentalement réalisé en séance 1, et la lecture sera réalisée en s
 Tlm A et B soit en liquide, soit en solide (nous on l'a sur boite de pétri, solide).
 On va devoir noter les critères d'identification.
 Observations macroscopique, microscopique et test biochimiques pour faire l'identification.
-- Aspects colonies (forme, couleurs).
+- [ ] Aspects colonies (forme, couleurs).
+- A -> 2mm (colonie moyenne), beige/jaunatre, translucide/opaque, bord lisse-colonie bombée
+- B -> 1mm (colo)
 - test oxylase
 - test catalase
 - HLF page 3 (voie d'attaque du glucose) -> 6 goutte en fait on met 100 mL, puis on laisse prendre en masse. Jaune pr pH acide, bleu pour basique, vert pour neutre.
