@@ -96,3 +96,6 @@ Why did the british colonize half of the world for spice when their food is blan
 Will science save us from our impeding demise?
 
 Does god exist?
+
+What is climate change? How does it work?
+
