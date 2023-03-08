@@ -72,3 +72,16 @@ Would it be possible for both farmers and industrial representatives and consume
 - consumers
 - mediators
 
+Direct question:
+- How does my cat sweat?
+- Is there a cure for hangovers?
+Indirect question
+- I was wondering how my cat sweat**s**
+- Can you tell me **if** there **is** a cure for hangovers? / Can you tell me **whether** there **is** a cure for hangover? / Can you tell me **what** the cure for hangover **is**?
+
+**Indirect style questions**
+Can/Could you tell me
+Do you know
+I was wondering
+I'd like to know if
+
