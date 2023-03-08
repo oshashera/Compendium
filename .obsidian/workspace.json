@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e4559da61e18bc47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anglais S6 on se fait ierch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "045ef3072b04d2a3",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,9 +191,10 @@
   },
   "active": "045ef3072b04d2a3",
   "lastOpenFiles": [
-    "Anglais S6 on se fait ierch.md",
+    "DIA TP.md",
     "TP BVD.md",
     "TD dia carto.md",
+    "Anglais S6 on se fait ierch.md",
     "Bactérie, Virus, Défense (BVD).md",
     "TP1 BOT - Xérophytes.md",
     "Pasted image 20230305190635.png",
@@ -223,7 +212,6 @@
     "Pasted image 20230305155026.png",
     "Pasted image 20230305155011.png",
     "Pasted image 20230305154958.png",
-    "DIA TP.md",
     "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
     "TP BCV.md",
     "BVD TD2 cdlamèrd.md",
