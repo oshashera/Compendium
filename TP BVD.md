@@ -8,19 +8,37 @@ TP expérimentalement réalisé en séance 1, et la lecture sera réalisée en s
 Tlm A et B soit en liquide, soit en solide (nous on l'a sur boite de pétri, solide).
 On va devoir noter les critères d'identification.
 Observations macroscopique, microscopique et test biochimiques pour faire l'identification.
-- [ ] Aspects colonies (forme, couleurs).
+___
+- [ ] <mark style="background: #BBFABBA6;">Aspects colonies (forme, couleurs).</mark>
 - A -> 2mm (colonie moyenne), beige/jaunatre, translucide/opaque, bord lisse-colonie bombée
-- B -> 1mm (colo)
-- test oxylase
-- test catalase
-- HLF page 3 (voie d'attaque du glucose) -> 6 goutte en fait on met 100 mL, puis on laisse prendre en masse. Jaune pr pH acide, bleu pour basique, vert pour neutre.
-- GRAM
-- Test respiratoire. (gradient d'oxygène dans le tube, on dépose A ou B sur tt la hauteur, puis mettre au froid pour solidifier et ensuire on laisse grandire pour voir ou elles se dev).
-- Pour la souche A tt ces critères nous permettront d'aller au niveau de la famille, pour aller plus loin on ajoutera une galerie API pour faire les test biochimiques
-
+- B -> 1mm (colonie petite), jaune vif, opaque, bord lisse-colonie bombée
+___
+- [ ] <mark style="background: #BBFABBA6;">GRAM</mark>
+- A = GRAM **-**
+- B = GRAM **+**
+___
+- [ ] <mark style="background: #BBFABBA6;">test oxylase</mark>
+- A = oxydase **-**
+- B = oxydase **-**
+___
+- [ ] <mark style="background: #BBFABBA6;">test catalase</mark>
+- A = catalase **-**
+- B = catalase **+**
+___
+- [ ] HLF page 3 (voie d'attaque du glucose) -> 6 goutte en fait on met 100 mL, puis on laisse prendre en masse. Jaune pr pH acide, bleu pour basique, vert pour neutre.
+- A
+- B
+___
+- [ ] Test respiratoire. (gradient d'oxygène dans le tube, on dépose A ou B sur tt la hauteur, puis mettre au froid pour solidifier et ensuire on laisse grandire pour voir ou elles se dev).
+- A
+- B
+___
+- [ ] Pour la souche A tt ces critères nous permettront d'aller au niveau de la famille, pour aller plus loin on ajoutera une galerie API pour faire les test biochimiques
 -> on pourra remplir le tableau page 11 avec +/- et on aura un nombre, rapporté au catalogue API permettra d'identifier l'espèce bactérienne identifiée.
-
-- Antibiogramme nous on fait sur la **Bactérie A**
+- A
+- B
+___
+- [ ] Antibiogramme nous on fait sur la **Bactérie A**
 
 
 
