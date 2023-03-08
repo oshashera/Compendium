@@ -85,3 +85,14 @@ Do you know
 I was wondering
 I'd like to know if
 
+Why is it raining?
+Because the coulds are depressives;
+
+Why are we alive?
+It was all a terrible mistake.
+
+Why did the british colonize half of the world for spice when their food is bland?
+
+Will science save us from our impeding demise?
+
+Does god exist?
