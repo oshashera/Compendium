@@ -56,7 +56,7 @@ ____
 -----
 
 The evaluation:
-- You will prepare and take part in a 30 min scientific debate as part of your final evaluation.
+- You will prepare and take part in a 30-40 min scientific debate as part of your final evaluation.
 - Subject - your choice. BUT scientifically themed.
 - Assign yourself roles, and roles for groups of 4 in the class.
 - You can include a short video to bring everyone up to speed on the subject.
