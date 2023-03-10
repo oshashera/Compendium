@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d5b22eac5ccf6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ressources à exploiter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convention de stage.md",
+                "file": "Ressources à exploiter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convention de stage.md",
+                "file": "Ressources à exploiter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convention de stage.md"
+                "file": "Ressources à exploiter.md"
               }
             }
           },
@@ -201,8 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c25816d9694b4d5",
+  "active": "2d5b22eac5ccf6f1",
   "lastOpenFiles": [
+    "Convention de stage.md",
+    "Ressources à exploiter.md",
     "Pasted image 20230310084455.png",
     "Pasted image 20230310084437.png",
     "Pasted image 20230310084428.png",
@@ -213,8 +227,6 @@
     "Pasted image 20230310084109.png",
     "Pasted image 20230310084022.png",
     "Pasted image 20230310083650.png",
-    "Pasted image 20230310083553.png",
-    "Convention de stage.md",
     "TP BVD.md",
     "DIA TP.md",
     "TD dia carto.md",

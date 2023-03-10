@@ -36,7 +36,7 @@ Le format ressemble a ca:
 - Pour le type de stage: seul le stage "conseillé" semble pertinent car le stage n'est ni obligatoire, ni d'une année de césure:
 - ![[Pasted image 20230310082651.png]]
 
-- Pour la thématique de stage, dois-je prendre : Biologie / Agro-alimentaire / Environnement ou bien Sciences de la terre?
+- Pour la thématique de stage, dois-je prendre : Biologie / Agro-alimentaire / Environnement?
 - ![[Pasted image 20230310082734.png]] ![[Pasted image 20230310082801.png]]
 
 - Du reste, il me faudra des indications pour remplir les cases "Sujet", "Fonction et taches", "Compétences (à aquérir/développer au cours du stage)", et d'éventuels détails.
