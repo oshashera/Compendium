@@ -35,12 +35,44 @@ Le format ressemble a ca:
 
 Ensuite, il me faudra également:
 ![[Pasted image 20230310082547.png]]
+![[Pasted image 20230310083407.png]]
 - La confirmation des dates de stage
 - La durée effective en nombre d'heure
 - Je présume que je suis en temps complet / 5j hebdomadaire et 35, mais si je me trompe corrigez moi.
 - Le nombre de jour de congés durant le stage (2 ou 2,5 de souvenir?)
 - Dans le commentaire (facultatif me semble-t-il) on peut également indiquer les horaires.
 
-- Pour la gratification, je coche l'option ""
+- Pour la gratification, je coche l'option "oui" : il me faut alors
+	- Le montant (en net/brut par heure ou mois)
+	- La modalité de versement : chèque, virement banquaire ou espèces ( a priori virement?)
 
+
+Enfin il va me falloir les indications suivantes:
 ![[Pasted image 20230310082557.png]]
+- Nature du travail à fournir suite au stage:
+- ![[Pasted image 20230310083536.png]] ![[Pasted image 20230310083553.png]]
+(je vais remplir la case avec l'option " " vide puisque je n'ai rien à rendre?)
+
+- Modalité de validation du stage:
+- ![[Pasted image 20230310083650.png]]
+*je présume que je dois aussi prendre l'option vide?*
+- Les modalités de suivi, avantages et présences spéciales sont facultatif.
+
+Ce qui donne une fois rempli, le formulaire récapitulatif suivant : 
+![[Pasted image 20230310084022.png]]
+
+___
+
+# Enseignant référent
+
+![[Pasted image 20230310084109.png]]
+*je dois encore avoir son accord mais c'est pour l'exemple*
+
+___
+
+# Signataire
+
+![[Pasted image 20230310084152.png]]
+
+Je dois alors sélectionner un service (MVI sélectionné par défaut, est-ce correct?), et un signataire (il n'y a que le tuteur de stage (M.Rolland par défaut) de mentionné mais je peux mettre quelqu'un d'autre si nécessaire):
+![[Pasted image 20230310084257.png]]
