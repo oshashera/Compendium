@@ -95,3 +95,14 @@ Et enfin voici un récapitulatif-type
 ![[Pasted image 20230310084437.png]]
 ![[Pasted image 20230310084455.png]]
 
+___
+
+# Ajouts
+
+Un document de consignes nous a été fourni également sur l'ENT et nous certaines indications sont importantes/intéressantes :
+![[Pasted image 20230310090935.png]]
+![[Pasted image 20230310090940.png]]
+![[Pasted image 20230310090957.png]]
+![[Pasted image 20230310091012.png]]
+*il faudra donc me fournir une **"attestation de stage"** en plus* 
+

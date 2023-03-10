@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2d5b22eac5ccf6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ressources à exploiter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources à exploiter.md",
+                "file": "Convention de stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources à exploiter.md",
+                "file": "Convention de stage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressources à exploiter.md"
+                "file": "Convention de stage.md"
               }
             }
           },
@@ -213,10 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d5b22eac5ccf6f1",
+  "active": "4c25816d9694b4d5",
   "lastOpenFiles": [
-    "Convention de stage.md",
+    "Pasted image 20230310091012.png",
+    "Pasted image 20230310090957.png",
+    "Pasted image 20230310090940.png",
+    "Pasted image 20230310090935.png",
     "Ressources à exploiter.md",
+    "Convention de stage.md",
     "Pasted image 20230310084455.png",
     "Pasted image 20230310084437.png",
     "Pasted image 20230310084428.png",
@@ -224,9 +216,6 @@
     "Pasted image 20230310084320.png",
     "Pasted image 20230310084257.png",
     "Pasted image 20230310084152.png",
-    "Pasted image 20230310084109.png",
-    "Pasted image 20230310084022.png",
-    "Pasted image 20230310083650.png",
     "TP BVD.md",
     "DIA TP.md",
     "TD dia carto.md",
