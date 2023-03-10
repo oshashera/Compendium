@@ -1,3 +1,12 @@
+Bonjour Monsieur, Madame
+
+Après avoir confirmé avec l'administration de la fac, il se trouve que la convention de stage ne peut être rempli que **numériquement** (on arrêt pas le progrès décidément =/ ) avec un outil accessible directement depuis notre ENT.
+
+Par conséquent je me suis permis de faire un test de création afin de connaître toutes les infos nécessaires.
+Voici donc un document récapitulant les infos demandées (avec captures d'écran), vous permettant de mes communiquer les éléments nécessaires à la création de cette convention.
+
+
+
 
 # Données étudiant
 ![[Pasted image 20230310082050.png]]
@@ -76,3 +85,13 @@ ___
 
 Je dois alors sélectionner un service (MVI sélectionné par défaut, est-ce correct?), et un signataire (il n'y a que le tuteur de stage (M.Rolland par défaut) de mentionné mais je peux mettre quelqu'un d'autre si nécessaire):
 ![[Pasted image 20230310084257.png]]
+
+![[Pasted image 20230310084320.png]]
+____
+
+Et enfin voici un récapitulatif-type
+
+![[Pasted image 20230310084428.png]]
+![[Pasted image 20230310084437.png]]
+![[Pasted image 20230310084455.png]]
+
