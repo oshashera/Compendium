@@ -193,3 +193,12 @@ MAIS, gamme de température, pH voir de pression partielle en O2 dans laquelle e
 
 
 Q3:
+Au centre du foin, pas d'augmentation du ph, pas d'augmentation/croissance de la bactérie car pas le bon ph
+Sur les bords,pression partielle O2 augmente, pH augmente et donc croissance bactérienne aussi.
+
+
+Q4: dangereuse, pathogène.
+
+
+
+EX 9
