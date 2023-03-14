@@ -32,15 +32,11 @@
             }
           },
           {
-            "id": "4c25816d9694b4d5",
+            "id": "3fecc5c43ed7e522",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Convention de stage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -111,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convention de stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convention de stage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Convention de stage.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,11 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c25816d9694b4d5",
+  "active": "3fecc5c43ed7e522",
   "lastOpenFiles": [
     "TP BCV.md",
-    "TP BVD.md",
     "Convention de stage.md",
+    "TP BVD.md",
     "Pasted image 20230310091012.png",
     "Pasted image 20230310090957.png",
     "Pasted image 20230310090940.png",
