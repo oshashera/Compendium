@@ -212,3 +212,7 @@ Q2: ceux avec 1,56 ou 3,13 dans la colonne de gauche
 Q3: ceux avec 50 pour colonne de droite
 
 Q4: ceux avec 3,13 ou 6,25
+
+Q5:
+
+Q6: fruit plus simple à récup que l'écorce, donc ce criblage sp/organe sont interessant pour l'efficacité et la praticité de récolte
