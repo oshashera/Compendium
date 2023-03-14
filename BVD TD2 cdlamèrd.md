@@ -163,3 +163,16 @@ acides et gaz produits à partir de la même molécule = fermentation
 
 **B**
 substrats de fermentation du A vont servir aux archées pour faire de la méthanogénèse (hypothèse).
+
+
+Q5:
+
+Champi seuls dégradent 90%cellulose au bout de 8j
+Archées 90% cellulose au bout de 4j
+Archées ruminococcus 70% cellulose au bout de 8j
+
+Cohérent avec les graphs précédents : archées + rapides à dégrader la cellulose, et le type d'archée est important sur la dégradation de la cellulose.
+
+Au final c'est les aspects quantitatifs et de vitesse qui vont varier selon le microorg pour la dégradation de la cellulose
+
+On voit que cet effet coopératif est 
