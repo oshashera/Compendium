@@ -185,3 +185,11 @@ CFU = nb colonies
 
 Q1: méthode de conservation permettant de limiter risque contamination en utilisant une fermentation du fourrage
 
+Q2:
+Micro-aérophile: support l'o2 mais ne le consomme pas
+optimum: mésophile (T°) et neutrophile (pH)
+
+MAIS, gamme de température, pH voir de pression partielle en O2 dans laquelle elle peut malgré tout se développer.
+
+
+Q3:
