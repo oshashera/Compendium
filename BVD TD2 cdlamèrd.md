@@ -156,3 +156,10 @@ Conservé: cuticule, au niveau des faces sup et inf, et les vaisceaux cribro-vas
 Bactéries du rumen ont hydrolysé les parois cellulosiques, et conservé c'est la lignine trouvée au niveau de la cuticule et des vaisceaux conducteurs, les fibres
 
 Q4:
+
+**A**
+acides et gaz produits à partir de la même molécule = fermentation
++ faire analyse avec qq valeurs clés
+
+**B**
+substrats de fermentation du A vont servir aux archées pour faire de la méthanogénèse (hypothèse).
