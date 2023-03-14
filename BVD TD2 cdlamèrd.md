@@ -202,3 +202,13 @@ Q4: dangereuse, pathogène.
 
 
 EX 9
+
+CML = concentration minimale Lethale
+
+Q1:  ceux avec 50 ou >50 dans la colonne de gauche
+
+Q2: ceux avec 1,56 ou 3,13 dans la colonne de gauche
+
+Q3: ceux avec 50 pour colonne de droite
+
+Q4: ceux avec 3,13 ou 6,25
