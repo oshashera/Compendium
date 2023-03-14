@@ -175,4 +175,13 @@ Cohérent avec les graphs précédents : archées + rapides à dégrader la cell
 
 Au final c'est les aspects quantitatifs et de vitesse qui vont varier selon le microorg pour la dégradation de la cellulose
 
-On voit que cet effet coopératif est 
+On voit que cet effet coopératif est à relativiser : selon les sp présentes on peut avoir coopération ou compétition qui va plutot diminuer la quantité de cellulose dégradée
+
+
+
+EX 7:
+
+CFU = nb colonies
+
+Q1: méthode de conservation permettant de limiter risque contamination en utilisant une fermentation du fourrage
+
