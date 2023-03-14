@@ -151,3 +151,8 @@ A bactérie
 B paroi pectocellulosique (partie plus dense = lamelle moyenne, paroi primaie = plus clair)
 
 Q3:
+Conservé: cuticule, au niveau des faces sup et inf, et les vaisceaux cribro-vasculaires
+
+Bactéries du rumen ont hydrolysé les parois cellulosiques, et conservé c'est la lignine trouvée au niveau de la cuticule et des vaisceaux conducteurs, les fibres
+
+Q4:
