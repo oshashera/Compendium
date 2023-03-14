@@ -138,3 +138,16 @@ On réalise 5 dilutions en cascade de raison ½ de l’ATB initialement à 2048 
 La synthèse et l'excrétion des antibiotiques est inhibée à 23°, donc la bactérie dans la gorgone peut se multiplier, donc stimulation de la nécrose des gorgones.
 
 ![[ccl td 2 bvd]]
+
+___
+TD3
+
+EX  4
+
+Q1 cf cours
+
+Q2:
+A bactérie
+B paroi pectocellulosique (partie plus dense = lamelle moyenne, paroi primaie = plus clair)
+
+Q3:
