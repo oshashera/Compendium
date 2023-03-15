@@ -105,4 +105,6 @@ What is climate change? How does it work?
 
 ____
 
-()
+How can the government and the president claim any legitimity to force their way through a pension reform when more than half of the country is against it and the president said that the fact that people voted for him to block Lepen "obliges him"?
+
+Should Senators be able to chose to destroy some special pension regimes, while maintening their own wealth regime, therefore going against the people's will while keeping their own privileges?
