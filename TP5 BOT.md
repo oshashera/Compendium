@@ -9,3 +9,5 @@ double fertilisation + flowers
 
 Origin: Apical Bud or Axillary Bud at the axil of a bract (a transformed leaf called floral bract)
 
+
+[tableau document poly tp : eudicotylédone/monocot appareil végétatif/reproducteur]
