@@ -79,4 +79,3 @@ ____
 
 - **Fleur:** unique terminale (1 fleur max par axe reproducteur), actinomorphe, anisomérie: pas même nombre de sépale que de pétales, bcp bcp d'étamines, hémi-cyclique, étamines à disposition spiralée, hermaphrodité (étamines et carpelles), eudicot (on utilise sépale pour orienter la fleur)
 
-- 
