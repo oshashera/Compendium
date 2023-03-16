@@ -46,3 +46,10 @@ In Monocots, one sepal is anterior
 ![[Pasted image 20230316150119.png]]
 
 
+3. <u>Floral dissection</u>
+
+![[Pasted image 20230316150749.png]]
+![[Pasted image 20230316150757.png]]
+
+**<u><b>A. Stamen</b></u>
+
