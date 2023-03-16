@@ -50,6 +50,14 @@ In Monocots, one sepal is anterior
 
 ![[Pasted image 20230316150749.png]]
 ![[Pasted image 20230316150757.png]]
+![[Pasted image 20230316151323.png]]
+
+
 
 **<u><b>A. Stamen</b></u>
 
+![[Pasted image 20230316151341.png]]
+
+![[pollen grain germination tp5 bot]]
+
+[[récup diapo]]
