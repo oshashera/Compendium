@@ -170,14 +170,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "2b984232acb94966",
   "lastOpenFiles": [
+    "Pasted image 20230316150119.png",
+    "Pasted image 20230316150048.png",
+    "Pasted image 20230316150026.png",
     "Anglais S6 on se fait ierch.md",
     "TP5 BOT.md",
     "BVD TD2 cdlamèrd.md",
@@ -193,8 +196,6 @@
     "Pasted image 20230310084437.png",
     "Pasted image 20230310084428.png",
     "Pasted image 20230310084352.png",
-    "Pasted image 20230310084320.png",
-    "Pasted image 20230310084257.png",
     "DIA TP.md",
     "TD dia carto.md",
     "Bactérie, Virus, Défense (BVD).md",

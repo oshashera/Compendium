@@ -1,6 +1,5 @@
 {
   "commitMessage": "Tantorum backup: {{date}}",
-  "autoCommitMessage": "Tantorum backup: {{date}}",
   "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 10,
@@ -23,5 +22,8 @@
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
-  "setLastSaveToLastCommit": false
+  "setLastSaveToLastCommit": false,
+  "submoduleRecurseCheckout": false,
+  "gitDir": "",
+  "autoCommitMessage": "Tantorum backup: {{date}}"
 }

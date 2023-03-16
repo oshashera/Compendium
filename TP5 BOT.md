@@ -22,10 +22,27 @@ Origin: Apical Bud or Axillary Bud at the axil of a bract (a transformed leaf ca
 - Actinomorphic or regular flower (radiale)
 - Zygomorphique or irregular flower (bilatérale)
 
+
 **Floral Parts Organization**
 
-Flower often are cyclic or whorled
+Flower often are **cyclic or whorled**
 
 *2 rules:*
-- Isomery
-- Alternation
+- Isomery (same number of parts for each verticiles) 
+- Alternation (when flower is cyclic, alternation of tepales and petals for example)
+
+
+**Flower Orientation**
+
+![[Pasted image 20230316150026.png]]
+
+![[Pasted image 20230316150048.png]]
+In Eudicots, one sepal is posterior
+In Monocots, one sepal is anterior
+
+
+**Position of the Ovary**
+
+![[Pasted image 20230316150119.png]]
+
+
