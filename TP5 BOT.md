@@ -68,4 +68,9 @@ ____
 ## TP ANALYSE FLORALE 1
 ### <u>Les Renonculacées</u>
 
+[mettre mes dessins]
 
+<u>Système racinaire:</u> racine pivotante (dérive de la radicule), racines secondaires, et racines adventives (prennent origine à la base de l'appareil aérien, et notamment au niveau d'une région ou on va retrouver le méristème caulinaire (ici y a pas de bourgeon terminal))
+
+<u>Appareil aérien</u>
+- Feuille: limbe en forme de coeur, 
