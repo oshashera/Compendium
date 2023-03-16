@@ -11,3 +11,21 @@ Origin: Apical Bud or Axillary Bud at the axil of a bract (a transformed leaf ca
 
 
 [tableau document poly tp : eudicotylédone/monocot appareil végétatif/reproducteur]
+
+
+1. <u>fleur définie/indéfinie/ sympodiale etc</u>
+
+2. <u>Organisation florale</u>
+
+**Symetry**
+
+- Actinomorphic or regular flower (radiale)
+- Zygomorphique or irregular flower (bilatérale)
+
+**Floral Parts Organization**
+
+Flower often are cyclic or whorled
+
+*2 rules:*
+- Isomery
+- Alternation
