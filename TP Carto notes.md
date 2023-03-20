@@ -114,7 +114,7 @@ ____
 
 Typo:
 
-Habitats - polygones
+Habitats/ occupation sol - polygones
 Mobilier - pts
 Chemins - lignes
 Cours d'eau - lignes
