@@ -120,3 +120,7 @@ Chemins - lignes
 Cours d'eau - lignes
 Haies - lignes
 
+
+
+vecteur -> outil de gestion de données -> fusionner des couches vecteurs
+(fusionner ce que les gens ont fait)
