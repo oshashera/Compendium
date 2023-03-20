@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4eba8efcc05363e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TP5 BOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TP5 BOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TP5 BOT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +181,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2b984232acb94966",
+  "active": "e4eba8efcc05363e",
   "lastOpenFiles": [
-    "Excalidraw/pollen grain germination tp5 bot.md",
     "TP5 BOT.md",
+    "Excalidraw/pollen grain germination tp5 bot.md",
     "Pasted Image 20230316151427_228.png",
     "Pasted image 20230316151341.png",
     "Pasted image 20230316151323.png",
