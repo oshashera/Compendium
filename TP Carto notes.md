@@ -106,7 +106,7 @@ ____
 ![[Pasted image 20230320142052.png]]
 
 5. Quels attributs à ces couches ?
-- Occupation du sol : Nom de l’habitat (format texte) / Code habitat (format numérique)
+- Occupation du sol : Nom de l’habitat (format texte) / Code habitat (format numérique, code eunis)
 
 
 *Dans la mesure du possible, réfléchir et fixer chacun de ces points avant de commencer la digitalisation*
