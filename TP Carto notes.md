@@ -111,3 +111,12 @@ ____
 
 *Dans la mesure du possible, réfléchir et fixer chacun de ces points avant de commencer la digitalisation*
 
+
+Typo:
+
+Habitats - polygones
+Mobilier - pts
+Chemins - lignes
+Cours d'eau - lignes
+Haies - lignes
+
