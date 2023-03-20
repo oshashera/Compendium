@@ -80,11 +80,34 @@ Aide possible: l’existence des métadonnées qui permettent d’indiquer la li
 
 ![[Pasted image 20230320141619.png]]
 
-
+<mark style="background: #FF5582A6;">/!\ 2 ENREGISTREMENT DIFFERENTS A FAIRE : DONNEES ET PROJET </mark>
 ____
 
 
 ## Cartographie du site d'étude
 
 ### Planifier son projet SIG
+
+1. Quels éléments figureront sur ma carto ? *-> est ce que cet élément est structurant pour mon diagnostique écologique ?*
+- Les parcelles *a minima*
+- Les haies *a minima*
+- Cours d'eau
+- Chemins
+- Alignements d'arbres
+
+2. Comment vais-je représenter ces éléments ?
+- Les parcelles -> polygones
+- Les haies... -> lignes
+
+3. Quel système de projection vais-je utiliser? 
+- Lamber 93 (EPSG 2154)
+
+4. Quelles couches d’information SIG seront nécessaires?
+![[Pasted image 20230320142052.png]]
+
+5. Quels attributs à ces couches ?
+- Occupation du sol : Nom de l’habitat (format texte) / Code habitat (format numérique)
+
+
+*Dans la mesure du possible, réfléchir et fixer chacun de ces points avant de commencer la digitalisation*
 
