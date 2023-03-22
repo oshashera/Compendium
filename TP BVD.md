@@ -88,4 +88,7 @@ ___
 # <mark style="background: #E3CA26A6;">TP4</mark>
 Phytopathogènes? Test sur la patateuuuh.
 
+DO 600nm:
+- WT= 0,294
+- M = 0,121
 
