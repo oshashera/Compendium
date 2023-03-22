@@ -89,6 +89,7 @@ ___
 Phytopathogènes? Test sur la patateuuuh.
 
 DO 600nm:
-- WT= 0,294
-- M = 0,121
+- WT= 0,294 au dixième = 2,94
+- M = 0,121 au dixième = 1,21
+
 
