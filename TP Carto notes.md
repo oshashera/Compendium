@@ -124,3 +124,9 @@ Haies - lignes
 
 vecteur -> outil de gestion de données -> fusionner des couches vecteurs
 (fusionner ce que les gens ont fait)
+
+on sélectionne les 2 couches d'entrées
+On prends lambert
+-> enregistrer vers un fichier "total" en .shp
+ok
+executer
