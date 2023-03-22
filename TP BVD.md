@@ -58,6 +58,16 @@ Appelation yaourt encadré juridiquement, norme au niveau des microorganismes pr
 	- dilution
 	- comptage comme colonies bactéries (entre 30 et 300)
 
+ virulence pdt
+ - 1 feuille de papier filtre par boite
+	- mesurer DO de wt (wild type) et m (mutant)
+	- faut mettre la même quantité de cellules sur chacune des rondelles.
+	- mouiller papier filtre
+	- mettre rondelle dessus, petit trou au centre, déposer suspension bactérienne
+	- surnageant contient peut être avoir les enzyme de dégradation -> 1 rondelle pour wt ou m
+	- 1 rondelle pour wt (pas surnageant) **nous**
+	- 1 rondelle pour m (pas surnageant) **binomes coté mur**
+
 
 
 
