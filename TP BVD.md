@@ -26,20 +26,20 @@ ___
 - B = catalase **+**
 ___
 - [ ] HLF page 3 (voie d'attaque du glucose) -> 6 goutte en fait on met 100 mL, puis on laisse prendre en masse. Jaune pr pH acide, bleu pour basique, vert pour neutre.
-- A
-- B
+- A = jaune /orange -> acide !
+- B = vert : neutre
 ___
 - [ ] Test respiratoire. (gradient d'oxygène dans le tube, on dépose A ou B sur tt la hauteur, puis mettre au froid pour solidifier et ensuire on laisse grandire pour voir ou elles se dev).
-- A
-- B
+- A = gaz (co2) produit a fragmenté la colonne en étages, surtout en bas : anaérobie (ou une variante?) ->  
+- B = au sommet de la colonne, aérobie stricte  
 ___
 - [ ] Pour la souche A tt ces critères nous permettront d'aller au niveau de la famille, pour aller plus loin on ajoutera une galerie API pour faire les test biochimiques
 -> on pourra remplir le tableau page 11 avec +/- et on aura un nombre, rapporté au catalogue API permettra d'identifier l'espèce bactérienne identifiée.
-- A
-- B
+- A = 5044522/0/0
+- B =
 ___
 - [ ] Antibiogramme nous on fait sur la **Bactérie A**
-
+A a poussé sur l'antibiogramme,  Neo, H20 et T aussi? -> demander à énola
 
 
 ___
