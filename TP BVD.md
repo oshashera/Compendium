@@ -47,6 +47,17 @@ ___
 3 Laits : A,B,C : on veut les caractériser, et l'idée sera de déterminer lequel est entier, demi-écrêmé, écrêmé. Lait cru ou pasteurisés, ou UHT.
 Appelation yaourt encadré juridiquement, norme au niveau des microorganismes présents et leur concentration pour avoir l'appelation.
 
+- analyser a b c
+- révêler galerie API et lire résultats de la séance 1
+- faire les 2 expériences de "virulence"
+- breed yaourt
+
+- titration phages 
+	- dilution en cascade à 10-4 -5 et -6 
+	- dans le tube on va mettre E.coli (100µL)
+	- dilution
+	- comptage comme colonies bactéries (entre 30 et 300)
+
 
 
 
