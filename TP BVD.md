@@ -54,7 +54,7 @@ Appelation yaourt encadré juridiquement, norme au niveau des microorganismes pr
 
 - titration phages 
 	- dilution en cascade à 10-4 -5 et -6 
-	- dans le tube on va mettre E.coli (100µL)
+	- dans le tube on va mettre E.coli (100µL) + 100 µl de la dilution 
 	- dilution
 	- comptage comme colonies bactéries (entre 30 et 300)
 
@@ -69,6 +69,7 @@ Appelation yaourt encadré juridiquement, norme au niveau des microorganismes pr
 	- 1 rondelle pour m (pas surnageant) **binomes coté mur**
 
 
+gram pour le lait c et b
 
 
 
