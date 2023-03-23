@@ -216,3 +216,8 @@ Q4: ceux avec 3,13 ou 6,25
 Q5:
 
 Q6: fruit plus simple à récup que l'écorce, donc ce criblage sp/organe sont interessant pour l'efficacité et la praticité de récolte
+
+____
+
+TD Cabello
+
