@@ -18,15 +18,15 @@ ___
 - B = GRAM **+**
 ___
 - [ ] <mark style="background: #BBFABBA6;">test oxylase</mark>
-- A = oxydase **-**
+- A = oxydase **+**
 - B = oxydase **-**
 ___
 - [ ] <mark style="background: #BBFABBA6;">test catalase</mark>
-- A = catalase **-**
-- B = catalase **+**
+- A = catalase **+**
+- B = catalase **++**
 ___
 - [ ] HLF page 3 (voie d'attaque du glucose) -> 6 goutte en fait on met 100 mL, puis on laisse prendre en masse. Jaune pr pH acide, bleu pour basique, vert pour neutre.
-- A = jaune /orange -> acide !
+- A = jaune /orange -> acide !, type fermentaire
 ___
 - [ ] Test respiratoire. (gradient d'oxygène dans le tube, on dépose A ou B sur tt la hauteur, puis mettre au froid pour solidifier et ensuire on laisse grandire pour voir ou elles se dev).
 - A = gaz (co2) produit a fragmenté la colonne en étages, densité élevée en haut, donc aérobie anaérobie facultative
