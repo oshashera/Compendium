@@ -109,3 +109,15 @@ B = <u>Micrococcus luteus</u>, famille des Micrococcacées
 
 concernant antibio mettre photo tableau 
 
+
+MANIP LAITS
+
+|     | Entier | Demi-écrêmé | Ecrêmé | UHT | Pasteuristé | Cru  |
+| --- | ------ | ----------- | ------ | --- | ----------- | --- |
+| A   |        |             |   X     |  X   |             |     |
+| B   |        |       X       |        |     |   X          |     |
+| C    |    X    |             |        |     |             |  X   |
+
+
+
+
