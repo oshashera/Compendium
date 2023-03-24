@@ -84,7 +84,7 @@ Exemples:
 - Grande diversité d’organisations florales: fleurs généralement hermaphrodites; hypogynes, périgynes, épigynes. 
 - Souvent: 5S, 5P, nombreuses étamines (souvent 15 ou plus, mais parfois 10 ou moins), de 1 à n carpelles. 
 - Fruit très variable: follicule, akène, drupe, fruit complexe incluant le conceptacle floral.
-- Graines généralement exalbuminées (sans albumen, plutot les cotylédons qui vont stocker l'énergie).
+- Graines généralement exalbuminées (sans albumen, plutot les cotylédons qui vont stocker l'énergie).  
 
 
 
