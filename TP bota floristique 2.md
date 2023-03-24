@@ -136,3 +136,12 @@ c'est pcq il y a la fausse cloison qu'on peut avoir les 4 déhiscences.
 
 ![[Pasted image 20230324165912.png]]
 
+![[Pasted image 20230324170150.png]]
+
+formule florale basique des brassicacées, par exemple, ajd on avait **pas** de bractée:
+pour s'orienter on peut utiliser les 2 staminodes (petites étamines, notée 2e) pour faire passer le plan perpendiculairement à la droite qu'elle forment.
+![[Pasted image 20230324170217.png]]
+1 seul trait pour fausse cloison pour démarquer de vraie paroi ovarienne.
+
+![[Pasted image 20230324170437.png]]
+
