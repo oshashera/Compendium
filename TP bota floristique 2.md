@@ -95,5 +95,7 @@ Exemples:
 
 genres a connaitre : arabidopsis, capsella, cardamine, nasturtium, brassica, raphanus (radis), cochlearia, aethionema
 
-fruit typique des brassicacées, c'est la silique (différentes formes)
+fruit typique des brassicacées, c'est la silique (différentes formes), fruit sec déhiscent à 4 zones de séparation
+
+ombelle, floraison centripète, infloraison monopodiale, 
 
