@@ -90,3 +90,10 @@ Exemples:
 
 
 ## <mark style="background: #FFF3A3A6;">Rosidées II, exemple au sein des brassicacées</mark>
+
+![[Pasted image 20230324161125.png]]
+
+genres a connaitre : arabidopsis, capsella, cardamine, nasturtium, brassica, raphanus (radis), cochlearia, aethionema
+
+fruit typique des brassicacées, c'est la silique (différentes formes)
+
