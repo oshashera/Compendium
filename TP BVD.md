@@ -34,7 +34,7 @@ ___
 ___
 - [ ] Pour la souche A tt ces critères nous permettront d'aller au niveau de la famille, pour aller plus loin on ajoutera une galerie API pour faire les test biochimiques
 -> on pourra remplir le tableau page 11 avec +/- et on aura un nombre, rapporté au catalogue API permettra d'identifier l'espèce bactérienne identifiée.
-- A = 5044522/0/0
+- A = 5044522
 ___
 - [ ] Antibiogramme nous on fait sur la **Bactérie A**
 A = 0 diamètre
@@ -103,4 +103,9 @@ MANIP ANTIBIO A ET B
 
 [mettre tableau]
 
+A = Enterobacteriacée, utilisons API pour en savoir plus : <u>E. coli</u>
+
+B = <u>Micrococcus luteus</u>, famille des Micrococcacées
+
+concernant antibio mettre photo tableau 
 
