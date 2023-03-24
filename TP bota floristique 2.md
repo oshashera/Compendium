@@ -99,3 +99,27 @@ fruit typique des brassicacées, c'est la silique (différentes formes), fruit s
 
 ombelle, floraison centripète, infloraison monopodiale, 
 
+![[Pasted image 20230324164146.png]]
+on observe pas de bractée, pour axe, on utilise celui de l'inflorescence (proche/loin de tige)
+fleur hermaphrodite
+
+**I - Calice:** 
+- 4 sépales chlorophylliens - S non soudés: calice dialysépale 
+- Calice actinomorphe 
+- caduc 
+
+**II – Corolle:** 
+- 4 pétales jaunes à onglet très long et limbe arrondi 
+- P libres: corolle dialypétale 
+- Corolle actinomorphe 
+- Caduque
+
+![[Pasted image 20230324164757.png]]
+
+**III - Androcée:**
+- 6 étamines: 2 petites externes latérales (appelées staminones car généralement stériles) et 4 grandes internes antéro-postérieures 
+- androcée anisostémone 
+- 2 cycles d’étamines: de 2 et de 4 étamines. 
+- E libres: androcée dialystémone 
+- 4 grandes E: androcée anisodyname tétradyname (caractère très fréquent de la famille) 
+- déhiscence longitudinale introrse
