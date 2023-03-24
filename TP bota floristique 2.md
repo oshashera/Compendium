@@ -16,6 +16,14 @@ stratégies de défense contre les herbivores : poils épidermiques, rameaux ép
 diversité de fruits.
 
 
+Analyse florale:
+- fleurs groupées (3-4 parfois 5) en inflorescence
+- a la base on voit le bourgeon ouvert
+- ombelle / corymbe -> "ombelle corymbiforme", inflorescence monopodiale
+- symétrie actinomorphe
+- bractée (une toute petite à la base de l'inflorescence)
+- hermaphrodite
+- 5S+5P+
 
 
 
