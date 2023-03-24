@@ -47,6 +47,7 @@ III – ANDROCÉE:
 - dialystémone (E libres) 
 - anisodyname (tailles différentes des E) 
 - déhiscence longitudinale introrse
+- filet blanc (assez rare pour le souligner)                              
 
 IV – GYNECEE OU PISTIL: 
 - 1 carpelle situé dans un conceptacle: fleur périgyne 
