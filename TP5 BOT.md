@@ -79,3 +79,9 @@ ____
 
 - **Fleur:** unique terminale (1 fleur max par axe reproducteur), actinomorphe, anisomérie: pas même nombre de sépale que de pétales, bcp bcp d'étamines, hémi-cyclique, étamines à disposition spiralée, hermaphrodité (étamines et carpelles), eudicot (on utilise sépale pour orienter la fleur)
 
+[récup diapo moodle]
++apprendre qq genres de chaque famille (renonculacées et autres familles sur le diapo après le "pas confondre morphologie et phylogénie")
+
+![[Pasted image 20230324142440.png]]
+![[Pasted image 20230324142500.png]]
+![[Pasted image 20230324142538.png]]
