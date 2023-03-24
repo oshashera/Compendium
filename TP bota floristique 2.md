@@ -7,7 +7,15 @@ noms de genres à connaître : malus (pomme), pyrus (poire), sorbus (sorbier), C
 
 
 ![[Pasted image 20230324143737.png]]
-grande diversité d'
+grande diversité d'appareil végétatif et de fruits (diversité au gynécée)
+
+![[Pasted image 20230324143807.png]]
+stratégies de défense contre les herbivores : poils épidermiques, rameaux épineux
+
+![[Pasted image 20230324143925.png]]
+diversité de fruits.
+
+
 
 
 
