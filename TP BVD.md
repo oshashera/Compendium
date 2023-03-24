@@ -92,4 +92,6 @@ DO 600nm:
 - WT= 0,294 au dixième = 2,94
 - M = 0,121 au dixième = 1,21
 
+mettre photo tableau
+
 
