@@ -71,7 +71,22 @@ montre la diversité mais les flèches sont fausses
 Fruits simples, ou multiples, plutot des secs mais y a aussi des charnus (ex: drupes)
 
 Exemples:
-![[Pasted image 20230324154749.png]]
+![[Pasted image 20230324155205.png]]
+
+![[Pasted image 20230324155228.png]]
+
+
+![[Pasted image 20230324155237.png]]
+![[Pasted image 20230324155245.png]]
+
+<b><u>ROSACEAE</u></b> 
+- Herbes, arbustes, arbres , feuilles souvent stipulées. 
+- Grande diversité d’organisations florales: fleurs généralement hermaphrodites; hypogynes, périgynes, épigynes. 
+- Souvent: 5S, 5P, nombreuses étamines (souvent 15 ou plus, mais parfois 10 ou moins), de 1 à n carpelles. 
+- Fruit très variable: follicule, akène, drupe, fruit complexe incluant le conceptacle floral.
+- Graines généralement exalbuminées (sans albumen, plutot les cotylédons qui vont stocker l'énergie).
+
+
 
 
 ## <mark style="background: #FFF3A3A6;">Rosidées II, exemple au sein des brassicacées</mark>
