@@ -129,3 +129,19 @@ nous on a 5x10^7 ->  non satisfaisant
 
 MANIP YAOURT
 
+critères: 2 bactéries thermophiles fermentaires spécifiques avec 10^5 bactéries par mL
+on est dans les clous, bonne concentrations et bactéries
+
+
+MANIP PHAGES
+
+
+
+MANIP VIRULENCE PATATE
+
+Témoin tp: pas de dégradation donc on peut faire la comparaison
+- Souche sauvage forte dégradation, très phytopathogène du fait de ses enzymes de dégradation sécrétées dans le milieu extérieur qui attaquent les parois pectocellulosiques, synthétisent des enzymes grace aux nutriments de la patate.
+- Surnageant sauvage contient que l'enzyme, pas de renouvellement contrairement à la souche
+- Souche mutante, peut soit pas sécréter les enzye 
+
+
