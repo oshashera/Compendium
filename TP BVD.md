@@ -18,7 +18,7 @@ ___
 - B = GRAM **+**
 ___
 - [ ] <mark style="background: #BBFABBA6;">test oxylase</mark>
-- A = oxydase **+**
+- A = oxydase **-**
 - B = oxydase **-**
 ___
 - [ ] <mark style="background: #BBFABBA6;">test catalase</mark>
@@ -93,5 +93,14 @@ DO 600nm:
 - M = 0,121 au dixième = 1,21
 
 mettre photo tableau
+
+____
+
+Bilans
+
+
+MANIP ANTIBIO A ET B
+
+[mettre tableau]
 
 
