@@ -142,6 +142,7 @@ MANIP VIRULENCE PATATE
 Témoin tp: pas de dégradation donc on peut faire la comparaison
 - Souche sauvage forte dégradation, très phytopathogène du fait de ses enzymes de dégradation sécrétées dans le milieu extérieur qui attaquent les parois pectocellulosiques, synthétisent des enzymes grace aux nutriments de la patate.
 - Surnageant sauvage contient que l'enzyme, pas de renouvellement contrairement à la souche
-- Souche mutante, peut soit pas sécréter les enzye 
+- Souche mutante, peut soit pas sécréter les enzymes (fin pas les sortir quoi, due à une mutation,), soit pas les mêmes(mutation encore?), donc moins efficaces, ou du à une moindre résistance face aux défenses de la patate, ou mutation de l'activateur du régulateur de transcription
+
 
 
