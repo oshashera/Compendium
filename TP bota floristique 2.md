@@ -123,3 +123,16 @@ fleur hermaphrodite
 - E libres: androcée dialystémone 
 - 4 grandes E: androcée anisodyname tétradyname (caractère très fréquent de la famille) 
 - déhiscence longitudinale introrse
+
+![[Pasted image 20230324165142.png]]
+1 seul ovaire mais 2 carpelles
+![[Pasted image 20230324165150.png]]
+placentation sur la paroi, alors que quand plusieurs carpelles on s'attends à avoir plutot une placentation centrale.
+La paroi interne séparant les 2 loges, appelée fausse paroi/ fausse cloison = replum.
+
+![[Pasted image 20230324165156.png]]
+![[Pasted image 20230324165206.png]]
+c'est pcq il y a la fausse cloison qu'on peut avoir les 4 déhiscences.
+
+![[Pasted image 20230324165912.png]]
+
