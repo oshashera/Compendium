@@ -27,7 +27,7 @@ Analyse florale:
 - fleur cyclique (même les étamines)
 ![[Pasted image 20230324145920.png]]
 
-F.F ⊙ 5S + 5P + nE
+F.F ⊙ 5S + 5P + nE + 1C (avec barre au dessus car infère)
 
 **I - CALICE**: 
 - 5S chlorophylliens libres 
@@ -57,6 +57,8 @@ IV – GYNECEE OU PISTIL:
 
 ![[Pasted image 20230324150650.png]]
 ![[Pasted image 20230324150703.png]]
+![[Pasted image 20230324151916.png]]
+
 
 
 
