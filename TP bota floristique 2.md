@@ -41,7 +41,7 @@ F.F ⊙ 5S + 5P + nE + 1C (avec barre au dessus car infère)
 - actinomorphe 
 - caduque
 
-III – ANDROCÉE: 
+**III – ANDROCÉE**: 
 - n étamines libres disposées sur plusieurs cycles (3 ou 4?) 
 - anisotémone (nombre d’E différent de celui des S et P) 
 - dialystémone (E libres) 
@@ -49,17 +49,29 @@ III – ANDROCÉE:
 - déhiscence longitudinale introrse
 - filet blanc (assez rare pour le souligner)                              
 
-IV – GYNECEE OU PISTIL: 
+**IV – GYNECEE OU PISTIL**: 
 - 1 carpelle situé dans un conceptacle: fleur périgyne 
 - ovaire renfermant 2 ovules dont un avorte 
 - 2 ovules anatropes à placentation marginale 
 - fruit: drupe ( fruit charnu à noyau) renfermant une graine
 
+
+
+![[Pasted image 20230324151916.png]]
 ![[Pasted image 20230324150650.png]]
 ![[Pasted image 20230324150703.png]]
-![[Pasted image 20230324151916.png]]
 
 
+Rosacées: grande diversité de feuilles 
+![[Pasted image 20230324154256.png]]
+![[Pasted image 20230324154309.png]]
+montre la diversité mais les flèches sont fausses
+
+![[Pasted image 20230324154607.png]]
+Fruits simples, ou multiples, plutot des secs mais y a aussi des charnus (ex: drupes)
+
+Exemples:
+![[Pasted image 20230324154749.png]]
 
 
 ## <mark style="background: #FFF3A3A6;">Rosidées II, exemple au sein des brassicacées</mark>
