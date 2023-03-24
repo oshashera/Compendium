@@ -23,7 +23,39 @@ Analyse florale:
 - symétrie actinomorphe
 - bractée (une toute petite à la base de l'inflorescence)
 - hermaphrodite
-- 5S+5P+
+- 5S+5P+nE fleur type 5
+- fleur cyclique (même les étamines)
+![[Pasted image 20230324145920.png]]
+
+F.F ⊙ 5S + 5P + nE
+
+**I - CALICE**: 
+- 5S chlorophylliens libres 
+- dialysépale 
+- actinomorphe 
+- caduc 
+
+**II – COROLLE**: 
+- 5 P blancs libres 
+- dialypétale 
+- actinomorphe 
+- caduque
+
+III – ANDROCÉE: 
+- n étamines libres disposées sur plusieurs cycles (3 ou 4?) 
+- anisotémone (nombre d’E différent de celui des S et P) 
+- dialystémone (E libres) 
+- anisodyname (tailles différentes des E) 
+- déhiscence longitudinale introrse
+
+IV – GYNECEE OU PISTIL: 
+- 1 carpelle situé dans un conceptacle: fleur périgyne 
+- ovaire renfermant 2 ovules dont un avorte 
+- 2 ovules anatropes à placentation marginale 
+- fruit: drupe ( fruit charnu à noyau) renfermant une graine
+
+![[Pasted image 20230324150650.png]]
+![[Pasted image 20230324150703.png]]
 
 
 
