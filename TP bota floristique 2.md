@@ -89,6 +89,8 @@ Exemples:
 
 
 
+
+
 ## <mark style="background: #FFF3A3A6;">Rosidées II, exemple au sein des brassicacées</mark>
 
 ![[Pasted image 20230324161125.png]]
@@ -145,3 +147,11 @@ pour s'orienter on peut utiliser les 2 staminodes (petites étamines, notée 2e)
 
 ![[Pasted image 20230324170437.png]]
 
+<b><u>BRASSICACEES</u></b>
+- Plantes à composés sulfurés (odeurs) 
+- Organisation florale très homogène 
+- Inflorescence de type grappe souvent sans bractée 
+- Fleur de type 4 avec pétales en croix ( ex Crucifères) 
+- Androcée souvent tétradyname ( 2 petites étamines et 4 grandes); parfois 2, 4 ou plus de 6 étamines. 
+- Gynécée à 2C soudés, ovaire supère, placentation pariétale avec fausse cloison ou replum. 
+- fruit de type capsule: silique et variétés
