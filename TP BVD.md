@@ -118,6 +118,14 @@ MANIP LAITS
 | B   |        |       X       |        |     |   X          |     |
 | C    |    X    |             |        |     |             |  X   |
 
+Lait cru: 3x10^5/mL
+Seuil d'acceptabilité   : non satisfaisant
+log 3x10^5 = 5,5
+Test avec + ou - 0,5 = SAT = norme majorée de la certitude ou jsp quoi
+10^(5,5-0,5) = 10^5
+10^(5,5+0,5) = 10^6
+[mettre photo tableau]
+nous on a 5x10^7 ->  non satisfaisant
 
-
+MANIP YAOURT
 
