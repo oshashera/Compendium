@@ -119,10 +119,19 @@ La culture d’OGM à des fins commerciales est interdite en France depuis 2008,
 
 Les surfaces d’OGM cultivées en 2019 correspondent à 89% à des variétés rendues tolérantes aux herbicides (VrTH). La culture de VrTH est susceptible d’entrainer une augmentation de l’utilisation d’herbicide et donc une pollution accrue des milieux (air, sol, eaux) ainsi que l’apparition de résistance aux herbicides parmi les adventices (« mauvaises herbes »)
 
-Plus spécifiquement concernant les nouvelles techniques de sélection (NBT), il existe un risque de déstabilisation des écosystèmes en raison de la rapidité accrue de sélection des plantes. En effet, une plante avec un trait favorable peut se comporter comme une plante invasive dans les écosystèmes, et la dissémination trop rapide dans la nature de plantes génétiquement modifiées peut remettre en cause les équilibres naturels existants.
+Plus spécifiquement concernant les nouvelles techniques de sélection (NBT), il existe un risque de déstabilisation des écosystèmes en raison de la rapidité accrue de sélection des plantes. En effet, une plante avec un trait favorable peut se comporter comme une plante invasive dans les écosystèmes, et la dissémination trop rapide dans la nature de plantes génétiquement modifiées peut remettre en cause les équilibres naturels existants. De plus, le transfert horizontal de gène, aussi appelé transfert latéral, est un processus dans lequel un organisme incorpore le matériel génétique d'un autre organisme qui n'est pas son ascendant c'est-à-dire hors contexte de la reproduction sexuée, a été observé a nombreuses reprises dans le règne végétal, notamment chez les graminées. Et pourrait aussi transmettre une résistance à des antibiotiques à des bactéries, aggravant ainsi un problème grandissant dans la médecine.
 
 Enfin, la très faible diversité de traits aujourd’hui obtenus par les techniques de génie génétique et la nature de ces traits encourage le développement de systèmes agricoles non durables (monocultures, rotations courtes) avec des impacts sur la biodiversité et la résilience des écosystèmes.
 
 les plantes génétiquement modifiées peuvent être brevetées, leur processus d’obtention ayant recours à des techniques de génie génétique, ceci constitue alors une exception importante au principe de non-brevetabilité du vivant.
 
 Si une plante est brevetée, cela signifie qu’il est interdit de garder une partie de la récolte pour la réutiliser en tant que semence de l’année suivante, et qu’il est impossible de s’échanger des semences. Autrement dit, le brevet entraîne une "stérilité juridique" des plantes agricoles, de laquelle découle un appauvrissement de la diversité des cultures.
+
+le fait que le coût de la semence est augmenté par les redevances dues aux semenciers
+
+la dépendance importante des agricultures utilisant ces semences à un même semencier, souvent avec des systèmes de ventes liées « semences + herbicides » pour les variétés tolérances au herbicides ;
+
+Un rôle majeur dans la concentration du secteur des semences. L’introduction de traits protégés par des brevets dans les OGM issus de transgénèse a en effet conduit à la constitution d’oligopoles, alors qu’il s’agit justement jusque-là d’un système constitué de beaucoup d’acteurs de taille faible ou moyenne.
+Dix grandes firmes multinationales contrôlent 60 % du marché mondial formel des semence.
+
+Un autre risque socio-économique porte sur les possibles contaminations de cultures non-OGM par des cultures génétiquement modifiées des champs environnants. Ces contaminations peuvent engendrer des pertes importantes, lorsque, par exemple, un agriculteur en agriculture biologique ou labellisée « sans OGM » subit une contamination par des plantes génétiquement modifiés sur ses parcelles. Sa récolte sera alors déclassée.
