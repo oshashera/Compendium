@@ -111,6 +111,8 @@ Should Senators be able to chose to destroy some special pension regimes, while 
 ___
 
 
+L'appelation OGM, "organisme génétiquement modifié", correspond à des techniques réalisées en laboratoire, permettent d’ajouter de nouveaux gènes, ou de supprimer ou modifier des gènes déjà présents dans l’organisme, afin, généralement, de lui faire acquérir de nouvelles caractéristiques.
+
 La surface mondiale cultivée d'OGM correspond en 2019 à **190 millions d'hectares** soit environ 10% des surfaces totales cultivées.
 
 Les quatre plantes OGM les plus cultivées sont le coton, le soja, le maïs et le colza.
@@ -121,17 +123,17 @@ Les surfaces d’OGM cultivées en 2019 correspondent à 89% à des variétés r
 
 Plus spécifiquement concernant les nouvelles techniques de sélection (NBT), il existe un risque de déstabilisation des écosystèmes en raison de la rapidité accrue de sélection des plantes. En effet, une plante avec un trait favorable peut se comporter comme une plante invasive dans les écosystèmes, et la dissémination trop rapide dans la nature de plantes génétiquement modifiées peut remettre en cause les équilibres naturels existants. De plus, le transfert horizontal de gène, aussi appelé transfert latéral, est un processus dans lequel un organisme incorpore le matériel génétique d'un autre organisme qui n'est pas son ascendant c'est-à-dire hors contexte de la reproduction sexuée, a été observé a nombreuses reprises dans le règne végétal, notamment chez les graminées. Et pourrait aussi transmettre une résistance à des antibiotiques à des bactéries, aggravant ainsi un problème grandissant dans la médecine.
 
+Bien qu'en théorie toute technique de sélection végétale puisse modifier (augmenter ou diminuer) l'allergénicité des aliments, la biotechnologie a un plus grand potentiel d'introduction de protéines nouvelles dans l'approvisionnement alimentaire, ce qui nécessite un examen plus approfondi de la part des autorités de réglementation.
+
 Enfin, la très faible diversité de traits aujourd’hui obtenus par les techniques de génie génétique et la nature de ces traits encourage le développement de systèmes agricoles non durables (monocultures, rotations courtes) avec des impacts sur la biodiversité et la résilience des écosystèmes.
 
 les plantes génétiquement modifiées peuvent être brevetées, leur processus d’obtention ayant recours à des techniques de génie génétique, ceci constitue alors une exception importante au principe de non-brevetabilité du vivant.
 
 Si une plante est brevetée, cela signifie qu’il est interdit de garder une partie de la récolte pour la réutiliser en tant que semence de l’année suivante, et qu’il est impossible de s’échanger des semences. Autrement dit, le brevet entraîne une "stérilité juridique" des plantes agricoles, de laquelle découle un appauvrissement de la diversité des cultures.
 
-le fait que le coût de la semence est augmenté par les redevances dues aux semenciers
+Autre problème, le fait que le coût de la semence est augmenté par les redevances dues aux semenciers, couplé à la dépendance importante des agricultures utilisant ces semences à un même semencier, souvent avec des systèmes de ventes liées « semences + herbicides » pour les variétés tolérances au herbicides ;
 
-la dépendance importante des agricultures utilisant ces semences à un même semencier, souvent avec des systèmes de ventes liées « semences + herbicides » pour les variétés tolérances au herbicides ;
-
-Un rôle majeur dans la concentration du secteur des semences. L’introduction de traits protégés par des brevets dans les OGM issus de transgénèse a en effet conduit à la constitution d’oligopoles, alors qu’il s’agit justement jusque-là d’un système constitué de beaucoup d’acteurs de taille faible ou moyenne.
+Les OGM jouent un rôle majeur dans la concentration du secteur des semences. L’introduction de traits protégés par des brevets dans les OGM issus de transgénèse a en effet conduit à la constitution d’oligopoles, alors qu’il s’agit justement jusque-là d’un système constitué de beaucoup d’acteurs de taille faible ou moyenne.
 Dix grandes firmes multinationales contrôlent 60 % du marché mondial formel des semence.
 
 Un autre risque socio-économique porte sur les possibles contaminations de cultures non-OGM par des cultures génétiquement modifiées des champs environnants. Ces contaminations peuvent engendrer des pertes importantes, lorsque, par exemple, un agriculteur en agriculture biologique ou labellisée « sans OGM » subit une contamination par des plantes génétiquement modifiés sur ses parcelles. Sa récolte sera alors déclassée.
