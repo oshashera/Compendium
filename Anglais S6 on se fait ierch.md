@@ -108,3 +108,21 @@ ____
 How can the government and the president claim any legitimity to force their way through a pension reform when more than half of the country is against it and the president said that the fact that people voted for him to block Lepen "obliges him"?
 
 Should Senators be able to chose to destroy some special pension regimes, while maintening their own wealth regime, therefore going against the people's will while keeping their own privileges?  
+___
+
+
+La surface mondiale cultivée d'OGM correspond en 2019 à **190 millions d'hectares** soit environ 10% des surfaces totales cultivées.
+
+Les quatre plantes OGM les plus cultivées sont le coton, le soja, le maïs et le colza.
+
+La culture d’OGM à des fins commerciales est interdite en France depuis 2008, mais on peut en acheter d'origine européenne quand même
+
+Les surfaces d’OGM cultivées en 2019 correspondent à 89% à des variétés rendues tolérantes aux herbicides (VrTH). La culture de VrTH est susceptible d’entrainer une augmentation de l’utilisation d’herbicide et donc une pollution accrue des milieux (air, sol, eaux) ainsi que l’apparition de résistance aux herbicides parmi les adventices (« mauvaises herbes »)
+
+Plus spécifiquement concernant les nouvelles techniques de sélection (NBT), il existe un risque de déstabilisation des écosystèmes en raison de la rapidité accrue de sélection des plantes. En effet, une plante avec un trait favorable peut se comporter comme une plante invasive dans les écosystèmes, et la dissémination trop rapide dans la nature de plantes génétiquement modifiées peut remettre en cause les équilibres naturels existants.
+
+Enfin, la très faible diversité de traits aujourd’hui obtenus par les techniques de génie génétique et la nature de ces traits encourage le développement de systèmes agricoles non durables (monocultures, rotations courtes) avec des impacts sur la biodiversité et la résilience des écosystèmes.
+
+les plantes génétiquement modifiées peuvent être brevetées, leur processus d’obtention ayant recours à des techniques de génie génétique, ceci constitue alors une exception importante au principe de non-brevetabilité du vivant.
+
+Si une plante est brevetée, cela signifie qu’il est interdit de garder une partie de la récolte pour la réutiliser en tant que semence de l’année suivante, et qu’il est impossible de s’échanger des semences. Autrement dit, le brevet entraîne une "stérilité juridique" des plantes agricoles, de laquelle découle un appauvrissement de la diversité des cultures.
