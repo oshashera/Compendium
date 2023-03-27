@@ -293,6 +293,17 @@ ___
 
 avrPto(promoteur) + luc(luciférase, gène codant)
 hrpL (promoteur) + luc(luciférase, gène codant)
+
+Moins exprimé (luc) chez wild type après 12h que chez att1 (mutant). cf figure 2 -> seul mutant qui a montré différence
+
+bactérie au contact de ces mutants, elle va exprimer avr Pto (+ luciférase)
+
+fig 3 = cinétique du régulateur (hrpL, qui gère avp Pto), ils sont modifié dans leur expression, plus importante chez le mutant.
+
+
+trp-Luc c'est le témoin, pcq c'est la preuve que le gène Trp (constitutif) est bien exprimé, mais surtout qu'il y a pas de différence, et donc savoir que les résultats observé sont spécifique d'un impact sur la réponse défensive/virulence de la bactérie et pas un impact général (genre tt le métabolisme).
+
+*Phasolicolae* ne se multiplie pas, non virulente, donc pour quantifier luminescence, on a une base stable, donc plus utile que avec *tomato*
 ___
 
 3. **En vous servant des données des Figures S1 et 3, discutez l’effet de la mutation att1-1 sur la résistance à ces microorganismes.**
