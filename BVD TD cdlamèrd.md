@@ -236,3 +236,22 @@ TD Cabello
 
 ##### Effecteurs protéiques : 
 Sécrétés pendant la pathogénèse, interrompent l'immunité
+![[Pasted image 20230327160525.png]]
+- Système de sécrétion de type III (injectisome)
+	- complexe protéique qui traverse les membranes bactériennes et végétales
+	- éléments protéiques responsables du transfert
+
+
+Protéines **hrp** *(hypersensitive response and pathogenicity)*
+![[Pasted image 20230327160723.png]]
+Protéines **hrc** *(hypersensitivite response and conserverd)*, hrp conservées chez les animaux (?)
+
+**Gènes hrp** sont **indispensables**:
+![[Pasted image 20230327160953.png]]
+*si la plante est hôte-compatible, il permet le passage des effecteurs perturbant le métabolisme/la réponse immunitaire, et dans le cas d'un hôte incompatible est responsable de la résistance*
+*sous certaines circonstances va aider la bactérie à infecter la plante, dans d'autre, lancer le système immunitaire et la résistance de la plante*
+
+
+Mécanisme qui permet aux protéines effectrices de traverser la paroi cellulaire des plantes?
+- Appendices ou pili : structures fibrillaires dépendantes des hrp
+- 
