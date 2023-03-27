@@ -254,4 +254,38 @@ Protéines **hrc** *(hypersensitivite response and conserverd)*, hrp conservées
 
 Mécanisme qui permet aux protéines effectrices de traverser la paroi cellulaire des plantes?
 - Appendices ou pili : structures fibrillaires dépendantes des hrp
-- 
+![[Pasted image 20230327161306.png]]
+- Diamètre de 6-8 nm (équivalent de la taille des pores)
+- Transfert de protéines à travers l'appendice
+- Libérer des protéines pour pénétration par endocytose
+
+
+
+![[Pasted image 20230327161419.png]]
+
+Cluster gènes hrp de *Pseudomonas syringae*:
+- Gène de résistance : *Pto/Prf*
+- Gène Arv : *avrPto* expression contrôlées par le gène *hrpL*
+___ 
+
+>Xiao et coll. (The EMBO Journal (2004) 23, 2903– 2913) ont étudié l’effet de l’inactivation du gène CYP86A2 (mutant att1-1), une enzyme à cytochrome P450 qui catalyse l’hydroxylation d’acides gras chez Arabidopsis thaliana.
+>`
+>lien de l'article: http://emboj.embopress.org/content/23/14/2903
+
+
+___
+1. **D’après les résultats de la Figure S1 à quelle souche correspondrait A et à quelle souche B. Justifiez votre choix en fonction des différentes interactions plante-pathogène.**
+
+
+
+
+
+
+
+2. **Ils ont criblé 4000 mutants EMS d’Arabidopsis (écotype Col-gl) par infection avec une souche de Pseudomonas syringae pv. phaseolicola contenant la construction rapporteur avrPto-luc et ils ont identifié le mutant att1-1. A l’aide de la Figure 1 et 2, discutez le résultat et but de cette approche. Pourquoi avoir utilisé Pseudomonas syringae pv. phaseolicola et non Pseudomonas syringae pv. tomato DC3000 ? Quelle serait l’utilité de la construction trp-luc ?**
+
+3. **En vous servant des données des Figures S1 et 3, discutez l’effet de la mutation att1-1 sur la résistance à ces microorganismes.**
+
+4. **Le gène att1 a été identifié comme étant le gène CYP86A2, qui code pour une enzyme à cytochrome P450, une superfamille de monooxygénases qui catalysent l’insertion d’un atome d’oxygène venant de l’oxygène moléculaire dans le substrat et la réduction du deuxième en molécule d’eau. A partir des données de la Figure 7 et des Tableaux I et II, proposez et discutez une possible fonction du CYP86A2 chez Arabidopsis.**
+
+5. **Les feuilles du mutant cyp86a2-1 après détachement de la plante fanent plus rapidement que celles du sauvage. Essayer de donner une explication raisonnée de ceci en vous servant des données de la Figure 8.**
