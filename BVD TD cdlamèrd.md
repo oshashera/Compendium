@@ -276,12 +276,16 @@ ___
 ___
 1. **D’après les résultats de la Figure S1 (1 dans le doc td) à quelle souche correspondrait A et à quelle souche B. Justifiez votre choix en fonction des différentes interactions plante-pathogène.**
 
+
+Question: quels sont les mécanismes moléculaires de la plante qui vont affecter hrp.
+Comment je vois ca du coté de la bactérie? de la plante?
+Il nous faut une diversité génétique pour la plante (donc wt into EMS pour avoir plein de mutants, 4000 pour être précis).
+A.thaliana et ils font des mutants (avec EMS, mutagène) et utilisent un vecteur avec gène rapporteur pour voir l'évolution (avec luciférase, lumière blanche) pour voir les changements du coté de la bactérie. 
+
+Basé sur la chance pcq : Bcp de gènes donc 4000 mutants, en admettant que y ait pas de redondance dans les mutants on a que 1/7-1/6 du génome de A.thaliana couvert.
+
 *phaseolicola* = non hote = b
 *tomato* = hôte = a
-Question: quels sont les mécanismes moléculaires de la plante qui vont affecter 
-A.thaliana et ils font des mutants (avec EMS, mutagène) et utilisent un vecteur avec gène rapporteur pour voir l'évolution (avec luciférase). 
-
-
 
 
 2. **Ils ont criblé 4000 mutants EMS d’Arabidopsis (écotype Col-gl) par infection avec une souche de Pseudomonas syringae pv. phaseolicola contenant la construction rapporteur avrPto-luc et ils ont identifié le mutant att1-1. A l’aide de la Figure 1 et 2, discutez le résultat et but de cette approche. Pourquoi avoir utilisé Pseudomonas syringae pv. phaseolicola et non Pseudomonas syringae pv. tomato DC3000 ? Quelle serait l’utilité de la construction trp-luc ?**
