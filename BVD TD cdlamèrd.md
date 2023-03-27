@@ -276,8 +276,10 @@ ___
 ___
 1. **D’après les résultats de la Figure S1 (1 dans le doc td) à quelle souche correspondrait A et à quelle souche B. Justifiez votre choix en fonction des différentes interactions plante-pathogène.**
 
-
-
+*phaseolicola* = non hote = b
+*tomato* = hôte = a
+Question: quels sont les mécanismes moléculaires de la plante qui vont affecter 
+A.thaliana et ils font des mutants (avec EMS, mutagène) et utilisent un vecteur avec gène rapporteur pour voir l'évolution (avec luciférase). 
 
 
 
