@@ -313,7 +313,10 @@ ___
 
 4. **Le gène att1 a été identifié comme étant le gène CYP86A2, qui code pour une enzyme à cytochrome P450, une superfamille de monooxygénases qui catalysent l’insertion d’un atome d’oxygène venant de l’oxygène moléculaire dans le substrat et la réduction du deuxième en molécule d’eau. A partir des données de la Figure 7 et des Tableaux I et II, proposez et discutez une possible fonction du CYP86A2 chez Arabidopsis.**
 
+on voit une diminution (3x moins par unité de surface) de la quantité de monomère de la cutine (et donc de cutine) et un changement dans leur répartition, dans le mutant comparé au sauvage.
+![[Pasted image 20230327172841.png]]
+*(changement le plus important)*
 
-
+enzyme importante pour la synthèse des cutines, celle des mutants est moins importante (plus large mais moins dense) et semble gérer la formation de l'acide hexadécane dioic (cf screen)
 ___
 5. **Les feuilles du mutant cyp86a2-1 après détachement de la plante fanent plus rapidement que celles du sauvage. Essayer de donner une explication raisonnée de ceci en vous servant des données de la Figure 8.**
