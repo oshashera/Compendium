@@ -221,3 +221,18 @@ ____
 
 TD Cabello
 
+## Les bactéries phytopathogènes
+
+##### Intéractions bactéries-plantes:
+- Vie parasite : apoplaste (résident dans la cellule, espaces intercellulaires, chambre stomatique etc etc)
+- Fonctions biochimiques impliquées dans le processus de pathogénèse
+	- Toxines (affecter plante, détourner son métabolisme)
+	- Polysaccharides extracellulaires
+	- Enzymes hydrolytiques
+	- Protéines effectrices (**notre focus durant le td**), produites puis livrées pour certaine à l'intérieur de la cellule végétale.
+
+
+#### Bactéries pathogènes - *voies de sécrétion pendant la pathogénèse*
+
+##### Effecteurs protéiques : 
+Sécrétés pendant la pathogénèse, interrompent l'immunité
