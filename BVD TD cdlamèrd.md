@@ -284,14 +284,23 @@ A.thaliana et ils font des mutants (avec EMS, mutagène) et utilisent un vecteur
 
 Basé sur la chance pcq : Bcp de gènes donc 4000 mutants, en admettant que y ait pas de redondance dans les mutants on a que 1/7-1/6 du génome de A.thaliana couvert.
 
-*phaseolicola* = non hote = b
-*tomato* = hôte = a
+*phaseolicola* = non hote = b (pas de multiplication)
+*tomato* = hôte = a (virulence, multiplication).
+___
 
 
 2. **Ils ont criblé 4000 mutants EMS d’Arabidopsis (écotype Col-gl) par infection avec une souche de Pseudomonas syringae pv. phaseolicola contenant la construction rapporteur avrPto-luc et ils ont identifié le mutant att1-1. A l’aide de la Figure 1 et 2, discutez le résultat et but de cette approche. Pourquoi avoir utilisé Pseudomonas syringae pv. phaseolicola et non Pseudomonas syringae pv. tomato DC3000 ? Quelle serait l’utilité de la construction trp-luc ?**
 
+avrPto(promoteur) + luc(luciférase, gène codant)
+hrpL (promoteur) + luc(luciférase, gène codant)
+___
+
 3. **En vous servant des données des Figures S1 et 3, discutez l’effet de la mutation att1-1 sur la résistance à ces microorganismes.**
+
+
+___
 
 4. **Le gène att1 a été identifié comme étant le gène CYP86A2, qui code pour une enzyme à cytochrome P450, une superfamille de monooxygénases qui catalysent l’insertion d’un atome d’oxygène venant de l’oxygène moléculaire dans le substrat et la réduction du deuxième en molécule d’eau. A partir des données de la Figure 7 et des Tableaux I et II, proposez et discutez une possible fonction du CYP86A2 chez Arabidopsis.**
 
+___
 5. **Les feuilles du mutant cyp86a2-1 après détachement de la plante fanent plus rapidement que celles du sauvage. Essayer de donner une explication raisonnée de ceci en vous servant des données de la Figure 8.**
