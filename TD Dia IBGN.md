@@ -72,4 +72,30 @@ Alors que pour I2M2 pour le DCE formule plus compliqué et précalculer des truc
 
 - Sur le terrain: description du site d'étude et estimation de la surface de chaque substrat sur la station
 
-troncon on prends des transects (une dizaine, faire largeur moyenne)
+troncon on prends des transects (une dizaine, faire largeur moyenne, puis multiplier cette valeur par 10).
+
+Prendre le truc de 10m le plus intéressant pour y faire de relevé pour définir la station
+
+
+Caractériser la station en terme d'habitat et de faciès de vitesse d'eau.
+Pour les habitats on a une fiche sur le terrain et faire la somme de tt les habitats et leurs pourcentages pour avoir 100% a la fin.
+
+Faire carte avec points d'échantillonages
+
+- 3 phases d'échantillonage
+	- Phase A : Habitats marginaux (selon habitabilité : les 4 premiers )
+	- Phase B : Habitats dominants (selon habitabilité : les 4 premiers)
+	- Phase C : Habitats dominants (selon représentativité)
+
+- <u>Rappel :</u> 
+Habitats marginaux: <5% surface mouillée (=part du cours d'eau échantillonée)
+Habitats dominants : >=5% surface mouillée
+
+- Habitabilité : croissante selon un classement de 0 à 11
+
+En phase A et B : on échantillone dans l'ordre d'habitabilité.
+Si ré-échantillonage de certains substrats : favoriser les **plus représentatifs** et faire varier les **classes de vitesse**
+
+En phase C : sur substrats dominants non-échantillonés
+Si ré-échantillonage **règle des 10%**
+
