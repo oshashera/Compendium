@@ -93,9 +93,13 @@ Habitats dominants : >=5% surface mouillée
 
 - Habitabilité : croissante selon un classement de 0 à 11
 
-En phase A et B : on échantillone dans l'ordre d'habitabilité.
+En phase A et B : on échantillone dans l'ordre d'habitabilité les 4 meilleurs et on prend la classe de vitesse la plus représentative si y en a plusieurs
 Si ré-échantillonage de certains substrats : favoriser les **plus représentatifs** et faire varier les **classes de vitesse**
 
 En phase C : sur substrats dominants non-échantillonés
 Si ré-échantillonage **règle des 10%**
+-> si on ré-échantillone on considère que la valeur en pourcentage de la représentativité a été réduite de 10% et on prend la plus grande valeur restante, et on refait jusqu'à avoir nos 4 valeurs. si deux on la même valeur on prend celui avec le meilleur score d'habitabilité.
+si on reprend un même habitat on peut faire varier les classes de vitesse lorsqu'on ré-échantillonne.
+
+
 
