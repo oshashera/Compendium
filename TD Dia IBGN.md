@@ -101,5 +101,5 @@ Si ré-échantillonage **règle des 10%**
 -> si on ré-échantillone on considère que la valeur en pourcentage de la représentativité a été réduite de 10% et on prend la plus grande valeur restante, et on refait jusqu'à avoir nos 4 valeurs. si deux on la même valeur on prend celui avec le meilleur score d'habitabilité.
 si on reprend un même habitat on peut faire varier les classes de vitesse lorsqu'on ré-échantillonne.
 
-
+ 
 
