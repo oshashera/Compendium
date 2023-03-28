@@ -318,5 +318,9 @@ on voit une diminution (3x moins par unité de surface) de la quantité de monom
 *(changement le plus important)*
 
 enzyme importante pour la synthèse des cutines, celle des mutants est moins importante (plus large mais moins dense) et semble gérer la formation de l'acide hexadécane dioic (cf screen)
+
+
 ___
-5. **Les feuilles du mutant cyp86a2-1 après détachement de la plante fanent plus rapidement que celles du sauvage. Essayer de donner une explication raisonnée de ceci en vous servant des données de la Figure 8.**
+5. **Les feuilles du mutant cyp86a2-1 après détachement de la plante fanent plus rapidement que celles du sauvage. Essayer de donner une explication raisonnée de ceci en vous servant des données de la Figure 6.**
+
+plus grande lacheté de la cutine = plus forte dessication.
