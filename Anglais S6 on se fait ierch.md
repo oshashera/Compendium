@@ -137,3 +137,9 @@ Les OGM jouent un rôle majeur dans la concentration du secteur des semences. L�
 Dix grandes firmes multinationales contrôlent 60 % du marché mondial formel des semence.
 
 Un autre risque socio-économique porte sur les possibles contaminations de cultures non-OGM par des cultures génétiquement modifiées des champs environnants. Ces contaminations peuvent engendrer des pertes importantes, lorsque, par exemple, un agriculteur en agriculture biologique ou labellisée « sans OGM » subit une contamination par des plantes génétiquement modifiés sur ses parcelles. Sa récolte sera alors déclassée.
+
+
+Compte tenu des nombreuses controverse, on peut se demander si la place des OGM doit changer, pour augmenter ou réduire. Pour cela il faut peser le pour et le contre, et selon quelles modalités.
+
+Tout d'abord 
+
