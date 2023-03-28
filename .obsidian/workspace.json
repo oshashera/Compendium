@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69425a1cfa58bb00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BVD TD cdlamèrd.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BVD TD cdlamèrd.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BVD TD cdlamèrd.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -176,8 +189,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0030e27f41cd76cd",
+  "active": "69425a1cfa58bb00",
   "lastOpenFiles": [
+    "BVD TD cdlamèrd.md",
+    "Untitled.md",
     "Pasted image 20230327172841.png",
     "Pasted image 20230327161602.png",
     "Pasted image 20230327161419.png",
@@ -190,10 +205,8 @@
     "Pasted image 20230327160525.png",
     "Anglais S6 on se fait ierch.md",
     "TP bota floristique 2.md",
-    "Pasted image 20230324170437.png",
     "TP5 BOT.md",
     "TP BVD.md",
-    "BVD TD cdlamèrd.md",
     "TP Carto notes.md",
     "Excalidraw/pollen grain germination tp5 bot.md",
     "TP BCV.md",
