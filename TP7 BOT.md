@@ -52,5 +52,21 @@ Anthères : **déhiscence longitudinale intorse**
 **IV. Gynécée:**
 
 Ovaire **supère**, fleur **hypogyne**
-Formé de 4 masses ovariennes, 1 style, 2 stigmate,
 attention le calice est soudé mais pas un réceptacle
+
+Formé de 4 masses ovariennes, 1 style, 2 stigmate, 
+*1 ovule/loge avec les 4 masses étant chacune une loge, donc on a un carpelle = 2 loges et une cloison (fausse cloison) qui sépare les ovules, ce qui fait donc sens : 4 loges, 2 carpelles -> 2 stigmates.*
+Caractère stable chez les lamiacées.
+
+2 stigmates, un style gynobasique, 4 ovaires
+2 carpelles soudées puis séparation des ovaires en 4 : gynécée gamocarpellé
+fleur hypogyne : ovaires supères sur disque nectarifère
+2 ovules par carpelle à placentation axile
+1 ovule/loge donc fruit = tétrakène
+**Normalement dans un carpelle y a tjrs 2 ovules** sauf si 1 c'est pas développé -> aide à déterminer si fausse cloison.
+
+Vont donner 4 fruits, 4 akène, un **tétrakène**
+
+[[mettre dessin floral]]
+
+FF: (5S) + [ (2/3P) +2E,2e] + <u>(2C)</u>
