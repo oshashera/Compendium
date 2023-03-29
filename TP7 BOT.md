@@ -34,8 +34,8 @@ actinomorphe gamosépale, actinomorphe, 5 sépales, persistant.
 
 **II. Corolle:**
 zygomorphe (plan de symétrie, pas plusieurs axes), zygomorphe antéro-postérieur, 5 pétales, caduque
-bilabiée: une lèvre supérière formée de 2 pétales soudézs, une lèvre inférieure constituée de 3 pétales soudés.
-
+bilabiée: une lèvre supérière formée de 2 pétales soudézs, une lèvre inférieure constituée de 3 pétales soudés, corolle (2/3 P)
+[diapo des variations/types de corolles chez les Lamiacées, plus tard dans le diapo]
 
 [mettre diapo pour trouver axe postérieur ou antérieur chez mono et eudi]
 
@@ -44,5 +44,10 @@ bilabiée: une lèvre supérière formée de 2 pétales soudézs, une lèvre inf
 **III. Androcée:**
 
 4 étamines, partent du tube de la corolle (androcée **corolliflore**), celle "manquante" est l'étamine postérieure, celle qui séparerait les 2 pétales formant la lèvre supérieure, il en "manque" une donc androcée **anisostémone**. 
-Si on regarde les filets, on en voit 2 plus longues que les 2 autres : androcée anisodyname didyname po
+Si on regarde les filets, on en voit 2 plus longues (coté antérieur) que les 2 autres : androcée **anisodyname didyname**.
+Filets libres et anthères aussi: **dialystémone**
+Anthères : **déhiscence longitudinale intorse**
+
+
 **IV. Gynécée:**
+
