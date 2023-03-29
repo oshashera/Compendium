@@ -29,4 +29,10 @@ cyme bipare plutot, groupes de petites cymes
 [diapo inflorescence centrifuge de type cyme avec fleurs sessiles en glomérules]
 
 
+**I. Calice:**
+actinomorphe gamosépale, actinomorphe, 5 sépales, persistant.
 
+**II. Corolle:**
+zygomorphe (plan de symétrie, pas plusieurs axes), zygomorphe
+
+[mettre diapo pour t]
