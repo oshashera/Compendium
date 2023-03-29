@@ -51,4 +51,6 @@ Anthères : **déhiscence longitudinale intorse**
 
 **IV. Gynécée:**
 
-
+Ovaire **supère**, fleur **hypogyne**
+Formé de 4 masses ovariennes, 1 style, 2 stigmate,
+attention le calice est soudé mais pas un réceptacle
