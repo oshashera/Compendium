@@ -33,6 +33,16 @@ cyme bipare plutot, groupes de petites cymes
 actinomorphe gamosépale, actinomorphe, 5 sépales, persistant.
 
 **II. Corolle:**
-zygomorphe (plan de symétrie, pas plusieurs axes), zygomorphe
+zygomorphe (plan de symétrie, pas plusieurs axes), zygomorphe antéro-postérieur, 5 pétales, caduque
+bilabiée: une lèvre supérière formée de 2 pétales soudézs, une lèvre inférieure constituée de 3 pétales soudés.
 
-[mettre diapo pour t]
+
+[mettre diapo pour trouver axe postérieur ou antérieur chez mono et eudi]
+
+[diapo chez les eudicot il existe un sépale en position postérieur, chez les monocot, il existe un sépale en position antérieure]
+
+**III. Androcée:**
+
+
+
+**IV. Gynécée:**
