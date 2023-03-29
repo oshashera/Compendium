@@ -71,3 +71,12 @@ Vont donner 4 fruits, 4 akène, un **tétrakène**
 
 $$ FF: (5S) + [ (2/3P) +2E,2e] + \underline{(2C)} $$
 [mettre dessin de coupe longitudinale]
+
+Lamiacées:
+
+- Tiges carrées et feuilles opposées décussées fréquentes
+- Souvent fleurs bilabiées (ex. Labiées) mais aussi unilabiées
+- Androcée didyname parfois réduit à 2 étamines, filets soudés à la corolle
+- Gynécée à 2 carpelles soudées puis apparition d'une cloison donnant 4 ovaires apparents
+- Fruits de type tétrakène
+
