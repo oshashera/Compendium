@@ -12,4 +12,21 @@ Genre type *Lamium*, le lamier.
 
 
 Feuilles pétiolées, opposées décussées.
-Limbe cordiforme (forme de coeur, plus ou moins allongé/ovale), découpé/denté sur les bords, nervations pennées
+Limbe cordiforme (forme de coeur, plus ou moins allongé/ovale), découpé/denté sur les bords, nervations pennées.
+Fleurs groupées en inflorescences, corolle caduque?
+
+![[Pasted image 20230329142329.png]]
+
+[[insérer dessin papier]]
+
+
+Inflorescence sympodiale
+inflorescence centrifuge de type cyme avec fleurs sessiles en glomérules
+
+cyme bipare plutot, groupes de petites cymes
+
+
+[diapo inflorescence centrifuge de type cyme avec fleurs sessiles en glomérules]
+
+
+
