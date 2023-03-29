@@ -43,6 +43,6 @@ bilabiée: une lèvre supérière formée de 2 pétales soudézs, une lèvre inf
 
 **III. Androcée:**
 
-
-
+4 étamines, partent du tube de la corolle (androcée **corolliflore**), celle "manquante" est l'étamine postérieure, celle qui séparerait les 2 pétales formant la lèvre supérieure, il en "manque" une donc androcée **anisostémone**. 
+Si on regarde les filets, on en voit 2 plus longues que les 2 autres : androcée anisodyname didyname po
 **IV. Gynécée:**
