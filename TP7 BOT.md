@@ -67,6 +67,7 @@ fleur hypogyne : ovaires supères sur disque nectarifère
 
 Vont donner 4 fruits, 4 akène, un **tétrakène**
 
-[[mettre dessin floral]]
+[mettre dessin floral] + mettre une croix au niveau de l'étamine manquante
 
-FF: (5S) + [ (2/3P) +2E,2e] + <u>(2C)</u>
+$$ FF: (5S) + [ (2/3P) +2E,2e] + \underline{(2C)} $$
+[mettre dessin de coupe longitudinale]
