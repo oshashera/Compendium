@@ -119,4 +119,10 @@ Fleur de type 5.
 - Ovaire infère adhérent
 - Placentation pariétale basale
 
-Akène seul = fruit.
+Akène seul = fruit
+
+[mettre diapo schéma floral]
+
+$$ n~soies + [(0/5P)+(5e)_a]+(\overline{2C})$$
+[mettre coupe longitudinale antéro-postérieure]
+
