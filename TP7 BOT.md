@@ -86,3 +86,7 @@ ____
 
 *Taraxacum dens leonis*, Le pissenlit
 
+[diapo une fleur de profil]
+
+pétales forment un tubLigule à 5 pointes -> 5 pétales.
+Fleur de type 5.
