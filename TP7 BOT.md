@@ -137,4 +137,4 @@ Astéracées:
 - 2 carpelles soudés, un ovule à placentation basale
 - Fruit: akène surmonté ou non d'un pappus
 
-Plantes alimentaires: pissenlit, laitue, chicorée, estragon, artichaut, tournesol, topinambour
+*Plantes alimentaires: pissenlit, laitue, chicorée, estragon, artichaut, tournesol, topinambour*
