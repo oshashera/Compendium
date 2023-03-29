@@ -80,3 +80,9 @@ Lamiacées:
 - Gynécée à 2 carpelles soudées puis apparition d'une cloison donnant 4 ovaires apparents
 - Fruits de type tétrakène
 
+____
+
+## <mark style="background: #FF8500A6;">Astéracées</mark>
+
+*Taraxacum dens leonis*, Le pissenlit
+
