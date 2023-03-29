@@ -126,3 +126,15 @@ Akène seul = fruit
 $$ n~soies + [(0/5P)+(5e)_a]+(\overline{2C})$$
 [mettre coupe longitudinale antéro-postérieure]
 
+[diapos capitules lugiluflores, etc]
+
+
+Astéracées:
+- Fleurs en capitule entourés par un involucre de bractées, capitules homogènes ou hétérogènes
+- Calice réduit ou absent
+- Corolle gamopétale actinomorphe ou zygomorphe
+- Androcée de 5 étamines corolliflore et synanthéré (caractère constant)
+- 2 carpelles soudés, un ovule à placentation basale
+- Fruit: akène surmonté ou non d'un pappus
+
+Plantes alimentaires: pissenlit, laitue, chicorée, estragon, artichaut, tournesol, topinambour
