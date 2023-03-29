@@ -101,6 +101,22 @@ Fleur de type 5.
 - Zygomorphhe
 - Unilabiée avec ligule antérieure formée des 5 pétales
 
+[mettre diapo avec les 3 stigmates etc (zooms carré rouges)]
+
 **Androcée:**
+- 5 filets séparés au début puis se terminent par des anthères qui se rejoignent (et se soudent), donc l'androcée est **gamostémone synanthérée**
+- 5 étamines sur un cercle, altenipétales
+- Isostémones
+- Corolliflores
+- Gamostémones synanthérées
+- Isodyname
+- Déhiscence longitudinale in,torse
 
+**Gynécée:**
+- 1 ovaire, 1 style et 2 stigmates : 2 carpelles soudés
+- Gamocarpellé
+- 1 ovule dans une loge ovarienne
+- Ovaire infère adhérent
+- Placentation pariétale basale
 
+Akène seul = fruit.
