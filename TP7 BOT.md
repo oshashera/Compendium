@@ -88,5 +88,19 @@ ____
 
 [diapo une fleur de profil]
 
-pétales forment un tubLigule à 5 pointes -> 5 pétales.
+pétales forment un tube, puis un ligule à 5 pointes -> 5 pétales.
 Fleur de type 5.
+
+**Calice:**
+- Réduit à n soies
+- Persistant et même accrescent
+
+**Corolle:**
+- 5 pétales jaunes unis en tube à la base puis formant une ligule
+- Gamopétale
+- Zygomorphhe
+- Unilabiée avec ligule antérieure formée des 5 pétales
+
+**Androcée:**
+
+
