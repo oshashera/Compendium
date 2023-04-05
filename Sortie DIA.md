@@ -27,3 +27,28 @@ Eq = shannon/log2(Richesse spécifique)
 0 = 1 espèce qui domine
 1 = tlm est équilibré
 
+
+Associer ca a données complémentaires:
+- flores/ guide d'identif.
+- Ouvrages plus spécialisés
+- Bases de données en ligne
+
+-> calcul d'une multitude d'indice
+- valeur patrimoniale
+- indicateurs écologiques
+- valeurs agronomiques
+
+
+Identifier les enjeux de conservation associés aux espèces:
+- SP protégées (protection régionale, nationale, européenne, internationale)
+- liste rouge des sp menacées (UICN)
+- Rareté à l'échelle régionale (dans certaines clés de détermination)
+
+*conservatoire botanique de brest: donne base de données régionale avec la rareté de l'espèce sur la région*
+
+
+Analyser les caractéristiques écologiques du site:
+- Echelle locale
+	- Facteurs abiotiques
+		- ex. niveau tropique, humidité
+	- F
