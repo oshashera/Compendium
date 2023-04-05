@@ -12,4 +12,7 @@ Indicateurs écologiques
 - analyser le bon fonctionnement des écosystèmes
 - cibler sur certaines espèces à enjeux
 
+[récup diapo]
 
+- Organisation manuelle
+- Méthodes automatisées d'ordination (AFC) et de classification (CAH)
