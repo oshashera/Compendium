@@ -51,4 +51,50 @@ Analyser les caractéristiques écologiques du site:
 - Echelle locale
 	- Facteurs abiotiques
 		- ex. niveau tropique, humidité
-	- F
+	- Pratiques de gestion
+		- ex. fauche (prairie), coupe (forêt), taille(haie), labour(jardins dans le passé)
+-> Utiliser les indices d'Ellenberg
+-> affinité des espèces végétales européennes vis à vis de plusieurs facteurs écologiques:
+-Luminosité(L)
+-Température(T)
+-Continentalité(K)
+-Humidité(F)
+-Acidité(R)
+-Teneur en azote(N)
+
+*sur tela botanica ou julve*
+-> moyenne de l'indice ou moyenne de l'indice pondérée par les abondances
+Ex: sp1 = 6 pour azote, sp2 = 4, note R1=(6+4)/2 = 5 si on considère que l'abondance importe peut, **ou alors**, (3x6+4x4)/7 = 34/7
+
+Analyser les caractéristiques écologiques du site (pratiques de gestion) chez e-FLORA sys par exemple : estimation de la résistance à la fauche, pietinement, feu.... estimation de la valeur fourragère (qualitative) globale de la communauté
+
+Analyser les caractéristiques écologiques du site:
+- Echelle paysagère
+	- Naturre et arrangement spatiaux des éléments naturels
+		- ex. Occupation des sols, taille des parcelles,....
+	- Structure des linéaires
+		- Ex: densité des haies, connectivité,...
+-> échelle à définir en fonction des organismes.
+
+*comment relier un commu échantillonée à une échelle locale à des paramètres intervenant sur une surface plus lar*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____
+Tela botanica ou julve (u)
+e-FLORA sys (pratique de gestion)
