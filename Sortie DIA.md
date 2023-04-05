@@ -88,10 +88,38 @@ Analyser le rôle des communautés pour les autres compartiments de la biodivers
 
 
 Interprétation des données et réalisation du diagnostic
-1. caractériser les communautés présente
+1. caractériser les communautés présentes
+2. analyser l'intérêt écologique du site pour le groupe taxonomique étudié
+3. analyser les menaces liées à certaines espèces pour le site
+4. analyse des dysfonctionnements éventuels sur le site (pollution, perturbation)
+
+Préconisation de mesures de gestion
+mise en place de pratiques, changement de gestion.....
+
+Volet carto: noté sur 10
+- objectif 
+- méthodo (jusfication de la typo utilisée aussi)
+- Résultats
+- Interprétation et discussion (notamment de l'intérêt pour le diagnostique écologique du site)
+
+Volet indicateur écologique:
+
+*Indicateur 1*: *plantes ou oizal*
+- Objectif
+- Méthodo
+- Résultats
+- Interprétation et discussion
+
+*Indicateur 2* : *vdt ou ibgn*
+
+Discussion générale:
+
+Conclusion et perspectives dans le cadre du projet d'aménagement
+
++Annexes, tableaux bruts pour les **4** indicateurs.
 
 
-
+<mark style="background: #FF8500A6;">date de rendu: le 8 MAI</mark>
 
 
 
