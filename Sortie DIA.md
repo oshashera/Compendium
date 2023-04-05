@@ -76,10 +76,19 @@ Analyser les caractéristiques écologiques du site:
 		- Ex: densité des haies, connectivité,...
 -> échelle à définir en fonction des organismes.
 
-*comment relier un commu échantillonée à une échelle locale à des paramètres intervenant sur une surface plus lar*
+*comment relier un commu échantillonée à une échelle locale à des paramètres intervenant sur une surface plus large? 
+utilisation de **"buffers"** = zones tampon autour de la zone d'échantillonage*
+
+
+Analyser le rôle des communautés pour les autres compartiments de la biodiversité:
+- Définir la structuration verticale de la végétation
+<ul> mesure de la structuration verticales : <br> -> distribution de l'abondance totale des végétaux dans les strates herbacées, arbustives, et arborées <br> => densité d'habitats</ul>
+- Définir le rôle du site dans la nidification des oiseaux ou son alimentation.
 
 
 
+Interprétation des données et réalisation du diagnostic
+1. caractériser les communautés présente
 
 
 
@@ -96,5 +105,8 @@ Analyser les caractéristiques écologiques du site:
 
 
 ____
+Plantes:
+ECalluna (protectio, distribution régionale,...)
+*cbnbrest.fr/observatoire-plantes/*
 Tela botanica ou julve (u)
 e-FLORA sys (pratique de gestion)
