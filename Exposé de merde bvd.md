@@ -1,0 +1,2 @@
+In summary, we have shown that MeSA and jasmonate signaling are essential for systemic resistance in N. benthamiana. We also showed that JA and MeJA signaling likely regulate MeSA and SA production in N. benthamiana plants. Thus, our studies revealed a new mechanism for the interaction between JA and SA in mediating systemic resistance response and provide a framework to further understand the molecular mechanisms of plant defense against virus pathogens.
+*mpmi Zhu F. et al*
