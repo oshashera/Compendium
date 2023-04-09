@@ -30,9 +30,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c6f829cd1946e8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "81691af994a0e32a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exposé de merde bvd.md",
+                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exposé de merde bvd.md",
+                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exposé de merde bvd.md"
+                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md"
               }
             }
           },
@@ -189,10 +207,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5ecb070982523d1b",
+  "active": "81691af994a0e32a",
   "lastOpenFiles": [
-    "Sortie DIA.md",
+    "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md",
     "Exposé de merde bvd.md",
+    "Sortie DIA.md",
     "TP7 BOT.md",
     "Pasted image 20230329142329.png",
     "TP6 BOT.md",
@@ -225,7 +244,6 @@
     "TP2 BOT - Hydrophytes.md",
     "Botanique Systématique (BOT).md",
     "Conventions dessins botanique.md",
-    "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
-    "Excalidraw/ccl td 2 bvd.md"
+    "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md"
   ]
 }
