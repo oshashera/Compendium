@@ -12,3 +12,13 @@ Growth inhibition is another prominent symptom of virus infection where altered 
 It is possible, therefore, that the observed virus-induced reduction in free Z concentration may decrease cell division and hence contribute to the reduced growth of infected leaves.
 *Whenham 1989*
 
+
+
+We identified and cloned from *N. tabacum* Xanthi nn plants **a full-length, novel gene (NH), homologous to the N gene**
+cDNA of NH and H 82,8% nucleotide identity shared.
+
+NH protein belongs to TIR/NBS/LRR resistance gene class
+*N gene... Stange; TomÃ¡s; Elorza; Arce-Johnson 2004*
+
+
+
