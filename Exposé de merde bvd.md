@@ -29,5 +29,5 @@ The intactness of chloroplasts was examined according to Lilley et al. by the fe
 The analysis of photosynthetic rates in infected leaves revealed that electron flow through PSII was greatly reduced in chloroplasts containing large levels of TMV-CP, i.e. those isolated from TMV-PV230 infections.
 
 We suggest instead that PSII activity may be inhibited by the large accumulation of CP of TMV-PV230 in both stroma and in thylakoid membranes, a phenomenon not detected in symptomless infected leaves.
-* Beachy 1989*
+*Beachy 1989*
 

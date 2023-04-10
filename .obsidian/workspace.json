@@ -8,49 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "032017e8c6cc454f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sortie DIA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ecb070982523d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exposé de merde bvd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c6f829cd1946e8d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "81691af994a0e32a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md"
+                "file": "Excalidraw/Tantorum logo.md"
               }
+            }
+          },
+          {
+            "id": "6fe7b78b946f83be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,15 +179,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "81691af994a0e32a",
+  "active": "6fe7b78b946f83be",
   "lastOpenFiles": [
+    "Excalidraw/Tantorum logo.md",
+    "Sortie DIA.md",
+    "Exposé de merde bvd.md",
     "Pasted Image 20230409220209_466.png",
     "Pasted Image 20230409215603_310.png",
     "Pasted Image 20230409215203_875.png",
     "Pasted Image 20230409214640_017.png",
-    "Excalidraw/Drawing 2023-04-09 21.34.36.excalidraw.md",
-    "Exposé de merde bvd.md",
-    "Sortie DIA.md",
     "TP7 BOT.md",
     "Pasted image 20230329142329.png",
     "TP6 BOT.md",
@@ -228,7 +200,6 @@
     "Pasted image 20230327161419.png",
     "Pasted image 20230327161306.png",
     "Pasted image 20230327160953.png",
-    "Pasted image 20230327160723.png",
     "TP5 BOT.md",
     "TP BVD.md",
     "TP Carto notes.md",
