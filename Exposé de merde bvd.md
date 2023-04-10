@@ -31,3 +31,12 @@ The analysis of photosynthetic rates in infected leaves revealed that electron f
 We suggest instead that PSII activity may be inhibited by the large accumulation of CP of TMV-PV230 in both stroma and in thylakoid membranes, a phenomenon not detected in symptomless infected leaves.
 *Beachy 1989*
 
+
+
+The generation of ROS is one of the hallmarks of plant responses against pathogens.
+
+Our collective evidence suggests that CRE1 is a positive regulator of N. tabacum against TMV-GFP and demonstrates that complete CTK signalling is required for the induction and development of defence responses in N. tabacum induced by TMV-GFP.
+*Chen; Zou; Fei; Xi 2021*
+
+
+

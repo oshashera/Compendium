@@ -21,8 +21,12 @@
             "id": "6fe7b78b946f83be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exposé de merde bvd.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exposé de merde bvd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exposé de merde bvd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exposé de merde bvd.md"
+              }
             }
           },
           {
