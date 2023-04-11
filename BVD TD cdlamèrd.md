@@ -332,10 +332,25 @@ plus grande lacheté de la cutine = plus forte dessication.
 **a) Comparer les résultats obetnus pour les 3 souches d'*E. aerogenes***
 
 E. aerogenes 3 bcp moins sensible que les autres à Cefotaxine (1024x), Cefipirone(256x), Cefepine(128x) et plus de 256x pour la ceftazidine comparé à E. aerogenes ATCC
-Les rapports sont globalement les mêmes en comparaison à E.A 3 plG361 sauf pour la ceftazidine ou il y a 32x plus en E.a 3 qu'en E.a 3plg361
+Les rapports sont globalement les mêmes en comparaison à E.A 3 plG361 sauf pour la ceftazidine ou il y a 8x plus en E.a 3 qu'en E.a 3plg361
+
+CMI pour E.a ATCC inférieure ou égale à 2µg/mL -> peu d'antibio pour inhiber la croissance de la souche Wild Type
+
+CMI pour E.a 3 4 à 1000 fois plus importantes
+
+CMI pour E.a 3 plg361, environ équivalente à la première sauf pour ceftazidine ou cmi 8x plus grande
 
 **b) Expliquer les différences-homologies observées entre ces 3 souches
 
+Celle dans milieux hospitalier (la 2ème souche) a plus de stress selectif que la wild type donc résistance aux ATB
+La wild type pas confrontée à ca
 
+La 3ème souche est la deuxième modifiée avec plasmide codant pour la porine (canal mb externe, sert à fermer le canal) donc retour au CMI proches de la sauvage.
+
+**c) Quelles hypothèses pouvez-vous proposer pour expliquer les résultats obtenus avec la souche *E.aerogenes 3*?**
+
+Colonne du milieu, porines mais mutées, jouent plus leur rôle de canal? (conformation)
+Colonne du milieu, peut être juste moins de porine?
+Colonne du m
 
 
