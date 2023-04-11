@@ -329,16 +329,12 @@ plus grande lacheté de la cutine = plus forte dessication.
 
 ##### EXERCICE 5 : Etude de la résistance d'une bactérie E. aerogenes vis à vis de différents antibiotiques.
 
-**a)** Comparer les résultats obetnus pour les 3 souches
+**a) Comparer les résultats obetnus pour les 3 souches d'*E. aerogenes***
 
+E. aerogenes 3 bcp moins sensible que les autres à Cefotaxine (1024x), Cefipirone(256x), Cefepine(128x) et plus de 256x pour la ceftazidine comparé à E. aerogenes ATCC
+Les rapports sont globalement les mêmes en comparaison à E.A 3 plG361 sauf pour la ceftazidine ou il y a 32x plus en E.a 3 qu'en E.a 3plg361
 
-
-
-
-
-
-
-
+**b) Expliquer les différences-homologies observées entre ces 3 souches
 
 
 
