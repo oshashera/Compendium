@@ -345,12 +345,29 @@ CMI pour E.a 3 plg361, environ équivalente à la première sauf pour ceftazidin
 Celle dans milieux hospitalier (la 2ème souche) a plus de stress selectif que la wild type donc résistance aux ATB
 La wild type pas confrontée à ca
 
-La 3ème souche est la deuxième modifiée avec plasmide codant pour la porine (canal mb externe, sert à fermer le canal) donc retour au CMI proches de la sauvage.
+La 3ème souche est la deuxième modifiée avec plasmide codant pour la porine (canal mb externe, laisse passer ATB) donc retour au CMI proches de la sauvage.
 
 **c) Quelles hypothèses pouvez-vous proposer pour expliquer les résultats obtenus avec la souche *E.aerogenes 3*?**
 
 Colonne du milieu, porines mais mutées, jouent plus leur rôle de canal? (conformation)
 Colonne du milieu, peut être juste moins de porine?
-Colonne du m
+Colonne du milieu peut être plus aucune porine?
+Colonne du milieu, peut être défaut d'adressage (peptide de transfert marche mal)
 
+**d) Comparer les résultats obtenus pour les deux souches E. aerogenes (sauvage et 3) pour la conductance de leur porines (laisser passer ions par mb)**
+
+Conductance wild type 3 à 4x plus grande que celle de E.aerogenes 3. 
+Donc laisse passer des ions (atb), donc explique le changement drastique de CMI entre les 2
+
+
+**e) Quelle hypothèses pouvez vous émettre pour les expliquer et compléter votre réponse à la question c?**
+
+On a une porine (info donnée dans le tableau question D) donc défaut d'adressage ou pb de synthèse sont à rejetter.
+
+On a pas le nombre, la conductance est donnée pour 1 porine à chaque fois.
+Celles de la mutée laisse passer moins bien.
+Donc l'hypothèse de pb de conformation est **la plus probable**
+
+
+##### Exercice 8 : action d'un ATB sur *Pseudomonas aeruginosa***
 
