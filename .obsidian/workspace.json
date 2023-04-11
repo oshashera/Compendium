@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exposé de merde bvd.md",
+                "file": "Bactérie, Virus, Défense (BVD).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exposé de merde bvd.md",
+                "file": "Bactérie, Virus, Défense (BVD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exposé de merde bvd.md",
+                "file": "Bactérie, Virus, Défense (BVD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exposé de merde bvd.md"
+                "file": "Bactérie, Virus, Défense (BVD).md"
               }
             }
           },
@@ -189,9 +189,10 @@
   },
   "active": "6fe7b78b946f83be",
   "lastOpenFiles": [
+    "BVD TD cdlamèrd.md",
+    "Exposé de merde bvd.md",
     "Excalidraw/Tantorum logo.md",
     "Sortie DIA.md",
-    "Exposé de merde bvd.md",
     "Pasted Image 20230409220209_466.png",
     "Pasted Image 20230409215603_310.png",
     "Pasted Image 20230409215203_875.png",
@@ -202,7 +203,6 @@
     "Anglais S6 on se fait ierch.md",
     "TD Dia IBGN.md",
     "Excalidraw/graph td dia.md",
-    "BVD TD cdlamèrd.md",
     "Pasted image 20230327172841.png",
     "Pasted image 20230327161602.png",
     "Pasted image 20230327161419.png",

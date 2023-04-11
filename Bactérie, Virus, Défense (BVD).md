@@ -331,3 +331,31 @@ Fin contenu cc1
 ____
 
 suite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[cms de merde]
+
+
+D) Lutte chimique
+
+1. Composés agissant directement sur les pathogènes bactériens
+
+environ 120 molécules en france.
+"bouillie bordelaise", très utilisée pour les fruitiers (contient Cu+)
+Comment le Cu affecte les bactéries?
+2 Hypothèses : 
+-> participe à la synthèse de ROS (stress oxydatif)
+-> Ions cuivre, pourraient jouer sur la structure tertiaire des protéines de mb plasmique, entrainant dépolarisation de la mb, et donc fonctionnement des bactéries inhibé

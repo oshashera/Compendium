@@ -324,3 +324,22 @@ ___
 5. **Les feuilles du mutant cyp86a2-1 après détachement de la plante fanent plus rapidement que celles du sauvage. Essayer de donner une explication raisonnée de ceci en vous servant des données de la Figure 6.**
 
 plus grande lacheté de la cutine = plus forte dessication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
