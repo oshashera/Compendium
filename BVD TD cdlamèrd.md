@@ -371,3 +371,13 @@ Donc l'hypothèse de pb de conformation est **la plus probable**
 
 ##### Exercice 8 : action d'un ATB sur *Pseudomonas aeruginosa***
 
+**Q1** : *Commenter les résultats observés dans les photographies A,B,C,D*
+
+A : pas d'antibio, souche PAO1, pas de biofilm visible
+B : mutant qui produit biofilm en continu : biofilm très visible
+C et D : PAO1 exposé à antibio pendant 18 et 37h -> formation de biofilm au fur et à mesure : mécanisme de défense.
+
+
+**Q2** : *Quelle(s) hypothèse(s) peuvent être proposées pour expliquer ces résultats?*
+
+Biofilm rend difficile l'introduction de molécules dans la bactérie, sert donc de mécanisme de défense?
