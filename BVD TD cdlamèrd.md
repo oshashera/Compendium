@@ -374,10 +374,13 @@ Donc l'hypothèse de pb de conformation est **la plus probable**
 **Q1** : *Commenter les résultats observés dans les photographies A,B,C,D*
 
 A : pas d'antibio, souche PAO1, pas de biofilm visible
-B : mutant qui produit biofilm en continu : biofilm très visible
+B : mutant qui produit biofilm en continu : biofilm très visible : témoin +
 C et D : PAO1 exposé à antibio pendant 18 et 37h -> formation de biofilm au fur et à mesure : mécanisme de défense.
 
 
 **Q2** : *Quelle(s) hypothèse(s) peuvent être proposées pour expliquer ces résultats?*
 
-Biofilm rend difficile l'introduction de molécules dans la bactérie, sert donc de mécanisme de défense?
+On peut supposer que la synthèse d'alginate est en réponse au contact avec l'ATB.
+Plus la durée est longue, plus la bactérie va en produire
+Le B nous sert a comparer avec une bactérie qui en produit sans ATB.
+Le biofilm qui se met en place autour de la bactérie, mécanisme de **résistance** à un ATB
