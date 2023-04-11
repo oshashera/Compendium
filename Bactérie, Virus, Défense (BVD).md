@@ -359,3 +359,18 @@ Comment le Cu affecte les bactéries?
 2 Hypothèses : 
 -> participe à la synthèse de ROS (stress oxydatif)
 -> Ions cuivre, pourraient jouer sur la structure tertiaire des protéines de mb plasmique, entrainant dépolarisation de la mb, et donc fonctionnement des bactéries inhibé
+
+
+2. Composés agissant directement sur les pathogènes mycètes
+
+Fongicides inhibiteurs de la chaine respiratoire ou affectant le métabolisme glucidique, lipidique, la synthèse des acides nucléiques
+
+C) Des composés à action indirecte sur les virus
+
+Quand on a le virus on peut rien faire mais on peut prévenir ou agir de façon indirecte
+
+[nsm récup diapo]
+
+
+E) Lutte biologique
+
