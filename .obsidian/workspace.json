@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md",
+                "file": "BVD TD cdlamèrd.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md",
+                "file": "BVD TD cdlamèrd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md",
+                "file": "BVD TD cdlamèrd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bactérie, Virus, Défense (BVD).md"
+                "file": "BVD TD cdlamèrd.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "6fe7b78b946f83be",
   "lastOpenFiles": [
+    "Bactérie, Virus, Défense (BVD).md",
     "BVD TD cdlamèrd.md",
     "Exposé de merde bvd.md",
     "Excalidraw/Tantorum logo.md",
@@ -217,7 +218,6 @@
     "Ressources à exploiter.md",
     "DIA TP.md",
     "TD dia carto.md",
-    "Bactérie, Virus, Défense (BVD).md",
     "TP1 BOT - Xérophytes.md",
     "TP4 BOT - Trachéophytes (mais fougères quand même).md",
     "TP3 BOT - Gymnospermes.md",

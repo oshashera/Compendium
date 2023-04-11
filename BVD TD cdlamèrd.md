@@ -327,9 +327,9 @@ plus grande lacheté de la cutine = plus forte dessication.
 
 
 
+##### EXERCICE 5 : Etude de la résistance d'une bactérie E. aerogenes vis à vis de différents antibiotiques.
 
-
-
+**a)** Comparer les résultats obetnus pour les 3 souches
 
 
 
