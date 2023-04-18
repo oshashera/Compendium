@@ -80,7 +80,24 @@ bien que la sensibilité a pu être réduite, l'application de ce substitut le c
 L'expression relative du vmt, bien que réduite, reste supérieure chez les mutants après application de 6-BA
 
 ![[Pasted image 20230418161651.png]]
-Qui plus est, l'étude indique que les niveaux d'acide salicylique endogènes dans les mutants affectés par le VMT étaient significativement inférieurs à ceux du tabac WT, et ont aussi constaté que l'expression des gènes dépendants de l'acide salicylic était également fortement inhibée.
+Qui plus est, l'étude indique que les niveaux d'acide salicylique endogènes dans les mutants affectés par le VMT étaient significativement inférieurs à ceux du tabac WT, et ont aussi constaté que l'expression des gènes régulés par l'acide salicylic était également fortement inhibée.
 Ces résultats suggèrent que le déficit de CRE1 module négativement le système de signalisation dépendant de l'acide salicylique, augmentant par la même occasion la sensibilité du tabac au VMT.
 
-Enfin l'activité liée aux ROS (molécules connues pour jouer un rôle important dans les déens)
+Enfin l'activité liée aux ROS (molécules connues pour jouer un rôle important dans les défenses des plantes) a été étudiée
+
+![[Pasted image 20230418155820.png]]
+Lorsqu'inoculé par le VMT-GFP, les mutants produisent plus d'H202 (un ROS), et l'expriment plus que le tabac WT dans les même conditions.
+
+![[Pasted image 20230418155708.png]]
+La superoxyde dismutase (SOD) **est une enzyme produite par les cellules des organismes vivants, animaux et végétaux**. Sa fonction est de piéger les radicaux libres produits par le métabolisme. La superoxyde dismutase est un antioxydant puissant.
+Elle joue un rôle important, parce que les ROS sont un mécanisme de défense puissant, mais autotoxique, cad qu'ils peuvent aussi nuire à la plante, ils ne ciblent pas uniquement les pathogènes. La SOD joue alors un rôle de régulation pour protéger le tabac.
+
+On constate donc que les mutants produisent plus et expriment plus de ROS mais significativement moins de SOD que le mutant, ce qui est néfaste pour la plante.
+
+Dans l'ensemble, les résultats présentés ici indiquent que les mutants cre1 de N. tabacum sont plus vulnérables à l'infection par le TMV-GFP que les plantes WT. Cela suggère que CRE1 est un régulateur positif de N. tabacum contre le TMV-GFP et démontrent que la signalisation CTK complète est nécessaire pour l'induction et le développement des réponses de défense chez N. tabacum.
+
+
+
+
+
+
