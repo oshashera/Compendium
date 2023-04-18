@@ -36,7 +36,12 @@ We suggest instead that PSII activity may be inhibited by the large accumulation
 ## 5
 The generation of ROS is one of the hallmarks of plant responses against pathogens.
 
-Our collective evidence suggests that CRE1 is a positive regulator of N. tabacum against TMV-GFP and demonstrates that complete CTK signalling is required for the induction and development of defence responses in N. tabacum induced by TMV-GFP.
+In the present study, the deficiency of CRE1 in N. tabacum resulted in a strong increase in the susceptibility of N. tabacum to TMV (Fig. 1). Foliar application of exogenous 6-BA failed to completely decrease the susceptibility of tobacco to TMV caused by CRE1 deficiency but was still effective in reducing the susceptibility in the RNAi plants (Fig. 7), confirming that CTKs and CRE1have a positive role in the defence response of N. tabacumagainst TMV-GFP.
+Our studyindicated that the endogenous levels of SA and the transcript levels of NPR1 in tobacco induced by TMVGFP were significantly depressed in the RNAi plants compared to the WT plants, and SA-mediated defence genes, including PR1 and PR5, were also significantly suppressed in the RNAi plants after virus inoculation,
+These results suggested that the deficiency of CRE1 in N. tabacum may negatively modulate the SA signalling system to increase the disease susceptibility of N. tabacum to TMV-GFP.
+
+Overall, the results presented here indicated thatN. tabacum cre1 RNAi mutants are more vulnerable to TMV-GFP infection than WT plants. Our collective evidence suggests that CRE1 is a positive regulator of N. tabacum against TMV-GFP and demonstrates that
+complete CTK signalling is required for the induction and development of defence responses in N. tabacum induced by TMV-GFP.
 *Chen; Zou; Fei; Xi 2021*
 
 
