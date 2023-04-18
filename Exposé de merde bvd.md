@@ -53,11 +53,24 @@ complete CTK signalling is required for the induction and development of defence
 
 
 
-![[Pasted image 20230418155416.png]]
-![[Pasted image 20230418155424.png]]
+
+
 
 La superoxyde dismutase (SOD) **est une enzyme produite par les cellules des organismes vivants, animaux et végétaux**. Sa fonction est de piéger les radicaux libres produits par le métabolisme. La superoxyde dismutase est un antioxydant puissant.
 ROS = méca de défense mais autotoxique et SOD = régulation des ROS
 ![[Pasted image 20230418155820.png]]
 
 ![[Pasted image 20230418155708.png]]
+
+
+
+Une étude, sortie en 2021, s'est penchée sur le rôle de la cytokinine dans les mécanismes de défense du tabac contre les virus, en particuler le VMT.
+En effet, les voies métaboliques régulées par les cytokinines jouent un rôle essentiel dans la réponse des plantes au stress (comme de nb études l'ont prouvé). Malgré tout, le rôle potentiel des récepteurs de cytokinine dans la résistance des plantes aux pathogènes viraux n'était pas établi.
+Les chercheurs ont donc muté des plants de tabac, afin d'inhiber le récepteur de cytokinine 1 (CRE1), et ont obtenus deux mutants viables.
+Ils ont ainsi pu observer que la déficience en CRE1 augmentait la sensibilité du tabac au VMT.
+Mais alors, quel rôle joue donc ce CRE1?
+Pour le comprendre, les chercheurs ont exposé les deux mutants et le tabac "sauvage" (wt) à un VMT lié à de la GFP pour observer la prolifération de ce dernier avec de la fluorescence.
+![[Pasted image 20230418155416.png]]
+Ici, les chercheurs on observé la prolifération du VMT-GFP sur les 3 plants, à 3,5 et 7 jours après inoculation.
+On peut constater que les mutants, en particulier ci50 présentent une sensibilité au VMT bien supérieure au WT.
+Les chercheurs ont alors essayé d'appliquer une autre cytokinine ()
