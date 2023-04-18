@@ -1,8 +1,9 @@
+## 1
 In summary, we have shown that MeSA and jasmonate signaling are essential for systemic resistance in N. benthamiana. We also showed that JA and MeJA signaling likely regulate MeSA and SA production in N. benthamiana plants. Thus, our studies revealed a new mechanism for the interaction between JA and SA in mediating systemic resistance response and provide a framework to further understand the molecular mechanisms of plant defense against virus pathogens.
 *mpmi Zhu F. et al*
 
 
-
+## 2
 We previously showed that endogenous ABA concentration was increased 2 to 6-fold in dark-green areas of TMV-infected leaf and that treatment with exogenous ABA in physiological amounts also increased chlorophyll concentration and reduced susceptibility to infection.
 
 Some of the ABA is transported to upper leaves where it induces a dark-green, antiviral state in cells bordering the veins. This state may be induced by ABA itself or occur through the effect of ABA on cytokinin metabolism.
@@ -13,7 +14,7 @@ It is possible, therefore, that the observed virus-induced reduction in free Z c
 *Whenham 1989*
 
 
-
+## 3
 We identified and cloned from *N. tabacum* Xanthi nn plants **a full-length, novel gene (NH), homologous to the N gene**
 cDNA of NH and H 82,8% nucleotide identity shared.
 
@@ -21,7 +22,7 @@ NH protein belongs to TIR/NBS/LRR resistance gene class
 *N gene... Stange; TomÃ¡s; Elorza; Arce-Johnson 2004*
 
 
-
+## 4
 Plant disease resulting from virus infection is thought to be caused by metabolic changes in particular sets of plant cells during the establishment and replication of the virus.
 
 The intactness of chloroplasts was examined according to Lilley et al. by the ferricyanide reduction method and by phase contrast microscopy.
@@ -32,7 +33,7 @@ We suggest instead that PSII activity may be inhibited by the large accumulation
 *Beachy 1989*
 
 
-
+## 5
 The generation of ROS is one of the hallmarks of plant responses against pathogens.
 
 Our collective evidence suggests that CRE1 is a positive regulator of N. tabacum against TMV-GFP and demonstrates that complete CTK signalling is required for the induction and development of defence responses in N. tabacum induced by TMV-GFP.
