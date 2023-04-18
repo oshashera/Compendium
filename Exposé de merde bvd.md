@@ -49,7 +49,6 @@ complete CTK signalling is required for the induction and development of defence
 *Chen; Zou; Fei; Xi 2021*
 
 
-![[Pasted image 20230418155307.png]]![[Pasted image 20230418155334.png]]
 
 
 
@@ -73,4 +72,15 @@ Pour le comprendre, les chercheurs ont exposé les deux mutants et le tabac "sau
 ![[Pasted image 20230418155416.png]]
 Ici, les chercheurs on observé la prolifération du VMT-GFP sur les 3 plants, à 3,5 et 7 jours après inoculation.
 On peut constater que les mutants, en particulier ci50 présentent une sensibilité au VMT bien supérieure au WT.
-Les chercheurs ont alors essayé d'appliquer une autre cytokinine ()
+Les chercheurs ont alors essayé d'appliquer une autre cytokinine (6-BA) sur les feuilles pour voir si la sensibilité des mutants pouvaient être compensée.
+![[Pasted image 20230418155307.png]]
+bien que la sensibilité a pu être réduite, l'application de ce substitut le compense pas le déficit entrainé par la mutation, confirmant l'importance des cytokinines et de leurs récepteurs dans la résistance du tabac au VMT.
+
+![[Pasted image 20230418155334.png]]
+L'expression relative du vmt, bien que réduite, reste supérieure chez les mutants après application de 6-BA
+
+![[Pasted image 20230418161651.png]]
+Qui plus est, l'étude indique que les niveaux d'acide salicylique endogènes dans les mutants affectés par le VMT étaient significativement inférieurs à ceux du tabac WT, et ont aussi constaté que l'expression des gènes dépendants de l'acide salicylic était également fortement inhibée.
+Ces résultats suggèrent que le déficit de CRE1 module négativement le système de signalisation dépendant de l'acide salicylique, augmentant par la même occasion la sensibilité du tabac au VMT.
+
+Enfin l'activité liée aux ROS (molécules connues pour jouer un rôle important dans les déens)
