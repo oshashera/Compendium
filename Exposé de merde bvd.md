@@ -34,9 +34,13 @@ We suggest instead that PSII activity may be inhibited by the large accumulation
 
 
 ## 5
+
+Cytokinin (CTK)-mediated pathways play essential roles in plant stress responses. How CTK receptors affect plant resistance to viral pathogens remains unclear.
+Nicotiana tabacum CRE1 (CTK receptor 1) in modulating virus susceptibility in N. tabacum. CRE1 deficiency enhanced thesusceptibility of N. tabacum to TMV-GFP.
+
 The generation of ROS is one of the hallmarks of plant responses against pathogens.
 
-In the present study, the deficiency of CRE1 in N. tabacum resulted in a strong increase in the susceptibility of N. tabacum to TMV (Fig. 1). Foliar application of exogenous 6-BA failed to completely decrease the susceptibility of tobacco to TMV caused by CRE1 deficiency but was still effective in reducing the susceptibility in the RNAi plants (Fig. 7), confirming that CTKs and CRE1have a positive role in the defence response of N. tabacumagainst TMV-GFP.
+In the present study, the deficiency of CRE1 in N. tabacum resulted in a strong increase in the susceptibility of N. tabacum to TMV (Fig. 1). Foliar application of exogenous 6-BA (a kind of CTK) failed to completely decrease the susceptibility of tobacco to TMV caused by CRE1 deficiency but was still effective in reducing the susceptibility in the RNAi plants (Fig. 7), confirming that CTKs and CRE1have a positive role in the defence response of N. tabacumagainst TMV-GFP.
 Our studyindicated that the endogenous levels of SA and the transcript levels of NPR1 in tobacco induced by TMVGFP were significantly depressed in the RNAi plants compared to the WT plants, and SA-mediated defence genes, including PR1 and PR5, were also significantly suppressed in the RNAi plants after virus inoculation,
 These results suggested that the deficiency of CRE1 in N. tabacum may negatively modulate the SA signalling system to increase the disease susceptibility of N. tabacum to TMV-GFP.
 
