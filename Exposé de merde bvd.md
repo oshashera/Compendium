@@ -92,7 +92,7 @@ Lorsqu'inoculé par le VMT-GFP, les mutants produisent plus d'H202 (un ROS), et 
 La superoxyde dismutase (SOD) **est une enzyme produite par les cellules des organismes vivants, animaux et végétaux**. Sa fonction est de piéger les radicaux libres produits par le métabolisme. La superoxyde dismutase est un antioxydant puissant.
 Elle joue un rôle important, parce que les ROS sont un mécanisme de défense puissant, mais autotoxique, cad qu'ils peuvent aussi nuire à la plante, ils ne ciblent pas uniquement les pathogènes. La SOD joue alors un rôle de régulation pour protéger le tabac.
 
-On constate donc que les mutants produisent plus et expriment plus de ROS mais significativement moins de SOD que le mutant, ce qui est néfaste pour la plante.
+On constate donc que les mutants produisent plus et expriment plus de ROS mais significativement moins de SOD que le WT, ce qui est néfaste pour la plante.
 
 Dans l'ensemble, les résultats présentés ici indiquent que les mutants cre1 de N. tabacum sont plus vulnérables à l'infection par le TMV-GFP que les plantes WT. Cela suggère que CRE1 est un régulateur positif de N. tabacum contre le TMV-GFP et démontrent que la signalisation CTK complète est nécessaire pour l'induction et le développement des réponses de défense chez N. tabacum.
 
