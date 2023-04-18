@@ -49,4 +49,15 @@ complete CTK signalling is required for the induction and development of defence
 *Chen; Zou; Fei; Xi 2021*
 
 
+![[Pasted image 20230418155307.png]]![[Pasted image 20230418155334.png]]
 
+
+
+![[Pasted image 20230418155416.png]]
+![[Pasted image 20230418155424.png]]
+
+La superoxyde dismutase (SOD) **est une enzyme produite par les cellules des organismes vivants, animaux et végétaux**. Sa fonction est de piéger les radicaux libres produits par le métabolisme. La superoxyde dismutase est un antioxydant puissant.
+ROS = méca de défense mais autotoxique et SOD = régulation des ROS
+![[Pasted image 20230418155820.png]]
+
+![[Pasted image 20230418155708.png]]
