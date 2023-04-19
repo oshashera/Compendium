@@ -61,6 +61,20 @@ si explicatif = qualitatif on pourra prédire une valeur pour chaque modalité d
 dans les coeffs : la prédiction pour la modalité de référence (absent) correspond à la ligne (Intercept)
 la différence entre cette modalité et la deuxième correspond à la ligne suivante... etc etc tt est comparé à la modalité de ref.
 
-Si la pvalue est inférieure au seuil, le coefficient est significativement
-différent de 0 et il y a donc une différence par rapport à la modalité de
-référence
+Si la pvalue est inférieure au seuil, le coefficient est significativement différent de 0 et il y a donc une différence par rapport à la modalité de référence
+
+
+Comparaison moyennes pour plus de 2 groupes.
+boxplot(Taille ~ Antibiotique, data = donnees, main = "titre gnégnégné",xlab = "Concentration en antibiotique", ylab = "Taille des bactéries", col = rainbow(3))
+- séparer tt les échantillons par modalités dans des vecteurs
+- vérifier leur normalité avec shapiro
+- si tous normaux : bartlett.test(y~x)  H0=même variance
+- si normalité et homodéasticité : > aov(y~x) ; sinon kruskal.test(y~x)  H0 = même moyenne
+mod= aov(y~x)
+- si on trouve un effet et anova : TukeyHSD(mod), et faut voir pvalue inf à alpha = diff signif. 
+
+
+- si kruskal : test mann-whitney avec correction bonferroni (seuil alpha/nb comparaison) : wilcox.test(x1,y1). etc etc 
+	si pval inf a alpha diff de moyenne
+![[Pasted image 20230419123613.png]]
+
