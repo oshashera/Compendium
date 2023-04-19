@@ -78,3 +78,13 @@ mod= aov(y~x)
 	si pval inf a alpha diff de moyenne
 ![[Pasted image 20230419123613.png]]
 
+VE = variance expliquée (entre moy groupe et moy globale)
+K = nb variables?
+![[Pasted image 20230419123819.png]]
+VNE =  variance non-expliquée (entre observations individuelles et moyenne du groupe)
+![[Pasted image 20230419123828.png]]
+Statistique de test de l'Anova : F =VE/VNE
+
+prendre une variable en fonction d'une autre:
+note_oui <- cm4$ Note.IB2[cm4 $ Master == "Oui"]
+
