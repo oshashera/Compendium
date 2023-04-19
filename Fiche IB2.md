@@ -100,6 +100,7 @@ On cherche à réduire la dimension en projetant sur des axes principaux
 
 charger ade4 : library(ade4)
 
+<mark style="background: #FF8500A6;">sur données normées</mark>
 pca.olympic = dudi.pca(olympic$tab,scale=T,scannf=F,nf=2)
 crée l'ACP
 
@@ -107,3 +108,44 @@ scatter(pca.olympic, posieig = "bottomright")
 *scatter de tt les observations selon les 2 axes conservés+ valeurs graphs en basà droite*
 
 individus = lignes : pca.olympic$li
+variables = colonnes : pca.olympic$co
+
+cercle corrélation : s.cocircle(pca.olympic.co)
+*90° = indé, aigu = cor+, obtu = cor-*
+
+graph des valeurs propres : pca.olympic$eig
+barplot(pca.olympic$eig, xlab = "axe", ylab = "inertie projetée")
+*inertie de chaque axe, son importance*
+
+<mark style="background: #FF8500A6;">sur données brutes</mark>
+pca.olympic.2 = dudi.pca(olympic$tab,scale=F,scannf=F,nf=2)
+scatter(pca.olympic.2)
+
+
+<mark style="background: #FF8500A6;">acp centrée</mark>
+music = dudi.pca(cm6, scale = F, center =T, scannf = F, nf = 2)
+Interprétation des deux premiers axes (51% inertie)
+**Axe 1** déterminé principalement par la note de Classique, Jazz, chanson française, country. À gauche les individus en dessus de la moyenne pour ces musiques, à droite ceux au dessus
+**Axe 2** Opposition Metal en haut et RnB/Hip Hop/Rap en bas 
+
+covariances entre musiques : cov(cm6$Jazz, cm6 $classique)
+
+indivs au centre : 
+colMeans(cm6[c(59, 55, 17, 21),]) (regarder le scatter)
+colMeans(cm6) 
+
+
+
+classification/clustering:
+Séparer un ensemble de données en groupes (cluster ) homogènes avec : une faible inertie intra-groupe une forte inertie inter-groupes
+
+dist(pca.olympic$co)
+donne distance entre les colonnes 
+
+distance euclidiennes entre les individus : > d = dist(donnees)
+relie indiv proches sous forme dendogramme 
+h = hclust(d, method = ...) puis plot(h)
+ex avec athlètes :
+> d = dist(pca.olympic$co)
+> indiv <- hclust(d, method = "ward.D2")
+> plot(indiv, hang = -0.1, xlab = 'athletes', sub ='')
