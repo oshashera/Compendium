@@ -43,7 +43,24 @@ Une variable expliquée (quantitative) et une/plusieurs variables explicatives q
 mod = lm(y~x) ou lm(y~x1+x2)
 test normalité des **résidus** : shapiro.test(mod$residuals) 
 summary(mod) et mod$coefficients pour avoir la régression et les coeffs
+a0 correspond à la ligne (Intercept), a1 ligne x -> a0+a1x
 plot(x,y) puis abline(mod)
 
+si on veut comparer deux modèles il faut qu'ils soient emboités et que leurs résidus soient normaux
+
+modèle sans facteur : > mod0 = lm(y ~ 1)
+Comparaison modèles linéaires:
+H0 : "les modèles sont équivalents en terme de prédiction"
+- si on rejette l'hypothèse nulle, cela veut dire que l'un des modèles est meilleur pour expliquer les données : celui qui a le RSS le plus faible
+- si on accepte l'hypothèse nulle, les modèles sont "similairement bons", on choisira donc le modèle le plus simple : celui qui a le moins de coefficients
+
+> anova(mod1, mod2) 
 
 
+si explicatif = qualitatif on pourra prédire une valeur pour chaque modalité de la variable qualitative
+dans les coeffs : la prédiction pour la modalité de référence (absent) correspond à la ligne (Intercept)
+la différence entre cette modalité et la deuxième correspond à la ligne suivante... etc etc tt est comparé à la modalité de ref.
+
+Si la pvalue est inférieure au seuil, le coefficient est significativement
+différent de 0 et il y a donc une différence par rapport à la modalité de
+référence
