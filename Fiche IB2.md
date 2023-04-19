@@ -93,6 +93,10 @@ note_oui <- cm4$ Note.IB2[cm4 $ Master == "Oui"]
 
 
 
+
+
+
+
 ACP :
 On cherche à réduire la dimension en projetant sur des axes principaux
 (qui maximisent l'inertie projetée)
@@ -110,7 +114,7 @@ scatter(pca.olympic, posieig = "bottomright")
 individus = lignes : pca.olympic$li
 variables = colonnes : pca.olympic$co
 
-cercle corrélation : s.cocircle(pca.olympic.co)
+cercle corrélation : s.cocircle(pca.olympic$co)
 *90° = indé, aigu = cor+, obtu = cor-*
 
 graph des valeurs propres : pca.olympic$eig
@@ -145,7 +149,22 @@ donne distance entre les colonnes
 distance euclidiennes entre les individus : > d = dist(donnees)
 relie indiv proches sous forme dendogramme 
 h = hclust(d, method = ...) puis plot(h)
-ex avec athlètes :
+ex avec disciplines :
 > d = dist(pca.olympic$co)
-> indiv <- hclust(d, method = "ward.D2")
-> plot(indiv, hang = -0.1, xlab = 'athletes', sub ='')
+> discip <- hclust(d, method = "ward.D2")
+> plot(discip, hang = -0.1, xlab = 'disciplines', sub ='')
+
+combien de types de disciplines?
+> inertie <- sort(discip$height, decreasing = TRUE)
+> plot(inertie[1:10], type = "s", xlab = "Nombre de classes", ylab = "Inertie")
+*détermine combien de classes semblent le plus adaptées: ex 3*
+
+> plot(discip, hang = -0.1, xlab = 'disciplines', sub ='')
+> rect.hclust(discip, k=3)
+
+
+> groupes.h <- as.factor(cutree(h,k=4))
+> s.label(music$li)
+> s.class(music$li,groupes.h,add.plot = TRUE,col = rainbow(5))
+> fait scatter avec indivs, et groupes (4) en fonction des types de musique
+
