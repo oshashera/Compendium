@@ -88,3 +88,22 @@ Statistique de test de l'Anova : F =VE/VNE
 prendre une variable en fonction d'une autre:
 note_oui <- cm4$ Note.IB2[cm4 $ Master == "Oui"]
 
+
+
+
+
+
+ACP :
+On cherche à réduire la dimension en projetant sur des axes principaux
+(qui maximisent l'inertie projetée)
+=> réduire la redondance et le nombre de variables = méthode de représentation!!!! pas test
+
+charger ade4 : library(ade4)
+
+pca.olympic = dudi.pca(olympic$tab,scale=T,scannf=F,nf=2)
+crée l'ACP
+
+scatter(pca.olympic, posieig = "bottomright")
+*scatter de tt les observations selon les 2 axes conservés+ valeurs graphs en basà droite*
+
+individus = lignes : pca.olympic$li
