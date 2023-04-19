@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ae721720934ed8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exposé de merde bvd.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exposé de merde bvd.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exposé de merde bvd.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -173,14 +186,16 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "81691af994a0e32a",
+  "active": "0ae721720934ed8a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Exposé de merde bvd.md",
     "Pasted image 20230418161651.png",
     "Pasted image 20230418161610.png",
-    "Exposé de merde bvd.md",
     "Pasted image 20230418155820.png",
     "Pasted image 20230418155811.png",
     "Pasted image 20230418155708.png",
@@ -194,7 +209,6 @@
     "Bactérie, Virus, Défense (BVD).md",
     "Sortie DIA.md",
     "Pasted Image 20230409220209_466.png",
-    "Pasted Image 20230409215603_310.png",
     "TP7 BOT.md",
     "TP6 BOT.md",
     "Anglais S6 on se fait ierch.md",
