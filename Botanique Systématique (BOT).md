@@ -771,7 +771,56 @@ Plantes inféodées aux lieux humides : aquatiques, semi-aquatiques ou aérienne
 
 ![[Pasted image 20230302082448.png]]
 
-[récup diapos]
+
+### SPHENOPHYTES ou EQUISETOPHYTES (ou classe des SPHENOPSIDES)
+
+![[Pasted image 20230424150934.png]]
+
+![[Pasted image 20230424151002.png]]
+
+
+
+#### Genre : EQUISETUM sp. = Les Prêles soient 15 espèces
+
+- Microphylles vascularisées 
+- tige avec siphonostèle 
+- vraies racines avec actinostèle
+
+
+##### EQUISETUM ARVENSE La prêle des champs
+
+![[Pasted image 20230424151123.png]]
+
+![[Pasted image 20230424151135.png]]
+
+![[Pasted image 20230424151148.png]]
+
+![[Pasted image 20230424151215.png]]
+
+![[Pasted image 20230424151228.png]]
+
+- Silice dans la cuticule : protection contre les herbivores
+- Nombreuses lacunes aérifères : adaptation à un habitat anoxique (milieu inondable).
+- Xylème réduit, grande lacune aquifère
+- Stèle avec moelle axiale (creuse): SIPHONOSTELE
+
+![[Pasted image 20230424151320.png]]
+
+![[Pasted image 20230424151330.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Fougères épiphytes
 
