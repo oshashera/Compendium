@@ -1070,4 +1070,6 @@ Gymnospermes et Angiospermes :
 ![[Pasted image 20230424154812.png]]
 ![[Pasted image 20230424154825.png]]
 
+![[Pasted image 20230424191319.png]]
+![[Pasted image 20230424191331.png]]
 
