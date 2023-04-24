@@ -808,14 +808,54 @@ Plantes inféodées aux lieux humides : aquatiques, semi-aquatiques ou aérienne
 
 ![[Pasted image 20230424151330.png]]
 
+![[Pasted image 20230424151341.png]]
+
+**Courbe bimodale de la taille des spores :** 
+- les plus petites donnent naissance à des gamétophytes mâles 
+- les plus grosses à des gamétophytes femelles qui peuvent devenir hermaphrodites
 
 
+![[Pasted image 20230424151534.png]]
+![[Pasted image 20230424151541.png]]
+![[Pasted image 20230424151552.png]]
+![[Pasted image 20230424151608.png]]
 
 
+### PSILOPHYTES (ou classe des PSILOPSIDES)
+
+#### Genre *PSILOTUM*
+
+Espèces présentent en régions tropicales ou sub-tropicales d’Asie et des Amériques
+![[Pasted image 20230424151654.png]]
+![[Pasted image 20230424151704.png]]
+![[Pasted image 20230424151753.png]]![[Pasted image 20230424151805.png]]
+![[Pasted image 20230424151820.png]]
+![[Pasted image 20230424151835.png]]
+![[Pasted image 20230424151847.png]]
+![[Pasted image 20230424151902.png]]
+![[Pasted image 20230424151910.png]]
+![[Pasted image 20230424151930.png]]
+![[Pasted image 20230424151943.png]]
+
+#### Genre *TMESIPTERIS* : une dizaine d'espèces
+
+- Espèces communes dans le Pacifique sud 
+- Majorité d’épiphytes sur roches ou autres plantes
+
+![[Pasted image 20230424152057.png]]
+![[Pasted image 20230424152111.png]]
+![[Pasted image 20230424152121.png]]
+![[Pasted image 20230424152132.png]]
 
 
+##### Marattiopsida
 
+1 Ordre Marattiales 
+1 famille comprenant 6 genres et ~110 espèces
 
+- Régions chaudes et régions tropicales 
+- Morphologie très semblable aux Polypodiopsida : Mais ce sont des Eusporangiées !
+- Apomorphie : apparition d’une siphonostèle polycyclique (dictyostèles polycycliques)
 
 
 
