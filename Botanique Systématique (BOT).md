@@ -1034,3 +1034,40 @@ Gymnospermes et Angiospermes :
 
 ![[Pasted image 20230424154318.png]]
 ![[Pasted image 20230424154332.png]]
+![[Pasted image 20230424154343.png]]
+![[Pasted image 20230424154355.png]]
+![[Pasted image 20230424154404.png]]
+![[Pasted image 20230424154413.png]]
+![[Pasted image 20230424154423.png]]
+![[Pasted image 20230424154431.png]]
+![[Pasted image 20230424154439.png]]
+![[Pasted image 20230424154446.png]]
+![[Pasted image 20230424154453.png]]
+![[Pasted image 20230424154503.png]]
+![[Pasted image 20230424154519.png]]
+![[Pasted image 20230424154528.png]]
+
+
+### IV- Gnétophytes
+
+![[Pasted image 20230424154544.png]]
+![[Pasted image 20230424154554.png]]
+
+![[Pasted image 20230424154602.png]]
+![[Pasted image 20230424154611.png]]
+![[Pasted image 20230424154621.png]]
+![[Pasted image 20230424154631.png]]
+![[Pasted image 20230424154640.png]]
+![[Pasted image 20230424154648.png]]
+![[Pasted image 20230424154656.png]]
+![[Pasted image 20230424154707.png]]
+![[Pasted image 20230424154716.png]]
+![[Pasted image 20230424154728.png]]
+![[Pasted image 20230424154738.png]]
+![[Pasted image 20230424154750.png]]
+![[Pasted image 20230424154755.png]]
+![[Pasted image 20230424154805.png]]
+![[Pasted image 20230424154812.png]]
+![[Pasted image 20230424154825.png]]
+
+
