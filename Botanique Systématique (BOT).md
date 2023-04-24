@@ -937,24 +937,33 @@ Sporocapres en réalité contiennent les sporanges,
 ![[Pasted image 20230424153327.png]]
 Décalage entre la production d'anthéridies et d'archégones 
 
-[les gamètes mâles nagent dans l'eau vers l'archégone et pénètrent par le col : zoidogamie]
+![[Pasted image 20230424153354.png]]
 
-[gamète mâle ou anthérozoïde multiflagellé en M.E.B]
+![[Pasted image 20230424153416.png]]
 
-[le zygote ...]
+![[Pasted image 20230424153428.png]]
 
-[le sporophyte épuise le gamétophyte]
+![[Pasted image 20230424153439.png]]
 
-[gamétophytes n / jeunes sporophytes (2n photo)]
+![[Pasted image 20230424153500.png]]
 
+
+![[Pasted image 20230424153525.png]]
 - 2 générations hétéromorphes : sporophytes et gamétophytes.
 - 2 phases : diploïde et haploïde
 - Isosporie
 - Isoprothallie
 A part qq exception, dans ce groupe on a isoprothallie
 
-[diapo eusporange et leptosporange]
+![[Pasted image 20230424153541.png]]
 Eusporanges :seule les cellules en rouge (sauf celle formant le tapetum) subissent la méiose
+
+
+
+
+
+
+## GYMNOSPERMES
 
 
 
@@ -974,3 +983,54 @@ Eusporanges :seule les cellules en rouge (sauf celle formant le tapetum) subisse
 - Phellogène => périderme : Suber, Phelloderme
 
 chez angiospermes, gamétophytes femelle = sac embryonnaire
+
+Gymnospermes et Angiospermes : 
+* monophylétiques 
+* groupes frères
+
+![[Pasted image 20230424153715.png]]
+![[Pasted image 20230424153740.png]]
+
+### I- Cycadophytes (~ 360 espèces, 10 genres)
+
+• Port arborescent, tige non ramifiée, feuilles de grandes tailles, découpées, caduques 
+• Répartition en régions tropicales et subtropicales 
+• **Dioécie sauf exception**
+![[Pasted image 20230424153822.png]]
+
+![[Pasted image 20230424153835.png]]
+
+![[Pasted image 20230424153845.png]]
+
+![[Pasted image 20230424153900.png]]
+
+![[Pasted image 20230424153923.png]]
+![[Pasted image 20230424153940.png]]
+
+
+![[Pasted image 20230424153951.png]]
+
+
+### II- Ginkgophytes : 1 genre, 1 espèce Ginkgo biloba
+
+![[Pasted image 20230424154012.png]]
+![[Pasted image 20230424154020.png]]
+![[Pasted image 20230424154037.png]]
+
+![[Pasted image 20230424154046.png]]
+![[Pasted image 20230424154104.png]]
+![[Pasted image 20230424154115.png]]
+![[Pasted image 20230424154123.png]]
+
+
+### III- Coniférophytes sensu lato
+
+![[Pasted image 20230424154213.png]]
+![[Pasted image 20230424154227.png]]
+
+![[Pasted image 20230424154237.png]]
+![[Pasted image 20230424154255.png]]
+![[Pasted image 20230424154310.png]]
+
+![[Pasted image 20230424154318.png]]
+![[Pasted image 20230424154332.png]]
