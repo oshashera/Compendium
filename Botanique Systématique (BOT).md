@@ -1072,4 +1072,37 @@ Gymnospermes et Angiospermes :
 
 ![[Pasted image 20230424191319.png]]
 ![[Pasted image 20230424191331.png]]
+![[Pasted image 20230424191345.png]]
+![[Pasted image 20230424191352.png]]
+![[Pasted image 20230424191403.png]]
+![[Pasted image 20230424191413.png]]
+![[Pasted image 20230424191428.png]]
+![[Pasted image 20230424191746.png]]
 
+![[Pasted image 20230424191754.png]]
+
+![[Pasted image 20230424191807.png]]
+![[Pasted image 20230424191815.png]]
+![[Pasted image 20230424191823.png]]
+![[Pasted image 20230424191830.png]]
+![[Pasted image 20230424191837.png]]
+![[Pasted image 20230424191955.png]]
+![[Pasted image 20230424192006.png]]
+![[Pasted image 20230424192014.png]]
+![[Pasted image 20230424192027.png]]
+![[Pasted image 20230424192048.png]]
+![[Pasted image 20230424192056.png]]
+![[Pasted image 20230424192106.png]]
+![[Pasted image 20230424192119.png]]
+![[Pasted image 20230424192128.png]]
+![[Pasted image 20230424192136.png]]
+
+![[Pasted image 20230424192149.png]]
+![[Pasted image 20230424192159.png]]
+![[Pasted image 20230424192210.png]]
+![[Pasted image 20230424192219.png]]
+
+![[Pasted image 20230424192232.png]]
+
+![[Pasted image 20230424192315.png]]
+![[Pasted image 20230424192322.png]]
