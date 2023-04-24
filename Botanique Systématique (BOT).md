@@ -858,75 +858,83 @@ Espèces présentent en régions tropicales ou sub-tropicales d’Asie et des Am
 - Apomorphie : apparition d’une siphonostèle polycyclique (dictyostèles polycycliques)
 
 
+### Polypodiopsida Leptosporangiées (ou FILIOPSIDA = FILICALES)
 
-
-
-
-Fougères épiphytes
+11000 à 12000 espèces, la plupart tropicales 
+- nombreuses épiphytes
+- Cormus complet : racine et tige feuillée 
+- Mégaphylles appelées frondes 
+- Tiges avec siphonostèles, distyostèles ou protostèles 
+- Racine avec actinostèle (Protostèle)
+![[Pasted image 20230424152414.png]]
 
 
 #### I- Le cormus
 
 ##### - La tige
 
-[diapo sporophyte 2n de Polypodium vulgare]
-
+![[Pasted image 20230424152439.png]]
 Fougère arborescente
 Pas de tissus secondaires (bois)
--> stipe, pas tronc
+-> **stipe, pas tronc**
 
-MEGAPHYLLES OU FRONDES
-
+![[Pasted image 20230424152523.png]]
 fougères produisent des frondes correspondant à des mégaphylles a nervation ramifiée.
 
-[diapo préfoliaison circinée]
+
+
+![[Pasted image 20230424152631.png]]
+
+
+
 Feuille va se développer en se déroulant.
 Attention ce n'est pas spécifique à ces fougères, y a aussi Angiospermes qui présentent ce développement.
 Du à différence de mitoses entre la partie externe, et interne (+ de mitose pour faire toute la courbure)
 
-[diapo fronde tripennée (ou tétrapennée) de fougère aigle]
+![[Pasted image 20230424152600.png]]
 
-[diapo feuilles modifiées retenant l'eau (Hétérophyllie)]
+![[Pasted image 20230424152622.png]]
 
-[diapo polypodium sp, Polypodiaceae, Ptérophytes]
+![[Pasted image 20230424152643.png]]
 Polypode a un seul niveau de découpe
 
-[diapo cycle de polypodium]
+![[Pasted image 20230424152805.png]]
 
-[diapo ct de tige de polypodium : dictyostèle]
+##### ANATOMIE
+![[Pasted image 20230424152834.png]]
+![[Pasted image 20230424152854.png]]
+![[Pasted image 20230424152919.png]]
 
-[diapo dictyostèle (faisceau conducteur, moelle, fenetres, faisceau, paragraphe à droite)]
-[diapo c.t. de racine de polypodium : actinostèle]
 
 #### II- Cycle de reproduction 
 
 Ex. Polypodium
-[diapo un sore = un amas de sporange]
-Un sore = un amas de sporanges
+![[Pasted image 20230424152949.png]]
 
-[diapo différents types de protection des sporanges]
+![[Pasted image 20230424153002.png]]
 
-[diapo salviniales : fougères aquatiques]
+![[Pasted image 20230424153019.png]]
 2 types de feuilles: en surface chlorophyllienne, et aquatiques
 
-[diapo salvinia sp. (Filicophytes)]
+![[Pasted image 20230424153042.png]]
 Sporocapres en réalité contiennent les sporanges,
 
-[diapo sporanges en microscopie photonique]
+![[Pasted image 20230424153103.png]]
 
-[diapo fonctionnement de l'assise mécanique]
+![[Pasted image 20230424153116.png]]
 
-[diapo germination d'une spore : déeloppement d'un jeune prothalle (n) par mitoses successives]
+![[Pasted image 20230424153139.png]]
 
-[diapo face intérieure du prothalle]
+![[Pasted image 20230424153203.png]]
+![[Pasted image 20230424153210.png]]
 
-[coupe dans un prothalle observée au microscope photonique]
+![[Pasted image 20230424153226.png]]
 
-[coupe dans un prothalle au niveau de 2 archégones]
+![[Pasted image 20230424153241.png]]
 
-[anthéridies observées en microscopie photonique sur la face inférieure du prothalle]
+![[Pasted image 20230424153306.png]]
 
-[diapo favorise la fécondation croisée]
+![[Pasted image 20230424153327.png]]
 Décalage entre la production d'anthéridies et d'archégones 
 
 [les gamètes mâles nagent dans l'eau vers l'archégone et pénètrent par le col : zoidogamie]
