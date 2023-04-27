@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a0d1d427c57fedd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botanique Systématique (BOT).md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -190,8 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ae721720934ed8a",
+  "active": "0a0d1d427c57fedd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Botanique Systématique (BOT).md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
     "Pasted image 20230424193958.png",
@@ -202,8 +216,6 @@
     "Pasted image 20230424193911.png",
     "Pasted image 20230424193904.png",
     "Pasted image 20230424193856.png",
-    "Pasted image 20230424193848.png",
-    "Botanique Systématique (BOT).md",
     "Fiche IB2.md",
     "Exposé de merde bvd.md",
     "Excalidraw/Tantorum logo.md",
