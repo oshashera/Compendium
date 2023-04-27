@@ -9,4 +9,9 @@ Tube volume 1mL tampon extraction puis récup surnageant (700µL)
 50 µL GPX
 20 µL SOD
 
-
+0.146	
+0.0825	
+0.101
+0.1885
+0.1145
+0.1355
