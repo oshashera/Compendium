@@ -12,7 +12,6 @@
   "obsidian-reading-time",
   "obsidian-plugin-toc",
   "tag-wrangler",
-  "obsidian-git",
   "calendar",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
@@ -23,5 +22,6 @@
   "highlightr-plugin",
   "obsidian-ful",
   "templater-obsidian",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-git"
 ]
