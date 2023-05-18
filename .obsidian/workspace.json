@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "fafee1c3e30abe68",
+            "id": "0f2910bc00ca4339",
             "type": "leaf",
             "state": {
               "type": "relation-view",
@@ -175,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ae721720934ed8a",
+  "active": "0f2910bc00ca4339",
   "lastOpenFiles": [
     "BCV pute.md",
     "L'annuaire potentiel.md",
