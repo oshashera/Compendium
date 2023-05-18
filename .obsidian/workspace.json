@@ -11,8 +11,11 @@
             "id": "0ae721720934ed8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -153,9 +156,17 @@
               "type": "relation-view",
               "state": {}
             }
+          },
+          {
+            "id": "d2bb42faed84f60b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
