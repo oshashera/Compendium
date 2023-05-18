@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81691af994a0e32a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exposé de merde bvd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ae721720934ed8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botanique Systématique (BOT).md",
-                "mode": "preview",
+                "file": "L'annuaire potentiel.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "BCV pute.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,6 +76,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d9a6665b0effcc2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -111,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "L'annuaire potentiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "L'annuaire potentiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,16 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "L'annuaire potentiel.md"
               }
-            }
-          },
-          {
-            "id": "2cb9a3bd14249ec4",
-            "type": "leaf",
-            "state": {
-              "type": "relation-view",
-              "state": {}
             }
           },
           {
@@ -178,13 +165,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "fafee1c3e30abe68",
+            "type": "leaf",
+            "state": {
+              "type": "relation-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,16 +190,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a0d1d427c57fedd",
+  "active": "0ae721720934ed8a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "BCV pute.md",
+    "L'annuaire potentiel.md",
+    "Champ de patate.md",
+    "Exposé de merde bvd.md",
     "Botanique Systématique (BOT).md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
@@ -217,7 +215,6 @@
     "Pasted image 20230424193904.png",
     "Pasted image 20230424193856.png",
     "Fiche IB2.md",
-    "Exposé de merde bvd.md",
     "Excalidraw/Tantorum logo.md",
     "BVD TD cdlamèrd.md",
     "TP8 BOT - Les monocotylédones.md",
@@ -237,8 +234,6 @@
     "Ressources à exploiter.md",
     "DIA TP.md",
     "TD dia carto.md",
-    "TP1 BOT - Xérophytes.md",
-    "TP4 BOT - Trachéophytes (mais fougères quand même).md",
-    "TP3 BOT - Gymnospermes.md"
+    "TP1 BOT - Xérophytes.md"
   ]
 }

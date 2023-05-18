@@ -7,5 +7,6 @@
     "margin": "1",
     "downscalePercent": 70
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./image"
 }
