@@ -11,24 +11,8 @@
             "id": "0ae721720934ed8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'annuaire potentiel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a0d1d427c57fedd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BCV pute.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -106,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'annuaire potentiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'annuaire potentiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "L'annuaire potentiel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +176,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f2910bc00ca4339",
+  "active": "0ae721720934ed8a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
+    "TD Dia IBGN.md",
+    "Excalidraw/graph td dia.md",
+    "obsidian_template/Template Cornell.md",
+    "TP2 BOT - Hydrophytes.md",
+    "TP BCV.md",
+    "BVD TD cdlamèrd.md",
+    "Excalidraw/ccl td 2 bvd.md",
+    "Excalidraw/Dessin gorgone bvd nul.md",
+    "Convention de stage.md",
     "BCV pute.md",
+    "Exposé de merde bvd.md",
+    "Anglais S6 on se fait ierch.md",
+    "TP BVD.md",
     "L'annuaire potentiel.md",
     "Champ de patate.md",
-    "Exposé de merde bvd.md",
     "Botanique Systématique (BOT).md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
@@ -215,24 +207,12 @@
     "Pasted image 20230424193856.png",
     "Fiche IB2.md",
     "Excalidraw/Tantorum logo.md",
-    "BVD TD cdlamèrd.md",
     "TP8 BOT - Les monocotylédones.md",
     "Bactérie, Virus, Défense (BVD).md",
     "Sortie DIA.md",
     "TP7 BOT.md",
     "TP6 BOT.md",
-    "Anglais S6 on se fait ierch.md",
-    "TD Dia IBGN.md",
-    "Excalidraw/graph td dia.md",
     "TP5 BOT.md",
-    "TP BVD.md",
-    "TP Carto notes.md",
-    "Excalidraw/pollen grain germination tp5 bot.md",
-    "TP BCV.md",
-    "Convention de stage.md",
-    "Ressources à exploiter.md",
-    "DIA TP.md",
-    "TD dia carto.md",
-    "TP1 BOT - Xérophytes.md"
+    "TP Carto notes.md"
   ]
 }
