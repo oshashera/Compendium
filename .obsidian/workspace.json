@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "fafee1c3e30abe68",
+            "id": "1b3147aa77b0c6b9",
             "type": "leaf",
             "state": {
               "type": "relation-view",
@@ -175,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,13 +190,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "0ae721720934ed8a",
+  "active": "1b3147aa77b0c6b9",
   "lastOpenFiles": [
     "BCV pute.md",
     "L'annuaire potentiel.md",
