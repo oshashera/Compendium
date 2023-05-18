@@ -11,8 +11,12 @@
             "id": "69684ae8f7bcea6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TP8 BOT - Les monocotylédones.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7a5ff8f9d6843543",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -73,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TP8 BOT - Les monocotylédones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TP8 BOT - Les monocotylédones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +134,27 @@
               "type": "relation-view",
               "state": {}
             }
+          },
+          {
+            "id": "65021129f7f006bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TP8 BOT - Les monocotylédones.md"
+              }
+            }
+          },
+          {
+            "id": "50cec2c99eef9e17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "74ddc9d45cc2fef2",
@@ -142,6 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "TP8 BOT - Les monocotylédones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
