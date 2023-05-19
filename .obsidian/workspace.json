@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "14ecad753fa925ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-19 16.46.15.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "059cc4cfbd3919cc",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-19 16.46.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-19 16.46.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOL.md"
+                "file": "Excalidraw/Drawing 2023-05-19 16.46.15.excalidraw.md"
               }
             }
           },
@@ -203,9 +214,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de83af0b70a6612a",
+  "active": "14ecad753fa925ba",
   "lastOpenFiles": [
     "SOL.md",
+    "Excalidraw/Drawing 2023-05-19 16.46.15.excalidraw.md",
     "To do List.md",
     "Excalidraw/Roles des nappes alluviales.md",
     "Excalidraw/Capacité de rétention.md",
@@ -230,7 +242,6 @@
     "Anglais S6 on se fait ierch.md",
     "TP BVD.md",
     "L'annuaire potentiel.md",
-    "Champ de patate.md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
     "Pasted image 20230424193958.png",
