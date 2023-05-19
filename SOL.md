@@ -278,10 +278,29 @@ La capacité de stockage dépend de la porosité totae (volume des vides)
 
 Mise en évidence de:
 
-ariations temporelles et spatiales du niveau de la nappe
+**->** Variations temporelles et spatiales du niveau de la nappe
+
 ![[variations annuelles eau nappes|{width=100%}]]
 
-Variations patiales: liées à la topographie du site
+**->** Variations patiales: liées à la topographie du site
+
+Observation de la durée et de la période précise :
+- d'inondations sur une période déterminées (une année, période d'activité végétale)
+- période durant laquelle la nappe est en dessous d'un certain seuil -> risque de sécheresse.
+
+On établit un seuil:
+
+
+
+
+
+
+
+
+
+
+
+
 ___
 [[Pollution des sols]]
 [[Texture minérale des sols (td)]]
