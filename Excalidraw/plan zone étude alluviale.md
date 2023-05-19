@@ -30,6 +30,8 @@ piezographe (déjà en place pour suivi hydrographique)
 
 piezomètres ^Zu0FLgL9
 
+coupe ^PsQ5DEg6
+
 %%
 # Drawing
 ```json
@@ -41,8 +43,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "MTVmreSl0XLd7_rSVEzvr",
 			"type": "line",
-			"x": -819.9801495374229,
-			"y": -248.70822489050875,
+			"x": -735.232429419457,
+			"y": -208.3521383683817,
 			"width": 153.69361023612385,
 			"height": 105.29647154854678,
 			"angle": 0,
@@ -58,11 +60,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 26813368,
-			"version": 1436,
-			"versionNonce": 1867235016,
+			"version": 1492,
+			"versionNonce": 513097144,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131,8 +133,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "vsxJg6Bq1vIx_ApFTZWcZ",
 			"type": "rectangle",
-			"x": -851.0666503906251,
-			"y": -248.38333384195982,
+			"x": -766.3189302726593,
+			"y": -208.02724731983278,
 			"width": 446.9333597819009,
 			"height": 321.600087483724,
 			"angle": 0,
@@ -148,21 +150,26 @@ piezomètres ^Zu0FLgL9
 				"type": 3
 			},
 			"seed": 1869051848,
-			"version": 231,
-			"versionNonce": 1265267128,
+			"version": 288,
+			"versionNonce": 884908472,
 			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1684510785296,
+			"boundElements": [
+				{
+					"id": "f1wsa9rtXjdRzjqfkcVmG",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684510818645,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "n-HwUUiACdpAD2Nb0UyPD",
 			"type": "line",
-			"x": -29.999938964843746,
-			"y": -215.0500259399414,
-			"width": 798.0000610351562,
-			"height": 332.79998779296875,
+			"x": -37.78148103145293,
+			"y": -197.98139139998858,
+			"width": 744.52356337113,
+			"height": 310.4980123436027,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#905423",
@@ -176,11 +183,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 1467088568,
-			"version": 1416,
-			"versionNonce": 161708728,
+			"version": 1437,
+			"versionNonce": 1131920584,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -189,80 +196,80 @@ piezomètres ^Zu0FLgL9
 					0
 				],
 				[
-					1.5999755859375,
-					273.59999084472656
+					1.4927561822536244,
+					255.26519366149543
 				],
 				[
-					26.399963378906246,
-					303.1999969482422
+					24.63081867717387,
+					282.8816101206738
 				],
 				[
-					218.39996337890625,
-					306.40000915527344
+					203.7642939075214,
+					285.86717943017925
 				],
 				[
-					731.9999389648438,
-					307.99998474121094
+					682.9463173707016,
+					287.3599356124329
 				],
 				[
-					798.0000610351562,
-					278.40000915527344
+					744.52356337113,
+					259.7435476257536
 				],
 				[
-					794.7999877929688,
-					1.600006103515625
+					741.5379371166264,
+					1.4927846547527135
 				],
 				[
-					763.5999145507812,
-					-24.800003051757812
+					712.4286790576971,
+					-23.138076731169793
 				],
 				[
-					725.1998901367188,
-					12.800018310546875
+					676.6019612336283,
+					11.942248765522619
 				],
 				[
-					658.0000610351562,
-					78.40000915527344
+					613.9054043490016,
+					73.14617759414162
 				],
 				[
-					553.2000122070312,
-					127.19999694824219
+					516.1283368964384,
+					118.6759244928553
 				],
 				[
-					496.4000244140625,
-					136.8000030517578
+					463.1346951964602,
+					127.63260394887249
 				],
 				[
-					434,
-					95.19999694824219
+					404.916292968598,
+					88.82034528779738
 				],
 				[
-					377.199951171875,
-					115.19999694824219
+					351.92259432362164,
+					107.48008229095858
 				],
 				[
-					325.199951171875,
-					133.59999084472656
+					303.40727811540256,
+					124.64703463936706
 				],
 				[
-					265.20001220703125,
-					111.99998474121094
+					247.42812405091712,
+					104.49451298145316
 				],
 				[
-					194.79998779296875,
-					71.19999694824219
+					181.74582702179043,
+					66.42866088400395
 				],
 				[
-					125.9998779296875,
-					36.80000305175781
+					117.5562292299192,
+					34.33391893306651
 				],
 				[
-					69.199951171875,
-					36.80000305175781
+					64.5626444749392,
+					34.33391893306651
 				],
 				[
-					19.5999755859375,
-					4.8000030517578125
+					18.286519485098705,
+					4.478339728008596
 				],
 				[
 					0,
@@ -280,8 +287,8 @@ piezomètres ^Zu0FLgL9
 		},
 		{
 			"type": "rectangle",
-			"version": 203,
-			"versionNonce": 1886432456,
+			"version": 223,
+			"versionNonce": 512054200,
 			"isDeleted": false,
 			"id": "9B7pWzsBWh6PdLJESrkRn",
 			"fillStyle": "solid",
@@ -290,29 +297,29 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 653.9999389648438,
-			"y": -222.64997100830078,
+			"x": 600.3814105866636,
+			"y": -205.07204021069148,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000000",
-			"width": 13.599975585937502,
-			"height": 97.59999084472656,
+			"width": 12.688598384150344,
+			"height": 91.0595080336769,
 			"seed": 1296557752,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "kw8m8wou",
 			"type": "text",
-			"x": 596,
-			"y": -261.4500045776367,
-			"width": 110,
-			"height": 24,
+			"x": 546.2682302224944,
+			"y": -241.2719613165732,
+			"width": 102.62855351738658,
+			"height": 22.391684403793434,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000000",
@@ -324,16 +331,16 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 501777608,
-			"version": 30,
-			"versionNonce": 231957432,
+			"version": 50,
+			"versionNonce": 1978983368,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"text": "piezographe",
 			"rawText": "piezographe",
-			"fontSize": 20,
+			"fontSize": 18.659737003161197,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -343,10 +350,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "JAVNcgSsonVzn2niSrhP5",
 			"type": "rectangle",
-			"x": 27.83857318026163,
-			"y": -213.0553973452292,
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"x": 16.181090232637615,
+			"y": -196.12042915017287,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"angle": 5.907433723340044,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
@@ -360,18 +367,18 @@ piezomètres ^Zu0FLgL9
 				"type": 3
 			},
 			"seed": 549713592,
-			"version": 274,
-			"versionNonce": 1984943048,
+			"version": 295,
+			"versionNonce": 991042744,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 232,
-			"versionNonce": 907947192,
+			"version": 253,
+			"versionNonce": 1278552776,
 			"isDeleted": false,
 			"id": "LLvD0PWfYtqcu5Z06V9Q3",
 			"fillStyle": "hachure",
@@ -380,26 +387,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": 75.83857318026168,
-			"y": -208.05545075099096,
+			"x": 60.96445904022457,
+			"y": -191.455544726256,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 472228296,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 248,
-			"versionNonce": 1672616648,
+			"version": 269,
+			"versionNonce": 488490424,
 			"isDeleted": false,
 			"id": "NPYKkDuY6-DmgVQyYQ5X6",
 			"fillStyle": "hachure",
@@ -408,26 +415,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": 117.83851214510543,
-			"y": -198.25543244044408,
+			"x": 100.14984980186492,
+			"y": -182.31225651120755,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 244406728,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 230,
-			"versionNonce": 2082985400,
+			"version": 251,
+			"versionNonce": 550801864,
 			"isDeleted": false,
 			"id": "bkdQHcf0FzVN_aMSAmXGF",
 			"fillStyle": "hachure",
@@ -436,26 +443,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": 151.63856097323043,
-			"y": -183.05545075099096,
+			"x": 131.6848508932059,
+			"y": -168.13087347230447,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 43.6,
+			"width": 57.06122636778496,
+			"height": 40.67822666689141,
 			"seed": 1229686728,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 232,
-			"versionNonce": 456360392,
+			"version": 253,
+			"versionNonce": 1909214904,
 			"isDeleted": false,
 			"id": "PCgeRDo8YiiqBm-54ed3E",
 			"fillStyle": "hachure",
@@ -464,26 +471,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": 186.23853655916793,
-			"y": -164.65542633692846,
+			"x": 163.96617313067546,
+			"y": -150.96389265139692,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 1760016568,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 259,
-			"versionNonce": 85221048,
+			"version": 280,
+			"versionNonce": 451877064,
 			"isDeleted": false,
 			"id": "tXyvg5lkZZGI1g0F-yJf2",
 			"fillStyle": "hachure",
@@ -492,26 +499,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": 218.23853655916793,
-			"y": -149.8554385439597,
+			"x": 193.8217523357334,
+			"y": -137.15569865805728,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 1159155400,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 237,
-			"versionNonce": 1274022088,
+			"version": 258,
+			"versionNonce": 566343608,
 			"isDeleted": false,
 			"id": "KdVn3XNZuCXeu_fsmwHNH",
 			"fillStyle": "hachure",
@@ -520,26 +527,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": 237.03858538729293,
-			"y": -137.45544464747533,
+			"x": 211.36195067470342,
+			"y": -125.58666741059716,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 903864760,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 252,
-			"versionNonce": 830982072,
+			"version": 273,
+			"versionNonce": 505462728,
 			"isDeleted": false,
 			"id": "G3QQ-aRpwMMOIS44FipYL",
 			"fillStyle": "hachure",
@@ -548,26 +555,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": 275.0385243521367,
-			"y": -129.05542023341283,
+			"x": 246.81539403571153,
+			"y": -117.74955509127017,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 30553544,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 218,
-			"versionNonce": 1636020168,
+			"version": 239,
+			"versionNonce": 1629618360,
 			"isDeleted": false,
 			"id": "O1Bc0JlRi390e3WXogyYF",
 			"fillStyle": "hachure",
@@ -576,26 +583,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": -15.361439026769588,
-			"y": -214.45544464747533,
+			"x": -24.123953083190173,
+			"y": -197.42665487276776,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 1676339896,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 218,
-			"versionNonce": 765857976,
+			"version": 239,
+			"versionNonce": 981829320,
 			"isDeleted": false,
 			"id": "NAZfi6nR4L1FAePFltThU",
 			"fillStyle": "hachure",
@@ -604,26 +611,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": -38.36143902676959,
-			"y": -248.45544464747533,
+			"x": -45.58265063682555,
+			"y": -229.1482077781418,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 1419263176,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 218,
-			"versionNonce": 1946842824,
+			"version": 239,
+			"versionNonce": 1066478008,
 			"isDeleted": false,
 			"id": "ZT69b8He2yeo5hk2gDVgc",
 			"fillStyle": "hachure",
@@ -632,26 +639,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.907433723340044,
-			"x": -5.361439026769588,
-			"y": -228.45544464747533,
+			"x": -14.794084581609582,
+			"y": -210.48847077498058,
 			"strokeColor": "transparent",
 			"backgroundColor": "#82c91e",
-			"width": 61.15973269946738,
-			"height": 30.20293094897753,
+			"width": 57.06122636778496,
+			"height": 28.178937411627928,
 			"seed": 229430200,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 175,
-			"versionNonce": 18037176,
+			"version": 196,
+			"versionNonce": 481914312,
 			"isDeleted": false,
 			"id": "DHak0yFobw1PJz7mhLq1s",
 			"fillStyle": "solid",
@@ -660,29 +667,29 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 243.60003662109375,
-			"y": -129.0500259399414,
+			"x": 217.48369839379293,
+			"y": -117.74452228639544,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000000",
-			"width": 13.5999755859375,
-			"height": 66.39999389648438,
+			"width": 12.688598384150342,
+			"height": 61.950321155995354,
 			"seed": 2061068728,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "80dejYbw3qk7u4cR9VQWs",
 			"type": "rectangle",
-			"x": 155.2000732421875,
-			"y": -176.65001678466797,
-			"width": 13.5999755859375,
-			"height": 66.39999389648438,
+			"x": 135.00769500681938,
+			"y": -162.15468781216936,
+			"width": 12.688598384150342,
+			"height": 61.950321155995354,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000000",
@@ -696,21 +703,21 @@ piezomètres ^Zu0FLgL9
 				"type": 3
 			},
 			"seed": 2094151864,
-			"version": 133,
-			"versionNonce": 941645256,
+			"version": 154,
+			"versionNonce": 942879416,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "LBH1HgQA",
 			"type": "text",
-			"x": 155.21848835812034,
-			"y": -215.15397917298657,
-			"width": 16,
-			"height": 33.6,
+			"x": 135.02487606782884,
+			"y": -198.07837839945114,
+			"width": 14.927789602528957,
+			"height": 31.34835816531081,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#000000",
@@ -722,16 +729,16 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1441175224,
-			"version": 38,
-			"versionNonce": 519258808,
+			"version": 59,
+			"versionNonce": 2111337672,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"text": "2",
 			"rawText": "2",
-			"fontSize": 28,
+			"fontSize": 26.123631804425674,
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -741,10 +748,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "AXx65UE0",
 			"type": "text",
-			"x": 241.6184517370266,
-			"y": -167.95396696595532,
-			"width": 16,
-			"height": 33.6,
+			"x": 215.6349057544863,
+			"y": -154.04138768299106,
+			"width": 14.927789602528957,
+			"height": 31.34835816531081,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#000000",
@@ -756,16 +763,16 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 798909624,
-			"version": 34,
-			"versionNonce": 1860265160,
+			"version": 55,
+			"versionNonce": 1101798328,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"text": "3",
 			"rawText": "3",
-			"fontSize": 28,
+			"fontSize": 26.123631804425674,
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -774,8 +781,8 @@ piezomètres ^Zu0FLgL9
 		},
 		{
 			"type": "rectangle",
-			"version": 153,
-			"versionNonce": 1978280888,
+			"version": 173,
+			"versionNonce": 327064520,
 			"isDeleted": false,
 			"id": "dVuU1Ce8np_fyszWqEK0b",
 			"fillStyle": "solid",
@@ -784,29 +791,29 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 45.800048828125,
-			"y": -217.04999542236328,
+			"x": 32.93891082152837,
+			"y": -199.84733662780562,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000000",
-			"width": 13.5999755859375,
-			"height": 66.39999389648438,
+			"width": 12.688598384150342,
+			"height": 61.950321155995354,
 			"seed": 1170532536,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "0FJZiuy3",
 			"type": "text",
-			"x": 46.41843952999534,
-			"y": -252.7539852765022,
-			"width": 16,
-			"height": 33.6,
+			"x": 33.51586121463342,
+			"y": -233.158689659894,
+			"width": 14.927789602528957,
+			"height": 31.34835816531081,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#000000",
@@ -818,16 +825,16 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 925366216,
-			"version": 31,
-			"versionNonce": 1441369032,
+			"version": 51,
+			"versionNonce": 1579148472,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"text": "1",
 			"rawText": "1",
-			"fontSize": 28,
+			"fontSize": 26.123631804425674,
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -837,10 +844,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "F6-Il47Fixk3t5IPCHgNW",
 			"type": "line",
-			"x": -24.78157267703591,
-			"y": 111.0459842059197,
-			"width": 375.2000732421875,
-			"height": 0.00006103515625,
+			"x": -32.912813905620084,
+			"y": 106.26189795510908,
+			"width": 350.0567345133019,
+			"height": 0.00005694499817859252,
 			"angle": 0,
 			"strokeColor": "#e67700",
 			"backgroundColor": "transparent",
@@ -854,11 +861,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 1844500408,
-			"version": 89,
-			"versionNonce": 1832120,
+			"version": 109,
+			"versionNonce": 2143806152,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -867,8 +874,8 @@ piezomètres ^Zu0FLgL9
 					0
 				],
 				[
-					375.2000732421875,
-					0.00006103515625
+					350.0567345133019,
+					0.00005694499817859252
 				]
 			],
 			"lastCommittedPoint": null,
@@ -880,10 +887,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "e9pvjFiX",
 			"type": "text",
-			"x": -34.38160929812966,
-			"y": 121.84602082701343,
-			"width": 438.95814196268674,
-			"height": 27.999987792968724,
+			"x": -41.86952183413638,
+			"y": 116.33819010381501,
+			"width": 409.5421742210016,
+			"height": 26.123620415426014,
 			"angle": 0,
 			"strokeColor": "#e67700",
 			"backgroundColor": "transparent",
@@ -895,8 +902,8 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 993800632,
-			"version": 122,
-			"versionNonce": 391434952,
+			"version": 142,
+			"versionNonce": 724733368,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -904,12 +911,12 @@ piezomètres ^Zu0FLgL9
 					"type": "arrow"
 				}
 			],
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"text": "zone d'étude ~100m et 1m de dénivelé",
 			"rawText": "zone d'étude ~100m et 1m de dénivelé",
-			"fontSize": 23.333323160807268,
+			"fontSize": 21.769683679521677,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -919,10 +926,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "GbENo-M0Jy_Z-KiM2_ycU",
 			"type": "arrow",
-			"x": -35.98152384891091,
-			"y": 165.0461062762322,
-			"width": 417.5999755859375,
-			"height": 0.800048828125,
+			"x": -43.362221071391815,
+			"y": 156.64330175364069,
+			"width": 389.6152858480065,
+			"height": 0.7464350361249907,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -936,11 +943,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 1908808648,
-			"version": 88,
-			"versionNonce": 1395432888,
+			"version": 164,
+			"versionNonce": 1104171976,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510812431,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -949,27 +956,31 @@ piezomètres ^Zu0FLgL9
 					0
 				],
 				[
-					417.5999755859375,
-					-0.800048828125
+					389.6152858480065,
+					-0.7464350361249907
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "e9pvjFiX",
-				"focus": 1.9955332664525507,
-				"gap": 15.200097656250023
+				"elementId": "P5VyiBlx",
+				"focus": -1.9061755574623058,
+				"gap": 13.621642179306576
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "e9pvjFiX",
+				"focus": -1.995533266452556,
+				"gap": 13.435056198274694
+			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
 			"id": "95og1FIiw2eCmVN96kar7",
 			"type": "arrow",
-			"x": 381.61851277218284,
-			"y": 190.6460818621697,
-			"width": 418.40008544921875,
-			"height": 0.800048828125,
+			"x": 346.25312172161284,
+			"y": 180.52774233968773,
+			"width": 389.57107619327195,
+			"height": 1.5274636968732695,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
@@ -983,11 +994,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 1520258232,
-			"version": 124,
-			"versionNonce": 968833480,
+			"version": 189,
+			"versionNonce": 1088793784,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510812431,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -996,16 +1007,16 @@ piezomètres ^Zu0FLgL9
 					0
 				],
 				[
-					-418.40008544921875,
-					-0.800048828125
+					-389.57107619327195,
+					1.5274636968732695
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "P5VyiBlx",
-				"focus": 0.12157085932312528,
-				"gap": 13.79998779296875
+				"focus": 0.35253734097230927,
+				"gap": 13.665908779039285
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1013,10 +1024,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "37SdiWrG",
 			"type": "text",
-			"x": 416.8185249792141,
-			"y": 151.44609406920094,
-			"width": 103,
-			"height": 24,
+			"x": 379.09427023617627,
+			"y": 143.95466920249146,
+			"width": 96.09764556628016,
+			"height": 22.391684403793434,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -1028,8 +1039,8 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1625087944,
-			"version": 183,
-			"versionNonce": 809510584,
+			"version": 204,
+			"versionNonce": 927236024,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1037,12 +1048,12 @@ piezomètres ^Zu0FLgL9
 					"type": "arrow"
 				}
 			],
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"text": "inondations",
 			"rawText": "inondations",
-			"fontSize": 20,
+			"fontSize": 18.659737003161197,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -1052,10 +1063,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "P5VyiBlx",
 			"type": "text",
-			"x": -157.58156047000466,
-			"y": 176.2460574481072,
-			"width": 107,
-			"height": 24,
+			"x": -156.8134562176108,
+			"y": 167.09270891941242,
+			"width": 99.8295929669124,
+			"height": 22.391684403793434,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
@@ -1067,8 +1078,8 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 794588104,
-			"version": 123,
-			"versionNonce": 272941256,
+			"version": 144,
+			"versionNonce": 1259063480,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1078,14 +1089,18 @@ piezomètres ^Zu0FLgL9
 				{
 					"id": "95og1FIiw2eCmVN96kar7",
 					"type": "arrow"
+				},
+				{
+					"id": "GbENo-M0Jy_Z-KiM2_ycU",
+					"type": "arrow"
 				}
 			],
-			"updated": 1684510785296,
+			"updated": 1684510811481,
 			"link": null,
 			"locked": false,
 			"text": "sécheresse",
 			"rawText": "sécheresse",
-			"fontSize": 20,
+			"fontSize": 18.659737003161197,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -1095,10 +1110,10 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "TUBSjzdob9DPdudO7DOlZ",
 			"type": "arrow",
-			"x": 390.4183784948391,
-			"y": 172.2460574481072,
-			"width": 19.986975104594535,
-			"height": 18.41727080372766,
+			"x": 354.46328072400786,
+			"y": 163.36076151878018,
+			"width": 18.647584947023212,
+			"height": 17.18307147567787,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -1112,11 +1127,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 1186581688,
-			"version": 218,
-			"versionNonce": 335187896,
+			"version": 282,
+			"versionNonce": 1797429960,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510812431,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1125,24 +1140,24 @@ piezomètres ^Zu0FLgL9
 					0
 				],
 				[
-					19.986975104594535,
-					-18.41727080372766
+					18.647584947023212,
+					-17.18307147567787
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "37SdiWrG",
-				"focus": 1.059318632127452,
-				"gap": 6.413171379780465
+				"focus": 1.0593186321274517,
+				"gap": 5.98340456514515
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
 			"type": "arrow",
-			"version": 178,
-			"versionNonce": 713123784,
+			"version": 246,
+			"versionNonce": 1107252664,
 			"isDeleted": false,
 			"id": "ZANKNEoTBm1KhQLs7XeN1",
 			"fillStyle": "hachure",
@@ -1151,26 +1166,26 @@ piezomètres ^Zu0FLgL9
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -185.70285036567978,
-			"y": 199.0471541767111,
+			"x": -183.0502498997584,
+			"y": 188.3658323363818,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
-			"width": 21.15775928138885,
-			"height": 24.30362796902665,
+			"width": 19.739911188345438,
+			"height": 22.6749653062355,
 			"seed": 1230818504,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510812431,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "P5VyiBlx",
-				"focus": 1.129351032006463,
-				"gap": 6.96353061428627
+				"focus": 1.1293510320064628,
+				"gap": 6.496882493802161
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1181,16 +1196,16 @@ piezomètres ^Zu0FLgL9
 					0
 				],
 				[
-					21.15775928138885,
-					-24.30362796902665
+					19.739911188345438,
+					-22.6749653062355
 				]
 			]
 		},
 		{
 			"id": "E2PpUsHJpJxvbjWpNIYpP",
 			"type": "line",
-			"x": -824.2941485911847,
-			"y": 72.3908119283202,
+			"x": -739.5464284732188,
+			"y": 112.74689845044725,
 			"width": 420.75695785280175,
 			"height": 101.15262148832943,
 			"angle": 0,
@@ -1206,11 +1221,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 1152104376,
-			"version": 216,
-			"versionNonce": 1182783672,
+			"version": 272,
+			"versionNonce": 1167378104,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1263,8 +1278,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "mkxEtSYca9r6zyp8596Xi",
 			"type": "freedraw",
-			"x": -677.0767129829123,
-			"y": -38.73459633876382,
+			"x": -592.3289928649465,
+			"y": 1.6214901833632211,
 			"width": null,
 			"height": 4.748949535750711,
 			"angle": 0,
@@ -1278,11 +1293,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 401396936,
-			"version": 83,
-			"versionNonce": 301664952,
+			"version": 139,
+			"versionNonce": 537534664,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1309,8 +1324,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "6YwgwYNIENQhr6agNNHFU",
 			"type": "freedraw",
-			"x": -821.4447861160561,
-			"y": -218.24489422488256,
+			"x": -736.6970659980902,
+			"y": -177.8888077027555,
 			"width": 0.9497754145062345,
 			"height": 0,
 			"angle": 0,
@@ -1324,11 +1339,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 522988984,
-			"version": 9,
-			"versionNonce": 1729764552,
+			"version": 65,
+			"versionNonce": 1438330808,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1355,8 +1370,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "iDbW52jO5swjAEYaT8Mll",
 			"type": "freedraw",
-			"x": -788.202139365801,
-			"y": -188.3265067149116,
+			"x": -703.4544192478352,
+			"y": -147.97042019278456,
 			"width": 5.551115123125783e-17,
 			"height": 1.4246902954666325,
 			"angle": 0,
@@ -1370,11 +1385,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 241620936,
-			"version": 10,
-			"versionNonce": 1152971704,
+			"version": 66,
+			"versionNonce": 1520093128,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785296,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1405,8 +1420,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "RTvI2PLcPdl6mKE-5rCnE",
 			"type": "freedraw",
-			"x": -752.5850178476707,
-			"y": -156.98344702527874,
+			"x": -667.8372977297048,
+			"y": -116.62736050315169,
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
@@ -1420,11 +1435,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 968199368,
-			"version": 7,
-			"versionNonce": 910902216,
+			"version": 63,
+			"versionNonce": 1194096824,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1447,8 +1462,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "ULw9caYzoTZiH_i_UyIt-",
 			"type": "arrow",
-			"x": -828.5682104196823,
-			"y": -213.49594468913185,
+			"x": -743.8204903017164,
+			"y": -173.1398581670048,
 			"width": 161.46428421552457,
 			"height": 152.9161877322366,
 			"angle": 0,
@@ -1464,11 +1479,11 @@ piezomètres ^Zu0FLgL9
 				"type": 2
 			},
 			"seed": 1542671544,
-			"version": 79,
-			"versionNonce": 433175736,
+			"version": 135,
+			"versionNonce": 1786678984,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1490,8 +1505,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "CIVlm8D6pj2OYnr0JOjOR",
 			"type": "freedraw",
-			"x": -818.3579797873009,
-			"y": 101.59685881950904,
+			"x": -733.610259669335,
+			"y": 141.95294534163608,
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
@@ -1505,11 +1520,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 755441080,
-			"version": 77,
-			"versionNonce": 488894136,
+			"version": 133,
+			"versionNonce": 1837932984,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1532,8 +1547,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "bTNa3s1SUx4gACVMwz08A",
 			"type": "freedraw",
-			"x": -819.8328674945542,
-			"y": 140.0905560340134,
+			"x": -735.0851473765883,
+			"y": 180.44664255614043,
 			"width": null,
 			"height": 0.47488770725311724,
 			"angle": 0,
@@ -1547,11 +1562,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2040676552,
-			"version": 45,
-			"versionNonce": 711030984,
+			"version": 101,
+			"versionNonce": 2018604488,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1578,8 +1593,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "DoIDlKnt4YIUydVSmdCao",
 			"type": "rectangle",
-			"x": -568.5632233373301,
-			"y": 88.77470956562595,
+			"x": -483.81550321936425,
+			"y": 129.130796087753,
 			"width": 39.891183346628054,
 			"height": 33.71753445750821,
 			"angle": 0,
@@ -1595,19 +1610,19 @@ piezomètres ^Zu0FLgL9
 				"type": 3
 			},
 			"seed": 1141801400,
-			"version": 40,
-			"versionNonce": 1092966328,
+			"version": 96,
+			"versionNonce": 134195896,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "Y8dbDVWg",
 			"type": "text",
-			"x": -515.3750030295658,
-			"y": 85.50149173168874,
+			"x": -430.6272829116,
+			"y": 125.8575782538158,
 			"width": 98,
 			"height": 38.4,
 			"angle": 0,
@@ -1621,11 +1636,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 145181112,
-			"version": 80,
-			"versionNonce": 1346838472,
+			"version": 136,
+			"versionNonce": 959413448,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"text": "site d'étude\n(prairies)",
@@ -1640,8 +1655,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "e001ULHy",
 			"type": "text",
-			"x": -806.9604936551773,
-			"y": 129.1407806195071,
+			"x": -722.2127735372114,
+			"y": 169.49686714163414,
 			"width": 421,
 			"height": 38.4,
 			"angle": 0,
@@ -1655,11 +1670,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1806987960,
-			"version": 113,
-			"versionNonce": 319922360,
+			"version": 169,
+			"versionNonce": 1361679288,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"text": "piezographe (déjà en place pour suivi hydrographique)\n",
@@ -1674,8 +1689,8 @@ piezomètres ^Zu0FLgL9
 		{
 			"id": "Zu0FLgL9",
 			"type": "text",
-			"x": -806.9604936551773,
-			"y": 92.09895974800759,
+			"x": -722.2127735372114,
+			"y": 132.45504627013463,
 			"width": 94,
 			"height": 19.2,
 			"angle": 0,
@@ -1689,11 +1704,11 @@ piezomètres ^Zu0FLgL9
 			"groupIds": [],
 			"roundness": null,
 			"seed": 886788280,
-			"version": 116,
-			"versionNonce": 1384958392,
+			"version": 172,
+			"versionNonce": 1588896712,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684510785297,
+			"updated": 1684510797720,
 			"link": null,
 			"locked": false,
 			"text": "piezomètres",
@@ -1704,6 +1719,87 @@ piezomètres ^Zu0FLgL9
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "piezomètres"
+		},
+		{
+			"id": "f1wsa9rtXjdRzjqfkcVmG",
+			"type": "arrow",
+			"x": -289.669713084008,
+			"y": -45.565000777218074,
+			"width": 227.3393079341497,
+			"height": 1.3452336733215589,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#82c91e",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 603709112,
+			"version": 122,
+			"versionNonce": 1917162936,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684510824967,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					227.3393079341497,
+					-1.3452336733215589
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "vsxJg6Bq1vIx_ApFTZWcZ",
+				"focus": 0.01949366169810783,
+				"gap": 29.715857406750388
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "PsQ5DEg6",
+			"type": "text",
+			"x": -225.09993359627083,
+			"y": -110.60871452918339,
+			"width": 75,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#82c91e",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1859240392,
+			"version": 29,
+			"versionNonce": 950389448,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684510836862,
+			"link": null,
+			"locked": false,
+			"text": "coupe",
+			"rawText": "coupe",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "coupe"
 		},
 		{
 			"id": "IEqmV0oN",
@@ -2078,12 +2174,12 @@ piezomètres ^Zu0FLgL9
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "#82c91e",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 2,
+		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 16,
+		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",

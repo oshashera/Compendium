@@ -301,7 +301,7 @@ On établit un seuil:
 	- (1) Mettre en évidence les variations temporelles de la nappe alluviale
 	- (2) Analyser la végétation
 
-
+![[plan zone étude alluviale|{width=100%}]]
 
 
 

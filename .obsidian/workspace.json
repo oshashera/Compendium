@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ebd13ce96c2c551",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-19 17.24.40.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b44d69e3f46dc7ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/seuils précipitations.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-19 17.24.40.excalidraw.md",
+                "file": "SOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-19 17.24.40.excalidraw.md",
+                "file": "SOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-19 17.24.40.excalidraw.md"
+                "file": "SOL.md"
               }
             }
           },
@@ -196,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 673.5,
-    "collapsed": true
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ebd13ce96c2c551",
+  "active": "de83af0b70a6612a",
   "lastOpenFiles": [
+    "Excalidraw/plan zone étude alluviale.md",
     "SOL.md",
-    "Excalidraw/Drawing 2023-05-19 17.24.40.excalidraw.md",
     "Excalidraw/seuils précipitations.md",
     "Excalidraw/variations annuelles eau nappes.md",
     "Excalidraw/piezométrie.md",
