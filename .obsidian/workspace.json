@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Nappes schéma.md",
+                "file": "SOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Nappes schéma.md",
+                "file": "SOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Nappes schéma.md"
+                "file": "SOL.md"
               }
             }
           },
@@ -212,7 +212,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb1518a5adb7728b",
+  "active": "de83af0b70a6612a",
   "lastOpenFiles": [
     "Excalidraw/Nappes schéma.md",
     "SOL.md",

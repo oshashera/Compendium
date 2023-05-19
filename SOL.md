@@ -230,6 +230,32 @@ ___
 
 ##### <u>2) Types de nappes</u>
 
+![[Nappes schéma|{width=100%}]]
+
+
+### <mark style="background: #FFF3A3A6;">II] Rôle des réserves hydrologiques</mark>
+
+##### <u>1) Stockage des eaux de pluie</u>
+
+La capacité de stockage dépend de la porosité totae (volume des vides)
+=m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ___
