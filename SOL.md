@@ -3,24 +3,24 @@
 
   
 
-### I] Notions de base sur les sols
+### <mark style="background: #FFF3A3A6;">I] Notions de base sur les sols</mark>
 
 Le sol, comme l’eau, la biodiversité, est une ressource naturelle. Est-elle renouvelable ?  
 Les sols se reconstituent au rythme de 1 à quelques cm par siècle.  
 On prendra comme postulat que le sol est une ressource non renouvelable à l’échelle des générations humaines.
 
-1) **Définitions**
+1) <mark style="background: #FFB361A6;"><u>Définitions</u></mark>
 
 - Le sol est une formation meuble de surface (formation superficielle) entre le substrat rocheux et la couverture végétale ;  
 En général il est constitué de plusieurs horizons (strates superposées).
 
 - Le sol est le produit de l’altération de la roche-mère : « l’altération, du remaniement et de l’organisation des couches supérieures de l’écorce terrestre sous l’action de la vie, de l’atmosphère, et des échanges d’énergie qui s’y manifestent »
 
-- La formation d’un sol s’appelle la pédogénèse
+- La formation d’un sol s’appelle la **pédogénèse**
 
-- La science du sol est la pédologie
+- La science du sol est la **pédologie**
 
-2) **Composition et propriétés d’un sol**
+2) <mark style="background: #FFB361A6;"><u>Composition et propriétés d’un sol</u></mark>
 
 - Fraction minérale et matière organique (humus = débris végétaux +/- complètement transformés)  
 - Texture et structure  
@@ -32,7 +32,7 @@ Acidité d’un sol (pH) : Acide< Neutre (7)< Basique ou alcalin
 Le *complexe absorbant* représente la capacité nutritive du sol pour les racines des végétaux.  
 Il est en fonction de la nature chimique de l’eau susceptible de circuler dans le sol (minéraux dissous présents sous la forme d’ions) et des échanges qui se produisent avec la matière minérale altérée (colloïdes).
 
-3) **Les matières humiques d’un sol**
+3) <mark style="background: #FFB361A6;"><u>Les matières humiques d’un sol</u></mark>
 
 - Tourbe : Humus se formant en milieu constamment inondé, et de fait, peu oxygéné.
 
@@ -43,7 +43,7 @@ Il est en fonction de la nature chimique de l’eau susceptible de circuler dans
 
 - Anmoor : humus des sols temporairement inondés et où la nappe phréatique subit de fortes oscillations saisonnières (bonne minéralisation de la M.O.)
 
-4) **La fraction minérale d’un sol**
+4) <mark style="background: #FFB361A6;"><u>La fraction minérale d’un sol</u></mark>
 
 La fraction minérale d’un sol provient :
 
@@ -51,12 +51,12 @@ La fraction minérale d’un sol provient :
 - 
 - d’éventuels apports allochtones liées aux processus de migration et transports de matériaux sur le versant (fluage, glissement…)
 
-5) **La structure d’un sol**
-
+5) <mark style="background: #FFB361A6;"><u>La structure d’un sol</u>
+</mark>
 Les processus physiques, chimiques et biologiques se produisant dans le sol conduisant à la formation d’agrégats de particules que séparent les macropores (vides).  
 Production par l’appareil racinaires des végétaux et les animaux qui vivent dans le sol (vers, larves d’insectes, …).
 
-6) **L’eau dans les sols**
+6) <mark style="background: #FFB361A6;"><u>L’eau dans les sols</u></mark>
 
 Le sol est composé de particules soldes minérales et organiques mais aussi de vides occupés par de l’air ou de l’eau (pores).  
 On appelle porosité (%) le volume occupé par les vides dans un volume fixé du sol.  
@@ -74,19 +74,19 @@ La perméabilité dépend de la texture (taille des grains du sol).
 *Perméabilité : sable > limon > argile*  
   
 
-7) **La réserve en eau des sols (réserve utile en eau du sol)**
+7) <mark style="background: #FFB361A6;"><u>La réserve en eau des sols (réserve utile en eau du sol)</u></mark>
 
 Un sol dont l’ensemble des pores est rempli d’eau est dit saturé.  
   
 
-8) **Dynamique des sols :**  
+8) <mark style="background: #FFB361A6;"><u>Dynamique des sols :</u></mark>  
   
 La formation d’un sol résulte de l’action combinée sur la roche des agents atmosphériques (pluie, vent, soleil), de la couverture végétale et de l’action des êtres vivants (bactéries, champignons, lombrics, micro-mammifères, …)
 ![[Pasted image 20230117185605.png]]
 ![[Pasted image 20230117185618.png]]
   
 
-9) **Facteurs de pédogénèse :**
+9) <mark style="background: #FFB361A6;"><u>Facteurs de pédogénèse :</u></mark>
 
 - Altération physique et chimique de la roche mère (f(x) de la T° et de l’humidité)
 
@@ -96,20 +96,20 @@ La formation d’un sol résulte de l’action combinée sur la roche des agents
 
 - Mécanisme d’entraînement des particules du sol (processus érosifs)
 
-10) **Principaux types de sols :**
+10) <mark style="background: #FFB361A6;"><u>Principaux types de sols :</u></mark>
 
 - Sols peu évolués : ex : Ranker  
 - Sols évolués : ex : sols bruns forestiers +/- lessivés  
 - Sols évolués : podzol (horizon d’accumulation sombre sous un horizon décoloré d’éluviation)  
   
 
-### II] Les processus de dégradation des sols par les écoulements
+### <mark style="background: #FFF3A3A6;">II] Les processus de dégradation des sols par les écoulements</mark>
 
 -Erosion hydrique  
 -Erosion éolienne  
 -Salinisation  
   
-1) **L’érosion hydrique**  
+1) <mark style="background: #FFB361A6;"><u>L’érosion hydrique</u></mark>  
   
 Cinq types majeurs d’érosion des sols par les écoulements  
 -splash des gouttes (energy = m x Vx V) (1 mm = 15 km/h ; 5mm = 32 km/h soit 500x pire)  

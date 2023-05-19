@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "de83af0b70a6612a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SOL.md"
+              }
             }
           },
           {
@@ -185,8 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ae721720934ed8a",
+  "active": "de83af0b70a6612a",
   "lastOpenFiles": [
+    "SOL.md",
+    "Pédologie.md",
+    "Untitled.md",
     "Vacances février.md",
     "Timeline Vacance Février.md",
     "conflict-files-obsidian-git.md",
@@ -219,9 +239,6 @@
     "Pasted image 20230424193856.png",
     "Fiche IB2.md",
     "Excalidraw/Tantorum logo.md",
-    "TP8 BOT - Les monocotylédones.md",
-    "Bactérie, Virus, Défense (BVD).md",
-    "Sortie DIA.md",
-    "TP7 BOT.md"
+    "TP8 BOT - Les monocotylédones.md"
   ]
 }
