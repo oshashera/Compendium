@@ -289,13 +289,17 @@ Observation de la durée et de la période précise :
 - période durant laquelle la nappe est en dessous d'un certain seuil -> risque de sécheresse.
 
 On établit un seuil:
+![[seuils précipitations|{width=100%}]]
 
 
+### <mark style="background: #FFF3A3A6;">IV] Etude de cas: sur <u>prairies alluviales</u> riches en espèces végétales et animales tipiques.</mark>
+#### Créées par l'Homme mais fort intérêt écologique comme les landes. On parle de <u>socio-écosystème</u>.
 
 
-
-
-
+- Site d'étude : prairies alluviales -> influence d'une nappe alluviale
+- 2 objectifs: 
+	- (1) Mettre en évidence les variations temporelles de la nappe alluviale
+	- (2) Analyser la végétation
 
 
 
