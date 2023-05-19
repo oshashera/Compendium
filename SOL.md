@@ -1,5 +1,5 @@
 #sol
-## Introduction à la connaissance des sols et à la gestion d’une ressource naturelle non renouvelable
+## <mark style="background: #EE6B6BA6;">Introduction à la connaissance des sols et à la gestion d’une ressource naturelle non renouvelable</mark>
 
   
 
@@ -147,7 +147,7 @@ Le sel est toxique pour les plantes ; Certaines sp s’y sont adaptées et le t
 Des pbs apparaissent lorsque le volume d’eau d’irrigation excède celui de l’évapotranspiration.</ul></ul>
   
 
-### III] L’intensité de l’érosion des sols dans le monde :
+### <mark style="background: #FFF3A3A6;">III] L’intensité de l’érosion des sols dans le monde :</mark>
 
 Fourniture sédimentaire continentale avant l’Homme : 12.6 Md de tonnes/an  
 Aujourd’hui 29,2 mds de tonnes par an (2.5* plus)  
@@ -170,7 +170,7 @@ Ce patrimoine n’est pas remplaçable à court terme :
 -Taux annuel de formation d’un sol : 8mm/siècle (80mm quand labours)  
 -Perte de capital dès que l’érosion dépasse (0.8 mm/an)  
   
-Les causes anthropiques de l’érosion des sols :  
+**Les causes anthropiques de l’érosion des sols :**  
 - Surpâturage  
 - Déforestation, en particulier dans les zones soumises à des pluies intenses  
 - Incendie de forêt  
@@ -185,7 +185,7 @@ Agriculture mécanisée :
 -anoxie des sols et stagnation de l’eau <br> 
 -perturbation des écoulements dans les sols </ul>
   
-Mauvaises pratiques agricoles : 
+**Mauvaises pratiques agricoles :** 
 <ul>-Labours dans le sens de la pente  <br>
 -Epuisement des sols <br>  
 -Agriculture intensive sur de grands parcellaires remembrés  </ul>
@@ -200,7 +200,7 @@ Les impacts indirects induits par l’érosion des sols :
 -Récifs coralliens menacées par la pollution des eaux -> augmentation de la concentration des nitrates et ca phosphates = eutrophisation   
 -> augmentation algues, baisse calcification des coraux
 
-### IV] Les moyens de lutte contre l’érosion des sols  
+### <mark style="background: #FFF3A3A6;">IV] Les moyens de lutte contre l’érosion des sols</mark>  
   
 - Protection contre l’érosion hydrique :  
 - Développer l’agriculture en terrasse sur les versants  
@@ -208,6 +208,25 @@ Les impacts indirects induits par l’érosion des sols :
 - Cultiver des bandes où alternent des espèces n’ayant pas les mêmes rythmes de croissance  et les mêmes dates de récoltes de manière à réduire la course des écoulements sur  d’éventuels sols nus.  
 - Ingénierie biologique  
 - Protection contre l’érosion éolienne : barrière à vent en végétaux
+
+___
+
+## <mark style="background: #EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>
+
+
+### <mark style="background: #FFF3A3A6;">I] Notions préalables</mark>
+
+##### 1) <u>Définitions</u> 
+
+- <u>Aquifère:</u> couche (roche, sol) suffisamment poreuse et perméable pour contenir une nappe d'eau souterraine
+
+- <u>Nappe d'eau souterraine:</u> réservoir d'eau (naturel) douce susceptible d'être exploité.
+<ul><ul><ul><ul>-> 94% de l'eau douce à la surface du globe</ul></ul></ul></ul>
+
+
+
+
+
 
 ___
 [[Pollution des sols]]

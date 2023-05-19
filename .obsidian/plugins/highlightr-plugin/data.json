@@ -3,7 +3,6 @@
   "highlighterMethods": "inline-styles",
   "highlighters": {
     "Pink": "#FFB8EBA6",
-    "Red": "#FF5582A6",
     "Yellow": "#FFF3A3A6",
     "Green": "#BBFABBA6",
     "Cyan": "#ABF7F7A6",
@@ -14,11 +13,11 @@
     "vert": "#09B609A6",
     "Orange": "#FF8500A6",
     "jaune": "#E3CA26A6",
-    "0range": "#FFB361A6"
+    "0range": "#FFB361A6",
+    "Red": "#EE6B6BA6"
   },
   "highlighterOrder": [
     "Pink",
-    "Red",
     "Yellow",
     "Green",
     "Cyan",
@@ -29,6 +28,7 @@
     "vert",
     "Orange",
     "jaune",
-    "0range"
+    "0range",
+    "Red"
   ]
 }
