@@ -256,8 +256,11 @@ La capacité de stockage dépend de la porosité totae (volume des vides)
 
 
 
+### <mark style="background: #FFF3A3A6;">III] Méthode de suivi des réserves hydrologique</mark>
 
+##### <u>1) La méthode piezométrique</u>
 
+-> Mesure de la profondeur de la nappe ainsi que la variation temporelle de cette profondeur 
 
 
 
