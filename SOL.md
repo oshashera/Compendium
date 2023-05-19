@@ -238,7 +238,10 @@ ___
 ##### <u>1) Stockage des eaux de pluie</u>
 
 La capacité de stockage dépend de la porosité totae (volume des vides)
-=m
+= **micro-**(eau retenue), **méso-**(eau moins retenue) et **macro-porosité** (eau pas retenue)
+<u>Mais</u> la quantité d'eau pouvant circuler (et être prélevée) ne dépend que de la macro-porosité.
+
+
 
 
 
