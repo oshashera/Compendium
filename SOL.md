@@ -241,7 +241,16 @@ La capacité de stockage dépend de la porosité totae (volume des vides)
 = **micro-**(eau retenue), **méso-**(eau moins retenue) et **macro-porosité** (eau pas retenue)
 <u>Mais</u> la quantité d'eau pouvant circuler (et être prélevée) ne dépend que de la macro-porosité.
 
+![[Capacité de rétention|{width=100%}]]
 
+
+##### <u>2) Transfert et restitution</u>
+
+-> Alimentation des cours d'eau en dehors des périodes pluvieuses
+-> Prélèvements par l'Homme : agricoles (irrigation), industriel (refroidissement), domestique et consommation directe
+
+
+##### <u>3) Exemple d'une nappe alluviale</u>
 
 
 
