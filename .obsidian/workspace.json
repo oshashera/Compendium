@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ae721720934ed8a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "de83af0b70a6612a",
             "type": "leaf",
             "state": {
@@ -37,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +205,9 @@
   },
   "active": "de83af0b70a6612a",
   "lastOpenFiles": [
-    "Excalidraw/Roles des nappes alluviales.md",
     "SOL.md",
+    "To do List.md",
+    "Excalidraw/Roles des nappes alluviales.md",
     "Excalidraw/Capacité de rétention.md",
     "Excalidraw/Nappes schéma.md",
     "Pédologie.md",
@@ -239,7 +231,6 @@
     "TP BVD.md",
     "L'annuaire potentiel.md",
     "Champ de patate.md",
-    "Botanique Systématique (BOT).md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
     "Pasted image 20230424193958.png",

@@ -211,6 +211,11 @@ Les impacts indirects induits par l’érosion des sols :
 
 ___
 
+
+
+
+
+
 ## <mark style="background: #EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>
 
 
@@ -262,8 +267,12 @@ La capacité de stockage dépend de la porosité totae (volume des vides)
 
 -> Mesure de la profondeur de la nappe ainsi que la variation temporelle de cette profondeur 
 
+- Piezomètre : Levée manuelle de la profondeur de nappe
+
+- Piezographe : Enregistre en continu de la profondeur de nappe
 
 
+[insérer schémas]
 
 
 
