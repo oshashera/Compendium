@@ -252,7 +252,7 @@ La capacité de stockage dépend de la porosité totae (volume des vides)
 
 ##### <u>3) Exemple d'une nappe alluviale</u>
 
-
+![[Roles des nappes alluviales|{width=100%}]]
 
 
 
