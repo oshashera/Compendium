@@ -271,17 +271,17 @@ La capacité de stockage dépend de la porosité totae (volume des vides)
 
 - Piezographe : Enregistre en continu de la profondeur de nappe
 
-
-[insérer schémas]
-
+![[piezométrie|{width=100%}]]
 
 
+##### <u>2) Analyse des piezogrammes</u>
 
+Mise en évidence de:
 
+ariations temporelles et spatiales du niveau de la nappe
+![[variations annuelles eau nappes|{width=100%}]]
 
-
-
-
+Variations patiales: liées à la topographie du site
 ___
 [[Pollution des sols]]
 [[Texture minérale des sols (td)]]
