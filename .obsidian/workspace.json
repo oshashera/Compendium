@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb1518a5adb7728b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-19 13.22.08.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-19 13.22.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-19 13.22.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOL.md"
+                "file": "Excalidraw/Drawing 2023-05-19 13.22.08.excalidraw.md"
               }
             }
           },
@@ -202,8 +212,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de83af0b70a6612a",
+  "active": "eb1518a5adb7728b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-19 13.22.08.excalidraw.md",
     "SOL.md",
     "Pédologie.md",
     "Untitled.md",
@@ -238,7 +249,6 @@
     "Pasted image 20230424193904.png",
     "Pasted image 20230424193856.png",
     "Fiche IB2.md",
-    "Excalidraw/Tantorum logo.md",
-    "TP8 BOT - Les monocotylédones.md"
+    "Excalidraw/Tantorum logo.md"
   ]
 }

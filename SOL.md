@@ -222,9 +222,13 @@ ___
 
 - <u>Nappe d'eau souterraine:</u> réservoir d'eau (naturel) douce susceptible d'être exploité.
 <ul><ul><ul><ul>-> 94% de l'eau douce à la surface du globe</ul></ul></ul></ul>
+- <u>2 grands types :</u>
+<ul>-><u>Nappes libres :</u> Nappes d'eau circulant sous un sol perméable, leur niveau est très ariable dans l'espace et le temps
+<ul><ul>-> <u>Nappes alluviales :</u> Nappes libres en connection directe avec un cours d'eau; l'aquifère est constitué d'alluvions du cours d'eau <br>
+-> <u>Nappes perchées :</u> Nappes libres, généralement temporaires, stuées au dessus d'une zone non saturée</ul></ul>
+-><u>Nappes captives :</u> Nappes d'eau circuant entre deux couches de terrain imperméables; situées plus en profondeur que les nappes libres; peuvent être sous pression</ul>
 
-
-
+##### <u>2) Types de nappes</u>
 
 
 
