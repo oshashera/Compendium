@@ -317,6 +317,16 @@ On utilise une modélisation linéaire, d'autres plus complexes sont aussi utili
 ![[profondeur risque sécheresse]]
 
 ![[piez gradient sol]]
+
+
+Anayse détaillée de la composition végétale du site
+![[zone coupe plan sol piezo|{width=80%}]]
+
+
+
+
+
+
 ___
 [[Pollution des sols]]
 [[Texture minérale des sols (td)]]
