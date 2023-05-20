@@ -394,14 +394,14 @@ arrivant au sol      &emsp; sol -> dépend de la vitesse de décomposition</ul><
 	- Tanins, phénols (défenses chimiques des végétaux)
 <ul>=> proportions <b>très variables</b> selon le type de litière</ul>
 
+![[animal vs végétal litière|{width=100%}]]
 
 
+### <mark style="background: #FFF3A3A6;">II] Transformations de la matière organique</mark>
 
+##### <u>1) Définition</u>
 
-
-
-
-
+Décomposition : ensemble des processus impliqués dans la dégradation de la M.O. fraîche en molécules minérale (M.M. matière minérale) simples.
 
 
 ______
