@@ -16,6 +16,9 @@ Humus ^hQhlgpcu
 M.M.
 simples ^B2SmMNek
 
+=/= voies +/- rapides
+et +/- complexes ^YTLO4Khs
+
 %%
 # Drawing
 ```json
@@ -348,18 +351,18 @@ simples ^B2SmMNek
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
+			"roughness": 0,
+			"opacity": 80,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
-			"seed": 950576774,
-			"version": 120,
-			"versionNonce": 373840346,
+			"seed": 1309717958,
+			"version": 127,
+			"versionNonce": 393588314,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684600123257,
+			"updated": 1684600132602,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -392,6 +395,40 @@ simples ^B2SmMNek
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "YTLO4Khs",
+			"type": "text",
+			"x": 396.6666259765627,
+			"y": -120.38328806559247,
+			"width": 327.0499731699625,
+			"height": 74.39999389648438,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 203608858,
+			"version": 210,
+			"versionNonce": 1046674374,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684600172873,
+			"link": null,
+			"locked": false,
+			"text": "=/= voies +/- rapides\net +/- complexes",
+			"rawText": "=/= voies +/- rapides\net +/- complexes",
+			"fontSize": 30.999997456868485,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "=/= voies +/- rapides\net +/- complexes"
 		},
 		{
 			"id": "8k4WKURZ",
@@ -473,22 +510,22 @@ simples ^B2SmMNek
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#c92a2a",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "dashed",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 745,
-		"scrollY": 372.95001220703125,
+		"scrollX": 1167.6666666666672,
+		"scrollY": 478.91667938232433,
 		"zoom": {
-			"value": 1
+			"value": 0.7499999999999998
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

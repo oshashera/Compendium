@@ -401,7 +401,48 @@ arrivant au sol      &emsp; sol -> dépend de la vitesse de décomposition</ul><
 
 ##### <u>1) Définition</u>
 
-Décomposition : ensemble des processus impliqués dans la dégradation de la M.O. fraîche en molécules minérale (M.M. matière minérale) simples.
+**Décomposition** : ensemble des processus impliqués dans la dégradation de la M.O. fraîche en molécules minérale (M.M. matière minérale) simples.
+
+![[mo mm humus|{width=80%}]]
+
+**Humus :** couche superficielle du sol résultant de la transformation de la MO sous l'action principale des micro-organismes.
+-> reflète les conditions de dégradation locales (activité biologique)
+<ul>-> intégrateur de l'ensemble des conditions du milieu</ul>
+C'est un stock de matière minérale sur le long terme
+
+##### <u>2) Voies de transformation de la M.O.</u>
+
+- **Minéralisation primaire (M1) :** décomposition de la M.O. en M.M. simples par les micro-organismes du sol; processus rapide
+
+- **Humidification :** Ensemble des transformations par voies biologiques et chimiques de la M.O. et des M.M. simples en nouvelles molécules complexes; processus lent;    3 voies d'humidification
+
+- **Minéralisation secondaire (M2) :** Décomposition de l'humus par les micro-organismes pour redonner des M.M. simples; processus lent
+
+### <mark style="background: #FFF3A3A6;">III] Les êtres vivants en action</mark> 
+
+##### 1) Principaux acteurs
+
+-> Des animaux
+ - Vers de terre : anéciques tête rouge/tête noire, épigés, endogés
+ - Arthropodes : acariens, collemboles, isopodes, myriapodes
+
+-> Des champignons
+- réseaux mycéliens ->
+	- Dégradation de la cellulose et **de la lignine**
+	- uniquement aérobies
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ______

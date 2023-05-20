@@ -25,12 +25,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.27.05.excalidraw.md"
+                "file": "Excalidraw/mo mm humus.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.27.05.excalidraw.md",
+                "file": "SOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.27.05.excalidraw.md",
+                "file": "SOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.27.05.excalidraw.md"
+                "file": "SOL.md"
               }
             }
           },
@@ -204,10 +203,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "976306d1a2f7c677",
+  "active": "de83af0b70a6612a",
   "lastOpenFiles": [
+    "Excalidraw/mo mm humus.md",
     "SOL.md",
-    "Excalidraw/Drawing 2023-05-20 18.27.05.excalidraw.md",
     "Excalidraw/animal vs végétal litière.md",
     "image/Pasted image 20230520181235.png",
     "image",
