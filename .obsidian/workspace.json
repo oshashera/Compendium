@@ -20,26 +20,17 @@
             }
           },
           {
-            "id": "4c91af5c54f9a9cf",
+            "id": "b141479c736b8d8e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/intro sol recycl MO.md"
-              }
-            }
-          },
-          {
-            "id": "dcccd171e930ea19",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/piezo sol étude richesse spé et biomasse.md"
+                "file": "Excalidraw/Drawing 2023-05-20 18.13.23.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-20 18.13.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-20 18.13.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOL.md"
+                "file": "Excalidraw/Drawing 2023-05-20 18.13.23.excalidraw.md"
               }
             }
           },
@@ -213,10 +204,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de83af0b70a6612a",
+  "active": "b141479c736b8d8e",
   "lastOpenFiles": [
-    "Excalidraw/intro sol recycl MO.md",
     "SOL.md",
+    "Excalidraw/Drawing 2023-05-20 18.13.23.excalidraw.md",
+    "image/Pasted image 20230520181235.png",
+    "image",
+    "Excalidraw/intro sol recycl MO.md",
     "Excalidraw/piezo sol étude richesse spé et biomasse.md",
     "Excalidraw/tableaux commu végé sol piezo.md",
     "Excalidraw/zone coupe plan sol piezo.md",
@@ -240,7 +234,6 @@
     "Excalidraw/graph td dia.md",
     "obsidian_template/Template Cornell.md",
     "TP2 BOT - Hydrophytes.md",
-    "TP BCV.md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
     "Pasted image 20230424193958.png",
@@ -249,7 +242,6 @@
     "Pasted image 20230424193931.png",
     "Pasted image 20230424193920.png",
     "Pasted image 20230424193911.png",
-    "Pasted image 20230424193904.png",
-    "Pasted image 20230424193856.png"
+    "Pasted image 20230424193904.png"
   ]
 }

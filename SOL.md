@@ -371,18 +371,28 @@ ___
 ##### <u>2) Aspects quantitatifs</u>
 
 <ul><ul><ul><ul>M.O. végétale >>> M.O animale</ul></ul></ul></ul>
-<ul><ul><ul><ul>quantité de litière    =/=   quantité présente sur le<br>
-arrivant au sol      &emsp; sol -> dépend de la vitesse de décomposition</ul></ul></ul></ul>
+<ul><ul><ul>quantité de litière    =/=   quantité présente sur le<br>
+arrivant au sol      &emsp; sol -> dépend de la vitesse de décomposition</ul></ul></ul>
 
+-> Les apports de litière dépendent :
+- de la production primaire
+- des exportations
 
+##### <u>3) Aspects qualitatifs 
+</u>
 
+- <u>Sources :</u> 
+	- animale : cadavres, déjections, poils, plumes
+	- végétale : feuilles, bois, racines
 
-
-
-
-
-
-
+- Constituants:
+	- Matières azotées (protéines, acides nucléiques)
+	- Sucres
+	- Lipides
+	- Lignine (bois)
+	- Cellulose (paroi des cellules végétales)
+	- Tanins, phénols (défenses chimiques des végétaux)
+<ul>=> proportions <b>très variables</b> selon le type de litière</ul>
 
 
 
