@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "d684d03f826eff7c",
+            "id": "69870a6de8f93b28",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.25.31.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "655ab955e269ab77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.25.31.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.25.31.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.25.31.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md"
               }
             }
           },
@@ -182,12 +194,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 673.5,
-    "collapsed": true
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +215,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d684d03f826eff7c",
+  "active": "d2bb42faed84f60b",
   "lastOpenFiles": [
     "SOL.md",
-    "Excalidraw/Drawing 2023-05-20 20.25.31.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/effets condition milieu sur sol.md",
     "Excalidraw/tableaux actions acteurs du sol.md",
     "Excalidraw/mo mm humus.md",
     "Excalidraw/animal vs végétal litière.md",
@@ -231,9 +244,7 @@
     "Untitled.md",
     "Vacances février.md",
     "Timeline Vacance Février.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
-    "TD Dia IBGN.md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
     "Pasted image 20230424193958.png",

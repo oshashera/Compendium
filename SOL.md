@@ -443,7 +443,9 @@ C'est un stock de matière minérale sur le long terme
 
 ##### <u>3) Effets des conditions du milieu</u>
 
+![[effets condition milieu sur sol|{width=100%}]]
 
+##### <u>4) Chaînes de décomposeurs</u>
 
 
 

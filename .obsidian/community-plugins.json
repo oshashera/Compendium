@@ -1,11 +1,7 @@
 [
   "nldates-obsidian",
-  "obsidian-advanced-slides",
   "obsidian-extract-pdf-highlights",
   "quick-latex",
-  "obsidian-relation-pane",
-  "obsidian-admonition",
-  "obsidian-discordrpc",
   "obsidian-annotator",
   "emoji-shortcodes",
   "obsidian-image-toolkit",
@@ -14,14 +10,13 @@
   "tag-wrangler",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian",
   "obsidian-excel-to-markdown-table",
   "better-pdf-plugin",
-  "obsidian-pandoc",
   "obsidian-enhancing-export",
   "highlightr-plugin",
-  "obsidian-ful",
   "templater-obsidian",
   "cmenu-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-pandoc"
 ]
