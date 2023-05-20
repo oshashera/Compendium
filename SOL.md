@@ -314,8 +314,9 @@ On utilise une modélisation linéaire, d'autres plus complexes sont aussi utili
 - de la durée annuelle moyenne d'inondation
 - de la durée annuelle moyenne du risque de sécheresse, sachant que la profondeur d'enracinement est de 60 cm en moyenne, et que l'épaisseur de la frange capillaire est de 20 cm environ -> si profondeur eau supérieur à 80 cm (60+20), risque sécheresse.
 
+![[profondeur risque sécheresse]]
 
-
+![[piez gradient sol]]
 ___
 [[Pollution des sols]]
 [[Texture minérale des sols (td)]]
