@@ -1,12 +1,19 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#s6",
+      "color": {
+        "a": 1,
+        "rgb": 14701173
+      }
+    },
     {
       "query": "tag:#excalidraw",
       "color": {
@@ -43,6 +50,13 @@
       }
     },
     {
+      "query": "tag:#à_faire_connard",
+      "color": {
+        "a": 1,
+        "rgb": 13697024
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
@@ -60,6 +74,6 @@
   "repelStrength": 15.8333333333333,
   "linkStrength": 0.614583333333333,
   "linkDistance": 67,
-  "scale": 0.42967809143428665,
-  "close": true
+  "scale": 0.38304578423748825,
+  "close": false
 }
