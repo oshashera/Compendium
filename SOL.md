@@ -331,7 +331,7 @@ A l'intérieur de chaque section -> relevé de la végétation + mesure de la bi
 <ul><ul><ul><ul><ul><ul> |<br>v</ul></ul></ul></ul></ul></ul>
 ![[tableaux commu végé sol piezo|{width=90%}]]
 
-Etude de similarité, indice de Jacard entre A et D : J(A;D) = 14% = $$\frac{A\cap D}{A \cup D} = \frac{sp.\:dans\:A\:et\:D}{sp.\:dans\:A\:ou\:D}$$
+Etude de similarité, indice de Jacard entre A et D : J(A;D) = 14% = $\frac{A\cap D}{A \cup D} = \frac{sp.\:dans\:A\:et\:D}{sp.\:dans\:A\:ou\:D}$
 ![[piezo sol étude richesse spé et biomasse|{width=100%}]]
 
 D = milieu stressant, peu de plantes tolèrent l'eau en excès.
