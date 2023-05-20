@@ -187,8 +187,8 @@ Fonction de diversité animale, par leur différentes strates (herbacées, arbus
 -> site de ponte, alimentation
 
 -> Refuge pour la faune auxiliaire des cultures
-- [[lutte biologique]] intégrée
-- [[lutte biologique]] par conservation
+- [[Lutte biologique]] intégrée
+- [[Lutte biologique]] par conservation
 <br>
 
 Le réseau de haies permet de relier des habitats à la manière de corridors biologiques.
