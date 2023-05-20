@@ -439,7 +439,7 @@ C'est un stock de matière minérale sur le long terme
 
 ##### <u>2) Principales actions</u>
 
-
+![[tableaux actions acteurs du sol|{width=100%}]]
 
 
 

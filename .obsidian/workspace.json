@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e6bbf7eec386783",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.41.31.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.41.31.excalidraw.md",
+                "file": "SOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.41.31.excalidraw.md",
+                "file": "SOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 18.41.31.excalidraw.md"
+                "file": "SOL.md"
               }
             }
           },
@@ -204,10 +193,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e6bbf7eec386783",
+  "active": "de83af0b70a6612a",
   "lastOpenFiles": [
+    "Excalidraw/tableaux actions acteurs du sol.md",
     "SOL.md",
-    "Excalidraw/Drawing 2023-05-20 18.41.31.excalidraw.md",
     "Excalidraw/mo mm humus.md",
     "Excalidraw/animal vs végétal litière.md",
     "image/Pasted image 20230520181235.png",
