@@ -441,6 +441,7 @@ C'est un stock de matière minérale sur le long terme
 
 ![[tableaux actions acteurs du sol|{width=100%}]]
 
+##### <u>3) Effets des conditions du milieu</u>
 
 
 
