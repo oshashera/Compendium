@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 673.5
+    "width": 673.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de83af0b70a6612a",
+  "active": "d2bb42faed84f60b",
   "lastOpenFiles": [
     "Excalidraw/plan zone étude alluviale.md",
     "SOL.md",
