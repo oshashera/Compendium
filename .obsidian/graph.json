@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "-path:Excalidraw",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -60,6 +60,6 @@
   "repelStrength": 15.8333333333333,
   "linkStrength": 0.614583333333333,
   "linkDistance": 67,
-  "scale": 0.42967809143428665,
-  "close": true
+  "scale": 1.0000000000000835,
+  "close": false
 }
