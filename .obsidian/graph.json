@@ -1,19 +1,12 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "tag:#s6",
-      "color": {
-        "a": 1,
-        "rgb": 14701173
-      }
-    },
     {
       "query": "tag:#excalidraw",
       "color": {
@@ -47,13 +40,6 @@
       "color": {
         "a": 1,
         "rgb": 15638873
-      }
-    },
-    {
-      "query": "tag:#à_faire_connard",
-      "color": {
-        "a": 1,
-        "rgb": 13697024
       }
     },
     {
