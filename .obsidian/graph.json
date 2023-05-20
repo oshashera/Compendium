@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-path:Excalidraw",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#s6",
@@ -64,16 +64,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1.784375,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.755208333333333,
   "repelStrength": 15.8333333333333,
   "linkStrength": 0.614583333333333,
   "linkDistance": 67,
   "scale": 0.38304578423748825,
-  "close": false
+  "close": true
 }
