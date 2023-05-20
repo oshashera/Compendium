@@ -1,4 +1,12 @@
 #sol
+____
+Sommaire:
+[[#<mark style="background: EE6B6BA6;">Introduction à la connaissance des sols et à la gestion d’une ressource naturelle non renouvelable</mark>|Introduction à la connaissance des sols et à leur gestion]]
+[[#<mark style="background: EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>|L'eau dans les nappes phréatiques : réserves hydrologiques]]
+[[]]
+
+
+
 ## <mark style="background: #EE6B6BA6;">Introduction à la connaissance des sols et à la gestion d’une ressource naturelle non renouvelable</mark>
 
   
@@ -328,8 +336,60 @@ A l'intérieur de chaque section -> relevé de la végétation + mesure de la bi
 
 Etude de similarité, indice de Jacard entre A et D : J(A;D) = 14% = $$\frac{A\cap D}{A \cup D} = \frac{sp.\:dans\:A\:et\:D}{sp.\:dans\:A\:ou\:D}$$
 ![[piezo sol étude richesse spé et biomasse|{width=100%}]]
-D = milieu stressant, peu de plantes tolèrent l'eau en excès:
-- asphyxie de
+
+D = milieu stressant, peu de plantes tolèrent l'eau en excès.
+
+### <mark style="background: #FFF3A3A6;">V] Conclusions </mark>
+
+Eau = ressource indispensabe au développement de la végétation, mais lorsqu'elle est en excès (saturation au sol), elle devient une source de stress.
+-> conséquences de la saturation en eau du sol pour la végétation :
+- asphyxie des racines
+- diminutions de l'activité microbienne du sol -> mauvaise dégradation de la M.O.
+- ralentissement du réchauffement du sol au printemps
+- formation de substances toxiques par réactions d'oxydo-réduction
+- sol plus sensible au tassement
+
+Ces variations/fluctuations spatiales d'eau entraînent la formation d'une mosaïque d'habitats différents, et d'une hétérogénéité de la végétation
+
+
 ___
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______
 [[Pollution des sols]]
 [[Texture minérale des sols (td)]]
