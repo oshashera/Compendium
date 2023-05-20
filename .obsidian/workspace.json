@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d133ae35fde14b63",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 17.13.56.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "fbe80139df6a08de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/zone coupe plan sol piezo.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 17.13.56.excalidraw.md",
+                "file": "SOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 17.13.56.excalidraw.md",
+                "file": "SOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 17.13.56.excalidraw.md"
+                "file": "SOL.md"
               }
             }
           },
@@ -214,10 +193,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d133ae35fde14b63",
+  "active": "de83af0b70a6612a",
   "lastOpenFiles": [
+    "Excalidraw/tableaux commu végé sol piezo.md",
     "SOL.md",
-    "Excalidraw/Drawing 2023-05-20 17.13.56.excalidraw.md",
     "Excalidraw/zone coupe plan sol piezo.md",
     "Excalidraw/piez gradient sol.md",
     "Excalidraw/profondeur risque sécheresse.md",

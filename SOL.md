@@ -322,10 +322,11 @@ On utilise une modélisation linéaire, d'autres plus complexes sont aussi utili
 Anayse détaillée de la composition végétale du site
 ![[zone coupe plan sol piezo|{width=80%}]]
 
+A l'intérieur de chaque section -> relevé de la végétation + mesure de la biomasse 
+<ul><ul><ul><ul><ul><ul> |<br>v</ul></ul></ul></ul></ul></ul>
+![[tableaux commu végé sol piezo|{width=90%}]]
 
-
-
-
+Etude de similarité, indice de Jacard entre A et D : J(A;D) = 14% = $$\frac{A\cap D}{A \cup D}$$
 
 ___
 [[Pollution des sols]]
