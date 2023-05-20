@@ -155,28 +155,27 @@
             }
           },
           {
-            "id": "0f2910bc00ca4339",
-            "type": "leaf",
-            "state": {
-              "type": "relation-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d2bb42faed84f60b",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "7b289674fe94c7a7",
+            "type": "leaf",
+            "state": {
+              "type": "relation-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 673.5,
-    "collapsed": true
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de83af0b70a6612a",
+  "active": "7b289674fe94c7a7",
   "lastOpenFiles": [
     "Excalidraw/tableaux actions acteurs du sol.md",
     "SOL.md",
