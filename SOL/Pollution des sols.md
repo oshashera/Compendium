@@ -494,4 +494,4 @@ Oxyde de fer : atome de fer entouré d’oxygène, à sa surface y a f(x) de su
 <br>
 <br>
 ___
-[[Sol]]
+[[SOL]]
