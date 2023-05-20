@@ -344,8 +344,8 @@ des nutriments? ^4zqR1bua
 			"type": "arrow",
 			"x": 289.199951171875,
 			"y": -40.65001678466797,
-			"width": 44.27470030432232,
-			"height": 68.00003051757812,
+			"width": 2.925372937865177,
+			"height": 66.40005493164062,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -359,11 +359,11 @@ des nutriments? ^4zqR1bua
 				"type": 2
 			},
 			"seed": 1515791942,
-			"version": 151,
-			"versionNonce": 1546179418,
+			"version": 274,
+			"versionNonce": 1324364250,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684598347992,
+			"updated": 1684598929989,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -372,20 +372,20 @@ des nutriments? ^4zqR1bua
 					0
 				],
 				[
-					-44.27470030432232,
-					68.00003051757812
+					2.925372937865177,
+					66.40005493164062
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "y8wQ3we7",
-				"focus": -0.08348376639982953,
+				"focus": 0.04470663323013253,
 				"gap": 10.399993896484375
 			},
 			"endBinding": {
 				"elementId": "4zqR1bua",
-				"focus": -0.30267633018559215,
-				"gap": 8.79998779296875
+				"focus": 0.08457874609082912,
+				"gap": 10.39996337890625
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"

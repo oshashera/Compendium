@@ -355,18 +355,24 @@ ___
 
 ### <mark style="background: #FFF3A3A6;">Introduction</mark>
 
+![[intro sol recycl MO|{width=100%}]]
 
+### <mark style="background: #FFF3A3A6;">I] La matière organique</mark>
 
+##### <u>1) Définition</u> 
 
+<u>M.O.</u>
+- constituante des êtres vivants
+- stockage de l'énergie
+- entre dans l'écosystème par les organismes autotrpohes
+- transite par les chaînes trophiques
+- arrive intégralement au sol (couche de M.O. fraiche = litière (horizon OL))... tôt ou tard.
 
+##### <u>2) Aspects quantitatifs</u>
 
-
-
-
-
-
-
-
+<ul><ul><ul><ul>M.O. végétale >>> M.O animale</ul></ul></ul></ul>
+<ul><ul><ul><ul>quantité de litière    =/=   quantité présente sur le<br>
+arrivant au sol      &emsp; sol -> dépend de la vitesse de décomposition</ul></ul></ul></ul>
 
 
 
