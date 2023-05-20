@@ -303,6 +303,17 @@ On établit un seuil:
 
 ![[plan zone étude alluviale|{width=100%}]]
 
+Q1: Convertir les données pontuelles du site en données continues
+-> étudier un lien/une corrélation entre les données ponctuelles et la courbe continue du piezographe.
+- On peut relier les points -> "interpolation linéaire" -> peu fiable
+- On peut faire correspondre les points des relevés des piezomètres avec un point du piezogramme pour prédirdes valeurs des piezomètres à partir du piezographe -> modélisation, à faire valider par test statistique qui mesure la dispersion autour de la droite (r², si r²=1 c'est pas dispersé si 0 c'est dispersé). L'exigence sur le r² dépend de la discipline et du "bruit" en influence.
+
+On génère des piezogrammes à partir des données des 3 piezomètres.
+On utilise une modélisation linéaire, d'autres plus complexes sont aussi utilisables
+-> Sur la base de ces 3 piezogramme fournis on fait une estimation:
+- de la durée annuelle moyenne d'inondation
+- de la durée annuelle moyenne du risque de sécheresse, sachant que la profondeur d'enracinement est de 60 cm en moyenne, et que l'épaisseur de la frange capillaire est de 20 cm environ -> si profondeur eau supérieur à 80 cm (60+20), risque sécheresse.
+
 
 
 ___
