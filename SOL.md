@@ -452,7 +452,19 @@ C'est un stock de matière minérale sur le long terme
 En forêt, l'immense majorité de la M.O. produite par les végétaux passe par les chaînes de décomposeurs
 **->** "chaînes de démontage" d'un même produit initial par des "ouvriers" spécialisés qui ont des rôles complémentaires
 
-Exemple: décomposition d'une feuille
+<u>Exemple:</u> **décomposition d'une feuille**
+![[exempe décomposition feuille|{width=100%}]]
+
+<u>Actions complémentaires et facilitatrices :</u>
+- Arthropodes facilitent colonisation fongique
+- Champignons améliorent l'appétence des feuilles
+- VdT aèrent le sol -> stimule l'activité biologique
+
+<u>Exemple:</u> **décomposition du bois**
+- meurt à petit feu... trois de pics, poussières sont des signes
+- commence bien avant la chute de l'arbre
+- lignifié = difficile à dégrader
+	- => besoin d'une **BOUCLE MUTUALISTE**
 
 
 
