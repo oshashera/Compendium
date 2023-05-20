@@ -482,8 +482,7 @@ Digestion par les <u>champignons:</u>
 
 - <u>Formes d'humus :</u> Diagnostic basé sur l'observation des horizons O
 
-
-
+![[formes humus mor moder mull|{width=100%}]]
 
 
 
