@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "4c91af5c54f9a9cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-20 17.55.40.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "dcccd171e930ea19",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-20 17.55.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOL.md",
+                "file": "Excalidraw/Drawing 2023-05-20 17.55.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOL.md"
+                "file": "Excalidraw/Drawing 2023-05-20 17.55.40.excalidraw.md"
               }
             }
           },
@@ -203,10 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de83af0b70a6612a",
+  "active": "4c91af5c54f9a9cf",
   "lastOpenFiles": [
-    "Excalidraw/piezo sol étude richesse spé et biomasse.md",
     "SOL.md",
+    "Excalidraw/Drawing 2023-05-20 17.55.40.excalidraw.md",
+    "Excalidraw/piezo sol étude richesse spé et biomasse.md",
     "Excalidraw/tableaux commu végé sol piezo.md",
     "Excalidraw/zone coupe plan sol piezo.md",
     "Excalidraw/piez gradient sol.md",
@@ -230,7 +242,6 @@
     "obsidian_template/Template Cornell.md",
     "TP2 BOT - Hydrophytes.md",
     "TP BCV.md",
-    "BVD TD cdlamèrd.md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
     "Pasted image 20230424193958.png",

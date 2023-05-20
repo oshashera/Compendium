@@ -1,9 +1,10 @@
 #sol
 ____
-Sommaire:
+#### Sommaire:
+
 [[#<mark style="background: EE6B6BA6;">Introduction à la connaissance des sols et à la gestion d’une ressource naturelle non renouvelable</mark>|Introduction à la connaissance des sols et à leur gestion]]
 [[#<mark style="background: EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>|L'eau dans les nappes phréatiques : réserves hydrologiques]]
-[[]]
+[[#<mark style="background: EE6B6BA6;">Recyclage de la matière organique</mark>|Recyclage de la matière organique]]
 
 
 
@@ -217,12 +218,8 @@ Les impacts indirects induits par l’érosion des sols :
 - Ingénierie biologique  
 - Protection contre l’érosion éolienne : barrière à vent en végétaux
 
+[[#Sommaire:|Sommaire]]
 ___
-
-
-
-
-
 
 ## <mark style="background: #EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>
 
@@ -351,11 +348,12 @@ Eau = ressource indispensabe au développement de la végétation, mais lorsqu'e
 
 Ces variations/fluctuations spatiales d'eau entraînent la formation d'une mosaïque d'habitats différents, et d'une hétérogénéité de la végétation
 
-
+[[#Sommaire:|Sommaire]]
 ___
 
+## <mark style="background: #EE6B6BA6;">Recyclage de la matière organique</mark>
 
-
+### <mark style="background: #FFF3A3A6;">Introduction</mark>
 
 
 
