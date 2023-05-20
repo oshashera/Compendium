@@ -478,9 +478,9 @@ Digestion par les <u>champignons:</u>
 
 ##### <u>1) Analyse in situ des formes d'humus</u>
 
+![[sols horizons O|{width=100%}]]
 
-
-
+- <u>Formes d'humus :</u> Diagnostic basé sur l'observation des horizons O
 
 
 
