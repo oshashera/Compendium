@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOL.md",
+                "file": "Entomologie.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "69870a6de8f93b28",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "602cd68cba0731b0",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md",
+                "file": "Entomologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md",
+                "file": "Entomologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md"
+                "file": "Entomologie.md"
               }
             }
           },
@@ -166,14 +154,6 @@
             }
           },
           {
-            "id": "0f2910bc00ca4339",
-            "type": "leaf",
-            "state": {
-              "type": "relation-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d2bb42faed84f60b",
             "type": "leaf",
             "state": {
@@ -182,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 673.5
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,19 +176,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2bb42faed84f60b",
+  "active": "de83af0b70a6612a",
   "lastOpenFiles": [
-    "SOL.md",
-    "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/effets condition milieu sur sol.md",
+    "Excalidraw/Drawing 2023-05-20 20.35.54.excalidraw.md",
+    "Agroécologie.md",
+    "Pasted image 20230324155245.png",
+    "Pasted image 20230324154607.png",
+    "SOL.md",
     "Excalidraw/tableaux actions acteurs du sol.md",
     "Excalidraw/mo mm humus.md",
     "Excalidraw/animal vs végétal litière.md",
@@ -232,15 +213,13 @@
     "Untitled.md",
     "Vacances février.md",
     "Timeline Vacance Février.md",
-    "Excalidraw/Drawing 2023-02-07 14.35.58.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20230424194017.png",
     "Pasted image 20230424194004.png",
     "Pasted image 20230424193958.png",
     "Pasted image 20230424193946.png",
     "Pasted image 20230424193937.png",
     "Pasted image 20230424193931.png",
-    "Pasted image 20230424193920.png",
-    "Pasted image 20230424193911.png",
-    "Pasted image 20230424193904.png"
+    "Pasted image 20230424193920.png"
   ]
 }
