@@ -466,6 +466,42 @@ En forêt, l'immense majorité de la M.O. produite par les végétaux passe par 
 - lignifié = difficile à dégrader
 	- => besoin d'une **BOUCLE MUTUALISTE**
 
+![[décomposition bois boucle mutualiste|{width=100%}]]
+Les insectes "xylophages" mangent du bois <u><b>mais</b></u> ne digèrent ni la cellulose ni la lignine. Comment?
+
+Digestion par les <u>champignons:</u>
+- présents sur le bois (insectes mycophages plutôt que xylophages)
+- présents dans le tube digestif de l'insecte (symbiotes intestinaux)
+
+
+### <mark style="background: #FFF3A3A6;">IV] Méthodes simples d'analyse de la décomposition:</mark>
+
+##### <u>1) Analyse in situ des formes d'humus</u>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ______

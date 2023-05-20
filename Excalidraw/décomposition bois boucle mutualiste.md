@@ -32,8 +32,8 @@ fongique ^usqkCXQH
 		{
 			"id": "yhPJQz1N",
 			"type": "text",
-			"x": -402,
-			"y": -144.65001678466797,
+			"x": -306.7999572753906,
+			"y": -118.2500228881836,
 			"width": 142,
 			"height": 48,
 			"angle": 0,
@@ -47,11 +47,16 @@ fongique ^usqkCXQH
 			"groupIds": [],
 			"roundness": null,
 			"seed": 558475034,
-			"version": 28,
-			"versionNonce": 939152838,
+			"version": 81,
+			"versionNonce": 882650566,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1684610958540,
+			"boundElements": [
+				{
+					"id": "ZtyIM9OCyZ1OuVSNw1lnW",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684611066248,
 			"link": null,
 			"locked": false,
 			"text": "1. Colonisation \nfongique",
@@ -81,16 +86,24 @@ fongique ^usqkCXQH
 			"groupIds": [],
 			"roundness": null,
 			"seed": 989310214,
-			"version": 122,
-			"versionNonce": 998571034,
+			"version": 124,
+			"versionNonce": 1228958214,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "Ph8LIuXi8wClseWdWpfsp",
 					"type": "arrow"
+				},
+				{
+					"id": "IPyMFXZHXP5nF-c3OVACX",
+					"type": "arrow"
+				},
+				{
+					"id": "ZtyIM9OCyZ1OuVSNw1lnW",
+					"type": "arrow"
 				}
 			],
-			"updated": 1684611039434,
+			"updated": 1684611061620,
 			"link": null,
 			"locked": false,
 			"text": "2. qui favorise les \nattaques par les \ninsectes mycophages",
@@ -159,11 +172,16 @@ fongique ^usqkCXQH
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1168204570,
-			"version": 43,
-			"versionNonce": 60586778,
+			"version": 44,
+			"versionNonce": 419203098,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1684611033331,
+			"boundElements": [
+				{
+					"id": "IPyMFXZHXP5nF-c3OVACX",
+					"type": "arrow"
+				}
+			],
+			"updated": 1684611050842,
 			"link": null,
 			"locked": false,
 			"text": "... et la colonisation \nfongique",
@@ -222,6 +240,108 @@ fongique ^usqkCXQH
 				"elementId": "ZOP4V6Ri",
 				"focus": 0.7512051602236116,
 				"gap": 10.39990234375
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "IPyMFXZHXP5nF-c3OVACX",
+			"type": "arrow",
+			"x": 162,
+			"y": -64.65001678466797,
+			"width": 81.5999755859375,
+			"height": 24.800018310546875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1823751578,
+			"version": 27,
+			"versionNonce": 854980422,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684611050842,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					81.5999755859375,
+					24.800018310546875
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "C1Qozpve",
+				"focus": -0.17985131870312596,
+				"gap": 12
+			},
+			"endBinding": {
+				"elementId": "usqkCXQH",
+				"focus": -0.6457756393174471,
+				"gap": 9.5999755859375
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "ZtyIM9OCyZ1OuVSNw1lnW",
+			"type": "arrow",
+			"x": -150.79998779296875,
+			"y": -87.75002753871462,
+			"width": 96,
+			"height": 0.2841847567556215,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 740941702,
+			"version": 98,
+			"versionNonce": 1384282950,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684611069708,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					96,
+					0.2841847567556215
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "yhPJQz1N",
+				"focus": 0.25808870301733977,
+				"gap": 13.999969482421875
+			},
+			"endBinding": {
+				"elementId": "C1Qozpve",
+				"focus": 0.02479090047451461,
+				"gap": 8.79998779296875
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
