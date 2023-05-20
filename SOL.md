@@ -420,17 +420,24 @@ C'est un stock de matière minérale sur le long terme
 
 ### <mark style="background: #FFF3A3A6;">III] Les êtres vivants en action</mark> 
 
-##### 1) Principaux acteurs
+##### <u>1) Principaux acteurs</u>
 
--> Des animaux
+**-> Des animaux**
  - Vers de terre : anéciques tête rouge/tête noire, épigés, endogés
  - Arthropodes : acariens, collemboles, isopodes, myriapodes
 
--> Des champignons
+**-> Des champignons**
 - réseaux mycéliens ->
 	- Dégradation de la cellulose et **de la lignine**
-	- uniquement aérobies
+	- Uniquement aérobies
 
+**-> Des bactéries** 
+- ->
+	- Dégradation de la cellulose
+	- Aérobies ou anaérobies
+
+
+##### <u>2) Principales actions</u>
 
 
 
