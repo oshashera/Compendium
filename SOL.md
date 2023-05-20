@@ -447,11 +447,12 @@ C'est un stock de matière minérale sur le long terme
 
 ##### <u>4) Chaînes de décomposeurs</u>
 
+![[chaines décomposeurs sol|{width=100%}]]
 
+En forêt, l'immense majorité de la M.O. produite par les végétaux passe par les chaînes de décomposeurs
+**->** "chaînes de démontage" d'un même produit initial par des "ouvriers" spécialisés qui ont des rôles complémentaires
 
-
-
-
+Exemple: décomposition d'une feuille
 
 
 
