@@ -230,12 +230,13 @@ Ce ralentissement permet **la vie sur Terre**
 
 ![[zones aérations saturation|{witdh=100%}]]
 
+### <mark style="background: #FFF3A3A6;">I]Paramètres physiques et hydriques du sol</mark>
 
+![[propriétés physiques et hydriques du sol|{width=80%}]]
 
+##### <u>1) Masse volumique sèche (=densité sèche)</u>
 
-
-
-
+d<sub>s</sub> = $\frac{M_s}{V_s}$ ~ cte = 2,65 g/cm
 
 
 
