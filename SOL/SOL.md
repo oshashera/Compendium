@@ -273,6 +273,16 @@ Résultent de la tension de surface entre l'air et l'eau
 
 Forces électriques entre les molécules d'eau polarisées et la surface des particules solides
 
+![[le - 2) adsorption|{width=100%}]]
+
+##### 3) Potentiel matriciel
+
+Pour un sol donné, à un moment donné:
+Pression négative (succion) exercée par les forces
+
+
+
+
 ____
 
 ## <mark style="background: #EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>
