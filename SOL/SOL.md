@@ -255,10 +255,11 @@ $\Theta_p =\: \frac{M_e}{M_s}$ = (g/g ou %)
 
 ##### <u>5) Humidité volumique</u> 
 
-$\Theta_v =\: \frac{V_e}{V_t}$ = $\Theta_{p}\:x\:d_a$
+$\Theta_v =\: \frac{V_e}{V_t}$ = $\Theta_{p}\:\times\:d_a$ (cm<sup>3</sup>/cm<sup>3</sup> ou %)
 
+### <mark style="background: #FFF3A3A6;">II] Les forces de rétention de l'eau dans le sol</mark>
 
-
+![[gravité vs retention eau|{width=40%}]]
 
 
 ____
