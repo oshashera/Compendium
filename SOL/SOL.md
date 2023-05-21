@@ -301,7 +301,9 @@ Quantité max d'eau dont peut disposer la végétation pour assurer son alimenta
 *Exemple*
 $\Theta_{v}-{cap.rét = 33\%}$
 $\Theta_{v}-{pt.flét = 15\%}$
-=> $Ru = ({0.33-0.15}\times800)$
+=> $Ru = ({0.33-0.15}\times800(mm))\:\:\:Ru=144mm$
+
+##### <u>3) Etats hydriques du sol</u>
 
 
 ____
