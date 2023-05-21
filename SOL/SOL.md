@@ -262,6 +262,15 @@ $\Theta_v =\: \frac{V_e}{V_t}$ = $\Theta_{p}\:\times\:d_a$ (cm<sup>3</sup>/cm<su
 ![[gravité vs retention eau|{width=40%}]]
 
 
+##### <u>1) Les forces de rétention capillaire</u> 
+
+Résultent de la tension de surface entre l'air et l'eau
+- Augmentent quand la taille des pores diminuent
+- La capacité d'un sol à retenir l'eau ne dépends pas de sa porosité (=volume de ses pores) mais de la taille de ses pores
+- Porosié indique combien d'eau peut être **contenue**, mais pas combien peut être **retenue**
+
+
+
 ____
 
 ## <mark style="background: #EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>
