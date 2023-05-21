@@ -295,7 +295,15 @@ Pression négative (succion) exercée par les forces <u>d'adsorption</u> et de <
 Quantité max d'eau dont peut disposer la végétation pour assurer son alimentation en eau en l'absence de précipitations.
 - S'exprime pour une profondeur de sol donnée, en général profondeur d'enracinement de la végétation
 - S'exprime en mm (équivalent précipitation)
-- 
+
+![[le - 2) réserve hydrique RU]]
+
+*Exemple*
+$\Theta_{v}-{cap.rét = 33\%}$
+$\Theta_{v}-{pt.flét = 15\%}$
+=> $Ru = ({0.33-0.15}\times800)$
+
+
 ____
 
 ## <mark style="background: #EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>
