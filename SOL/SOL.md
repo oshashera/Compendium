@@ -228,6 +228,7 @@ ___
 **Le sol est très important, il permet le ralentissement du cycle de l'eau**
 Ce ralentissement permet **la vie sur Terre**
 
+![[zones aérations saturation|{witdh=100%}]]
 
 
 
