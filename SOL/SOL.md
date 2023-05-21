@@ -269,7 +269,9 @@ Résultent de la tension de surface entre l'air et l'eau
 - La capacité d'un sol à retenir l'eau ne dépends pas de sa porosité (=volume de ses pores) mais de la taille de ses pores
 - Porosié indique combien d'eau peut être **contenue**, mais pas combien peut être **retenue**
 
+##### <u>2) A<i>d</i>sorption</u> 
 
+Forces électriques entre les molécules d'eau polarisées et la surface des particules solides
 
 ____
 
