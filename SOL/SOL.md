@@ -275,14 +275,27 @@ Forces électriques entre les molécules d'eau polarisées et la surface des par
 
 ![[le - 2) adsorption|{width=100%}]]
 
-##### 3) Potentiel matriciel
+##### <u>3) Potentiel matriciel</u>
 
 Pour un sol donné, à un moment donné:
-Pression négative (succion) exercée par les forces
+Pression négative (succion) exercée par les forces <u>d'adsorption</u> et de <u>rétention capillaire</u> 
+-> Lorsque l'humidité du sol augmente, le potentiel matriciel décroît
 
+### <mark style="background: #FFF3A3A6;">III] Valeurs caractéristiques et réserve hydrique</mark>
 
+##### 1) Capacité de rétention et point de flétrissement
 
+- <u>Capacité de rétention</u> : quantité d'eau maximale que peut retenir (=/= contenir) un sol par capillarité et adsorption
+- <u>Point de flétrissement :</u> quantité d'eau au-dessous de laquelle l'eau ne peut plus être extraite par la végétation
 
+- Différence entre les deux entre les deux = **réserve utile (RU)**
+
+##### <u>2) Réserve hydrique (ou réserve utile RU)</u>
+
+Quantité max d'eau dont peut disposer la végétation pour assurer son alimentation en eau en l'absence de précipitations.
+- S'exprime pour une profondeur de sol donnée, en général profondeur d'enracinement de la végétation
+- S'exprime en mm (équivalent précipitation)
+- 
 ____
 
 ## <mark style="background: #EE6B6BA6;">L'eau dans les nappes phréatiques : réserves hydrologiques</mark>
