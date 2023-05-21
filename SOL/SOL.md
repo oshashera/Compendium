@@ -307,6 +307,32 @@ $\Theta_{v}-{pt.flét = 15\%}$
 
 ![[RU schéma 1]]
 
+![[sols et potentiels matriciels|{width=100%}]]
+
+La teneur du sol en eau est peu informative quant à la quantité d'eau disponible pour la végétation!
+
+![[humidités sols bon-mauvais|{width=70%}]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ____
 
