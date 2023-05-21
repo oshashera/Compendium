@@ -313,9 +313,9 @@ La teneur du sol en eau est peu informative quant à la quantité d'eau disponib
 
 ![[humidités sols bon-mauvais|{width=70%}]]
 
+![[meilleur Ru arg-limo-sabl|{width=80%}]]
 
-
-
+### <mark style="background: #FFF3A3A6;">IV] Méthodes de mesure</mark>
 
 
 
