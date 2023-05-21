@@ -236,7 +236,27 @@ Ce ralentissement permet **la vie sur Terre**
 
 ##### <u>1) Masse volumique sèche (=densité sèche)</u>
 
-d<sub>s</sub> = $\frac{M_s}{V_s}$ ~ cte = 2,65 g/cm
+d<sub>s</sub> = $\frac{M_s}{V_s}$ ~ cte = 2,65 g/cm<sup>3</sup>
+
+##### <u>2) Masse volumique apparente sèche (=densité apparente)</u>
+
+d<sub>a</sub> = $\frac{M_s}{V_t}$ (g/cm<sup>3</sup>)  (< d<sub>s</sub> )
+
+Si d<sub>a</sub> augmente le sol devient compact, alors que si le sol est bcp plus aéré, la d<sub>a</sub> sera bcp plus faible
+-> manière de mesurer niveau compaction sol/sa porosité
+
+##### <u>3) Porosité totale</u>
+
+p = $\frac{V_p}{V_t}$ (cm<sup>3</sup>/cm<sup>3</sup> ou %)
+
+##### <u>4) Humidité pondérale</u> 
+
+$\Theta_p =\: \frac{M_e}{M_s}$ = (g/g ou %)
+
+##### <u>5) Humidité volumique</u> 
+
+$\Theta_v =\: \frac{V_e}{V_t}$ = $\Theta_{p}\:x\:d_a$
+
 
 
 
