@@ -305,6 +305,8 @@ $\Theta_{v}-{pt.flét = 15\%}$
 
 ##### <u>3) Etats hydriques du sol</u>
 
+![[RU schéma 1]]
+
 
 ____
 
