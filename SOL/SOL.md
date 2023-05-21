@@ -223,6 +223,20 @@ ___
 
 ## <mark style="background: #EE6B6BA6;">Le sol: de nombreux paramètres</mark>
 
+![[rôle sol cycle eau|{width=100%}]]
+
+**Le sol est très important, il permet le ralentissement du cycle de l'eau**
+Ce ralentissement permet **la vie sur Terre**
+
+
+
+
+
+
+
+
+
+
 
 
 ____
