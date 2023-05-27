@@ -292,13 +292,13 @@ Lien entre **diversité des facteurs abiotiques** et **gamme d’adaptations**
 
 #### Quelques exemples des conséquences de la température sur les organismes
 
-- <u>Sur la biologie des espèces</u>
+$\huge\rightarrow$ Sur la biologie des espèces 
 
 ![[Pasted image 20230527175334.png]]
 ![[Pasted image 20230527175347.png]]
 ![[Pasted image 20230527175400.png]]
 
-##### <u>Sur les aires de répartition des organismes</u>
+$\huge\rightarrow$ Sur les aires de répartition des organismes
 
 **Isotherme :** ligne ou frontière fictive où la température est constante
 (points de même température moyenne)
@@ -313,22 +313,22 @@ $\Large \hookrightarrow$Les aires de répartition de la plupart des espèces peu
 
 ![[Drawing 2023-05-27 17.56.04.excalidraw|{width=70%}]]
 
-##### <u>Sur les étages de végétation en montagne</u>
+$\huge\rightarrow$ Sur les étages de végétation en montagne
 
 ![[Pasted image 20230527175713.png]]
 
-##### <u>Sur la distribution altitudinale des biomes</u>
+$\huge\rightarrow$ Sur la distribution altitudinale des biomes
 
 ![[Pasted image 20230527175742.png]]
 
 
-##### <u>Sur les rythmes d’activité journaliers</u>
+$\huge\rightarrow$ Sur les rythmes d’activité journaliers
 
 Rythme <u>nycthéméral</u> = rythme jour/nuit
 
 $\Large \hookrightarrow$Liés à la température chez beaucoup d’hétérothermes
 
-##### <u>Sur la phénologie des espèces</u>
+$\huge\rightarrow$ Sur la phénologie des espèces
 
 *Exemple :* date de première floraison
 En France, 40 jours d’avance entre la côte d’Azur et la région parisienne
@@ -339,11 +339,11 @@ En France, 40 jours d’avance entre la côte d’Azur et la région parisienne
 
 #### Principales adaptations des organismes aux conditions thermiques défavorables
 
-##### <u>La migration</u>
+$\huge\rightarrow$ La migration
 
 ![[Drawing 2023-05-27 18.06.17.excalidraw|{width=70%}]]
 
-##### <u>La cessation temporaire d’activité chez les homéothermes</u>
+$\huge\rightarrow$ Cessation temporaire d’activité chez les homéothermes
 
 • La **torpeur** : cessation dépendant des conditions extérieures
 	(exemple : oiseaux, chiroptères)
@@ -355,7 +355,7 @@ interruption de toutes les activités physiologiques
 • L’**estivation** : léthargie lors de température trop élevées
 	(exemple : crocodiles, gerboises)
 
-##### <u>La diapause et la quiescence (hétérothermes)</u>
+$\huge\rightarrow$ La diapause et la quiescence (hétérothermes)
 
 **Diapause** = arrêt de développement obligatoire
 
@@ -366,8 +366,8 @@ diminution du métabolisme énergétique,
 - déshydratation des tissus,
 - augmentation de la teneur en lipides,…
 
-##### <u>Adaptations des plantes au froid
-</u>
+$\huge\rightarrow$Adaptations des plantes au froid
+
 
 - Adaptations des feuilles
 	- Feuilles caduques
@@ -390,7 +390,7 @@ diminution du métabolisme énergétique,
 
 #### <u>2) L’eau</u>
 
-##### <u>Les besoins en eau conditionnent la répartition des organismes</u>
+$\huge\rightarrow$Les besoins en eau conditionnent la répartition des organismes
 
 - espèces aquatiques : milieux aquatiques
 - espèces hygrophiles : milieux humides
@@ -399,8 +399,39 @@ diminution du métabolisme énergétique,
 
 #### Exemples des conséquences de la disponibilité en eau sur les organismes
 
-##### <u>La distribution des plantes</u>
+$\huge\rightarrow$La distribution des plantes
 
-Distribution de l’Aune vert (Alnus viridis) dans les Alpes
-Versant Nord des zones sub-alpines
+**Distribution de l’Aune vert** (Alnus viridis) dans les Alpes
+$\Large \hookrightarrow$Versant Nord des zones sub-alpines
 (température moins élevées, fonte des neiges tardive)
+
+$\huge\rightarrow$La productivité des plantes
+
+![[Pasted image 20230527182023.png]]
+
+$\huge\rightarrow$**Les rythmes d’activité journaliers**
+
+![[Pasted image 20230527182501.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
