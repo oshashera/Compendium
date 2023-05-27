@@ -326,7 +326,7 @@ $\huge\rightarrow$ Sur les rythmes d’activité journaliers
 
 Rythme <u>nycthéméral</u> = rythme jour/nuit
 
-$\Large \hookrightarrow$Liés à la température chez beaucoup d’hétérothermes
+$\Large \hookrightarrow$ Liés à la température chez beaucoup d’hétérothermes
 
 $\huge\rightarrow$ Sur la phénologie des espèces
 
@@ -431,16 +431,67 @@ Adaptations possibles :
 
 ##### Adaptations des plantes à la sécheresse
 
+Différentes stratégies possibles :
+- Les éphémérophytes
+- Les plantes reviviscentes
+- Les xérophytes
+- Les plantes grasses ou succulentes
+
+Optimisation de la capacité à s’approvisionner en eau chez l’oyat = stabilisation des dunes car racines très longues
+
+##### Adaptations des animaux à la sécheresse
+
+- Les adaptations morphologiques
+- Les adaptations physiologiques
+- Les adaptations comportementales
 
 
+#### <u>3) La lumière</u>
+
+$\Large \hookrightarrow$ Une source d’énergie essentielle (photosynthèse)
+$\Large \hookrightarrow$ Un stimulus essentiel des rythmes biologiques
+Phénomènes dépendant de la lumière :
+- L’intensité de la respiration
+- La germination des graines
+- La croissance végétative
+- La floraison
+- La migration
+- La diapause et en partie l’hibernation
+- L’orientation (phototropisme, phototaxie)
+- La vision, …
+
+##### Quelques exemples du rôle de la lumière sur les organismes 
+
+$\huge\rightarrow$ La photosynthèse (organismes autotrophes $\Large \ne$ hétérotrophes)
+$\Large \hookrightarrow$ Le mécanisme de production d’énergie chez les végétaux chlorophylliens, les
+algues, certains protistes (Euglènes) et certains procaryotes (Cyanobactéries)
+<u>6 CO<sub>2</sub></u> + <u>12 H<sub>2</sub>O</u> + <u>lumière solaire</u> $\huge\rightarrow$ C<sub>6</sub>H1<sub>2</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O
+<u>3 facteurs limitants</u> + action de la température
+
+Minimum d’énergie lumineuse variable selon les plantes:
+- plantes héliophiles (700-1000 Lux) - zones ouvertes
+- ...
+- plantes sciaphiles (<100 Lux) - sous bois
+
+##### Influence de la lumière sur la structure des communautés végétales
+
+![[Pasted image 20230527183728.png]]
+
+##### Influence du développement de la végétation sur l’intensité lumineuse
+
+![[Pasted image 20230527183806.png]]
 
 
-
-
-
-
-
-
-
-
-
+ Les rythmes biologiques
+La photopériode (prévisible) : le synchroniseur des activités biologiques
+La photopériode régule :
+• La floraison
+- plantes de jours courts (fleurissent à la fin de l’été, automne hiver)
+- plantes de jours longs (fleurissent au printemps ou en été)
+- plantes indifférentes (fleurissent à maturité)
+ En fait, c’est la durée de la nuit qui compte
+• La période de reproduction
+Maturation des gonades chez les oiseaux : jours longs
+• La coloration saisonnière du corps
+Eté  Hiver (prolongement de la nuit)
+• L’entrée en diapause
