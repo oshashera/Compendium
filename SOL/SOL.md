@@ -317,7 +317,15 @@ La teneur du sol en eau est peu informative quant à la quantité d'eau disponib
 
 ### <mark style="background: #FFF3A3A6;">IV] Méthodes de mesure</mark>
 
+##### <u>1) Méthode gravimétrique (la plus simple et la plus précise)</u>
 
+1. Prélèvement d'un volume connu de sol (V<sub>1</sub>), puis pesée -> masse fraiche (M<sub>s</sub>+M<sub>e</sub>)
+2. Séchage à 105°C pendant 24H, puis pesée -> masse sèche (M<sub>s</sub>)
+3. Mesure par déduction de la masse de l'eau -> M<sub>e</sub> = masse fraiche - masse sèche
+- |-> calculs: 
+- de d<sub>a</sub> (densité apparente)
+- de $\Theta_p$ (humidité apparente)
+- de $Theta_$
 
 
 
@@ -620,4 +628,4 @@ ___
 
 ______
 [[Pollution des sols]]
-[[Texture minérale des sols (td)]]
+[[Texture minérale des sols (t
