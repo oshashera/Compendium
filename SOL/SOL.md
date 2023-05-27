@@ -337,7 +337,21 @@ La teneur du sol en eau est peu informative quant à la quantité d'eau disponib
 ##### <u>2) Mesure du potentie matriciel</u>
 
 -> Tensionmètre (ou bougie poreuse)
+![[tensiomètre]]
 
+- Sol sec -> tension élevée
+- Sol humide -> tension faible
+- Sol à sa capacité de rétention -> nulle
+
+##### <u>3) Méthode neutronique</u>
+
+Principe -> neutrons ralentis par atomes H (H<sub>2</sub>0)
+
+##### <u>4) Méthodes diélectriques</u>
+
+-> Méthode TDR (TimeDomain Reflectometry)
+
+Principe: mesure de la permittivité du sol (=capacité à stocker de l'énergie électrique ) qui varie selon l'humidité volumique (temps de transit = permittivité électrique)
 
 
 

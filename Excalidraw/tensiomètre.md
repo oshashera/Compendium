@@ -12,6 +12,10 @@ bougie
 en
 porcelaine ^pkQfJIJe
 
+vers un capteur 
+de pression
+(manomètre) ^dkYsHAyj
+
 %%
 # Drawing
 ```json
@@ -282,8 +286,54 @@ porcelaine ^pkQfJIJe
 			"type": "line",
 			"x": -96.33970854168882,
 			"y": -140.86335091306722,
-			"width": 1.0185629131231053,
-			"height": 69.76996652663723,
+			"width": 1.4036289647031168,
+			"height": 67.71630131953648,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#4c6ef5",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1833350523,
+			"version": 91,
+			"versionNonce": 1420982235,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685186507602,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.4036289647031168,
+					-67.71630131953648
+				]
+			],
+			"lastCommittedPoint": [
+				1.0185629131231053,
+				-69.76996652663723
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "SsLT55Nb-TCmGmff4HTPx",
+			"type": "line",
+			"x": -95.76366013333629,
+			"y": -209.17492160995852,
+			"width": 187.34455452770538,
+			"height": 12.662335321784951,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#4c6ef5",
@@ -296,12 +346,12 @@ porcelaine ^pkQfJIJe
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1833350523,
-			"version": 53,
-			"versionNonce": 1605292475,
+			"seed": 416761045,
+			"version": 130,
+			"versionNonce": 1848159451,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685186468299,
+			"updated": 1685186514321,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -310,18 +360,90 @@ porcelaine ^pkQfJIJe
 					0
 				],
 				[
-					1.0185629131231053,
-					-69.76996652663723
+					37.61918661421154,
+					-12.662335321784951
+				],
+				[
+					187.34455452770538,
+					-2.9862013452282667
 				]
 			],
 			"lastCommittedPoint": [
-				1.0185629131231053,
-				-69.76996652663723
+				186.90204002293484,
+				-3.564873060425043
 			],
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "dkYsHAyj",
+			"type": "text",
+			"x": -5.307731737911126,
+			"y": -197.3923104027227,
+			"width": 134,
+			"height": 57.599999999999994,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#4c6ef5",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 52354581,
+			"version": 83,
+			"versionNonce": 2008660597,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685186498876,
+			"link": null,
+			"locked": false,
+			"text": "vers un capteur \nde pression\n(manomètre)",
+			"rawText": "vers un capteur \nde pression\n(manomètre)",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "vers un capteur \nde pression\n(manomètre)"
+		},
+		{
+			"id": "qbTbaR91",
+			"type": "text",
+			"x": 91.45353031925117,
+			"y": -212.67040441174834,
+			"width": 8,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#4c6ef5",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2019915253,
+			"version": 2,
+			"versionNonce": 1129107419,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1685186480513,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -339,10 +461,10 @@ porcelaine ^pkQfJIJe
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 541.3141965545601,
-		"scrollY": 376.84625725509125,
+		"scrollX": 236.8248085858677,
+		"scrollY": 268.5002934032568,
 		"zoom": {
-			"value": 1.5708765756920895
+			"value": 4.226921894937917
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
