@@ -1,10 +1,13 @@
-### I/ Définitions
+___
+[[Facteurs biotiques et abiotiques]]
+___
+### I] Définitions
 
 L’écologie veut dire « la science de l’habitat » étymologiquement. Cette notion a beaucoup évolué. Haeckel la définit par exemple comme la « science des relations des organismes avec le monde environnant, c’est-à-dire dans un sens large, science des conditions d’existence », on a donc bien une notion d’interactions entre les organismes et leurs environnements.
 
 Dajos stipule que l’écologie est la science qui étudie les conditions d’existence des êtres vivants, les interactions et relations qui existent entre les êtres vivants et avec leur milieu.
 
-### II/ Emergence historique
+### II] Emergence historique
 
 Le premier à observer les espèces est Aristote au 4ème siècle avant JC. Il étudie les animaux et met au point une méthode de recherche rigoureuse qui prône l’observation systématique des faits avant toute réflexion. Il compare les animaux selon des caractères diagnostiques. Il propose une description avant toute définition (bases de l’anatomie comparée). Il est adepte de la théorie de la génération spontanée. Cette dernière explique l’apparition de la vie sur Terre, posant que la vie est une propriété de la matière : elle est éternelle et apparaît spontanément chaque fois que les conditions sont propices (ex : les crapauds et grenouilles naissent du limon engendré par les crues du Nil). Cette théorie traverse les âges jusqu’au 18ème siècle.
 
@@ -20,7 +23,7 @@ Darwin développe ce concept au 19ème siècle en l’ajustant à ses observatio
 
 Mais alors qu’est-ce qu’une espèce ? Il existe 2 définitions : la définition typologique et la définition biologique. La première, établie par Linné, stipule que deux individus appartiennent à la même espèce s’ils se ressemblent suffisamment entre eux pour porter le même nom. Pour la seconde, posée par Darwin, tous les individus qui pris deux à deux ont la possibilité d’engranger une descendance fertile font partie de la même espèce. Cependant, on voit vite que dans certains cas (ex : la microbiologie) le principe de descendance ne fait pas sens. L’espèce est donc une conception encore plus complexe.
 
-### III/ Progression des concepts
+### III] Progression des concepts
 
 Dans l’Antiquité, il n’existait qu’environ 600 espèces décrites, environ 70 000 au 17ème siècle, et presque 2 millions aujourd’hui. Selon les scientifiques, il en resterait entre 10 et 100 millions à découvrir et répertorier. De plus, il apparait que la répartition des espèces selon les taxons est très inégale (certaines lignées sont bien plus diversifiées que d’autres). On découvre de nouvelles espèces chaque année, de plus en plus dans des conditions extrêmes, mais aussi grâce à l’affinement des techniques de recherches (notamment la génétique) qui permettent de différencier des individus en sous-espèces. On se rend également compte que de plus en plus d’espèces disparaissent ou sont en passe de s’éteindre, ce qui joue aussi sur la biodiversité.
 
@@ -52,7 +55,7 @@ Ainsi, en connaissant une ou plusieurs espèces, on a des indications sur le typ
 
 Cléments (1916) développe la <u>théorie des successions</u>. C’est un système de description et d’interprétation de la dynamique de la végétation partant d’un sol nu et aboutissant à un stade de développement ultime : le climax.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![[Pasted image 20230527171502.png]]
 
 On part d’un sol nu, c’est l’état initial. Des graines s’y retrouvent (via oiseaux, vent, …) et se développent : ce sont les espèces pionnières. Elles forment un tapis qui stabilise le sol, garde l’eau, … en bref, les conditions du sol évoluent et ainsi de nouvelles espèces peuvent s’y développer. Ces nouvelles espèces grandissent et finissent par entraîner la disparition des pionnières (ombre, …). Elles modifient à nouveau le milieu, de nouvelles espèces se développent et “prennent le dessus”, ça peut par exemple être des arbustes, étouffant les fleurs, puis des arbres, … Le stade final = climax est celui de forêt.
 
@@ -66,7 +69,7 @@ Il y a <u>différents types de succession</u> :
 
 Ici, entre le début et la fin, le nombre d’espèce augmente, tout comme la biomasse, mais ce n’est pas toujours le cas, ça peut diminuer, c’est ce que l’on appelle une régression.
 
-### IV/ Les niveaux d’intégration de la vie
+### IV] Les niveaux d’intégration de la vie
 
 Il existe différents niveaux d’intégration de la vie, et des disciplines différentes s’y intéressent.
 
