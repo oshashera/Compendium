@@ -20,7 +20,7 @@ On utilise les biomes pour définir le climat général :
 
 ## II] Grandes familles de biomes
 
-<u>La toundra :</u> au Nord de l’hémisphère Nord et au Sud de l’hémisphère Sud.
+<b><u>La toundra :</u></b> au Nord de l’hémisphère Nord et au Sud de l’hémisphère Sud.
 
 Conditions climatiques caractéristiques : températures toujours inférieures à 10°C, brièveté de la saison végétative (environ 60 jours), précipitations très faibles liées au froid, neige abondante et fréquente (couches moins épaisses dans les secteurs plus continentaux que dans la zone océanique).
 
@@ -30,7 +30,7 @@ Pauvreté floristique, nanisme végétal, pas d’arbres : végétation de mous
 
 Morphologie changeante en fonction de la continentalité (biomasse et diversité plus important en intérieur).
 
-****<u>La taïga :</u> proche de la toundra forestière = forêt boréale en Russie/Europe du Nord et forêt Hudsonnienne aux Etats-Unis.
+<b><u>La taïga :</u></b> proche de la toundra forestière = forêt boréale en Russie/Europe du Nord et forêt Hudsonnienne aux Etats-Unis.
 
 Précipitations entre 250 et 700 mm de pluie par an avec un maximum estival, températures faibles mais maximum avec au-dessus de 10°C pendant 1 mois au moins ainsi que 2 mois successifs sans gelées (très important pour l’installation des arbres), accumulation importante de neige.
 
@@ -58,7 +58,7 @@ On a donc des forêts tropicales humides (proches de l’équateur) caractéris�
 
 Sols ferralitiques et très fragiles après déboisement, sensibles à la latérisation (= stérilisation par formation d’une cuirasse de fer).
 
-**Forêts équatoriales :** à l’équateur.
+<b><u>Forêts équatoriales</u></b> : à l’équateur.
 
 Forêts humides avec des précipitations très importantes sur toute l’année, 25°C-30°C toute l’année même la nuit, hygrométrie de plus de 80%.
 
