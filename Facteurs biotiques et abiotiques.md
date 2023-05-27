@@ -147,17 +147,17 @@ En revanche, une prédation non spécialisée peut diminuer la diversité. Par e
 
 Les prédateurs vont avoir des réponses particulières aux variations d’abondance des proies. Le scientifique Holling présentera une théorie de la réponse fonctionnelle en opposition à la réponse numérique. La réponse fonctionnelle est celle du nombre de proies consommées en fonction de la densité des proies. La réponse numérique est celle du nombre de prédateurs en fonction de la densité des proies.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![[Pasted image 20230527172837.png]]
 
 Cette réponse se fait en 2 temps, d’abord mise en place de la réponse fonctionnelle, puis mise en place de la réponse numérique.
 
 La mise en place de la réponse fonctionnelle dépend de la recherche des proies et de leur prise en charge par le prédateur. On en distingue 3 :
 
-·        Type 1 : observé chez des organismes limités dans leur capacité à consommer des proies -> plus le nombre de proies augmente, plus le nombre de proies consommée augmente, et ce jusqu’à atteindre un plafond de consommation, un plateau. Ici, le nombre de proies qui augmente n’aura pas d’effet sur le nombre de proies consommées qui restera le même -> saturation due à la difficulté de trouver des proies
+- **Type 1 :** observé chez des organismes limités dans leur capacité à consommer des proies -> plus le nombre de proies augmente, plus le nombre de proies consommée augmente, et ce jusqu’à atteindre un plafond de consommation, un plateau. Ici, le nombre de proies qui augmente n’aura pas d’effet sur le nombre de proies consommées qui restera le même -> saturation due à la difficulté de trouver des proies
 
-·        Type 2 : observé chez beaucoup de prédateurs spécialisés -> augmentation importante du nombre de proies consommées à mesure qu’elles augmentent, qui diminue de plus en plus (même quand le nombre de proies augmente, ils sont de moins en moins capables de les prendre en charge malgré leur abondance, ils vont mettre plus longtemps à les consommer)  -> saturation liée à la prise en charge
+- **Type 2 :** observé chez beaucoup de prédateurs spécialisés -> augmentation importante du nombre de proies consommées à mesure qu’elles augmentent, qui diminue de plus en plus (même quand le nombre de proies augmente, ils sont de moins en moins capables de les prendre en charge malgré leur abondance, ils vont mettre plus longtemps à les consommer)  -> saturation liée à la prise en charge
 
-·        Type 3 : observée chez les prédateurs polyphages -> switching, l’efficacité du prédateur augmente quand la densité augmente, puis saturation due à une difficulté de la prise en charge des proies, mais au début consommation peu efficace car le prédateur n’a pas encore appris à prendre en charge les proies qu’il chasse (ou alors parce que les proies ne sont pas assez abondantes) -> saturation liée à la prise en charge + apprentissage de la prédation
+- **Type 3 :** observée chez les prédateurs polyphages -> switching, l’efficacité du prédateur augmente quand la densité augmente, puis saturation due à une difficulté de la prise en charge des proies, mais au début consommation peu efficace car le prédateur n’a pas encore appris à prendre en charge les proies qu’il chasse (ou alors parce que les proies ne sont pas assez abondantes) -> saturation liée à la prise en charge + apprentissage de la prédation
 
 La mise en place de la réponse numérique peut passer par des variations : taux de croissance individuel, durée de développement, fécondité, taux de mortalité, taux d’émigration ou d’immigration …
 
@@ -165,9 +165,9 @@ Les proies peuvent évidemment se défendre vis-à-vis de la prédation.
 
 Les proies mettent en place des stratégies de défense face à leurs prédateurs. Par exemple, les plantes mettent en place des mécanismes pour lutter contre les herbivores :
 
-·        Les défenses morphologiques : les cires, les épines
+- Les défenses morphologiques : les cires, les épines
 
-·        Les défenses chimiques : composés/métabolites secondaires ou métabolites spécialisés non nutritifs, produits en petites quantités, et sont très impliqués dans les interactions avec d’autres organismes (peuvent influencer la santé, la croissance, le comportement d’autres espèces …). Morphine, nicotine, tanins, strychnine …
+- Les défenses chimiques : composés/métabolites secondaires ou métabolites spécialisés non nutritifs, produits en petites quantités, et sont très impliqués dans les interactions avec d’autres organismes (peuvent influencer la santé, la croissance, le comportement d’autres espèces …). Morphine, nicotine, tanins, strychnine …
 
 Par exemple, sur les plantes qui sécrètent des tanins, les chenilles phytophages sont plus petites et ont une fécondité réduite.
 
@@ -183,24 +183,48 @@ La première est le camouflage : adopter une coloration ou une forme cryptique 
 
 Il existe aussi des défenses mécaniques : présence d’épines par exemple.
 
-Mais aussi des défenses chimiques : sécrétion de composés toxiques projetés sur les prédateurs ou qui empêchent la consommation (salamandre, coléoptère bombardier, dendrobate), séquestration de composés toxiques après absorption (papillons monarques), et mimétisme (**batésien** = se faire passer pour toxique en imitant des animaux toxiques, **mertensien** = être très toxique mais se servir de l’apprentissage négatif des prédateurs sur des espèces moins toxiques pour rester tranquille en adoptant la même morphologie donc faire semblant d’être moins toxique qu’on ne l’est car la fabrication du venin est coûteuse et on préfère l’économiser pour la chasse, **müllérien** = différentes espèces toxiques adoptent des couleurs d’avertissement similaires et le prédateur se tiendra à l’écart de toutes après un apprentissage négatif avec une seule).
+Mais aussi des défenses chimiques : sécrétion de composés toxiques projetés sur les prédateurs ou qui empêchent la consommation (salamandre, coléoptère bombardier, dendrobate), séquestration de composés toxiques après absorption (papillons monarques), et mimétisme (<u>batésien</u> = se faire passer pour toxique en imitant des animaux toxiques, **mertensien** = être très toxique mais se servir de l’apprentissage négatif des prédateurs sur des espèces moins toxiques pour rester tranquille en adoptant la même morphologie donc faire semblant d’être moins toxique qu’on ne l’est car la fabrication du venin est coûteuse et on préfère l’économiser pour la chasse, <u>müllérien</u> = différentes espèces toxiques adoptent des couleurs d’avertissement similaires et le prédateur se tiendra à l’écart de toutes après un apprentissage négatif avec une seule).
 
-**Le parasitisme** caractérise des organismes qui ne mènent pas une vie libre et qui sont fixés sur leur hôte, soit à l’extérieur (ectoparasite), soit à l’intérieur (endoparasite). Les parasites ne consomment qu’une partie de leur hôte et ne le tuent pas (mais la mort de l’hôte peut être une conséquence indirecte du parasitisme). Les parasites ne sont pas spécialisés en raison de leur mode de vie. Les parasites ont développé des adaptations très particulières pour mieux exploiter leurs hôtes, en voici quelques-unes :
+<u>Le parasitisme</u> caractérise des organismes qui ne mènent pas une vie libre et qui sont fixés sur leur hôte, soit à l’extérieur (ectoparasite), soit à l’intérieur (endoparasite). Les parasites ne consomment qu’une partie de leur hôte et ne le tuent pas (mais la mort de l’hôte peut être une conséquence indirecte du parasitisme). Les parasites ne sont pas spécialisés en raison de leur mode de vie. Les parasites ont développé des adaptations très particulières pour mieux exploiter leurs hôtes, en voici quelques-unes :
 
-·        Adaptations morphologiques pour la fixation : scolex des ténias, cône de fixation des graines de gui
+- Adaptations morphologiques pour la fixation : scolex des ténias, cône de fixation des graines de gui
 
-·        Adaptations démographiques, la prolificité : multiplication en très grand nombre de manière sexuée et asexuée
+- Adaptations démographiques, la prolificité : multiplication en très grand nombre de manière sexuée et asexuée
 
-·        Adaptations facilitant la transmission, la favorisation : passage par des hôtes intermédiaires et un hôte définitif pour réaliser une génération de parasite = nécessité de favoriser la transmission, contrôle d’hôtes en particulier par des stades particuliers des parasites (contrôle du système neuronal), ou suicide adaptatif (pousser l’hôte au suicide) et utilisation d’insectes au développement hémimétabole (larves aquatiques et adultes terrestres).
+- Adaptations facilitant la transmission, la favorisation : passage par des hôtes intermédiaires et un hôte définitif pour réaliser une génération de parasite = nécessité de favoriser la transmission, contrôle d’hôtes en particulier par des stades particuliers des parasites (contrôle du système neuronal), ou suicide adaptatif (pousser l’hôte au suicide) et utilisation d’insectes au développement hémimétabole (larves aquatiques et adultes terrestres).
 
 Ces adaptations sont liées au phénotype étendu. Cette notion est présentée en 1982 par Dawkins et correspond à une modification du phénotype de l’hôte par le génome du parasite. Cela se traduit par des modifications du comportement de l’hôte pour accroître la transmission du parasite, par l’orientation de la physiologie de l’hôte pour une exploitation optimale, et une dépression du système immunitaire de l’hôte pour augmenter ses probabilités de survie. Le parasitisme est alors à l’origine de la création de « supers organismes » dotés de « super génomes » (association du parasite et de son hôte).
 
 Les parasites ont une influence sur l’accroissement des populations, on peut les utiliser dans le cadre de la lutte biologique. Ils influencent également la structure des communautés : en affectant la performance des hôtes, en altérant leur physiologie à leur profit, et en modifiant leur comportement. Cela a des conséquences sur la croissance, la fécondité et la longévité des parasites comme des hôtes : ils vont influencer les aptitudes compétitives (et donc la structure des communautés).
 
-**Les parasitoïdes** sont un cas particulier : à mi-chemin entre parasites et prédateurs, ils tuent systématiquement leurs hôtes. Ce sont des insectes qui parasitent d’autres insectes. Les larves sont parasites et les adultes libres, ce sont en particulier les femelles qui infestent les hôtes en pondant leurs larves à l’intérieur. Ils permettent une régulation des populations de leurs hôtes : comme ils sont très spécifiques, ils sont régulièrement utilisés dans le cadre de la lutte biologique.
+<u>Les parasitoïdes</u> sont un cas particulier : à mi-chemin entre parasites et prédateurs, ils tuent systématiquement leurs hôtes. Ce sont des insectes qui parasitent d’autres insectes. Les larves sont parasites et les adultes libres, ce sont en particulier les femelles qui infestent les hôtes en pondant leurs larves à l’intérieur. Ils permettent une régulation des populations de leurs hôtes : comme ils sont très spécifiques, ils sont régulièrement utilisés dans le cadre de la lutte biologique.
 
-Les plus connus sont ceux des agents cécidogènes. Ils poussent les hôtes à construire des structures nouvelles qui vont les nourrir et les protéger.
+Les plus connus sont ceux des agents cécidogènes. Ils poussent les hôtes à construire des structures nouvelles (galles) qui vont les nourrir et les protéger.
 
 #### 2) Positives 
 
+**Les mutualismes**, dont la **symbiose** sont des relation positives pour les deux parties impliquées.
+
+Le **commensalisme** est neutre pour une partie et bénéfique pour l'autre.
+
+Le **neutralisme** est neutre pour les deux parties.
+
+
+
+
+**En résumé**: 
+![[Pasted image 20230527173452.png]]
+
 <mark style="background: #EE6B6BA6;">a compléter </mark>
+
+
+## II] Facteurs écologiques abiotiques
+
+##### Ils déterminent la distribution des organismes dans la biosphère
+
+Etude de l’action de ces facteurs =<u> autoécologie</u>
+
+
+- Facteurs climatiques (température, pluviosité, humidité, lumière, vent,…)
+- Facteurs édaphiques (texture, structure et composition chimique du sol)
+- Facteurs hydrologiques (caractéristiques physico-chimiques de l’eau)
