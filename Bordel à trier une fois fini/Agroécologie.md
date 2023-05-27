@@ -1,5 +1,5 @@
 #tantorum
-<b><u>Definition :</u></b>   ensemble de pratiques et de techniques issue de l'écologie appliquées à l'agriculture.
+<b><u>Definition :</u></b>   ensemble de pratiques et de techniques issue de l'[[Ecologie|écologie]] appliquées à l'agriculture.
 C'est l'application des concepts et principes de l'écologie à la conception et la gestion d'agroécosystèmes durables → systèmes agro-alimentaires.
 <br>
 
