@@ -482,16 +482,24 @@ Minimum d’énergie lumineuse variable selon les plantes:
 ![[Pasted image 20230527183806.png]]
 
 
- Les rythmes biologiques
+$\huge\rightarrow$ Les rythmes biologiques
 La photopériode (prévisible) : le synchroniseur des activités biologiques
 La photopériode régule :
-• La floraison
-- plantes de jours courts (fleurissent à la fin de l’été, automne hiver)
-- plantes de jours longs (fleurissent au printemps ou en été)
-- plantes indifférentes (fleurissent à maturité)
- En fait, c’est la durée de la nuit qui compte
-• La période de reproduction
+
+- La floraison
+	- plantes de jours courts (fleurissent à la fin de l’été, automne hiver)
+	- plantes de jours longs (fleurissent au printemps ou en été)
+	- plantes indifférentes (fleurissent à maturité)
+$\large \hookrightarrow$ En fait, c’est la durée de la nuit qui compte
+
+- La période de reproduction
 Maturation des gonades chez les oiseaux : jours longs
-• La coloration saisonnière du corps
-Eté  Hiver (prolongement de la nuit)
-• L’entrée en diapause
+
+- La coloration saisonnière du corps
+Eté $\large\rightarrow$ Hiver (prolongement de la nuit)
+
+- L’entrée en diapause
+
+- Les rythmes circadiens
+La photopériode synchronise les horloges endogènes sur 24 heures
+
