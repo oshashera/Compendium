@@ -44,33 +44,33 @@ La coopération aide donc sur le plan de la nourriture, de la défense, de la re
 
 Cas particuliers : communication chimique par phéromones. Les phéromones sont des odeurs transmettant des informations au sein d’une même espèce et déclenchant une réponse comportementale ou physiologique. Les phéromones sexuelles par exemple facilitent les rencontres mâle/femelle. Chez les insectes, les antennes servent de détecteurs car elles sont recouvertes de soies particulières : les sensilles olfactives. Les phéromones d’agrégation elles, attirent en masse sur des sites favorables. Les phéromones de reconnaissance permettent de marquer les individus, comme une empreinte digitale, si fortes qu’elles peuvent tromper d’autres espèces. Les phéromones d’alarme signalent un danger.
 
-Une autre notion est importante dans le cadre des interactions intraspécifiques positives : **l’effet de groupe ou effet Allee.** Ce dernier décrit le fait que l’agrégation d’individus d’une même espèce (création d’une population) dans des circonstances spécifiques peut avoir des effets positifs sur ces derniers. Allee explique ces bénéfices grâce à l’exemple des manchots empereurs qui se regroupent pour se protéger des stress climatiques, ou chez les oiseaux pour permettre de stimuler la reproduction : on observe alors l’inverse de ce qui est décrit dans le cadre de la compétition, la fécondité augmente quand la densité de population augmente (c’est un cas qui est particulier, pas le plus fréquent). L’effet de groupe peut également stimuler la croissance, cela a été mis en évidence chez les grenouilles (les têtards qui se développent en groupe ont une meilleure croissance), ou encore offrir une meilleure protection vis-à-vis des prédateurs (chez la perche-soleil bleue, les mâles construisent des sites de nidification rapprochés qu’ils défendent), on s’aperçoit que les individus qui nidifient de manière solitaire sont plus exposés à la prédation (moins de prédateurs qui de plus attaquent de manière moins régulière).
+Une autre notion est importante dans le cadre des interactions intraspécifiques positives : <u>l’effet de groupe ou effet Allee.</u> Ce dernier décrit le fait que l’agrégation d’individus d’une même espèce (création d’une population) dans des circonstances spécifiques peut avoir des effets positifs sur ces derniers. Allee explique ces bénéfices grâce à l’exemple des manchots empereurs qui se regroupent pour se protéger des stress climatiques, ou chez les oiseaux pour permettre de stimuler la reproduction : on observe alors l’inverse de ce qui est décrit dans le cadre de la compétition, la fécondité augmente quand la densité de population augmente (c’est un cas qui est particulier, pas le plus fréquent). L’effet de groupe peut également stimuler la croissance, cela a été mis en évidence chez les grenouilles (les têtards qui se développent en groupe ont une meilleure croissance), ou encore offrir une meilleure protection vis-à-vis des prédateurs (chez la perche-soleil bleue, les mâles construisent des sites de nidification rapprochés qu’ils défendent), on s’aperçoit que les individus qui nidifient de manière solitaire sont plus exposés à la prédation (moins de prédateurs qui de plus attaquent de manière moins régulière).
 
 Ainsi,
-
- ![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)Avec en ordonnée différents traits d’histoire de vie.
+ ![[Pasted image 20230527172009.png]]
+ *Avec en ordonnée différents traits d’histoire de vie.**
 
 Attention ! Cet effet n’est pas systématique !! On ne le retrouve pas chez toutes les espèces, et on ne le retrouve pas en permanence.
 
-B)     Les interactions interspécifiques
+### B) Les interactions interspécifiques
 
-1.      Négatives
+#### 1) Négatives
 
-Il est important de comprendre la notion de niche écologique. Elle est définie comme un ensemble des conditions (contraintes et ressources) dans lesquelles vit et se perpétue une population (attention, elle ne se limite pas à l’habitat !).
+Il est important de comprendre la notion de <u>niche écologique</u>. Elle est définie comme un ensemble des conditions (contraintes et ressources) dans lesquelles vit et se perpétue une population (attention, elle ne se limite pas à l’habitat !).
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg) On considère un ensemble de variables pertinentes pour une espèce donnée.
+![[Pasted image 20230527172025.png]]
+On considère un ensemble de variables pertinentes pour une espèce donnée.
 
 On peut représenter une niche écologique selon 3 grands axes :
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)Spatial : milieu et ses caractéristiques, Trophique : nourriture, Temporel : comment les individus évoluent (et font évoluer leur environnement) dans le temps.
+![[Pasted image 20230527172150.png]]
+*Spatial : milieu et ses caractéristiques, Trophique : nourriture, Temporel : comment les individus évoluent (et font évoluer leur environnement) dans le temps.*
 
 On nuance cette notion de niche écologique entre niche fondamentale et niche réelle. La niche fondamentale (ou potentielle) constitue l’ensemble des ressources théoriques utilisables par une espèce. La niche réelle (ou réalisée) correspond à l’ensemble des ressources réellement utilisées par une espèce.
 
-Ex : niches des balanes
+	Ex : niches des balanes
+	Les balanes vivent sur les rochers, plus précisément au niveau de la zone de balancement des marées (elles sont recouvertes à marée haute et découvertes à marée basse). Une étude portant sur 2 espèces de balanes différentes a montré qu’elles partagent sensiblement la même niche fondamentale, mais que celles situées plus haut sont moins sensibles à la dessication et ont une niche réelle présente plus haute que celle des espèces qu’on trouve plus basses et qui y sont plus sensibles.
 
-Les balanes vivent sur les rochers, plus précisément au niveau de la zone de balancement des marées (elles sont recouvertes à marée haute et découvertes à marée basse). Une étude portant sur 2 espèces de balanes différentes a montré qu’elles partagent sensiblement la même niche fondamentale, mais que celles situées plus haut sont moins sensibles à la dessication et ont une niche réelle présente plus haute que celle des espèces qu’on trouve plus basses et qui y sont plus sensibles.
-
-Cela s’inscrit dans le principe de **l’exclusion compétitive** : 2 espèces avec des niches écologiques identiques ne peuvent coexister, la plus compétitive élimine l’autre.
+Cela s’inscrit dans le principe de <u>l’exclusion compétitive</u> : 2 espèces avec des niches écologiques identiques ne peuvent coexister, la plus compétitive élimine l’autre.
 
 Donc, deux espèces qui ont les mêmes niches fondamentales n’ont pas la même niche réelle.
 
@@ -78,29 +78,29 @@ Un exemple classique a été observé par G.F Gause lors de certaines expérienc
 
 Ce processus n’est bien sûr pas systématique.
 
-**La compétition interspécifique chez les plantes** :
+<u>La compétition interspécifique chez les plantes</u> :
 
-·        Peut modifier la niche écologique. Cet effet est observé chez certaines espèces de plantes, par exemple chez certains Galium. Le galium peut germer sur tous types de sols, mais son taux de survie est plus faible sur sol calcaire, une espèce de galium sera donc désavantagée sur un sol calcaire par rapport à un galium d’une autre espèce qui s’y développe mieux. Chaque espèce est meilleure compétitrice sur un type de sol précis. Ainsi, la compétition interspécifique va avoir une influence sur la structure des communautés.
+- Peut modifier la niche écologique. Cet effet est observé chez certaines espèces de plantes, par exemple chez certains Galium. Le galium peut germer sur tous types de sols, mais son taux de survie est plus faible sur sol calcaire, une espèce de galium sera donc désavantagée sur un sol calcaire par rapport à un galium d’une autre espèce qui s’y développe mieux. Chaque espèce est meilleure compétitrice sur un type de sol précis. Ainsi, la compétition interspécifique va avoir une influence sur la structure des communautés.
 
-·        Ainsi, l’optimum physiologique (on ne tient compte que des facteurs abiotiques) est différent de l’optimum écologique qui lui inclut la compétition (prise en compte des facteurs biotiques).
+- Ainsi, l’optimum physiologique (on ne tient compte que des facteurs abiotiques) est différent de l’optimum écologique qui lui inclut la compétition (prise en compte des facteurs biotiques).
 
-·        On observe que la compétition diminue la niche écologique des espèces.
+- On observe que la compétition diminue la niche écologique des espèces.
 
-·        La compétition interspécifique peut donc aussi influencer la structure des communautés et leur dynamique (cf. successions écologiques) = changements de communautés.
+- La compétition interspécifique peut donc aussi influencer la structure des communautés et leur dynamique (cf. successions écologiques) = changements de communautés.
 
-**La compétition interspécifique chez les animaux** :
+<u>La compétition interspécifique chez les animaux :</u>
 
-·        Peut modifier la niche écologique : les vers parasites intestinaux du rat peuvent se trouver en compétition, et cette dernière va modifier l’organisation spatiale des populations (leur site d’accrochage dans l’intestin selon la présence de l’autre), chez les insectes phytophages, elle va provoquer une modification du choix de la plante hôte (gamme de plantes hôtes importante quand les espèces sont seules, choix plus restreint pour ne pas se rencontrer quand elles se retrouvent ensemble).
+- Peut modifier la niche écologique : les vers parasites intestinaux du rat peuvent se trouver en compétition, et cette dernière va modifier l’organisation spatiale des populations (leur site d’accrochage dans l’intestin selon la présence de l’autre), chez les insectes phytophages, elle va provoquer une modification du choix de la plante hôte (gamme de plantes hôtes importante quand les espèces sont seules, choix plus restreint pour ne pas se rencontrer quand elles se retrouvent ensemble).
 
-·        Peut aboutir à des séparations de niches écologiques : chez des Pics d’un même genre, chaque espèce va se nourrir sur le même arbre, mais sur une partie différente. Cette séparation est due à la compétition.
+- Peut aboutir à des séparations de niches écologiques : chez des Pics d’un même genre, chaque espèce va se nourrir sur le même arbre, mais sur une partie différente. Cette séparation est due à la compétition.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![[Pasted image 20230527172343.png]]
 
 Le partage des ressources permet d’éviter la compétition ou de limiter ses effets, il permet la coexistence de ces espèces sur une petite aire géographique. En gros, quand plusieurs espèces entrent en compétition parce qu'elles ont des niches fondamentales similaires, elles vont avoir tendance à se distribuer les ressources entre elles de manière différentes (à adopter des niches réelles séparées) pour ne pas se marcher sur les pieds au lieu de s'éliminer (en milieux hétérogènes).
 
 En conclusion, le concept de niche écologique est un concept important en écologie mais aussi en biologie évolutive. Il s’applique à toutes les espèces et est essentiel pour comprendre l’assemblage des communautés et la préservation des espèces.
 
-**La prédation** fait partie des interactions interspécifiques négatives. Les prédateurs sont des organismes libres qui se nourrissent de proies vivantes. Donc, cette définition exclue les parasites et les saprophages.
+<u>La prédation</u> fait partie des interactions interspécifiques négatives. Les prédateurs sont des organismes libres qui se nourrissent de proies vivantes. Donc, cette définition exclue les parasites et les saprophages.
 
 Les prédateurs prennent en charge leur proie rapidement, ils tuent et/ou consomment plusieurs proies différentes, et ils peuvent consommer soit la totalité soit une partie de la proie.
 
@@ -118,17 +118,15 @@ En effet, la recherche et la reconnaissance de la nourriture par un prédateur s
 
  Il existe deux façons d’augmenter l’efficacité de la recherche :
 
-·        Minimiser le temps et l’énergie : choisir les proies les plus faciles à capturer
-
-·        Optimiser le gain d’énergie : consommer les proies les plus grosses
+- Minimiser le temps et l’énergie : choisir les proies les plus faciles à capturer
+- Optimiser le gain d’énergie : consommer les proies les plus grosses
 
 L’optimisation dépend d’un compromis entre ces deux propositions.
 
-Exemple du crabe vert :
-
-S’attaque aux moules. Ils s’attaquent à des moules de différentes tailles (plus elles sont grandes, plus le gain d’énergie est important). On observe qu’il existe une diminution du gain d’énergie quand la taille est très importante = les petites proies offrent peu d’énergie et les grosses proies en offrent beaucoup mais en demandent beaucoup. On voit que le crabe va privilégier des proies de taille intermédiaire : la théorie de l’approvisionnement optimal est confirmée, le crabe a tout intérêt à se spécialiser dans la consommation de moules faciles à ouvrir et contenant une quantité plus importante de nourriture, et l’expérience concorde.
-
-Même phénomène observé chez l’huitrier pie.
+	Exemple du crabe vert :
+	S’attaque aux moules. Ils s’attaquent à des moules de différentes tailles (plus elles sont grandes, plus le gain d’énergie est important). On observe qu’il existe une diminution du gain d’énergie quand la taille est très importante = les petites proies offrent peu d’énergie et les grosses proies en offrent beaucoup mais en demandent beaucoup. On voit que le crabe va privilégier des proies de taille intermédiaire : la théorie de l’approvisionnement optimal est confirmée, le crabe a tout intérêt à se spécialiser dans la consommation de moules faciles à ouvrir et contenant une quantité plus importante de nourriture, et l’expérience concorde.
+	
+	Même phénomène observé chez l’huitrier pie.
 
 Cette théorie est applicable à d’autres individus que les prédateurs comme par exemple les parasitoïdes.
 
@@ -136,9 +134,8 @@ Les prédateurs ont une influence considérable sur les populations de proies :
 
 Attention, le concept d’espèces nuisibles est souvent anthropocentré.
 
-Exemple de lutte biologique contre le cactus _Opuntia stricta_ :
-
-Originaire du Mexique, il a été introduit en Australie en 1839 en l’absence totale de prédateurs et dans des conditions très favorables = pullulation. Pour gérer cette pullulation, on a introduit un papillon phytophage spécialiste dont la chenille consomme le cactus. C’est un facteur extrêmement important des populations.
+	Exemple de lutte biologique contre le cactus _Opuntia stricta_ :
+	Originaire du Mexique, il a été introduit en Australie en 1839 en l’absence totale de prédateurs et dans des conditions très favorables = pullulation. Pour gérer cette pullulation, on a introduit un papillon phytophage spécialiste dont la chenille consomme le cactus. C’est un facteur extrêmement important des populations.
 
 L’influence de la prédation sur la dynamique des populations de proies a été mise en évidence par G.F Gause par étude de protozoaires ciliés. Il a montré par exemple que l’action des prédateurs peut épuiser sa ressource, même si le phénomène est très rare en milieu naturel car la proie dispose de refuges et de stratégies pour se protéger, de plus, il existe une migration périodique des proies : les relations proies-prédateurs sont dynamiques et caractérisées par des successions d’augmentations et de diminutions corrélées de populations. Ainsi, les prédateurs ont une influence à l’échelle des communautés.
 
