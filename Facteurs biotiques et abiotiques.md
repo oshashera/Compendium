@@ -280,7 +280,7 @@ Lien entre **diversité des facteurs abiotiques** et **gamme d’adaptations**
 
 ### A] Les facteurs écologiques climatiques
 
-#### 1) La température
+#### <u>1) La température</u>
 
 - Tous les **processus métaboliques** dépendent de la température
 (**photosynthèse, respiration, digestion**, …)
@@ -343,15 +343,64 @@ En France, 40 jours d’avance entre la côte d’Azur et la région parisienne
 
 ![[Drawing 2023-05-27 18.06.17.excalidraw|{width=70%}]]
 
+##### <u>La cessation temporaire d’activité chez les homéothermes</u>
+
+• La **torpeur** : cessation dépendant des conditions extérieures
+	(exemple : oiseaux, chiroptères)
+• La **somnolence hivernale** (ou **hi*v*ernation**) : hypothermie modérée, sans
+interruption de toutes les activités physiologiques
+	(exemple : ours, blaireau)
+• L’**hi*b*ernation** : entrée en léthargie avec baisse importante de la température
+	(exemple : lérots, spermophiles, hamster, marmottes)
+• L’**estivation** : léthargie lors de température trop élevées
+	(exemple : crocodiles, gerboises)
+
+##### <u>La diapause et la quiescence (hétérothermes)</u>
+
+**Diapause** = arrêt de développement obligatoire
+
+**Quiescence** = arrêt de développement dépendant des conditions climatiques
+
+- ralentissement de la respiration
+diminution du métabolisme énergétique,
+- déshydratation des tissus,
+- augmentation de la teneur en lipides,…
+
+##### <u>Adaptations des plantes au froid
+</u>
+
+- Adaptations des feuilles
+	- Feuilles caduques
+	- Réduction de la taille des feuilles (aiguilles des résineux)
+	- Cuticule épaisse (feuilles du houx)
+
+- Adaptations des bourgeons :
+	- Ecailles épaisses recouvertes de cire imperméable + duvet
+
+- Adaptations des tiges
+	- Cuticule imperméable
+	- Liège
+
+- Adaptations des vaisseaux
+	- Arrêt de la circulation de la sève élaborée,
+	- Concentration de la sève (antigel)
+
+- Dormance
 
 
+#### <u>2) L’eau</u>
 
+##### <u>Les besoins en eau conditionnent la répartition des organismes</u>
 
+- espèces aquatiques : milieux aquatiques
+- espèces hygrophiles : milieux humides
+- espèces mésophiles : milieux variables
+- espèces xérophiles : milieux secs
 
+#### Exemples des conséquences de la disponibilité en eau sur les organismes
 
+##### <u>La distribution des plantes</u>
 
-
-
-
-
-
+Distribution de l’Aune vert (Alnus viridis) dans les Alpes
+Versant Nord des zones sub-alpines
+(température moins élevées, fonte des neiges tardive)
