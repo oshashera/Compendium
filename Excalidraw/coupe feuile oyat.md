@@ -1,0 +1,145 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+
+# Embedded files
+5e830aabaa7c39e78cd94ca80bd9afcfb816ef25: [[Pasted Image 20230527182722_254.png]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.19",
+	"elements": [
+		{
+			"id": "7n8A5xTWja5kROgZJFKx3",
+			"type": "image",
+			"x": -429.6499938964844,
+			"y": -233.15001678466797,
+			"width": 502.00000000000006,
+			"height": 279,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1308294171,
+			"version": 14,
+			"versionNonce": 191871099,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685204828808,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "5e830aabaa7c39e78cd94ca80bd9afcfb816ef25",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "53qYn-qHB5QxKrKMvZrHU",
+			"type": "rectangle",
+			"x": 41.25891725648739,
+			"y": -66.60537043765083,
+			"width": 30.797245880236602,
+			"height": 103.2613831929937,
+			"angle": 0,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1860329653,
+			"version": 137,
+			"versionNonce": 1544194107,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685204858490,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "8bmeVVMPrumoaNgWwMxJM",
+			"type": "image",
+			"x": -31.693429575286842,
+			"y": -9.694938253112497,
+			"width": 103.30113429804993,
+			"height": 103.30113429804993,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 195283163,
+			"version": 2,
+			"versionNonce": 1207830101,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685204868739,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": null,
+			"scale": [
+				1,
+				1
+			]
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#ffffff",
+		"currentItemBackgroundColor": "#ffffff",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 644.269155962723,
+		"scrollY": 375.27765411016145,
+		"zoom": {
+			"value": 0.9680435813170712
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"colorPalette": {},
+		"currentStrokeOptions": null,
+		"previousGridSize": null
+	},
+	"files": {}
+}
+```
+%%

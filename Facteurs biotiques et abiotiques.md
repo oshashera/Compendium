@@ -414,13 +414,22 @@ $\huge\rightarrow$**Les rythmes d’activité journaliers**
 ![[Pasted image 20230527182501.png]]
 
 
+##### Défense des organismes contre la déshydratation
+
+$\huge\rightarrow$ **Réduction de l’évapotranspiration chez les plantes**
+
+Adaptations possibles :
+- structures cuticulaires imperméables
+- nombre de stomates réduit
+- surface de feuille réduite
+- perte des feuilles à la saison sèche
+
+![[Pasted image 20230527182645.png]]
+
+![[coupe feuile oyat]]
 
 
-
-
-
-
-
+##### Adaptations des plantes à la sécheresse
 
 
 
