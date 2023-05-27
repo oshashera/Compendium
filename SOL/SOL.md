@@ -325,10 +325,18 @@ La teneur du sol en eau est peu informative quant à la quantité d'eau disponib
 - |-> calculs: 
 - de d<sub>a</sub> (densité apparente)
 - de $\Theta_p$ (humidité apparente)
-- de $Theta_$
+- de $\Theta_v$ (humidité volumique)
 
+		Ex: 
+		Prélèvement de 0,5 L (V<sub>t</sub> = 500 cm<sup>3</sup>)
+		Masse fraiche = 789g -> Masse sèche 593g
+		- Ma = 196g
+		- da =Ms/Vt = 593/500
+		- etc
 
+##### <u>2) Mesure du potentie matriciel</u>
 
+-> Tensionmètre (ou bougie poreuse)
 
 
 
@@ -628,4 +636,4 @@ ___
 
 ______
 [[Pollution des sols]]
-[[Texture minérale des sols (t
+[[Texture minérale des sols (td)]]
