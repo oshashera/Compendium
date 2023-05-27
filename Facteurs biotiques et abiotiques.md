@@ -225,6 +225,99 @@ Le **neutralisme** est neutre pour les deux parties.
 Etude de l’action de ces facteurs =<u> autoécologie</u>
 
 
-- Facteurs climatiques (température, pluviosité, humidité, lumière, vent,…)
-- Facteurs édaphiques (texture, structure et composition chimique du sol)
-- Facteurs hydrologiques (caractéristiques physico-chimiques de l’eau)
+- Facteurs **climatiques** (température, pluviosité, humidité, lumière, vent,…)
+- Facteurs **édaphiques** (texture, structure et composition chimique du sol)
+- Facteurs **hydrologiques** (caractéristiques physico-chimiques de l’eau)
+
+Ces facteurs varient dans l’espace et dans le temps
+
+Ils peuvent affecter :
+- la survie,
+- les cycles de développement (estivation, hibernation),
+- la morphologie,
+- le comportement (y compris migrations),
+- la physiologie,
+- la structure génétique des espèces
+
+
+##### Notion de <u>facteur limitant</u>
+
+Il s'agit d'un **facteur absent** ou **réduit en dessous d’un seuil critique**
+ou **excédant le niveau maximum tolérable** par un organisme
+
+	Exemples : 
+	Phosphates et plancton dans l’océan Atlantique
+	
+![[ex planctons phosphate|{width=80%}]]
+
+	Exemples de facteurs limitants chez les plantes :
+	la teneur atmosphérique en CO2 (limite la photosynthèse)
+	la présence de bore (métalloïde rare) dans le sol (limite la croissance)
+
+##### Notion de <u>tolérance</u>
+
+![[loi de tolérance de shelford|{width=90%}]]
+
+
+##### Notion de <u>valence écologique</u>
+
+Capacité d’une espèce à accepter **diverses conditions écologiques**
+![[valence écologique|{width=80%}]]
+
+- Espèce eury/sténotherme (température)
+- Espèce eury/sténohaline (salinité)
+- Espèce eury/sténo-osmotique (pression osmotique)
+
+
+Corrélation entre **distribution des grands [[biomes]]** et **facteurs écologiques**
+
+![[Climatogramme des principaux biomes d’Amérique du Nord|{width=80%}]]
+
+
+Lien entre **diversité des facteurs abiotiques** et **gamme d’adaptations**
+(morphologiques, physiologique, comportementales) **des organismes**
+... mais aucun organisme ne peut tolérer toute l’étendue des conditions abiotiques existant sur terre
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
