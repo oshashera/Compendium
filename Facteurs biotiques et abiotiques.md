@@ -290,7 +290,7 @@ Lien entre **diversité des facteurs abiotiques** et **gamme d’adaptations**
 - Importance de l’**amplitude thermique**
 
 
-##### Quelques exemples des conséquences de la température sur les organismes
+#### Quelques exemples des conséquences de la température sur les organismes
 
 - <u>Sur la biologie des espèces</u>
 
@@ -308,7 +308,7 @@ Lien entre **diversité des facteurs abiotiques** et **gamme d’adaptations**
 	-Isotherme de janvier = températures mensuelles moyennes les plus froides
 	-Isotherme de juillet = températures mensuelles moyennes les plus chaudes
 
-Les aires de répartition de la plupart des espèces peuvent se définir
+$\Large \hookrightarrow$Les aires de répartition de la plupart des espèces peuvent se définir
 à partir des isothermes
 
 ![[Drawing 2023-05-27 17.56.04.excalidraw|{width=70%}]]
@@ -322,15 +322,26 @@ Les aires de répartition de la plupart des espèces peuvent se définir
 ![[Pasted image 20230527175742.png]]
 
 
+##### <u>Sur les rythmes d’activité journaliers</u>
+
+Rythme <u>nycthéméral</u> = rythme jour/nuit
+
+$\Large \hookrightarrow$Liés à la température chez beaucoup d’hétérothermes
+
+##### <u>Sur la phénologie des espèces</u>
+
+*Exemple :* date de première floraison
+En France, 40 jours d’avance entre la côte d’Azur et la région parisienne
+10 jours de retard avec l’est de la France
+
+![[Drawing 2023-05-27 18.04.08.excalidraw|{width=80%}]]
 
 
+#### Principales adaptations des organismes aux conditions thermiques défavorables
 
+##### <u>La migration</u>
 
-
-
-
-
-
+![[Drawing 2023-05-27 18.06.17.excalidraw|{width=70%}]]
 
 
 
