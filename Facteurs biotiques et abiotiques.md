@@ -269,7 +269,7 @@ Capacité d’une espèce à accepter **diverses conditions écologiques**
 - Espèce eury/sténo-osmotique (pression osmotique)
 
 
-Corrélation entre **distribution des grands [[biomes]]** et **facteurs écologiques**
+Corrélation entre **distribution des grands [[Biomes|biomes]]** et **facteurs écologiques**
 
 ![[Climatogramme des principaux biomes d’Amérique du Nord|{width=80%}]]
 
