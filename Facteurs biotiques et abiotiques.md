@@ -278,25 +278,48 @@ Lien entre **diversité des facteurs abiotiques** et **gamme d’adaptations**
 (morphologiques, physiologique, comportementales) **des organismes**
 ... mais aucun organisme ne peut tolérer toute l’étendue des conditions abiotiques existant sur terre
 
-###
+### A] Les facteurs écologiques climatiques
+
+#### 1) La température
+
+- Tous les **processus métaboliques** dépendent de la température
+(**photosynthèse, respiration, digestion**, …)
+- La possibilité de réguler sa température est rare
+**homéothermes** (Oiseaux, Mammifères) $\Large \ne$ **hétérothermes**
+- **0°C < SURVIE < 50°C**
+- Importance de l’**amplitude thermique**
 
 
+##### Quelques exemples des conséquences de la température sur les organismes
 
+- <u>Sur la biologie des espèces</u>
 
+![[Pasted image 20230527175334.png]]
+![[Pasted image 20230527175347.png]]
+![[Pasted image 20230527175400.png]]
 
+##### <u>Sur les aires de répartition des organismes</u>
 
+**Isotherme :** ligne ou frontière fictive où la température est constante
+(points de même température moyenne)
 
+	Exemple :
+	Europe
+	-Isotherme de janvier = températures mensuelles moyennes les plus froides
+	-Isotherme de juillet = températures mensuelles moyennes les plus chaudes
 
+Les aires de répartition de la plupart des espèces peuvent se définir
+à partir des isothermes
 
+![[Drawing 2023-05-27 17.56.04.excalidraw|{width=70%}]]
 
+##### <u>Sur les étages de végétation en montagne</u>
 
+![[Pasted image 20230527175713.png]]
 
+##### <u>Sur la distribution altitudinale des biomes</u>
 
-
-
-
-
-
+![[Pasted image 20230527175742.png]]
 
 
 
