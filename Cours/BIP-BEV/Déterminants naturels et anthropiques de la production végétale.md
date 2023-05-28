@@ -15,30 +15,29 @@ Observés en [[Agroécologie]].
 ![[Pasted image 20230528200847.png]]
 
 #### 1.3. Biomasse, Production et Productivité primaire
-
-![](https://lh3.googleusercontent.com/mAMx7UFYefh4bfEKrkK2uc4lw_DPiVJacenSOalJfaYi91I3OB870-2e1C3ysRpu-YebW9j1iuAnkCM4zw4V72rpFeHMcWzQpHKEMuG-WM7T89bQF48v3b_YtmzvgvwqsKLig4br1f8Dlj1bNi12F_NmpYapvIw14CMM-3sFRVE9bqyUxgfaTYW_zVXqkg)
-
+![[Pasted image 20230528200920.png]]
 #### 1.4. Production primaire Brute/Nette et accroissement de biomasse
 
-![](https://lh4.googleusercontent.com/TFD_8rMFoLJgQJAVzDD2nFyTKyiTTiieO6W72u7vWCeOjfVZFMpCHHiNfM-duhn0IuDiPOvtirYQyIMr1zgB23_pMC2fwN_9ZlpN6EeYqtOn9Qb_fpUYD-hMfBJMDJt7uW_enICHJlDwQPebMSdNeireIFXto6tXFlWcwLbbs0Jj0YA-zPlNcUIsMOdmPQ)![](https://lh3.googleusercontent.com/LcZJa7zno_Sthxs1fJvEHUbNJLJf9M7xI35vt6ur1UggjfCv3Q1AXIFqNi9ioeJLfgGzs65UL3V8orlMquQzr7-x4zyzmbVk9qimcNK3RGMV4A_l0YTvKdY3hZWJtqlOpj8VBb4pAdDzdpTt69bI2bvmOc8lnKAN_2F_r5aI5MNIF-HUJ13fvHUxYdcAYg)
+![[Pasted image 20230528200944.png]]![[Pasted image 20230528201000.png]]
 
 #### 1.5. Méthodes de mesure et d’estimation: principes généraux
 
-![](https://lh4.googleusercontent.com/WmMtiaxmsy0ziiMo6czZBQIXyKY4rqFYK9OUcan7O2yj4Aspm6m62zUvd_VuYd7DAaqhz33uEw46-xscbO2cl8e1htGNmdLDzuaZCxf21cnW2xxqVT4SI_cgSXzItmKqH013fJZPaCIwCDPDMitlLi9oum0WVH0piHvqdXmC6unQPQMvZvxMicRPC2FFGQ)
-
-![](https://lh6.googleusercontent.com/rvkJILxj8ZQDmha7gaJOQ0dXYDhZ5cebW_P8uYMPHr71xX24CqSCAb8vME97DQJUSeuVa8Yc0XNsPQQyg7gpAhWkpnVDPHi6X5TGWsm0BCNtxjGNMQxlEDz8KrH7yTu4m9ltuX7JJBmF4NK6kbts-VCkm_swnGbQMp754bwy6TvkRSRdhscWS_QHsgPyUw)
+![[Pasted image 20230528201036.png]]
+![[Pasted image 20230528201119.png]]
+![[Pasted image 20230528201127.png]]
 <br>
   
 ### II. Déterminants naturels de la production végétale
 
 #### 2.1. Notions de stratégie et de compromis
 
-![](https://lh3.googleusercontent.com/-EkHaMqd2F7HCn3T1NBW2b9W5J0hrt5G_k8oj54_hnH17Nt9rdNt6GmLuvPNO2IZZ1Wd225btD3CfIppvtwgfPLQx1dM9o2eNkTeLBPT8yUx4COu5MLS9JcXDtEhQAK6b_Vztcpn99k6nmNkdbO-2aUygi578y48G2fZNnK58pvhB9eqlyGwJwhpoCfrMg)
+![[Pasted image 20230528201210.png]]
 
 Selon Grime (1974), toutes les contraintes auxquelles les plantes doivent faire face appartiennent à **2 catégories**:
-![](https://lh5.googleusercontent.com/AU2Wf1jhohfwE1bnPMHQY-xc0rJ98IluAZqoJCj9Yf3ZkfQwnXt9t4uTgDQ-t8mCobBbNhQVtMa37LlImuXlXw9OkZMajws88y8OhLgBmzfvvfvgb9XfFV75mAKVV8GNghE7DOYh5aml62CXeOs9c6JM6dw7B8970_1LGUq0vgSpVZZa17YIo15Dym9kNA)
+![[Pasted image 20230528201227.png]]
 
-Les **3 grands type de stratégie** selon Grime (1974):![](https://lh6.googleusercontent.com/i1q7xZJJiiwehftoZ40IZ5E1ILJM_pzbB_5eE-Ewu5wcM4BcgigN2g1Abns_Q5JLyy_lExbn_Y8Jh03X8-qP1yaFFeMosw92KwyKFNBNSNHqOq8IOQkCbQuwhDWZ7VqMzKZ8jThtOLnX-qN4EwwRRMhcKrkSdH-sdPhKnOZNaSGdMyKyahJbFOTGQELTzw)
+Les **3 grands type de stratégie** selon Grime (1974)
+![[Pasted image 20230528201248.png]]
 
 #### 2.2. Notion de facteur limitant
 
@@ -46,40 +45,38 @@ Les **3 grands type de stratégie** selon Grime (1974):![](https://lh6.googleuse
 
 =>Quels sont les facteurs limitants pour la PV (production végétale)?  
 
-![](https://lh6.googleusercontent.com/k4xSe-KfSf4Si9OrqGnrldb1AVZwIHZEp056eAonNLAexzApwJG9SDlgQYSBn-XbHSsv4TPBNpgFG9MHylZBqZjE5qVpSAYUk8dbkJmNYDGAkr4Gvu94x41hrhtd4quZkEuVQ3rlaUgFHovQDsE2saD6ewYecimHYDYrlcxVQRN3RxDV0n9TIoAet9rfWQ)![](https://lh4.googleusercontent.com/0FLqpoDTOCUeBqBonXPk16sGqNIsoo-jLWskkxd-5EIICNF5F9roZBVo7WN8c97DIE6YB84oRJUqh0jYEkuCo7cY2sSi7-0x92RWSy9R7N9m9ShMzLYIwSDRUDz4GMlvaw9gCgIWOkQbuxZ7WMc5CCExGJUlccdCth5sw4oqCpnfkxyvM548bE0JOBMegg)
+![[Pasted image 20230528201310.png]]![[Pasted image 20230528201332.png]]
 
 #### 2.3. Fertilité des sols
 
-![](https://lh5.googleusercontent.com/t7GlrJmXq_cNSo4l7GxV-Y7y9_98UrzKLxE34VVDv21eVSl_dYioJt2Fl4dqSSh4SZ18Fz8MExy8s5sIx3qnenIMtPIgWa9B3v8--973wOE9pGabPp43OX4axJSARTG47731hdLr5MYtY1ULqlJ_flPeCNjspbnasPw16eJT1qa090Bqiaet7xz8lzgcTw)![](https://lh5.googleusercontent.com/x8c1PY_k0wgvNapaPA1sSZsXoh5480ZnaGnZZbJq8RPwU1zjyTGA2XsGCiHY0CWrlYVMKj9-_yOPJa5mue-JCIPxFbfLx71aHVdO7g-p1qCD1VH4bKROVvg4mzC6CtlwIUPj0G12WNsEESm-K75ON5mUJM2yjPI8oohkoy35Z8YO7fhonNWg2KRYrbuc_w)
+![[Pasted image 20230528201355.png]]![[Pasted image 20230528201411.png]]
 
-![](https://lh4.googleusercontent.com/o3QMqP72xLhsSciguIS337ozhPTge2aCpizmydtAr5BelhJysfY6t3Qv_tDadQGPeRgiP7GzhXrrvXQ0qXTFRcKqrDx3hRjO3Fgi3xPC9W3gs7dVcneRFCpop5sPAVfOPbInnUoOTN-lT5zSl0BRN-nhw18Ke8B638afz4eNgmGWuvwtXZr1pPegFkQrsA)
+![[Pasted image 20230528201435.png]]
 
-![](https://lh3.googleusercontent.com/Be_DawJWaTo5uumy5Uva20AgYVsv8KPB6vENSvQpUOgVl5slYG4oW0WrgFsEXrWTEZwVjWn2ktovGcJ2sBBEQHdd2iynI4Uz0ffGKgukoJC720zKheYN72HGaEcJl_sfWDIL3ts2xWzsDW2TUmxqahhktUevpqdsyFywOVz9wfvayJ7kdDeuQ4yyTeiOQw)
+![[Pasted image 20230528201453.png]]
 
-![](https://lh6.googleusercontent.com/e9yxJqP4tXystVuRNR0FYfSBk6ENrWVtm3rAKNB2jvHnwJgqWXCZU1606Y1NVr3o7oPbp1BCoYIFKHGwecAV6TWDY_TFAwtpX9Oy1gAcWUDliZbLNdYuKC7NkhcNVrodMXlH-DMwfMOrYvNZOyOoQ41f7nvzv46RU2R4u0mOyHJiL9tfzCCRfXmnuTWAmg)
+![[Pasted image 20230528201505.png]]
 <br> 
 
-![](https://lh4.googleusercontent.com/6N-1VKq9p76vJkY8vV_Id8ZWMoZHqFdX2znAJIRwQm-VwYlJfP-tTjeaa03BnuGEiTWNnfIVb2ed_fOsrwBq-2FYABeoDR7CapycfL-K8Dm7pvsWvZlzJ7zhwLj0-B1PAgK7x5fHjjvpblkCmRF6HFSSBC7zA_hAJGLIauJ27QbY1nmLzsbOj80Ttba-Gw)
+![[Pasted image 20230528201526.png]]
 
 #### 2.4. Facteurs environnementaux abiotiques  
 
-![](https://lh6.googleusercontent.com/POg2DLkv630Qp6VAOmOZkzUV_N4wroNe17d-dEs_y9rgYMYPluhaLIQtflFP2PeYUl8D77UfNGPim8YwLhAvTVv0elOLmrJU0UrPcFsDRW6WSVPL5QF8m3AY26Mvnhr2JqbObHDfTVJTbybzLULz6dJnMxg4megxc_jCpJBGS8lfl9xZuX8N7R-cM--82g)![](https://lh6.googleusercontent.com/uZFvXGC-X5PKw9oU44XBEfZoLFeeJ7OMrXVL3RMLzSGu1QiKpajL73Rz77EQuQxKnZDVu4w7Hm5lbkJN4VM91D3uIVSYut8faxj9Iql9L5TmyoaTe1qD3rNXgvnXXG_zhmzWLnbCSCZ0isOxHMW7mDclAOhIRJ9WzjDLSBW8H11jmsFgGFHFJNUQl2Rf4Q)
+![[Pasted image 20230528201537.png]]![[Pasted image 20230528201602.png]]
 
-![](https://lh4.googleusercontent.com/5CfVkYKTj37C0rAGd9CX1FG38gRvC4Wk9D8Tb1jy2eJfb805uhKXx2kAeInKxhLfI_pOiEErQ96Xcym2l7RzS537LzitTuo8iBul103uao9JrQ6eEH9eM4I9vXifgSBGPvLkFrZAWlE3UzsJco9GdRkG69zbas56tWEOBPBrflf5TowSQdEUngcJReT6cw)
+![[Pasted image 20230528201616.png]]
 
 #### 2.5. Interactions biotiques
 
-![](https://lh5.googleusercontent.com/GHzJyvZd0HtNHf4B4j3Cxwfe_UJaUUMQsXzGR6D1dwroCWrDXjCVac9LneeLaaW9Pjirq9Lhc2DObbJB28xueQMQBzXYXxwiz4A9RuKM4DHX7ukxDGpiSSrjhZOwcgmUwtlXsHqcU8ZpSkUBcXSq2gn3SSke9FqIMxa0DT7N6njGl2AL-XHFhfhpZ5tEsQ)
+![[Pasted image 20230528201639.png]]
 
-![](https://lh4.googleusercontent.com/AVj_XOhpz4SPFcrpY2wMAeZco6gVB2IfmczpD7lm2HS4hybGUL1q6HUSUZpWfZnhN3Am_kMRYeaNiqPUj1KECtjyIntuY4AuViphydpEMfnKw2IhBD-QkqWN5BjMV7M7QrqGvHysEwzgGs4CTuTscmjBRzJ8o6cW2uEaFyL4Z2NFwQD9Dv0mpgLOXJgHJg)
+![[Pasted image 20230528201651.png]]
 
-![](https://lh5.googleusercontent.com/COyHQ-OhsI6SnRsyRFBXK9XOVzUfT5BSilfnnv_F31cbJofRKjSXaoQMVkSoVO1ZkasCqXfb39xh-hf-hnI4JFFGnXUBoKnwYayztKEQhn467phDjDt9-eMg1WDSscey-TZwI8jpdnXXKX-8fAefaPoB4_KczFI5AlArT8hMQkCPeHu_ztZZhNxFi-C6TQ)
+![[Pasted image 20230528201707.png]]
+![[Pasted image 20230528201736.png]]![[Pasted image 20230528201824.png]]![[Pasted image 20230528201837.png]]
 
-![](https://lh3.googleusercontent.com/Ku60wp16yOoc9CH0GAIyqABNma9mdBm1DbWdEEP9wZyNfltkaUg0d3vXohv3j-f-ny9yAe1HuFZt4H1UF0kaPadzEi32hl0XlCMIxgviUJHGZLOaHNbWdKME5ZAScc-WQILFLYCk-1Kp3nyHawQXAV_D_E-F4N-W7O24ta321BwMhpNQBfjSHI-yNWH2JQ)
-
-![](https://lh3.googleusercontent.com/o3bL_VRNZyRoRAT32HhDGLRpxKWuDU7zBdKXvibrbVpEDDc78kJjvzh8Qh-080RntdFVFb8O0BxaP10zsDE5RiP2KZ4gXThhatHi1O0ykb-4ERkEZ6Ac7skVQk0nXOY3EnnJqya_KrLcwPsRuBYM6Az1X02wLsf77I0k3XOWU-xDXALyMg2gmpkRdZaF2g)![](https://lh5.googleusercontent.com/6iRFnziBstNASJKMngJmYcaSrv10TYQFM70QSYDa5Tk8SDywIc2KTiJWRjKiU_DSWpugcB84XhS71rKOFLfJvJ8HI_rodT5Zv54EddpUt2XrTC7M6a3vBGge6wxq-zNTlr3E8u2X-eyNaHFjDEOuUKyfAqGLoOhVOi2YYMGxf1p7UPgxgEtf2FqoFKXlTQ)![](https://lh5.googleusercontent.com/au3RjVIQpZxKF2-qYeTh3OwtxSV8A0hJwZwxnFUshvi4YWmXkiWOe5_3vgvX5LI8Ic8ZsdLqEF-XmHLym-MZsETMVClBYtt_s8zvS-eVFDCyfBjqKJFtOVTlarwh-ZdqZnME42TzhUL822vqXYvylt3rwAZeh4qo2as8tmfXLIRx_GD5kTXZ_QHU2bLWCQ)![](https://lh3.googleusercontent.com/zb00yJkvFuzPU5Cq5xK6ybXqQ9q185lLmzPXLhZux2gaiHBLo_x8kf5-erDqnXTpAU7xGfShrNXIvpmRGkjjNnNctPtOV4vzIE2JAz9jDBl9Uo4H0HXJqf-YZmE9GyMS9UzkTmgxzca_GcBol_RSGZdVPS5No1KFn8QskfwNu0_Oe8ydsuE9-za4RVC_fw)
-
-![](https://lh4.googleusercontent.com/xfm1aGC3djtJlCn-fziTMkFgebXoHzAVlJpiRRy13EzpPSOETCi3lJ2OKc16JMfN23lwJPn8P5LrwNXEk4U5iLoi24ZatPD68Ck8iAFKoH8sgGWmEUlqo9WGW4LSHK8pw1tA9fd5P_8HlPqL05gc1Cv2sd5o3HMnAQ7PNdXrjsoE3MceOxPbH7xdCBp7Ww)![](https://lh6.googleusercontent.com/MxjiViY8JBBe6s2ySh98tvIk-TpBjVD3d0G-CvmPCeT5579UDKW-y3kCCYYEhG3pmj4t1bldBk8ok3aBIzr2eZitCYjwlQjo-6zmqXtmvfxgDtGkqOmN2ANAHJnAtm0drTlvrtyGOkXCMUp3bRxuWkXYMey_jUo05LqQ_8csryRow-OGnAOelwuPJm4Gig)![](https://lh3.googleusercontent.com/cVtTGLagdsADCDBKXzRapGs8OfbwwH1uDdNutJfx1XPvuscGlsDRHcdj23se1my07hTc9DXOKfQo-1ZPd01qSttBabyfQSHKogNOIxSNRhrDUaE6dgNk9oMVUzQ0vo9QNMtKF_qxY-FLhPX2K1oBItjuZzFWP5TpRsdKzGwx35b8obz9pPXL7vVkjvlxIQ)
+![[Pasted image 20230528201851.png]]
+![[Pasted image 20230528201913.png]]![](https://lh3.googleusercontent.com/cVtTGLagdsADCDBKXzRapGs8OfbwwH1uDdNutJfx1XPvuscGlsDRHcdj23se1my07hTc9DXOKfQo-1ZPd01qSttBabyfQSHKogNOIxSNRhrDUaE6dgNk9oMVUzQ0vo9QNMtKF_qxY-FLhPX2K1oBItjuZzFWP5TpRsdKzGwx35b8obz9pPXL7vVkjvlxIQ)
 
 ![](https://lh3.googleusercontent.com/Y1uLL2NAi-G3H-8HIvICDpI84R48CGmof5UDPWLsGd1d2QPpme0JtTi9F5MhUam4LhxxUoSuBrMFGLACxzIKbdMEGWPHwZfZf4gMcasyawMs02K_WPTkPhdWQm_HRDKtVyNSp0RBaGjyYvzZYUHJb6Uygkaw5s7SbDdtP94j7F1b-yjOktO_kcl0K0t3TQ)![](https://lh5.googleusercontent.com/zC9VuJ52BzBSSZToPlxJfSpNketKfA5JrwQuL2mSct5B1MTkGj6NVPTcT0kY6hKiepIUO7fDuo1pYocNSyiDcPI8c9nxFdS0pkyQWaJLI0dglSQ3hGiG9o1stDWD_VcJuaIYorGLcV-ml7h50I15C4x5zCKwJouJNBeyABMqAV2rbx2JJRISXYse-sva4A)
 [[T.D. Interactions biotiques & production végétale]]
