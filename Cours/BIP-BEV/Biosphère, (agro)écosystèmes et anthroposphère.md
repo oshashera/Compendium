@@ -57,7 +57,7 @@ Agrosystème = système Homme - culture**
 
 Répartition:  ~=~25% des terres du globe = culture et pâtures
 
-![](https://lh4.googleusercontent.com/Vol05gtPtWWmeczXUT6sfZ7d5yvCwFuYUBnJHLKbCGvlBbz3jV-B65nQqAz81WDiqmJF5Iw307iNtOKUZFI_SjpfBFI5RvMKVyvxLY92A3M0JHdcK00czdaxuq4Xi6UWTJPBd0nxRAftqbFo5Os2ChJ5jY_fC_ixqAnmUHM6ygU1Gp6OpMPcaimAMLoEhQ)![](https://lh4.googleusercontent.com/Vol05gtPtWWmeczXUT6sfZ7d5yvCwFuYUBnJHLKbCGvlBbz3jV-B65nQqAz81WDiqmJF5Iw307iNtOKUZFI_SjpfBFI5RvMKVyvxLY92A3M0JHdcK00czdaxuq4Xi6UWTJPBd0nxRAftqbFo5Os2ChJ5jY_fC_ixqAnmUHM6ygU1Gp6OpMPcaimAMLoEhQ)
+![](https://lh4.googleusercontent.com/Vol05gtPtWWmeczXUT6sfZ7d5yvCwFuYUBnJHLKbCGvlBbz3jV-B65nQqAz81WDiqmJF5Iw307iNtOKUZFI_SjpfBFI5RvMKVyvxLY92A3M0JHdcK00czdaxuq4Xi6UWTJPBd0nxRAftqbFo5Os2ChJ5jY_fC_ixqAnmUHM6ygU1Gp6OpMPcaimAMLoEhQ)
 <br>
   
   

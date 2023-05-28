@@ -76,11 +76,11 @@ Les **3 grands type de stratégie** selon Grime (1974)
 ![[Pasted image 20230528201736.png]]![[Pasted image 20230528201824.png]]![[Pasted image 20230528201837.png]]
 
 ![[Pasted image 20230528201851.png]]
-![[Pasted image 20230528201913.png]]![](https://lh3.googleusercontent.com/cVtTGLagdsADCDBKXzRapGs8OfbwwH1uDdNutJfx1XPvuscGlsDRHcdj23se1my07hTc9DXOKfQo-1ZPd01qSttBabyfQSHKogNOIxSNRhrDUaE6dgNk9oMVUzQ0vo9QNMtKF_qxY-FLhPX2K1oBItjuZzFWP5TpRsdKzGwx35b8obz9pPXL7vVkjvlxIQ)
+![[Pasted image 20230528201913.png]]![[Pasted image 20230528201922.png]]
 
-![](https://lh3.googleusercontent.com/Y1uLL2NAi-G3H-8HIvICDpI84R48CGmof5UDPWLsGd1d2QPpme0JtTi9F5MhUam4LhxxUoSuBrMFGLACxzIKbdMEGWPHwZfZf4gMcasyawMs02K_WPTkPhdWQm_HRDKtVyNSp0RBaGjyYvzZYUHJb6Uygkaw5s7SbDdtP94j7F1b-yjOktO_kcl0K0t3TQ)![](https://lh5.googleusercontent.com/zC9VuJ52BzBSSZToPlxJfSpNketKfA5JrwQuL2mSct5B1MTkGj6NVPTcT0kY6hKiepIUO7fDuo1pYocNSyiDcPI8c9nxFdS0pkyQWaJLI0dglSQ3hGiG9o1stDWD_VcJuaIYorGLcV-ml7h50I15C4x5zCKwJouJNBeyABMqAV2rbx2JJRISXYse-sva4A)
+![[Pasted image 20230528201947.png]]![[Pasted image 20230528201956.png]]
 [[T.D. Interactions biotiques & production végétale]]
 
-![](https://lh5.googleusercontent.com/yEfubVY77zPkYYT-3ll9MAZC8wLlS-7j-eMvNdFDT3gMdj_nNAjtdT2pCvWF9BA2VuOM9UrQYSMh2l4Iw7jLsPuC8E2moVZz7qj3YiYNNxqDBswfafoIHDJX0-pIRktf_RaxpfxKwFkdnlhy3-HBSGBV5yK9cdh9_Sn2OwFWbSc2TbC27ongQIIexag3Ow)
+![[Pasted image 20230528202010.png]]
 [[Contrôles top-down et bottom-up de la production végétale| CM de Simon Chollet]]
 
