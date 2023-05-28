@@ -268,12 +268,10 @@ Repenser les vergers?
 ![[Pasted image 20230528194753.png]]
 
   
-![[Pasted image 20230528194914.png]]Ss7ic7OkZH4w)![](https://lh6.googleusercontent.com/1v2ViyWLIH6-LV1cua5LNWsjwzGrFb8QAPB-1A0NRtcK-9yMoiZcYXXGyvdn0yb-2gH9PqE2plIYurXB3pdNonRd2q2w9hlu8vegxfaBPmH7DAe7BoYSuParHv71pYtQ0SqNWCYklFM1frwuKdGYPlQWAWIfXtO8Gzv55KuqCYMM08AJFxEH-xsLhpbSGw)
+![[Pasted image 20230528194914.png]]![[Pasted image 20230528194949.png]]
 <br>
+![[Pasted image 20230528195016.png]]
 
-![](https://lh6.googleusercontent.com/NdOelJuDqCIUpCDOrrXxohwhA87qckvpNB6F43FwzfDWwlbO4gmGH1iEfZ8PML8uUNamC2e94oUfEBamElux0NpRdov7QlxofPnRmAFiSamGRqU82wwhvYWU5WAs9qnnUCE-N2PuZ4W5NTTbMILtMwJ3ImiOBZCS-IwFXDV4I1QT_NjIloiA0b6N9IgZZA)
-
-![](https://lh4.googleusercontent.com/SWdvq0ofYztS6Ri_nfy3wMiP0vUQmuGMdumUqeJss58-dNKtXiNnMYEw88_GqTSx6gu3Dt4JPTG6TkoAYXwF6C9o64mJFgxMq3DobQpJim0A9ZuJnyaj-S5GPfn7UMacxUaXl7bdtwXYDbWt79NaARZf1juXfu9NqhEeFsRgTpgEKIhCYtK_snAxfT267g)
-
-![](https://lh4.googleusercontent.com/wy_kJjJ7pVTdZlX1Z7EnhzRND49m18Qqhol8JSGE0f0a43pjRrdHjwdICyuu19MJDMqj3DzL3sC0oxbdF_hK8i4c4B9DJ8-HvjqqhTsZkAwbmpTLyNfoEPZMrmmXVl87J1QrFT61l4wlr-Y8-QBSzMOLxwsLTXlBuwWZf4j12sbPipwjx0LSXT_v0AGObg)
+![[Pasted image 20230528195028.png]]
+![[Pasted image 20230528195040.png]]
 

@@ -15,8 +15,8 @@
   "obsidian-enhancing-export",
   "highlightr-plugin",
   "templater-obsidian",
-  "cmenu-plugin",
   "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "cmenu-plugin"
 ]

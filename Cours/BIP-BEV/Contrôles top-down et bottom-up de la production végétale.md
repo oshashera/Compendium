@@ -19,8 +19,9 @@ Mais pq? Qui contrôle les pyramides?</ul>
 
 Soutenu par Lindeman, s'intéresse à écosystème mares, essaie de quantifier l'intégralité des composantes de son système (mares=assez simple)
 
-![](https://lh4.googleusercontent.com/9N8kRQ194JPnbmTSr8Fqj21WLIrcLimr0GASFrINdzsbhTfQL9m1X_ciKFKJuF5NXkn3ziUY4waX0kGrAe0fMOYmYUk9W05P-B8GR4v1Zf5ZCIOR60AYtVv_4fRJta0YSOm9X3jvq6X4ujyNU71dL6_Ht42DeOn0n4GuUJ8ax6DK_pUmw1gHxcC0yIrhZA)![](https://lh4.googleusercontent.com/qC90ohBKwt9pfH2DuaXA9nckpZ_EKd5dxDCsAySZJUSmnfzc7ddZrOkB7Pgm2A5pKRIM3-1gJfWdQL6Q4aJM5Y5TxOyAmXJuLqvw_eN6qgAY_Ehs6ijKeCMQIlfiF9gNqD03cAE8s8VoJAZC4fhDybhZNWJbxmYWWasCI_VkHkxbSW40p4pEZi8YYlgsVA)![](https://lh4.googleusercontent.com/cD3ZynjWqFSN8nieXQVVwyE5KY5MwooMkiUyY6rAjyYMlhRCdJneugvYpqsKXvNwuy3vo3S1HGJNCcVXg9yy0jT89LNJP-movgeCu6WLa17zRzU8a6ZGkgVu_9CEuEkPPIDDb_z_P3cfZgHI8DxRaBCgNtO_f4LPeouKmmE_rRqpIU4SPTZOCcIG_-x-0g)![](https://lh6.googleusercontent.com/OwZYBLkqYD_l1CDtnmSnLPq8c2nH6IY1c8IsXwK_qyK0BKkP2ITQMgjzQUhM092dCj_v7aofu0o9A6PelAXU16o1YqGZOYC4jUVl_FpXPKiY4okpBP1bJlcwY37-kvzOjLhpsvWpz-6xES61E4MgNB2LGZFBxYSEWA7Ib8GPIwv1x-CpXurssWJUWFV5wA)
-
+![[Pasted image 20230528195739.png]]
+![[Pasted image 20230528195810.png]]
+![[Pasted image 20230528195828.png]]
 Phyto contrôle quantité zooplancton et de brouteurs, zooplancton/brouteurs limite prédateurs benthiques limite poissons.
 <ul>
 -écosystèmes: composants biotiques et abiotique
@@ -31,7 +32,7 @@ Phyto contrôle quantité zooplancton et de brouteurs, zooplancton/brouteurs lim
 
 Pyramide marche pas que pour individu, mais aussi en biomasse et en mesure de l'énergie (J), intègre deux premiers principes de la thermodynamique.
 
-![](https://lh5.googleusercontent.com/KJtbG1jkoX8O8sR6cLXUdZKK03K7XwjsQixljDnWXamX-gd2Jbsl0f9jfqhxZiEHYsecYud_womsl9YIVc41YEErmJwHcWXCWB78ti6jhOXYokWl0ZxUu8eDVez19a_-g2SJWF1poJYpfVe4DwR7uNzvt45YhqMJUi0J5nJ8cu5LvFZuwP7uFef2vkX_pQ)
+![[Pasted image 20230528195902.png]]
 C'est bottom-up pcq ca part du bas
 <br>
 
@@ -47,7 +48,6 @@ MAIS ce qui contrôle les herbivores???? la quantité de biomasse végé? NON! C
 
 Depuis les années 60 on essaie de voir si c'est top down ou bottom-up
 ![](https://lh6.googleusercontent.com/WIX_T37smcc9laXsx9cZiY4cN_fPrOjktXcXZdNWkt0_9JSGi0z_M3J_ViGNXqwwJTtsH70uVabEnjrN55jUATJ1PaY4B8208QZMF05Y5sK5Q9518rkE9Zn7lV6PALWkjq_BWjVnlHarN7nzpaVpI-3Fhbf9ik8Svt9UQSXuzwIN9SPJ8eddDJjYKJPszQ)
-
 ![](https://lh3.googleusercontent.com/yNrFZRoEJfbjtP59XEv6Vncr1VsU288Hdkz1NVxcZlU4BNQn9H8LFFz1IvEA5z8Iu8Ht7uKzaOqYJmK_pXCV3AnIX4AluJZ-V0cAKRqiwhdoj3WCy7okO6_kRGaj_Hb2slrJH3NrjE9Fc_Bdj00jgCjZJZWK63nOhGx8aBhgWgyOqhaYc1CGPM6UiR9NVQ)
 
 #### Effets des nutriments sur la production végétale

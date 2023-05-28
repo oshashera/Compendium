@@ -9,7 +9,7 @@ L'histoire de la lutte contre les BA (bio-agresseurs) remonte au début de l'agr
 On a pas de diminution du niveau de perte en 100 ans.
 On pouvait perdre 90% de nos récoltes (riz, cotons) mais un peu moins de 50% au final.
 
-![](https://lh3.googleusercontent.com/f_D1yomnkd65kMRgMm7v-Xx19x5kqtjL82oKmjt85hO4i-fiGfOxD5jiOHmKmIziOHfex_3csKdWnxY3twAOQOGN8J057J57U354xIhvP9NbBdgGKtZ7RUObfL4MQkajwiGljJv9pBcOEfmUi0daxMMVrazGlqxy8UaSdxhyNZgYtReI_mYf-0WvxyAe)
+![[Pasted image 20230528195125.png]]
 
 D'abord lié aux mauvaises herbes (adventices), mais on a des herbicides très efficaces mtn.
 1ers OGM -> soja résistant aux herbicides.
@@ -37,16 +37,13 @@ Demain l'objectif est de ==produire mieux==, à l'aide d'évaluations multicrit�
 ### I- Origine des ravageurs de culture
 
 Principes écologiques <u>différents</u>  entre les écosystèmes "naturels" et les agro-écosystèmes
-
-![](https://lh6.googleusercontent.com/jFGdqwzBz1p1VCBzhnNF92cKuFmp26DTMzAnDU2NXEa88v2xH-7U5uV-oU9yC60bJnNru_AMSza_8EPVrjsV08pGX07h58Pr5aU3cXR5lhXniHQJbf0N0egc6GJq6jgWl1MkN9mg13Yh_5QJ6xFPMKboFw-h-9Pd0QiC99J9zpIdNH95zunHrV-NorMu)![](https://lh4.googleusercontent.com/vkDZEPn7crtk2e03U9d5QStw1iF4QxYgcCGwyD47xEmBLkDexEnCQpANYPGgfAKhLDH1hZN-vm5INHzrsdIvkzkAElidWe0SEvrrpu3ZznWg3TNHfZm6lGoXhydNzUc3dOQ7zSaFnh4bhAqyvcCmiFphgsaYNMdG63zSj2I-QuPLJw6nrxGc1HAHcJvm)
+![[Pasted image 20230528195319.png]]
 Agro-ES(agro écosystèmes)= système immature fréquemment perturbé
   
 Ecosystèmes naturels : régulation des populations par leurs ennemis naturels (stabilité = résilience + résistance)
-Réseaux d'intéractions trophiques bcp plus riches en naturel -> moins de pb de régulation, plus stables.
+Réseaux d'interactions trophiques bcp plus riches en naturel -> moins de pb de régulation, plus stables.
 Profil démographique des bio agresseurs souvent R, facilement envahissant
-
-![](https://lh3.googleusercontent.com/F8QLviZ1ezL0UahtIEv8VmWu2wrMA_-BHgYZCeV2OXpUozU787_Y2tjsW-D9BNPnJDvC8nhdbjnASXogyp29-nLonRvh9qMWcTXsL8snIam0FiL2jWhFDyihX5HfukmRL5Z2gw-E1pCIvseiG2lX2l_yyauTFHw37eiLXPdQScEFcPdTb2uC71T9AF71)
-
+![[Pasted image 20230528195340.png]]
 On favorise les monocultures pour augmenter la densité: 1 ressources 1 endroit 1 moment
 **-> bioagresseurs spécialisés favorisés**
 
@@ -79,13 +76,7 @@ Chaque espèce est régulée par un cortège **d'ennemis naturels** qui les main
 
 Avec ennemis naturels 
 
-						Avec pesticides
-
-**![](https://lh6.googleusercontent.com/9Hqi9ifcBcKetKzzDVV71MWJGcZJ5N06PwwhBLDYyqMX9dqB6YapOZcozUqmWCPm_ehs12Uo-nWiTn8hv_nS41ZKqhzjBJm4mIlb7NiBGoG74zt1Td0sWCB5lQVsYYBfU5nrncpPR8ZZPoXG75YTx0RYwz_RJd6g6KRJ7cX-MzLbveqajTx8H2YBD5aj)
-
-					Avec ennemis naturels
-**![](https://lh3.googleusercontent.com/u43lGBExfXr4RwdQILzhfOgpFm6WzHdSMBrjnaytNnRvikMEkjH6CU6U37lEMI5dBCq7yPe5lArU5gm_Usex9hohB1XHObuF8EkkQ1KpVtC5K7Sf02OHqXtRoYNWcTYxLGZkSR4wYSKemGu3ezl6x3oh4MczQoUztpW72sudWFt2tJMKk4SSNwaiqMRn)
-
+![[Pasted image 20230528195450.png]]
  => Augmentation de la densité des ravageurs en cas de traitement.
 
 Les pesticides sont problématiques surtout si peu sélectifs -> **==résurgence des ravageurs==**
@@ -98,7 +89,7 @@ Ainsi, les pesticides sont un engrenage, qui fini par coûter cher et vient dimi
 Ils causent d'autres pbs, sur les pollinisateurs, l'eau, etc...
 Ont également sauvé des vies, notamment en en enduisant des moustiquaires, pour éviter des maladies.
 
-![](https://lh3.googleusercontent.com/qG3fgvd7-ILGoUKqLJrkXGYja8qv9FmDj2u2r3qeLfLCvvKLhfU-q08cIvzpgGOOJ3DN0iKg7m0XwNjtXSaJtrIob1eK2zXdbfa_SwCE87ReR5KORvfQ2WwQdCjTbISwf6jjBZSXJroxKbexBfI-WoABM36FSOY0KK2H5dwetAIv2UEwdAFW3OX1bcdz3A)
+![[Pasted image 20230528195509.png]]
 
 	* apparition de ravageurs auxiliaire par l’impact sur les ennemis naturels
     (2) se développe plus
@@ -115,7 +106,7 @@ Avec en France environ 7sp de ravageurs introduites /an depuis 2000
 1/10 des ravageurs = introduit.  
 **Invasion biologiques, manque de régulation naturelle.**
 
-![](https://lh4.googleusercontent.com/Ufxah8IoLQBJJ80uWfupT05VoEvLUhWQVdOmQd8CK6TitQpu4PQdZid49aAJzHvscpqPzHq4U0UWYd9LX2dmGFRo4MYw80h7p0N18LGOG3lctPzz05ey3H-9bVVEgJbgnzi-NVTloT1loIjXFcyYsONfir-AEsKhtZQjSIoAlW4s8g0wJpSVqnLuMWl8gQ)
+![[Pasted image 20230528195525.png]]
 
 
 On apprendra a se préparer et se défendre contre ces bioagresseurs dans le chapitre [[Lutte biologique]].
