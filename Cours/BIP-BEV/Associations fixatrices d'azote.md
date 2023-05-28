@@ -73,7 +73,7 @@ Associées à des organismes très divers, ex: champignon -> lichen
 **(2) Filicophytes** : Azolla, fougère aquatique. Filicophytes utilisés comme engrais dans les rizières, co-culture.
 
 **(3)Cycadophytes**, contient des racines coralloides (aspect dégueux pustules jaunâtre)
-![[Pasted image 20230528191856.png|]]
+![[Pasted image 20230528191856.png]]
 <ul> Racines coralloides -> comportement modifié pour se développer en surface, géotropie, pour permettre aux cyanobactéries de recevoir la lumière
 => activité transcriptionnelle pour assurer ce développement </ul> 
 **(4) Angiospermes:** ex: Gunnera (tiges de 2m, dicotylédone), colonies de Nostoc à la base des tiges dans les glandes symbiotiques
@@ -137,7 +137,7 @@ L'infection de *Frankia* se fait, grosso modo même mécanismes cellulaires et l
 <ul>-Formation de filaments cloisonnés</ul>
 <ul>-Pénétration dans les cellules (membranes de séquestration), ne se développe jamais dans les tissus conducteurs, mais se dev dans cortex.</ul>
 
-![](https://lh4.googleusercontent.com/CkMb9nvmgFT8LXeXXpkRhebnwf5k9RNrOdFZz91kGWhQm476fzUuCzipJKFNZq3FwYA-JLGXicwre9WxrTZg6QpxBLxfXy7cfKzpnJcvZjU5nZLuzZB3-tV9LDuV4txaczXgvhBoIHb2ifRHTVbpZWEIpFFvwT4q6VvL6-ed8Bspsr_vboiyqUGmyN9KFQ)
+![[Pasted image 20230528192016.png]]
 * en rouge c'est la mb plasmique de la cellule hote
 <ul>|-> les hyphes de la bactéries vont être entourés par la mb, elle ne rentre jamais dans le cytoplasme.</ul>
 
@@ -157,7 +157,7 @@ Rhizobiacées divisées en 2 groupes:
 
 C'est plus une actinorhizes, on a des nodosités: bactéries vivant en association avec les racines d'espèces de Fabacées (une seule exception: Parasponia, Ulmacées) donnant naissances à des nodosités.
 
-![](https://lh4.googleusercontent.com/i8_lFdwd1XngjKEVz_BQ4mO3IxjbcOWrF40HpTdr-NThtx20CxWzahktKZ9ed7iw1vCY13gB9HjK0B1e5CsfhcvEXTjHoqZknEw9bAYptPx1Hsy-9Wr3MX24K-AxY9_C6JWl_QiccKD46L3uZqE0E7Q1yW3l5_PhaTfNYw78TkLquIjnwvn8ReOootOuZg)
+![[Pasted image 20230528192100.png]]
 
 <u>Relation milieu - aptitude à la nodulation</u>
 
@@ -176,7 +176,7 @@ La reconnaissance du partenaire fongique (*Glomus*), ou bactérien (*Frankia*, *
 	Exemple de récepteur le plus étudié: le gène SYMRK codant pour une protéine transmembranaire chez les Fabacées (reconnaissance des rhizobium) a été mise en évidence chez Casuarina (reconnaissance de Frankia, mais aussi des Glomales)
 
 Si dans votre jardin vous avez bcp d'azote la légumineuse ne va pas s'associer, alors que si pauvre en azote elle va avoir bcp de nodosités.
-![](https://lh6.googleusercontent.com/g1LO1wFGdp2o_doGFGNnMToXTfuy90dS3utEv206szU4_UXoddywcya5TFWHw0IlVpC1LI-lHftG3lt6PDrj41zhye6DlloSmR48PrixfAZXAEeJXxwvPlgMAwQFLNpxfKQKkYccuN16pB5LLPz7Otq0humyptiYDDCv6DqcS_kK7pH-9Qu_x1gIgZEIQw)
+![[Pasted image 20230528192144.png]]
 <br>
 
 - 1-Fabacées/Légumineuses
@@ -191,24 +191,24 @@ Uniquement dans le cas où le sol est pauvre en azote, ils sécrètent par les r
 <ul>On dit alors que : bactérie -> bactéroïdes /symbiosome</ul>
 <ul>Activation des gènes nif (impliqué dans la synthèse de la nitrogénase, enzyme clé de la fixation d'azote) et fix</ul>
 
-![](https://lh6.googleusercontent.com/RX5xk7AC2WdpWdOdG8xWlBaLyZLaI0ucIaJUFLp90jCOJjUUzXTUvqfhCZ-QRnnkWYoIXdm0Ix8cJ1WHID4f6DTsLkZR7IxZ9dPrOvmcvY0VBKy-g3SDCflObYPlWgKGJE1y2cn8j2RBLCIyLelh9EM10xXFiIICuncO-836JeONw8_B2RciLmev3R9Siw)
+![[Pasted image 20230528192210.png]]
 
-![](https://lh4.googleusercontent.com/JlrvIOmn2i3U2yyzLOek42C5LYSOypM_5s6jG4cbfG7THF5G4b7HUdyaVkhOZk7l5h5gg_7WTgnC4hA4pfn6dCjixo5iKbQgOqyMza2FTaPi4DlvghXUtMy-1XbQY9Vb7zMxb73Ub_rjjVp5vJSQqL1IIxstXTHBeWC1tvcX9_b4E7WzPuZFDSY9geGUgQ)
+![[Pasted image 20230528192224.png]]
 
   
 
 - 5- Leghémoglobine -> rôle: réduire la pression d'oxygène.
  <ul>synthèse et activation de la nitrogénase</ul>
 
-![](https://lh4.googleusercontent.com/4uIoA1Htm4czYmW61XZN1LLKSmzXrVOh-M5jxC6bTxQnaTqaAu_UYdykZL0pUZgB4e6BIbhMu7oWXHaOmKEQV1VpwUCCQ1bJqsDtqJKSiAYOcXcCxmj22HESpD14cGgtFHZSNY6Yxx7dFDs2TAVp2DHNuhvWi8__JTy8P3Zc_eMiu9wmX9q9VIlpClUQ0g)![](https://lh5.googleusercontent.com/RPkgmQpqubXUQPuCs74Apbn6htueOV85DvQul-UdFNrVWBxblavHg7vJuZz9Csr_BfqNp12inbMpZg6GJ9Z5RpFX3IOBX91OKmWkhOjQRgPtSu-P80OwcpdaR2_QU12Rr9bgtl-SLNGyGxwU4yAz07_lsysrARF-INKQdBrIgNbASHD9TNb8YNP4rKgMlQ)
+![[Pasted image 20230528192247.png]]![[Pasted image 20230528192304.png]]
 
 - 6- photosynthétats
 
 - 7- nuréides, ac, am
- 
-![](https://lh3.googleusercontent.com/0DoxuJFURRjSZJTlx8i2SwSfHqSNS8ktnWW-h2XHH2RkXvSj2j_W67urQa7PB5Q-vAtqcl2PjzTTkLrHf40PjKTWMHgvUgiukh-3NrVUPbZpLljxsLUogQQuu_kStzkGj8URYt8xtxNBBbj02zDOaBm8iAWqiO5Mu8E_VSNHAxrhtvCr2UMCqwF6zpSujQ)
+- 
+![[Pasted image 20230528192326.png]]
 
-![](https://lh3.googleusercontent.com/mNfzZ5PNgigIvx7VCP49279CndF5MGyJnOb_wfVske_qBKW50LBQhWyonXId14BkBLRZkuWYk0Y-g_61EJaG3z1g5oIdujATrMzHaCCOMQIQ30X1VvI4zW7JXIso0I8JZn_fBFXPZkqXFRowpUnwfwIkbHXmxvhu-qd00lOn2yA2Nbw-cD4DYAB2i1_IgA)
+![[Pasted image 20230528192344.png]]
 <br>
 
 **Perspectives**
@@ -248,14 +248,13 @@ Symbiose la plus ancienne et répandue chez les plantes.
 
 <ul>Les interactions se limitent à l'écorce (pas cylindre central)</ul>
 
-![](https://lh3.googleusercontent.com/pLyIJxzcQ-ok9IqYDYhTVvPKt54R65PGTEqJgZ2ZZHoUZ2Sh07Td6qyEQTGejCzVb1BBUlTBH86NjZJWu5XH6QIGwNUsHJOizufu1SSseEuGOaNkVggyBBNFdXyi_iRPzI905kELgN66LrAkbYcZcEx230FkwY9xfFGr4uOxHzrjv1wX3AJNvaj5quM8zg)
+![[Pasted image 20230528192414.png]]
 
-![](https://lh3.googleusercontent.com/hFkuQ5omOM_yDAlleLURkAWEOUKARPYkd5L8umFNyf7XPAGGXTzZQd0aivixVj1SxuVZCtI3ongosUzoYMFqWTNM_3Lu8y8zoN0EkPVBvAOvjoX2UwP3zhHku7l6D0lIs4xVdUfMdWbRUMYaya7Mz_tE4F5f9aPOLRixaZgyJOA-BvY5HchCLLwVzAcdvg)
+![[Pasted image 20230528192438.png]]
 
 Cette symbiose est apparue au cours de la sortie de l'eau des végétaux
 <ul>500 MA: 1ers végétaux terrestres sans symbiose: Glomales sans symbiotes</ul>
 <ul>400 Ma: FLore de Rhynie: pseudo-lichens, Glomales symbiotiques.</ul>
-![[Pasted image 20221231131107.png]]
 
 #### B) Rôles
 
@@ -270,7 +269,7 @@ On parle alors de **méta-organisme (=holobionte)**
 Les champis absorbent les éléments minéraux les plus importants, souvent solubles (P, Cu, Zn)
 ->lutte très efficace contre la sécheresse.
 
-![](https://lh3.googleusercontent.com/ajDHU05nFWKbwq4ApqgMfGeqXDQvHlse4hk7c7xi3I74MH5HxtrqtU8yYSUFElSSDeBjGTQoKzdXzArY42HIVSNYH0qEpGYCk8XQArTUV36VTJNBYmjzAnD4FR3Lc2LAzAHODopV0hzhfY0XVkJYZ6yGLNCSkuu_8SnP67RKnlvBElPlj-kCxAv7lRn2JA)
+![[Pasted image 20230528192517.png]]
 
 Certaines des sp de champis produisent des antibiotiques (ex: pénicilline) qui sont transmis à la plante.
   
@@ -308,9 +307,9 @@ Dialogue moléculaire: 
 <ul>|-> gènes communs aux symbioses mycorhiziennes et nodulaires</ul>
 <ul>|-> dev cellulaire coordonné des 2 orga assurant un mutualisme fonctionnel</ul>
 
-![](https://lh6.googleusercontent.com/L6R_62UzMCiVCXLU7MZzxJevosCsw69z7Zgz6s5EdH-zB6mcvgW1wydRDlqZVNk5FIRzXtC5vVadbkBVsmd7U7upCiP3mzUsF7lHQCy7vwXfGGD1zUIFyhDaWNuzeDkZSLYW6NHLfaU-JDYA-Jt6Q8wy1wxff4ubyf6fRK6YT-WXtVE158XSxoV_7vRQSA)
+![[Pasted image 20230528192549.png]]
 contrôle: hyphopodes: mb plus épaisses, - de ressources, expr gènes.
-![](https://lh5.googleusercontent.com/XGzhfA4I8qaVFkbTKKk4SDCsYMaiUgb0tk_xdDL4K7yZYN0Gh5ONPUUNCquHmnIMyuPkGqX1EWKYZJ5cHcsqVKG1QYU9Q23YiPRNBW_97RXl9y5nQnrlAyeebETWrJ5QygbxzWz6fiXTBBENb7CJZwaWlRA7SnxboGCClaN23lmfheDbI3KIUO_dHeMZag)
+![[Pasted image 20230528192612.png]]
 
 1.  Racine et champiMA ⇔ des signaux symbiotiques qui activent les programmes symbiotiques du partenaire
     
