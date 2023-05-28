@@ -17,7 +17,7 @@ Les bactéries peuvent être contenues dans la vacuole du champignon, dans les p
 
 ### B) Symbiose: interaction entre plante et différents champis [[Associations fixatrices d'azote | endomycorhiziens]]
 
-![](https://lh4.googleusercontent.com/l21PdHdr8EPmPa_dMRpA0nbJAOjrbqF67voVluoLPsKxxOkZFpV8AjyEz3h4T2Y6qAeikeoOIeEFB__8db3tduhAFfkL2tQgwtIP2_ID_HE_JMudcyb69aA8LPSBFemzBaUoX-t__f_5q4Cg1oHPy9CJZjJ_ICMYSsu1z03dv3GPUjmdDfBbwdtIAEpotA)
+![[Pasted image 20230528192737.png]]
 
 => compétition entre les champis, sélection par la plante
 

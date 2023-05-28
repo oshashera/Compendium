@@ -5,7 +5,7 @@ Pratiques [[Agroécologie | agroécologiques]]:
 
 Alterner les familles botaniques dans le temps:
 * céréales, légumineuses et oléagineuses
-![](https://lh6.googleusercontent.com/WcH8Mbdj8JkLk3YKvPduow4gl0whjwGbIf_uVpHzTbmnHFeukR-iuMtjSLK8dOPN3M0iegcfXvNZHH4qkJ46puAaDJvr7AHmloK7yfOFc48dXKRSHCgEcz9YmAWgrTYfQ1G0pRdbZZXrT7bS0iEB673m5wXoO7kOHZg5-RBQ2qPSM1MauFi4dslO1bgp-w)
+![[Pasted image 20230528192827.png]]
 
 [[Associations fixatrices d'azote | Fixation d'azote]]
 
@@ -37,7 +37,7 @@ L’agroforesterie, mélange de type de production dans l’espace:
 Mélanges de types de production dans l’espace : Entre permaculture et micromaraîchage biologique intensif
 **Production à l’hectare égale ou supérieure à production agriculture classique intensive** 
 
-![](https://lh3.googleusercontent.com/5nTMYSF-WV3cfvDYGP9NmHGhZX5NAAjzwlzOt60X_1XWqk6HOY_9tzGGgyHKzp9uXQYLtMbFfb5FLrpA9zZTxVVjigl4LteFXTU-yNfYZllvLgdz8mFLOC5F8NS4c-Cn9wRl5maF0MiEgPgASxlazvkUwaZ85pHwg1ScwBZrcVQmXYszHBqSsXvIEb0fEA)![](https://lh3.googleusercontent.com/5nTMYSF-WV3cfvDYGP9NmHGhZX5NAAjzwlzOt60X_1XWqk6HOY_9tzGGgyHKzp9uXQYLtMbFfb5FLrpA9zZTxVVjigl4LteFXTU-yNfYZllvLgdz8mFLOC5F8NS4c-Cn9wRl5maF0MiEgPgASxlazvkUwaZ85pHwg1ScwBZrcVQmXYszHBqSsXvIEb0fEA)
+![[Pasted image 20230528192847.png]]
 
 Occupation du sol et fourniture d’azote (CIPAN : couvert d'interculture piège à nitrate) à la culture suivante
 
