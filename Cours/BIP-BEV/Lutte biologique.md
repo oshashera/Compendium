@@ -1,4 +1,4 @@
-#tantorum 
+#eco
 Une des pratiques issues de l'[[Agroécologie]], permet de selon les cas, de  prévenir, réduire le développement ou limiter les populations de [[Ravageurs]].
 [[Ravageurs#I- Origine des ravageurs de culture | Origines des ravageurs des cultures]]
 ## Définition de la lutte biologique et utilisations 

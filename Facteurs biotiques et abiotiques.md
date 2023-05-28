@@ -215,7 +215,6 @@ Le **neutralisme** est neutre pour les deux parties.
 **En résumé**: 
 ![[Pasted image 20230527173452.png]]
 
-<mark style="background: #EE6B6BA6;">a compléter </mark>
 
 
 ## II] Facteurs écologiques abiotiques

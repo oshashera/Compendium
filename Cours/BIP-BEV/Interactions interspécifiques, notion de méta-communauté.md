@@ -1,3 +1,4 @@
+#eco
 ### A) Symbiose: plante - champi mycorhiziens - bactéries
 
 métacommunauté, forme équilibre entre les commu
