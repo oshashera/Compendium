@@ -5,13 +5,14 @@ Observés en [[Agroécologie]].
 
 #### 1.1. Fonctionnement des écosystèmes, Processus et Services écosystémiques 
 
-![](https://lh5.googleusercontent.com/H0X3L-1N0sTpqUsPt-pYBvuKndq7MCETbBHjNXygzn6UTHG3BPFtaP65om07l04T1fWBh8tleweRg-zdUGeTgyBOIkY3kmczn9EIWQDLq3iTc36esspZwEfJ0uPDkRJ4K1cb7FWLJZHoNL7fBSU4Qv61NFfBZOgVGlHb4XnM-O8g3eN_lsO7Jc7vC6MwsQ)![](https://lh6.googleusercontent.com/44cK8oAdxcWDpqQ4-PWMz6AlXnMlZlklU0JwWIc-YoapylYeMu4B77Ip32uNeMcxfPjSKIRFdRtaRLD6IjNaMfIcnvd4dk9DYWTR8MjzXWZJkIsUT3MpRRdX67V7YXcdYlr6f3BLjGYfVLwg5lf-OE3o9Y_TzMe0fSY-twM4f6qsnDzMndvz9f0izZLbPQ)![](https://lh6.googleusercontent.com/uU9Ir_Li9_nHeLN2JwCmJbgblgPmFqwMqIq5aXnzpfIDADmF8ixz39M1qaHXMT9ymfazt2f48KWpzeZL_tZsaYuYfUa2cA0B0YIFDomp_C5Y2fE1M_0MzFpJbuz_5lsTZVvyOqCjQ57dKfIJR6QcYLc9bYAbkltgNA5o-CgUichz9oXRZ4gYNWxaQP6AvQ)
+![[Pasted image 20230528200653.png]]
+![[Pasted image 20230528200717.png]]
 
 #### 1.2. Bases de nutrition
-
-![](https://lh3.googleusercontent.com/M0RHs8LQJdv0g5vg5zPvndIQ1RDYoyTAklzaeLNgXxmX2J6kj7H7cgp9f9wC-b7p69jwcBaeLboymkPIzYnUuSEBZ4yzQ6A2F_JJ5qWEiDnYKqn5RFJLRs3vrbdCKAoBfB-ALNe5C7iTpnsFJ_DvFjJtYAC5qKo0CMO0FSAzT876-n3lUcXSZXaVJBElRQ)![](https://lh3.googleusercontent.com/3wHnSLQIuE201PezNGkBGs4LsStTZ_ze58-BjFoRTisbexCRLr6TxWBc9v6F8vO7S7qWcx62Cog2wOQ2GguHWSZEQ4tf5Omu3Q9irSXIm5V9wIQWTodyhcm-7aplzEKm-qxqPyt47VQujYe83SY_Xj5y7oVcoEpL0idm8CVzKgV8tKcO21sO89chK-Z8JA)![](https://lh6.googleusercontent.com/uwXpJFLcpQ4uZVNIAxUHBws_GLty112A8lKRfXkHu8OJVgIpRon-KTXGB2XJcF7nKlJCwsS_uleVn_wpqBIIYtQRZOwwdMVAiSLOlvYwLrl7cGSGP45ychMryO_qRaGFiQVmBGJPKvuJ7jxeslyCCosuPWbt0skcaRr138ZzTRTb2Bf5k95ulsbsccJR-A)
-
-![](https://lh4.googleusercontent.com/1vxsPunDxcw8sflQQySyifbHQL2AwBWza1SegPcbAtIVxE5Tnu5La7EGtEXXEBXtVK4bOSTgyfwhmlVFZskOHjNZ429w4BkEYyeQ0yHs3vLJupzEaqfGadWWFhB3tLMhR3KlewSaqs2C8LV6hu8ySQQY6-_3mICQVIqSJI1UQtiHpXEZp5TbZBWwmAbY4g)
+![[Pasted image 20230528200729.png]]
+![[Pasted image 20230528200751.png]]
+![[Pasted image 20230528200826.png]]
+![[Pasted image 20230528200847.png]]
 
 #### 1.3. Biomasse, Production et Productivité primaire
 

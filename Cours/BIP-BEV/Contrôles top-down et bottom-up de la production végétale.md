@@ -46,10 +46,7 @@ MAIS ce qui contrôle les herbivores???? la quantité de biomasse végé? NON! C
 </ul>
   
 
-Depuis les années 60 on essaie de voir si c'est top down ou bottom-up
-![](https://lh6.googleusercontent.com/WIX_T37smcc9laXsx9cZiY4cN_fPrOjktXcXZdNWkt0_9JSGi0z_M3J_ViGNXqwwJTtsH70uVabEnjrN55jUATJ1PaY4B8208QZMF05Y5sK5Q9518rkE9Zn7lV6PALWkjq_BWjVnlHarN7nzpaVpI-3Fhbf9ik8Svt9UQSXuzwIN9SPJ8eddDJjYKJPszQ)
-![](https://lh3.googleusercontent.com/yNrFZRoEJfbjtP59XEv6Vncr1VsU288Hdkz1NVxcZlU4BNQn9H8LFFz1IvEA5z8Iu8Ht7uKzaOqYJmK_pXCV3AnIX4AluJZ-V0cAKRqiwhdoj3WCy7okO6_kRGaj_Hb2slrJH3NrjE9Fc_Bdj00jgCjZJZWK63nOhGx8aBhgWgyOqhaYc1CGPM6UiR9NVQ)
-
+Depuis les années 60 on essaie de voir si c'est top down ou bottom-up![[Pasted image 20230528195944.png]]
 #### Effets des nutriments sur la production végétale
 
 Méta-analyse des expériences d'enrichissement en N et P à travers le monde
@@ -124,14 +121,14 @@ Les épiphytes augmentent drastiquement en réponse à la baisse d’herbivorie�
 </ul>
 </ul>
 
-**![](https://lh5.googleusercontent.com/eJr9Ggv3-lLiMtr0za3C6sr6kX-CHbyx3Z6FfYf4rf-Ty8XErfAwIHRakQI-HlnK_V5rTTyyypQrExETsEgpCjw_sgBD4B0ZRMjpiDM_1zZy1ZaEOelei3J-k19eI7-BdngJjUxRKkBxUuwqwwzjecMxANmGd_BcYPDsl-z6iEOrgA9Hc8o_uS9o20zAxg)**
+![[Pasted image 20230528200004.png]]
 
 Reste une question:
 
 #### Les relations proies/prédateurs
 
 Utilisation du modèle Lotka-Volterra
-![](https://lh4.googleusercontent.com/UKDW1Jf1isQWzmuTKibQC7ZLPBtRK42eEZOkICbDRdGRx1rbnxFLstx39m5pVx5lcJsPA9G86OXtz2cgJ4y5PQp8BqaImdQgF4AagQE2cLOPSCkqQg87E_d2hPwSVIGnYAP4l8i-auLDHLpOJRwyu8yXLlJauhbXkqFlv5qf_i9zCROG-0HBOnbKHv7ebQ)
+![[Pasted image 20230528200030.png]]
 <ul>n1: effectif des proies
 n2: effectif des prédateurs
 r1: taux de reproduction des proies
@@ -140,12 +137,8 @@ r2: taux de mortalité des prédateurs
 β : coefficient de prédation
 e : assimilation des prédateurs</ul>
 
-![](https://lh6.googleusercontent.com/Tz_gbmhFyF__Sa1uQ1nbd1rR7whZMUKzRuPuErxEOm9-y-Syp_QfHbF3vMcgrPHzPzV2ebreMAlKw81HYbH1BgF-IxoqfoGmLGaBPiQX6jU3aBeW3MsLcdy7qT6OPetC31FvwQOMXBvUCKfd1OT_UgDuEqbTQ1PyEi3upSbQ7uADkdQpnAowjQptQwyi5w)
-
-Validation expérimentale?
-
-![](https://lh4.googleusercontent.com/Cu87WxpcpH7gGSzfBwcHC0vczFdWXrI5W7EiDRsPEVOvUkhohPEVlsnXvhK5M_m4TwM9ok3l49TxSos98Zzgi2fO2E--ifEjSV-NxZ9mMEerUcPoQPgn_RnZ0He04YQqrro2OqgJRkh4toBQMvsCUdcnvyo420IhWddkzai1ul-chkQV8wnn5bRkOSrPRQ)
-**Modèle pas valide au final**
+![[Pasted image 20230528200045.png]]
+![[Pasted image 20230528200118.png]]
 <br>
 
 Expériences d'Huffaker
@@ -183,7 +176,7 @@ Rôle dans les milieux naturels?
 
 #### Effets des prédateurs sur les herbivores
 
-![](https://lh3.googleusercontent.com/ljwODw0ZQBjR8Nv_7UvgIUdRTf9BpUClEK-NAGs1OTFRSOA3ArPgO6E3OHKzO2Sk45wBhOIqLEt1EPBTIAX-z8bulsLPMoJqYfoFgbZEuzcM_8Y7_E4VrYLXEbw16QiS-8QsfvTnngzjzJoddyMd0edVZmD_95AiAp8XbM6X9RkuLHTe7aiWQs63n-0dmg)
+![[Pasted image 20230528200152.png]]
 <ul>
 Pente pointillée 1 faible: production végétale augmente alors rennes aussi, mais pas bcp
 </ul><ul>
@@ -212,8 +205,7 @@ Traitement 2: pas de prédateurs, herbivores
 </ul><ul>
 Traitement 3: herbivore et prédateurs
 </ul>
-
-![](https://lh4.googleusercontent.com/2RjUdIpH2PajbRItcEEu2_9_fezznOIrlbiyiliysNTHbaHomA1NkChtKm5Mw_TJqVB0QTMnZFC059uo46KDFXyntDV4b88gFMQU1wwuiGLBgHZIvYYwHyufN7J99ztshfCXU6oX24CXYH70qZpWiyiP7JE8jf61A1IxD7WETDLxzHnSOnzaGfp3gMmcEg)![](https://lh4.googleusercontent.com/9nrgocwRgDM07VxRvn4FqPDJ9F2duC711uNQBxw5kh2keOXV-1bpjToON1wYwPSs4J4k22ZH8DMrhsUqkeBoQdhxjhTg56EaVUxNFeyiDNG7PIXX5z-FQOXQ0kWmlZYlriuP0WWoXs0ginxXDV65QGeoYcfYme80VBRDoki3pGtQ9pYc7Lzfx2jnWBxQGg)
+![[Pasted image 20230528200222.png]]
 (gauche) Quand herbivores, diminution plantes, mais cet effet disparaît quand prédateur présent.
 
 (droite) Les criquets aiment la plante 1 mais elle protège pas des prédateurs donc se réfugient sur level 3 et vont donc la bouffer de ouf
@@ -223,23 +215,23 @@ Traitement 3: herbivore et prédateurs
 
 3 risk et 3 prédation ont même effets: pareil que prédateur capable prédation ou pas, leur présence à l'effet
 
-![](https://lh4.googleusercontent.com/emK9zOMue2c6mOXohdfKI7INLlVXr4Wt3m7nasL_F3eSYNfSpK-qxQ4bmstwi5Yv6THz8JS4QK8C3dQiWiu_eQCGPOwHI5WCDSTpFxvkFyn4Al77ta9KIOAY5BkE20XD4eenRfUI6-VuFwGPQU-1KZ60nXXzvefVVybGPJ-FO8-P2YQZo6z5msfzr5-kOA)
+![[Pasted image 20230528200235.png]]
 <br>
 
 Variations spatiales : une méta-analyse en milieu marin
 
-![](https://lh6.googleusercontent.com/kk90TcNEkT5CYEv2KQOGYZc1eVfbfuysRSYII_fLpix1aWRfj1cYojsGDxO4UsYM-6LGgg0WVmu3887a4x3pu7u0DVYxYR8PRy8p99LviN2hztjHN0h3wG3MlfD0I1WavOpQ8oYKAthufIyECUbkwEmXfM766xfWjHRaQVadmzDC1Cc-JElnw82ePqZphA)
+![[Pasted image 20230528200330.png]]
 <ul><ul><ul><ul>Vert : bottom-up | Rouge : top-down</ul></ul></ul></ul>
 
 #### Effets des prédateurs sur le cycle des nutriments
 
 Chasse active ou passive différente, joue sur plantes mais aussi sur minéralisation (cf graphs diapo)
 
-![](https://lh3.googleusercontent.com/qxmbwGZEV3Lag-kcZSWDJZko13xsedL_qdhooJ2a-uACvpdAomSz67px0uoC-dajlYIT1WGsqbwpic04FMpDUAxxw5aKCmNCa8ekAaCzB2gR71mxROn_71F--Z6bf8hdvVRjN3Iz172whvn3IJIcQu9OE47SaUiJr_ihRFMqIvmtPXzmHQgn8kwdarA0CA)
+![[Pasted image 20230528200344.png]]
 
 #### Effets des prédateurs sur le cycle des nutriments... ... rôle des métaécosystèmes
 
-![](https://lh4.googleusercontent.com/hnQDzxp6QFX4xtTsuRq_mGFM5nyitFjoPsFsU_u3nlooqNYXMbDKNhNTe50gTjIGRNhWyYfsNVE5sTODjJ_RxWDRL8DvspF1JYaI-ZY1RAzsMp7BS6UXOW5D0UBpkk4mxY-SmgZ0a2yJkCsZAriiqWry0uuhlJQX7YpfeZGsSLFol5RZtmHTtg_GfBScNA)
+![[Pasted image 20230528200359.png]]
 <ul>
 Cycle des forêts ou ours et saumon dépend des cadavre de saumon pour nutriment (donc indirectement dépendant de la mer)
 </ul>
