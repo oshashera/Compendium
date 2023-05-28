@@ -265,3 +265,4 @@ ____
 - geoportail, ign, pour voir en ligne
 - pour dl, 2 possibilité : lien à rentrer dans QGIS (wfs ou wcs), soit tu les télécharge, ca peut prendre bcp de place, photo, ou sous forme de vecteurs (plus léger, moins de détails, genre axes routiers, bocage), site de l'IGN, data.gouv (mais faut chercher)
 ___
+[[TP Carto notes]]

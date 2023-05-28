@@ -1,4 +1,4 @@
-	#sol
+#sol
 ____
 #### Sommaire:
 
@@ -576,7 +576,7 @@ C'est un stock de matière minérale sur le long terme
 	- Dégradation de la cellulose et **de la lignine**
 	- Uniquement aérobies
 
-**-> Des bactéries** 
+**-> Des bactéries** (cf [[CR TP SOL - MOS et MOD]])
 - ->
 	- Dégradation de la cellulose
 	- Aérobies ou anaérobies

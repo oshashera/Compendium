@@ -1,5 +1,4 @@
-	cecile.sulmon-maisonneuve@univ-rennes1.fr 
-#s6 
+#eco
 
 **Objectifs :**
 -Comprendre la notion de diagnostic écologique
