@@ -260,11 +260,12 @@ Repenser les vergers?
 
 ## CONCLUSION 
 <br>
-![[Pasted image 20230528194557.png]]<br>
+![[Pasted image 20230528203547.png]]
+<br>
 ![[Pasted image 20230528194617.png]]<br>
 ![[Pasted image 20230528194639.png]]<br>
   
-![[Pasted image 20230528194713.png]]
+![[Pasted image 20230528203037.png]]
 ![[Pasted image 20230528194753.png]]
 
   
