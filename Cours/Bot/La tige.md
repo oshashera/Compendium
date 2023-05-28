@@ -1,4 +1,4 @@
-
+#bot
 Tige: Aussi appelé axe caulinaire. Partie généralement aérienne de la plante, provenant de la gemmule, qui porte les feuilles et organes reproducteurs. Positionnement phototrophique, négativement géotrophique. Elle permet la conduction de la sève, le soutien de la plante, la photosynthèse, permet l’accumulation d’eau et de réserves et la propagation clonale (bouturage, greffes).
 ![](https://lh5.googleusercontent.com/6Y3X7uBrzUXQlopNFXsZxGVMgyrVjv0C8Y1mkitNqtHACU3T3Ia-QKDmxRf5fBhYvnegOBpe_ytT8QDmHViXqT1nFlLIH9GXW8Hn0B_y3o3gFz-7J8Vau86HIowGNHiImE7aKCe_GJaxEHVcIWU_K6Q6zl5Pk5Jz0faGo-QlIYkJJSwpy-95Bqj5nealTCzm-3Vk7KJvPw)
 <br>  

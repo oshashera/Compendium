@@ -1,3 +1,4 @@
+#eco
 ## I] Généralités
 
 Un <u>biome</u> (= <u>écorégion </u>ou <u>aire biotique</u>) est un type de paysage caractéristique d’une grande zone biogéographique, nommé à partir de la végétation qui y prédomine. Le biome est aussi défini par son climat (températures et précipitations), sa faune, et son sol.

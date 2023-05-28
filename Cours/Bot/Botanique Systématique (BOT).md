@@ -1,4 +1,5 @@
 20h de cours, 15h TD, 14h TP, 6h excursion botanique
+#bot 
 <br>
 [[TP1 BOT - Xérophytes]]
 [[TP2 BOT - Hydrophytes]]

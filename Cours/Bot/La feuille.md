@@ -1,3 +1,4 @@
+#bot
 **Feuille:** appendice des tiges, généralement vert, aplati, présentant une symétrie bilatérale et une structure dorso-ventrale.
 
 Le méristème caulinaire donne la structure primaire de la feuille. Le méristème terminal permet l’élongation, le méristème marginal permet la formation du limbe, et le procambium la vascularisation (nervures). 

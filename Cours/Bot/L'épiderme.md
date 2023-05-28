@@ -1,4 +1,4 @@
-
+#bot
 L’épiderme joue des rôles dans la protection de la plante, via la cuticule, dans les échanges gazeux via les stomates, et dans la transpiration, l’empêchant par les cuticules et la favorisant par les stomates. 
 
 Les cuticules possèdent des cires et pruines épicuticulaires. Ce sont les premières défenses de la plante contre les agressions environnementales (sécheresses, radiations..). Elles sont synthétisées par l’épiderme et sont de nature lipidique. 

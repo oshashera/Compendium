@@ -1,3 +1,4 @@
+#eco
 L’écologie est la science qui étudie les interactions des êtres vivants entre eux et leurs interactions avec leur environnement. On appelle interactions biotiques les interactions entre les êtres vivants, interactions abiotiques celles entre les êtres vivants et leur environnement.
 
 On appelle population un ensemble d’individus d’une même espèce sur un territoire commun et capables de s’y reproduire. On la distingue du peuplement (= communauté = biocénose) qui correspond à un assemblage de populations en interaction.

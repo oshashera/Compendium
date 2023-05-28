@@ -1,4 +1,4 @@
-
+#bot
 La racine est un organe à symétrie axiale, ne portant jamais de feuille, généralement souterrain, à gravitropisme positif. Les racines peuvent également être aériennes. 
 
 Les racines servent à la fixation de la plante dans le substrat, à l’absorption d’eau et d’éléments minéraux et à assurer les interactions avec les micro-organismes du sol. 
