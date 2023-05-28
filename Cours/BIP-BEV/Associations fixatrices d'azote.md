@@ -54,7 +54,7 @@ Hétérocyste = cellule fixatrice d’azote moléculaire N2 (cellule spécialis�
 
   
 
-![](https://lh3.googleusercontent.com/u96lZTizE0GmH0u3vKmNEe5xeyREnScenHFSt24n5a88WsllZCtMacVHXcZ0IM0Micb0NSpbIXQfoeFLkjFVKT0FC0KDOUXvVAqfDGpmi-wHqfVsGvH43Fxk8LoiEcfToZOOn58Atd7VlszJPstxDZAiEaMvaiq8_oB2wcTA32mE92eT9eQhjj1Z_DMXpg)
+![[Pasted image 20230528191830.png]]
 ==Nitrogénase==, enzyme réductrice de N2 en NH3 (ammoniac)
 *Glutamine*, forme transportable du groupe amine
 
@@ -73,7 +73,7 @@ Associées à des organismes très divers, ex: champignon -> lichen
 **(2) Filicophytes** : Azolla, fougère aquatique. Filicophytes utilisés comme engrais dans les rizières, co-culture.
 
 **(3)Cycadophytes**, contient des racines coralloides (aspect dégueux pustules jaunâtre)
-![](https://lh4.googleusercontent.com/7QkBfkekkIDRkvVxDtPjF8CmEHwZlUkkNlGtSUAZHHI5ULMdEhNb0UJha1R5yohaZ_k2mZ9PmjnMpf0TrduVUG-jB3930yMD8bST2OIsx1HVmHcvIp9dTRtpVb5GznDAWHvDqaHKYa8gqTCCnd970Uzmo4KHX8-7jJxbpOBvbRo9yMMRHhte9aq-f85rcQ)
+![[Pasted image 20230528191856.png|]]
 <ul> Racines coralloides -> comportement modifié pour se développer en surface, géotropie, pour permettre aux cyanobactéries de recevoir la lumière
 => activité transcriptionnelle pour assurer ce développement </ul> 
 **(4) Angiospermes:** ex: Gunnera (tiges de 2m, dicotylédone), colonies de Nostoc à la base des tiges dans les glandes symbiotiques
