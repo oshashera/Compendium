@@ -81,118 +81,88 @@ Concernant les matériels et méthodes, les échantillons ont premièrement ét�
 - Total des lignines: 2 319 329
 - Total des acides gras:3 428 127
 - Total des molécules: 5 747 456
-
-**%Lignines** = 2 319 329/ 5 747 456 = **40,35%**
-
-**%AG** = 100-40,35 = **59,65%**
+- **%Lignines** = 2 319 329/ 5 747 456 = **40,35%**
+- **%AG** = 100-40,35 = **59,65%**
 
   
 
-MOD: Total des lignines: 2 397 289
-
-Total des acides gras: 4 047 049
-
-Total des molécules: 6 444 338
-
-%Lignines = 2 397 289 / 6 444 338 = 37,20 %
-
-%AG = 4047049 / 6 444 338 = 62,80%
+<u>MOD</u>: 
+- Total des lignines: 2 397 289
+- Total des acides gras: 4 047 049
+- Total des molécules: 6 444 338
+- **%Lignines** = 2 397 289 / 6 444 338 = **37,20 %**
+- **%AG** = 4047049 / 6 444 338 = **62,80%**
 
   
-  
-  
-  
-  
-  
-  
+### 2. Indices de composition
 
-2. Indices de composition
-    
 
   
 
-MOS: 
+<u>MOS: </u>
 
-Lignines :
-
-  
-
-C/V =  (306 717 + 502 630) / (640 530 + 869 452)
-
-      = 809 347 / 1 509 982 = 0,5360
+***Lignines :***
 
   
 
-Pour le rapport aldéhyde/acide, 3,4-Dimethoxy benzaldéhyde possède un groupement aldéhyde, et Méthyle 3,4- diméthoxy benzoate possède un groupement acide. On obtient donc le rapport suivant :
+**C/V** =  (306 717 + 502 630) / (640 530 + 869 452)
+	= 809 347 / 1 509 982 = **0,5360**
 
-Aldéhyde/Acide(v)= 869452 / 640530 = 1,35739
+Pour le rapport aldéhyde/acide, 3,4-Dimethoxy benzaldéhyde possède un groupement aldéhyde, et Méthyle 3,4- diméthoxy-benzoate possède un groupement acide. On obtient donc le rapport suivant :
 
-  
-
-Acides gras :
-
-Somme de C8 à C10 : 425 246
-
-Somme de C12 à C18 : 1 395 769
-
-Somme de C20 à C26 : 1 617 112
-
-Total: 3 438 127
+**Aldéhyde/Acide(v)**= 869452 / 640530 = **1,35739**
 
   
 
-Biodégradation microbienne: %(8-10) = 12,37%
+***Acides gras :***
 
-Acide gras microbiens: %(12-18) = 40,60%
-
-Acides gras végétaux: %(20-26) = 47,03%
-
-%micr= %(8-10)+%(12-18)= 52,97%
-
-  
-
-MOD :
+- Somme de C8 à C10 : 425 246
+- Somme de C12 à C18 : 1 395 769
+- Somme de C20 à C26 : 1 617 112
+- Total: 3 438 127
 
   
 
-Lignines :
-
-C/V =  (150 429 + 190 142) / (1790819 + 265 899)
-
-       = 340571 / 2056718 = 0.1656
-
-  
-
-Aldéhyde/Acide(v) = 265 899 / 1 790 819 = 0.1485
+Biodégradation microbienne: %(8-10) = **12,37%**
+Acide gras microbiens: %(12-18) = **40,60%**
+Acides gras végétaux: %(20-26) = **47,03%**
+%micr= %(8-10)+%(12-18)= **52,97%**
 
   
 
-Acides gras :
-
-Somme de C8 à C10 : 1 950 435
-
-Somme de C12 à C18 : 2 073485
-
-Somme de C20 à C26 : 23 129  
-Total : 4 047 049
+<u>MOD :</u>
 
   
 
-Biodégradation microbienne: %(8-10) = 48,19%
+***Lignines :***
 
-Acide gras microbiens: %(12-18) = 51,23%
+**C/V** =  (150 429 + 190 142) / (1790819 + 265 899)
+	= 340571 / 2056718 = **0.1656**
 
-Acides gras végétaux: %(20-26) = 0,57%
+**Aldéhyde/Acide(v)** = 265 899 / 1 790 819 = **0.1485**
 
-%mic= %(8-10)+%(12-18)= 99,42%
+  
+
+***Acides gras :***
+
+- Somme de C8 à C10 : 1 950 435
+- Somme de C12 à C18 : 2 073485
+- Somme de C20 à C26 : 23 129  
+- Total : 4 047 049
+
+  
+
+Biodégradation microbienne: %(8-10) = **48,19%**
+Acide gras microbiens: %(12-18) = **51,23%**
+Acides gras végétaux: %(20-26) = **0,57%**
+%mic= %(8-10)+%(12-18)= **99,42%**
 
   
   
 
-Comparaison entre la MO du sol (MOS) et la MO dissoute (MOD)
+##### Comparaison entre la MO du sol (MOS) et la MO dissoute (MOD)
 
   
-
 |   |   |   |
 |---|---|---|
 ||MOS|MOD|
@@ -214,55 +184,36 @@ Comparaison entre la MO du sol (MOS) et la MO dissoute (MOD)
   
   
 
-III.Interprétations
+## III.Interprétations
 
   
 
-1. Etat de biodégradation des lignines : 
-    
+### 1. Etat de biodégradation des lignines : 
 
-  
 
 On observe un rapport C/V diminuant de 0.5360 à 0.1656 entre la MOS et la MOD et un rapport aldéhyde/acide diminuant lui de 1,35739 à 0,1485.
 
 D’après l’énonce, le rapport C/V comme le rapport aldéhyde/acide ont tendance à diminuer au fur et à mesure de la dégradation.
 
-  
-
 Ainsi, l’état de dégradation des lignines est bien plus avancé dans la MOD que dans la MOS.
 
-  
-  
-  
-  
 
-2. Origine de la matière organique dans les deux échantillons 
+### 2. Origine de la matière organique dans les deux échantillons 
     
-
-  
 
 Premièrement, les acides gras provenant des bicouches microbiennes (C12-C18) se retrouvent dans des proportions relativement égales dans la MOS et la MOD à hauteur de 40,60 et 51,23%. Ils témoignent de la présence de populations microbiennes importantes, celles-ci constituent la source de la moitié des acides gras présents dans les deux substances organiques.
 
-  
-
 Deuxièmement, les acides gras de de types (C20 - C26) représentent 47,03% dans l’échantillon MOS. Donc la partie restante de la matière organique est peu dégradée dans cet échantillon et provient des débris de végétaux. Ce type d’acide gras est à l’inverse minoritaire dans la fraction dissoute où ils ne représentent que 0,57%.
 
-  
-
 Parallèlement, les acides gras de type (C8-C10) représentent 48,19% dans l’échantillon MOD. Cela signifie que l’autre moitié de la matière organique de cette fraction est issue de la biodégradation. En revanche, ce type de matière organique est moins présent dans l’échantillon MOS avec 12,37% soit presque 4 fois moins que dans la MOD.
-
-  
 
 Enfin, la proportion totale de marqueurs microbiens est de 52,97% dans la MOS, soit à peine plus de la moitié mais elle représente la quasi-totalité des marqueurs dans la MOD avec 99,42%.
 
 Ainsi, la matière organique est essentiellement issue du microbiote et de son activité dans la MOD là où elle est encore substantiellement d’origine végétale au sein de la MOS.
 
-  
 
-3. Processus biogéochimique prépondérant :
+### 3. Processus biogéochimique prépondérant :
     
-
-  
 
 On observe que la proportion des unités C a diminué de manière corrélée (de même amplitude à 10 % près) à l’augmentation des unités V.
 
@@ -270,15 +221,11 @@ On observe que la proportion des unités C a diminué de manière corrélée (de
 
 C’est un témoignage de la transformation de molécules peu solubles, ici les unités C en molécules plus solubles et donc davantage bioaccessibles : les unités V. 
 
-  
-
 Ces 2 évolutions sont des preuves du phénomène de biodégradation.
 
 La MO végétale va être solubilisée par la dégradation enzymatique (bactérienne notamment). Elle va être dégradée puis intériorisée par la microfaune du sol.
 
   
-  
-
 Issu du cours magistral sur l’humus, le tableau suivant présente l’importance de différents organismes dans différentes étapes de l’intégration de la matière organique dans le sol. On constate que l’activité des bactéries est prépondérante dans la transformation chimique (=biodégradation) de la matière organique.
 
   
