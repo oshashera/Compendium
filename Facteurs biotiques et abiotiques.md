@@ -94,7 +94,7 @@ Ce processus n’est bien sûr pas systématique.
 
 - Peut aboutir à des séparations de niches écologiques : chez des Pics d’un même genre, chaque espèce va se nourrir sur le même arbre, mais sur une partie différente. Cette séparation est due à la compétition.
 
-![[Pasted image 20230527172343.png]]
+![[Pasted image 20230527172343.png|]]
 
 Le partage des ressources permet d’éviter la compétition ou de limiter ses effets, il permet la coexistence de ces espèces sur une petite aire géographique. En gros, quand plusieurs espèces entrent en compétition parce qu'elles ont des niches fondamentales similaires, elles vont avoir tendance à se distribuer les ressources entre elles de manière différentes (à adopter des niches réelles séparées) pour ne pas se marcher sur les pieds au lieu de s'éliminer (en milieux hétérogènes).
 
