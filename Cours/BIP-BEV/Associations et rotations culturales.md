@@ -41,9 +41,9 @@ Mélanges de types de production dans l’espace : Entre permaculture et microma
 
 Occupation du sol et fourniture d’azote (CIPAN : couvert d'interculture piège à nitrate) à la culture suivante
 
-![](https://lh4.googleusercontent.com/lJQcWCj89ZUBXVcQDO_CxLCvFp59lKi-GgejqZAW5VOIFo60f8ymyXrMAYraEy2uMwjneL4BRZD2FDzZMxiIZLMhGtPHrB2k1SP2u1C_7LZlNArxloWBxVzTEjHkgkA09ZTy_4gKp1WC54xyklH12j2PYPypgOE_u2seFE5vYsCNTer4QgsrQ3Apo7jiVw)
+![[Pasted image 20230528192919.png]]
 
-![](https://lh5.googleusercontent.com/8i2LM9FZgBQeIthR12RX0PR8Y4qEE3enjkFyaVMGH-mt0FPPENfjfln_yLlbrCcpKkGwg6rCySvhKX65483qO9z0Tus6hGQ5hYUKAgL4LyEX6eyWy-UrHJvQ9vMUhtkKf9DOugDaLp8Wh6n2rb8EayKyyROEuenULCBbL_eqHrVi5heNLBOeM-RMcrlSAQ)
+![[Pasted image 20230528192938.png]]
 
 Limiter certaines adventices et leur quantité
 |-> peut envahir, entrer en compétition ou être toxique
