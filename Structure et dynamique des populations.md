@@ -1,3 +1,5 @@
+#eco 
+___
 
 On rappelle qu’une population est un ensemble d’individus de la même espèce occupant un même territoire, exploitant simultanément les mêmes ressources, et influencés par les mêmes facteurs écologiques. Ils peuvent donc mettre en place toutes les interactions présentées.
 
@@ -23,13 +25,13 @@ Plusieurs méthodes peuvent être utiliser pour déterminer l’effectif. Le cho
 
 On peut utiliser :
 
-- Le comptage direct : organismes de grande taille et faciles à déterminer, observables et reconnaissables à distance, mis en place dans des milieux ouverts (= dans lesquels on peut voir les organismes), souvent à l’aide d’appareils de captation. Cependant, dans beaucoup de cas, compter toute la population est coûteux et peu utile. On préfère les méthodes d’échantillonnage
+- **Le comptage direct :** organismes de grande taille et faciles à déterminer, observables et reconnaissables à distance, mis en place dans des milieux ouverts (= dans lesquels on peut voir les organismes), souvent à l’aide d’appareils de captation. Cependant, dans beaucoup de cas, compter toute la population est coûteux et peu utile. On préfère les méthodes d’échantillonnage
 
-- L’échantillonnage : estimation de la densité par utilisation de divers outils comme les quadrats pour des espèces peu mobiles, ou les transects. On estime le nombre d’outils qu’on doit mettre en place pour estimer la densité de la population
+- **L’échantillonnage :** estimation de la densité par utilisation de divers outils comme les quadrats pour des espèces peu mobiles, ou les transects. On estime le nombre d’outils qu’on doit mettre en place pour estimer la densité de la population
 
-- Les itinéraires échantillons : estimation des variations d’abondance annuelle des populations. On trace un chemin balisé et fixé, et on note tous les individus à échantillonner aperçus sur le chemin (qui est parcouru en un temps donné). On répète le processus régulièrement pour documenter l’évolution de l’effectif, et on peut même utiliser cette méthode pour comparer l’évolution de l’abondance d’une même espèce dans deux habitats différents
+- **Les itinéraires échantillons :** estimation des variations d’abondance annuelle des populations. On trace un chemin balisé et fixé, et on note tous les individus à échantillonner aperçus sur le chemin (qui est parcouru en un temps donné). On répète le processus régulièrement pour documenter l’évolution de l’effectif, et on peut même utiliser cette méthode pour comparer l’évolution de l’abondance d’une même espèce dans deux habitats différents
 
-- La CMR (capture-marquage-recapture) : adaptée aux organismes mobiles. On installe des dispositifs qui permettent de piéger les organismes qu’on cherche à échantillonner. On compte les individus piégés et on les marque. Puis on les relâche, et, au bout d’un certain temps, on réitère le processus de piégeage (identique au premier). On compte le nombre d’individus marqués recapturés et ceux non marqués capturés. On détermine alors N grâce à une formule simple : 
+- **La CMR (capture-marquage-recapture) :** adaptée aux organismes mobiles. On installe des dispositifs qui permettent de piéger les organismes qu’on cherche à échantillonner. On compte les individus piégés et on les marque. Puis on les relâche, et, au bout d’un certain temps, on réitère le processus de piégeage (identique au premier). On compte le nombre d’individus marqués recapturés et ceux non marqués capturés. On détermine alors N grâce à une formule simple : 
 ![[Pasted image 20230529233018.png]]
 
 On l’applique surtout aux oiseaux et aux amphibiens. C’est une méthode qui suppose qu’on ait autant de chance de capturer des individus marqués que non-marqués (donc pas de traumatisme chez les individus marqués, ou des individus marqués plus vulnérables = le marquage ne doit pas influencer la survie), les marquages ne doivent cependant pas être perdus, et le temps de l’expérience doit être suffisamment court pour qu’il n’y ait pas d’importante variation d’effectif entre les 2 phases de capture. En bref, elle est complexe à mettre en place.
@@ -42,7 +44,7 @@ Comment les individus sont répartis les uns par rapport aux autres.
 
 Elle peut être uniforme/régulière, aléatoire/au hasard, ou agrégative/contagieuse.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![[Pasted image 20230529233303.png]]
 
 Ces répartitions dépendent des caractéristiques des organismes et de leurs besoins en termes de ressources.
 
@@ -56,9 +58,9 @@ La répartition agrégative résulte de la distribution des ressources dans l’
 
 Dans une population, il existe une coexistence des générations avec des proportions d’individus de différentes classes d’âges au sein des populations. Souvent, on crée des pyramides des âges en fonction du sexe pour étudier la structure d’âge.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)Créer ces pyramides permet de renseigner sur les facteurs biotiques ou abiotiques qui influencent le milieu et les populations.
+![[Pasted image 20230529233324.png]]Créer ces pyramides permet de renseigner sur les facteurs biotiques ou abiotiques qui influencent le milieu et les populations.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![[Pasted image 20230529233342.png]]
 *Ex : ce resserrement chez les jeunes correspond à l’intervention d’un incendie de forêt.*
 
 *Ex : effet de la prédation sur la structure d’âge des populations*
@@ -67,21 +69,21 @@ On peut aussi créer des histogrammes qui ont la même fonction, et on peut les 
 
 On mesure l’âge des individus d’une population selon des méthodes dépendantes des espèces considérées :
 
-- Etudes individuelles : fastidieuses et coûteuses, mais précises
+- **Etudes individuelles :** fastidieuses et coûteuses, mais précises
 
-- Marqueurs d’âges : chez les Mammifères on emploie l’usure des dents, la taille, la structure des bois ou des cornes … chez les Oiseaux le plumage. Chez les poissons, les lignes d’arrêt de croissance des écailles. Chez les arbres, les cernes annuels. Ce sont des marqueurs de détermination moins précis mais qui permettent d’étudier des populations entières plus facilement
+- **Marqueurs d’âges :** chez les Mammifères on emploie l’usure des dents, la taille, la structure des bois ou des cornes … chez les Oiseaux le plumage. Chez les poissons, les lignes d’arrêt de croissance des écailles. Chez les arbres, les cernes annuels. Ce sont des marqueurs de détermination moins précis mais qui permettent d’étudier des populations entières plus facilement
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![[Pasted image 20230529233402.png]]
 
 En écologie, on utilise ces différents facteurs pour mettre au point des tables et des courbes de survie. Pour les établir, on suit le devenir de **cohortes** : des ensembles d’individus qui ont vécu simultanément un même évènement démographique (naissance, maturité sexuelle, reproduction …) jusqu’à leur mort.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)On met en place des courbes de survie basées sur les données de ces tableaux, ils représentent la mortalité de la cohorte en fonction du temps. On considère trois grands types de courbes de survie en fonction des stratégies démographiques des populations.
+![[Pasted image 20230529233424.png]]On met en place des courbes de survie basées sur les données de ces tableaux, ils représentent la mortalité de la cohorte en fonction du temps. On considère trois grands types de courbes de survie en fonction des stratégies démographiques des populations.
 
-- Type 1 : mortalité faible chez les jeunes, qui augmente avec le temps. Caractéristique des espèces qui pratiquent le soin aux jeunes mais ont peu de descendants
+- <u>Type 1 :</u> mortalité faible chez les jeunes, qui augmente avec le temps. Caractéristique des espèces qui pratiquent le soin aux jeunes mais ont peu de descendants
 
-- Type 2 : mortalité constante, indépendante de l’âge en conditions favorables
+- <u>Type 2 :</u> mortalité constante, indépendante de l’âge en conditions favorables
 
-- Type 3 : mortalité importante chez les jeunes et qui diminue avec l’âge (après un âge critique). Caractéristiques des espèces qui produisent un nombre considérable de descendants mais ne pratiquent pas le soin aux jeunes = compétition des juvéniles
+- <u>Type 3 :</u> mortalité importante chez les jeunes et qui diminue avec l’âge (après un âge critique). Caractéristiques des espèces qui produisent un nombre considérable de descendants mais ne pratiquent pas le soin aux jeunes = compétition des juvéniles
 
 ## <u>IV/ Le sex-ratio</u>
 
@@ -91,7 +93,7 @@ En général cependant, les sex-ratios des populations sont équilibrées, notam
 
 ## <u>V/ Accroissement démographique des populations</u>
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![[Pasted image 20230529233439.png]]
 
 Variations démographiques en fonction de processus antagonistes : natalité et immigration = augmentation, mortalité et émigration = diminution. Ces processus sont liés à des cycles naturels, ou à des évènements ponctuels.
 
@@ -99,13 +101,19 @@ On peut calculer la variation de N = nombre de naissances – nombre de morts. C
 
 Il existe donc des modèles de croissance des populations utilisés en fonction des stratégies démographiques des organismes :
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![[Pasted image 20230529233452.png]]
 
-Modèle de croissance exponentielle : ressources illimitées donc conditions favorables, potentiellement une croissance infinie en conditions idéales. Souvent, la croissance exponentielle n’est pas infinie et reste limitée à cause de certains facteurs. Concerne les espèces opportunistes et les espèces pionnières = de petite taille avec un temps de génération court, un potentiel reproducteur élevé et un taux de survie faible -> fluctuations importantes de la démographie, phénomènes d’effondrement des populations et mortalités de type catastrophe, dans des climats et milieux instables et imprévisibles. Stratégie de croissance dite de type r. Ex : les pissenlits
+Modèle de croissance exponentielle : ressources illimitées donc conditions favorables, potentiellement une croissance infinie en conditions idéales. Souvent, la croissance exponentielle n’est pas infinie et reste limitée à cause de certains facteurs. Concerne les espèces opportunistes et les espèces pionnières = de petite taille avec un temps de génération court, un potentiel reproducteur élevé et un taux de survie faible -> fluctuations importantes de la démographie, phénomènes d’effondrement des populations et mortalités de type catastrophe, dans des climats et milieux instables et imprévisibles. Stratégie de croissance dite de type r. 
+*Ex : les pissenlits*
 
- ![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
- Modèle de croissance logistique : plateau qui limite l’accroissement lié à des facteurs limitants ou la compétition. Concerne les espèces spécialistes, qui sont souvent de grande taille, avec un développement lent, qui produisent un petit nombre de descendants avec des taux de survie élevée. Fluctuations autour de K la capacité limite, dans des climats et milieux stables et prévisibles. Stratégie dite de type K. Ex : les Primates
+![[Pasted image 20230529233512.png]]
+
+Modèle de croissance logistique : plateau qui limite l’accroissement lié à des facteurs limitants ou la compétition. Concerne les espèces spécialistes, qui sont souvent de grande taille, avec un développement lent, qui produisent un petit nombre de descendants avec des taux de survie élevée. Fluctuations autour de K la capacité limite, dans des climats et milieux stables et prévisibles. Stratégie dite de type K.   
+*Ex : les Primates*
 
 On confronte ces modèles descriptifs à la réalité pour les améliorer et les adapter aux situations souvent plus complexes des différentes populations.
 
 Pour conclure, la régulation de l’accroissement démographique se fait grâce à des facteurs dépendants de la densité (= compétition, prédation, parasitisme … souvent biotiques), et des facteurs indépendants de la densité (= climat, sol, eau … souvent abiotiques).
+
+
+Plusieurs populations forment une communauté, dont on peut également étudier la dynamique (=[[Structure et dynamique des peuplements]])
