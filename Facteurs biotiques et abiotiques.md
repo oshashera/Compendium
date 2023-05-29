@@ -226,7 +226,7 @@ Etude de l’action de ces facteurs =<u> autoécologie</u>
 
 
 - Facteurs **climatiques** (température, pluviosité, humidité, lumière, vent,…)
-- Facteurs **édaphiques** (texture, structure et composition chimique du sol)
+- Facteurs **édaphiques** (texture, structure et composition chimique du [[Les sols|sol]])
 - Facteurs **hydrologiques** (caractéristiques physico-chimiques de l’eau)
 
 Ces facteurs varient dans l’espace et dans le temps

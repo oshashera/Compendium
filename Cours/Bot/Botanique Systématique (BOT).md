@@ -5,7 +5,9 @@
 [[TP2 BOT - Hydrophytes]]
 [[TP3 BOT - Gymnospermes]]
 [[TP4 BOT - Trachéophytes (mais fougères quand même)]]
-
+[[TP5 BOT]]
+[[TP6 BOT]]
+[[TP7 BOT]]
 ____
 CC1 : TP1 à 4 (6 mars)
 CC2  : TP5 à 8 (12 avril)
