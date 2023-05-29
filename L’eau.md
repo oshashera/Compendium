@@ -1,3 +1,5 @@
+#eco
+___
 ## <u>I/ Introduction : écosystèmes et environnements</u>
 
 ### <u>A) Définir un écosystème</u>
@@ -99,28 +101,23 @@ Oui, à travers l’exploitation des sols, nous pouvons le faire évoluer très 
 
 ##### <u>Agir :</u>
 
-- Protéger la ressource en sol
+- <u>Protéger la ressource en sol</u>
 
-Quelles peuvent-être les pratiques quotidiennes qui modifient notre impact ?
-
+***Quelles peuvent-être les pratiques quotidiennes qui modifient notre impact ?***
 Modification des pratiques agricoles, de concevoir notre habitat, notre alimentation, notre façon de nous déplacer, de générer des déchets.
 
-**- Protéger la biodiversité**
+- <u>Protéger la biodiversité</u>
 
-Définir la notion de corridor entre des réserves.
-
+***Définir la notion de corridor entre des réserves.***
 Eléments qui favorisent le passage d’une réserve (espace protégé) à une autre.
 
-**- Les besoins à l'horizon 2050**
+- <u>Les besoins à l'horizon 2050</u>
 
-L’eau est-elle un bien commun ?
-
+***L’eau est-elle un bien commun ?***
 Oui (on ne refuse pas un verre d’eau à un assoiffé), les règles de partage de l’eau sont très développées. Cependant, dans des pays comme la France, certains ont l’autorité nécessaire pour limiter les usages de l’eau en fonction des périodes de crise (priorités d’utilisation). On a donc le partage d’un bien commun contrôlé.
 
-Quelle est la part des êtres humains mal nourris ?
-
+***Quelle est la part des êtres humains mal nourris ?***
 850 millions sur 6,5 milliards (1 être humain sur 7) car la croissance démographique est plus importante que la production agricole.
 
-Quel est la part de nourriture qui est non utilisée dans les pays occidentaux ?
-
+***Quel est la part de nourriture qui est non utilisée dans les pays occidentaux ?***
 On estime qu’un tiers de la production alimentaire dans le monde est achetée en trop par rapport à la consommation véritable et donc jetée.

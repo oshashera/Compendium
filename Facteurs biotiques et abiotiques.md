@@ -390,7 +390,7 @@ $\huge\rightarrow$Adaptations des plantes au froid
 
 #### <u>2) L’eau</u>
 
-$\huge\rightarrow$Les besoins en eau conditionnent la répartition des organismes
+$\huge\rightarrow$Les besoins en [[L’eau|eau]] conditionnent la répartition des organismes
 
 - espèces aquatiques : milieux aquatiques
 - espèces hygrophiles : milieux humides
