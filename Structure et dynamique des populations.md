@@ -13,7 +13,7 @@ Des variables particulières caractérisent les populations :
 
 Ces variables à un instant T sont affectées par les processus démographiques comme la natalité, la mortalité, l’immigration et l’émigration. Ces éléments dynamisent les variables et permettent d’établir une cinétique démographique. L’effectif N de la population va varier au cours du temps en fonction des processus démographiques. Ces derniers dépendant à la fois des caractéristiques de la population et de l’environnement plus ou moins favorable.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![[Pasted image 20230529232932.png]]
 
 ## <u>I/ L’abondance et la densité des population</u>
 
@@ -29,7 +29,8 @@ On peut utiliser :
 
 - Les itinéraires échantillons : estimation des variations d’abondance annuelle des populations. On trace un chemin balisé et fixé, et on note tous les individus à échantillonner aperçus sur le chemin (qui est parcouru en un temps donné). On répète le processus régulièrement pour documenter l’évolution de l’effectif, et on peut même utiliser cette méthode pour comparer l’évolution de l’abondance d’une même espèce dans deux habitats différents
 
-- La CMR (capture-marquage-recapture) : adaptée aux organismes mobiles. On installe des dispositifs qui permettent de piéger les organismes qu’on cherche à échantillonner. On compte les individus piégés et on les marque. Puis on les relâche, et, au bout d’un certain temps, on réitère le processus de piégeage (identique au premier). On compte le nombre d’individus marqués recapturés et ceux non marqués capturés. On détermine alors N grâce à une formule simple : ![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+- La CMR (capture-marquage-recapture) : adaptée aux organismes mobiles. On installe des dispositifs qui permettent de piéger les organismes qu’on cherche à échantillonner. On compte les individus piégés et on les marque. Puis on les relâche, et, au bout d’un certain temps, on réitère le processus de piégeage (identique au premier). On compte le nombre d’individus marqués recapturés et ceux non marqués capturés. On détermine alors N grâce à une formule simple : 
+![[Pasted image 20230529233018.png]]
 
 On l’applique surtout aux oiseaux et aux amphibiens. C’est une méthode qui suppose qu’on ait autant de chance de capturer des individus marqués que non-marqués (donc pas de traumatisme chez les individus marqués, ou des individus marqués plus vulnérables = le marquage ne doit pas influencer la survie), les marquages ne doivent cependant pas être perdus, et le temps de l’expérience doit être suffisamment court pour qu’il n’y ait pas d’importante variation d’effectif entre les 2 phases de capture. En bref, elle est complexe à mettre en place.
 
