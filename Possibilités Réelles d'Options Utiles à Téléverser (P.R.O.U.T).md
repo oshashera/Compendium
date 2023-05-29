@@ -7,7 +7,7 @@ ___
 	- [x] Sol
 	- [x] Eau
 	- [ ] Dyn pop
-	- [ ] Dyn commu
+	- [x] Dyn commu
 	- [ ] Cycle biogéochimiques
 	- [ ] TD prédation
 	- [ ] TD mésofaune litière
