@@ -1,8 +1,21 @@
 #gestion
 ___
 ## Liste de documents à transférer sur le vault
-- [ ] ECO
 - [ ] BECO
+	- [ ] Intro/concepts
+	- [ ] Climato
+	- [ ] Sol
+	- [ ] Eau
+	- [ ] Dyn pop
+	- [ ] Dyn commu
+	- [ ] Cycle biogéochimiques
+	- [ ] TD prédation
+	- [ ] TD mésofaune litière
+	- [ ] TD réchauffement climatique
+	- [ ] TD Galles
+	- [ ] TD Communautés
+	- [ ] TD lien commu et cycles
+	- [ ] TD symbioses
 - [ ] PLA
 - [ ] BVG
 - [ ] POL

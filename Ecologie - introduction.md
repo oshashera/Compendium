@@ -81,3 +81,24 @@ Il existe différents niveaux d’intégration de la vie, et des disciplines dif
 5. -> Niveau des écosystèmes (ensembles de biocénoses)
 
 Souvent, l’étude des phénomènes de l’écologie requiert une observation et des analyses de plusieurs de ces niveaux.
+
+LES DIFFERENTES DISCIPLINES
+- Biologie moléculaire et biologie cellulaire ( niveau 1)
+	- écophysiologie , autoécologie
+- Biologie des organismes (niveaux 2 et 3)
+	- individus : autoécologie
+	- populations : démoécologie
+- Etude des communautés ( niveau 4)
+	- démoécologie des biocénoses
+- Etude des écosystèmes ( niveau 5)
+	- synécologie
+- Etude des paysages (niveau 6)
+	- écologie des paysages
+- Echelle biosphère (niveau 7)
+	- écologie globale
+
+<u>Autre disciplines :</u>
+Écologie appliquée, écologie de la conservation, écologie de la
+restauration, écologie microbienne, écologie comportementale,
+écologie des sols, agroécologie, écologie tropicale, écologie
+urbaine, écotoxicologie, paléoécologie, écologie théorique…
