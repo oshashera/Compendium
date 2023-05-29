@@ -44,9 +44,7 @@ Les conditions de mesures de paramètres climatiques sont particulières. Elles 
 #### 1. Le rayonnement solaire
 
 Ensemble d’ondes électromagnétiques qui transportent de l’énergie
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
-
+![[Pasted image 20230529175917.png]]
 La répartition des organismes se fait en fonction de la qualité et de la quantité de la lumière.
 
 #### 2. La température
@@ -61,7 +59,7 @@ Mesures grâce aux pluviomètres, aux nivomètres, enregistrements via pluviogra
 
 Il existe une répartition annuelle des précipitations selon 7 grands régimes pluviométriques définis par Hufty en 2005.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg) 
+![[Pasted image 20230529175939.png]]
 
 #### 2. L’hygrométrie
 
@@ -107,7 +105,7 @@ Les déserts présentent tous des traits communs : faiblesse des précipitation
 
 Il existe une grande diversité climatique des déserts. On identifie 3 types : Saharien, Péruvien et Aralien.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![[Pasted image 20230529180049.png]]
 
 - Saharien : très peu de précipitations annuelles, températures très élevées en été et pas de températures basses en hiver.
 
