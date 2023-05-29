@@ -3,7 +3,7 @@ ___
 ## Liste de documents à transférer sur le vault
 - [ ] BECO
 	- [x] Intro/concepts
-	- [ ] Climato
+	- [x] Climato
 	- [ ] Sol
 	- [ ] Eau
 	- [ ] Dyn pop
