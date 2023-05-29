@@ -4,7 +4,7 @@ ___
 - [ ] BECO
 	- [x] Intro/concepts
 	- [x] Climato
-	- [ ] Sol
+	- [x] Sol
 	- [x] Eau
 	- [ ] Dyn pop
 	- [ ] Dyn commu
