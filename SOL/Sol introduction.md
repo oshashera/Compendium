@@ -14,7 +14,7 @@ ____
 
 ### <mark style="background: #FFF3A3A6;">I] Notions de base sur les sols</mark>
 
-Le sol, comme l’eau, la biodiversité, est une ressource naturelle. Est-elle renouvelable ?  
+Le [[Les sols|sol]], comme l’[[L’eau|eau]], la biodiversité, est une ressource naturelle. Est-elle renouvelable ?  
 Les sols se reconstituent au rythme de 1 à quelques cm par siècle.  
 On prendra comme postulat que le sol est une ressource non renouvelable à l’échelle des générations humaines.
 

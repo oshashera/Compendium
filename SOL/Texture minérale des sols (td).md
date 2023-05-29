@@ -16,4 +16,4 @@
 <br>
 <br>
 ___
-[[SOL]]
+[[Sol introduction]]

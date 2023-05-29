@@ -6,5 +6,5 @@ Science du sol, de sa texture, structures, de ses propriétés et de son biotope
 
 ___
 [[Vers de terre]]
-[[SOL]]
+[[Sol introduction]]
 [[Pollution des sols]]
