@@ -2,7 +2,7 @@
 ___
 ## Liste de documents à transférer sur le vault
 - [ ] BECO
-	- [ ] Intro/concepts
+	- [x] Intro/concepts
 	- [ ] Climato
 	- [ ] Sol
 	- [ ] Eau
