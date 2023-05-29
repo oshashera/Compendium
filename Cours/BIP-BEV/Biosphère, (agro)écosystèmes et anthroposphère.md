@@ -6,9 +6,10 @@ L'anthroposphère
 
 Planète et occupation par l’Homme
 
-![](https://lh6.googleusercontent.com/pl-6QGTuntt-_ZtxRUopgopHVHUujB63RkaopNb8GeqQHZbCWmRjrlPILfoE2ylEZpMCJGGpmNSJ7i4swyhkS5LNfXiAjPGXL0KLrHsk77u69q8oOQedbQ3xvIR5ZLm3-YqEZJyMjUwuV3QbuasFsj4yIrNl4Md2NDhsub_l9JGr_artBi2LzOAQdXVLaA)
+![[Pasted image 20230529172402.png]]
+
 ![[Pasted image 20221231033036.png]]
-**![](https://lh6.googleusercontent.com/F7-8VFigtwtwo0PYtfOY7nR2QdkHJYhuw7UODOKN9BvVrO6ceVmprLS6whYdCz7J29ULPwVFSjNJwoFtC0kW2Zqsmo62nqioCJJGuvEwhLEK8qtzAhHszDlXT22Aa4NEkbLXE4myhDc5uU4pgo-_zRS_oUWNioIuFPGBC9EB1mERd7sylOPPa7TWWZsl0Q)
+![[Pasted image 20230529172438.png]]
 
 Puis intensification des écosystèmes, améliorat° des sols par fertilisat° & labours (encore + après guerre) -> Optimiser la production apparition de l’agronomie
 
@@ -27,13 +28,11 @@ Sélection -> influe sur les rendements
 
 **Alimentaire et énergétique: pour une calorie alimentaire -> 5.5 calories fossiles dépensées**
 
-![](https://lh3.googleusercontent.com/O7DZbyf1Ho19ddb7tsBn0F_2Hn8-Ls0L7AB4rHEmZrIbCSFrKppRlRURLnGI773-9yx9Vxilt2F5pg-FuCnszJpd96MAWZG3N2Snd_qwHBAO6z2C8kgptKkf2HzMT3R8zzrR41cytx0iWzWa-7ASLqW75e8A7te3T9IHBWOLGaPOHq_m073l5U-3PxJzWQ)
+![[Pasted image 20230529172506.png]]
+![[Pasted image 20230529172521.png]]
 
-![](https://lh5.googleusercontent.com/dS0jF0SZv-3_8RT1-znTT6HH7SOIj7UmQcFgDBdv8JVy0RgSrrC_-T75wmmOQjTaCTjcLb5uohQFmm2p-IZVbFudOC77g0W5UV8RIBJ6Fw1s2MR34VZjmZRMkCM7o0GQ4w8SSyI0ZNTSJPWlogZiuY_mfkqYSCq727ycEPXzqYzphCWcUqJAsNUMxsIJPA)
-
-![](https://lh3.googleusercontent.com/Ikzi7s5v0pJKfi5EGMXqkS2EmHffmwREnZ9N8uKV0IGHbPGAnRt44OsdIkJz95gvIWvqYv4PmxgwH7wbhmX_f6u8ea4EOZ1ynnCXUIMFSeiHGWxEUnciEgO4Ya3RbzO41kwCfUFZJyr0qHhIPzkwDBNg1GKJiQk-AWI_CAQ7qhtKpTEXzDA1fJbn9-2nEg)
-
-![](https://lh6.googleusercontent.com/heAiMSQbwaiwzKzbK7n0nSWFe3UEKnoMz2skh0SBrABseCLc_1jppZ_MtcckF_G3lJYBRKlnVNINvZZx4wVgwJSM_ZvMoBYc9bFfTHvzwUVux4oYNIYnN8WUr8R5wPiyj6kQrsppjWzQVC1KssadA_NnJiGNMPXRXy-9SNE-FcKao1foJ9ErlwL4_hDwxQ)
+![[Pasted image 20230529172606.png]]
+![[Pasted image 20230529172620.png]]
 
 Implique la nécessité de limiter et économiser notre consommation, recycler et optimiser.
 <br>
@@ -57,16 +56,16 @@ Agrosystème = système Homme - culture**
 
 Répartition:  ~=~25% des terres du globe = culture et pâtures
 
-![](https://lh4.googleusercontent.com/Vol05gtPtWWmeczXUT6sfZ7d5yvCwFuYUBnJHLKbCGvlBbz3jV-B65nQqAz81WDiqmJF5Iw307iNtOKUZFI_SjpfBFI5RvMKVyvxLY92A3M0JHdcK00czdaxuq4Xi6UWTJPBd0nxRAftqbFo5Os2ChJ5jY_fC_ixqAnmUHM6ygU1Gp6OpMPcaimAMLoEhQ)
+![[Pasted image 20230529172652.png]]
 <br>
   
   
 
 Fonctionnement
+![[Pasted image 20230529172718.png]]
 
-![](https://lh4.googleusercontent.com/CK0LTaD0Ne-zYHsNdG2Y0OCLr7wiFg_eRxLDdo6Td4JeL9WQlaRjqgSEkMR4TXLnVkRZyxASHsc3bVnciFNm3Pl4C7Jir9F_MWj6liuLDWjahGUsS181X2HTV31QFnetmkBnjiBmey5sdzQt0JFHJnHNGSGrzQyzrkByODtn-I5CWx1V8xk3GWuc1UIXvg)
 
-![](https://lh6.googleusercontent.com/RLBZqyn4UZPZe3AGk8Wg4wmtJG31P1h90mQWcCOUJi9kazdSsygpRxZ-efEMlDQ6GkS4FVz7EJjVP-klFLcmDAb1dFxKmcuuz-rs0iSVV_RZxhYt93ceSOjXuotNT-KZ7HoF-ebv5ChMARa-D-r8NXjozJB4DwTMReZkMvyP8I2AyaOYXOJYqQflX75flQ)![](https://lh6.googleusercontent.com/ngoQJnO9ILJgsUUzEJtZh7C_H86XPrAgR-lRTrFx1__9gIaQjNbqKtzbcSbiW_SJOxQvzRnQFAzc5wpdiMFAzEVGUDSqjX5aQJDTbVTJcR34ZaM6ZAHGeN3Pu0KzaRK-LWqHqkmoVEfFs9ywSugSM34m1kJAm6pRplLc0zOCOx7VLYLWnwoUAJGBnHMBUw)
+![[Pasted image 20230529172744.png]]![](https://lh6.googleusercontent.com/ngoQJnO9ILJgsUUzEJtZh7C_H86XPrAgR-lRTrFx1__9gIaQjNbqKtzbcSbiW_SJOxQvzRnQFAzc5wpdiMFAzEVGUDSqjX5aQJDTbVTJcR34ZaM6ZAHGeN3Pu0KzaRK-LWqHqkmoVEfFs9ywSugSM34m1kJAm6pRplLc0zOCOx7VLYLWnwoUAJGBnHMBUw)
 ![](https://lh3.googleusercontent.com/v_V9bZIlmZzGz6mIjhGumlDpyb0ciRlQJlQR2_j3rghCVORwb6Vi7H_oF6qQMZo71zvdh7bQWYzOFmjx4F4qnvMLCIereh9aPOicpGcN0LrRjUpNZ6slwvwj0Al0OrDEQm5caNmYmmVW_RTadsc8VXQGXHleX_1xTuSYcMpgOx3pykOnu3vczo5lKfIpJA)![](https://lh3.googleusercontent.com/HAbgzWGucnby1XqL3E9TSJ0oQNg52XKU6eD7SkNz-R_pbFPF_WfqUo93jyOfoiHCO50MqhXrtGbDT94xBtuNuXfqayNN8R8VMFDH3VziEU0zwpMIYnOAvNzV6AvnGSHwpf_izCTbbthpwSC5Uid3LM-p1PDH9u2pyj8LrxdNKTZltExJ3NY5BRZCfh2HCA)
 
 Accumulation de matière vivante au niveau de consommateurs primaires ciblés
