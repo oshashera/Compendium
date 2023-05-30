@@ -6,7 +6,7 @@ ___
 	- [x] Climato
 	- [x] Sol
 	- [x] Eau
-	- [ ] Dyn pop
+	- [x] Dyn pop
 	- [x] Dyn commu
 	- [ ] Cycle biogéochimiques
 	- [ ] TD prédation
