@@ -30,45 +30,42 @@ Il faudra représenter les flux d’éléments entre les stocks, normalisés par
 
 Entre deux stocks il pourra y avoir soit une ou deux flèches qui représenteront des processus différents et seront de sens opposés.
 
-***Qu'est ce qu'un cycle biogéochimique ? Pour quelles questions d'écologie ?  
-  
+***Qu'est ce qu'un cycle biogéochimique ? Pour quelles questions d'écologie ?***
 
-  
-  
+![[Pasted image 20230603202733.png]]
+Flèche= flux de matière
+B consomme A
+Le carbone circule de A vers B
 
-  
-  
+***Des molécules correspondant à de la matière organique:***
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_92c5d1fdcd4893e9.png)
+- Acides aminés
+- ADN
+- Protéines
+- Urée
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_a2cc6f11e3a87d84.png)
+***Des molécules correspondant à de la matière minérale:***
+CO<sub>2</sub>, diazote, diamant, ammonium
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_de211d8b4fa82a8b.png)
+***Pourquoi travailler sur le cycle du carbone comme cycle biogéochimique modèle écologie?***
+- Car le carbone est l'élément majeur qui constitue le vivant
+- Car le carbone est associé à des problématiques environnementales majeurs telles que l'augmentation des gaz à effet de serre
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_6769382dd3fb545a.png)
+***Qui sont les producteurs primaires?***
+Le compartiment végétal qui réalise la photosynthèse
 
-  
-  
+***Qui sont les consommateurs primaires?***
+Les herbivores qui consomment les plantes
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_327cff987751e8e7.png)
+***Qui sont les consommateurs secondaires?***
+Les organismes qui consomment les consommateurs primaires
 
-CO2, diazote, diamant, Ammonium
+***Qui sont les décomposeurs?***
+Les organismes qui consomment la matière organique morte
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_b44c40d4b18db9ef.png)
+***Qu'est ce que la matière organique morte?***
+Les organismes morts et les déchets organiques (excréments)
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_b44c40d4b18db9ef.png) ![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_ffc7a33d250c4cfa.png) ![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_1b67e4abb6307dfa.png)
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_70fbf7d7340189c4.png)
-
-  
-  
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_79cd8d5448f77600.png)
-
-  
-  
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_5e2d6e0d8d456c20.png)
 
 Qu’est-ce que la matière minérale pour le carbone ? Le CO2
 
@@ -92,8 +89,8 @@ Du plancton végétal
 ***Qu’est-ce que le zooplancton ?*** 
 Du plancton animal
 
-Les bactéries sont des organismes : procaryotes
-Les protozoaires sont des organismes : eucaryotes
+**Les bactéries** sont des organismes : procaryotes
+**Les protozoaires** sont des organismes : eucaryotes
 Les protozoaires sont : plus grand que les bactéries
 
 Dans cet écosystème, les bactéries n'agissent pas en tant que décomposeurs. Que devient alors la matière organique morte ? Elle n'est prise en charge par aucun organisme donc elle sédimente
