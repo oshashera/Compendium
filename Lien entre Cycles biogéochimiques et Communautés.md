@@ -2,7 +2,7 @@
 #eco 
 ___
 
-## Rappel - cycle biogéochimique
+## Rappel - [[CYCLE BIOGEOCHIMIQUE]]
 
 ### Qu’est-ce qu’un cycle biogéochimique ?
 

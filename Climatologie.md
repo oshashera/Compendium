@@ -145,4 +145,4 @@ Ces scénarios sont très variables en fonction des pays et régions.
 
 On voit que les températures minimales, maximales et intermédiaires ont toutes augmenté. Le nombre de jours de gel ont diminué, comme les jours de précipitation. Le nombre de jours de forte chaleur ont augmenté. Il existe de plus en plus de périodes de déficits hydriques longues.
 
-Ce changement climatique a un fort impact sur la biodiversité. Les aires de répartitions animales et végétales sont drastiquement modifiées, les espèces invasives se développent plus car leur répartition devient de plus en plus importante.
+Ce [[Les effets des facteurs abiotiques sur les écosystèmes - exemple de l'impact du réchauffement climatique sur la phénologie des organismes vivants|changement climatique]] a un fort impact sur la biodiversité. Les aires de répartitions animales et végétales sont drastiquement modifiées, les espèces invasives se développent plus car leur répartition devient de plus en plus importante.

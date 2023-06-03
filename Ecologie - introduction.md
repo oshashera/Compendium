@@ -76,8 +76,8 @@ Il existe différents niveaux d’intégration de la vie, et des disciplines dif
 
 1. -> Niveau cellulaire (acides nucléiques, protéines)
 2. -> Niveau individuel (individus uni ou pluricellulaires)
-3. -> Niveau des populations
-4. -> Niveau des communautés (ensembles de peuplement)
+3. -> Niveau des [[Structure et dynamique des populations|populations]]
+4. -> Niveau des [[Structure et dynamique des peuplements|communautés]] (ensembles de peuplement)
 5. -> Niveau des écosystèmes (ensembles de biocénoses)
 
 Souvent, l’étude des phénomènes de l’écologie requiert une observation et des analyses de plusieurs de ces niveaux.

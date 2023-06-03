@@ -7,6 +7,8 @@ On peut aussi parler de guilde : partie d’une communauté comprenant des esp�
 
 On s’intéresse à leur structure. Cette dernière est dépendante de la composition taxinomique, de la richesse spécifique, et de la diversité spécifique. On s’intéresse également à leur organisation fonctionnelle : les relations entre populations (= interactions biotiques) et leur niche écologique.
 
+[[Lien entre Cycles biogéochimiques et Communautés| Les communautés ont également un rôle dans les cycles biogéochimiques]]
+
 ## <u>I/ Richesse et diversité spécifique des peuplements</u>
 
 <u>Richesse spécifique :</u> nombre d’espèces

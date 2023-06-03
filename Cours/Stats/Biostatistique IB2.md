@@ -394,3 +394,5 @@ La saison printemps n'apparait pas : c'est la modalité de référence du modèl
 Ici tous les coefficients sont associés à des pvalules>0,05 donc il n'y a pas d'effet de différence de température idéale par rapport au printemps [récup diapo]
 
 
+
+[[Fiche IB2]]
