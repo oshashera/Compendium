@@ -14,7 +14,7 @@ ___
 	- [ ] TD réchauffement climatique
 	- [ ] TD Galles
 	- [ ] TD Communautés
-	- [ ] TD lien commu et cycles
+	- [x] TD lien commu et cycles
 	- [ ] TD symbioses
 - [ ] PLA
 - [ ] BVG
