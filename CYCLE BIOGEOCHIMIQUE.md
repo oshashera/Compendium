@@ -1,3 +1,6 @@
+#eco 
+___
+
 Un cycle biogéochimique ou cycle d’un élément, se définit comme la représentation de la circulation d’un (bio)élément (C, N, P, …) à travers la croissance des organismes et recyclage de la matière organique.
 
 Les cycles biogéochimiques caractérisent des flux de matière et d’énergie dans l’écosystème. Ils sont utilisés en écologie pour caractériser le fonctionnement des écosystèmes/ écocomplexes
