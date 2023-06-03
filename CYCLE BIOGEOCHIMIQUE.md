@@ -91,7 +91,7 @@ Du plancton animal
 
 **Les bactéries** sont des organismes : procaryotes
 **Les protozoaires** sont des organismes : eucaryotes
-Les protozoaires sont : plus grand que les bactéries
+L**es protozoaires** sont : plus grand que les bactéries
 
 Dans cet écosystème, les bactéries n'agissent pas en tant que décomposeurs. Que devient alors la matière organique morte ? Elle n'est prise en charge par aucun organisme donc elle sédimente
 
@@ -123,6 +123,7 @@ La présence de phytoplancton indique que la représentation du cycle doit inté
 ***L’augmentation du flux sédimentaire est liée à :*** L’augmentation des stocks d’organismes vivants, l’augmentation de la restitution, et l’augmentation du stock de matière organique morte.
 
 ![[Pasted image 20230603201336.png]]
+
 ***La production photosynthétique :***
 
 - En été, la production primaire globale est diminuée par rapport à l’hiver.
@@ -176,21 +177,18 @@ Le rôle des bactéries et protozoaires a longtemps été négligé ou sous-esti
 
 **Selon nos résultats, en hiver, le système est en autotrophie car il fixe plus de CO2 qu’il n’en libère**
 
-D'après nos résultats, en été, le système est en hétérotrophie car il libère plus de CO2 qu’il n’en fixe
+- D'après nos résultats, en été, le système est en hétérotrophie car il libère plus de CO2 qu’il n’en fixe
 
 **2) Calculer la différence entre les entrées et les sorties de carbone dans la zone euphotique en hiver et en été**
 
-D'après nos résultats, en hiver, le système augmente son stock global de carbone
-
-D'après nos résultats, en été, le système diminue son stock global de carbone
+- D'après nos résultats, en hiver, le système augmente son stock global de carbone
+- D'après nos résultats, en été, le système diminue son stock global de carbone
 
 **3) Calculer la productivité (Flux de production primaire/Stock réalisant ce flux) du système en hiver et en été pour chaque type de phytoplancton**
 
-D'après nos résultats, le petit phytoplancton a une productivité plus forte en hiver
-
-D'après nos résultats, le grand phytoplancton a une productivité plus forte en hiver
-
-D'après vos résultats, le grand phytoplancton assure la plus grande part de productivité du système en hiver
+- D'après nos résultats, le petit phytoplancton a une productivité plus forte en hiver
+- D'après nos résultats, le grand phytoplancton a une productivité plus forte en hiver
+- D'après vos résultats, le grand phytoplancton assure la plus grande part de productivité du système en hiver
 
 ##### <u>Correction des calculs</u>
 
@@ -204,15 +202,11 @@ D'après vos résultats, le grand phytoplancton assure la plus grande part de pr
 - Petit Phytoplancton --> Hiver : 346/489 = 0.71   ;   Eté : 344/636 = 0.54
 - Grand phytoplancton --> Hiver : 794/276 = 2.88   ;   Eté : 97/280 = 0.35
 
-  
-  
 
 Nous avons vu précédemment que le CO2 dissous est en équilibre avec le CO2 atmosphérique.
 
 Les échanges entre les deux milieux sont dépendants de la température et du vent.
 
-  
-  
 La respiration du stock vivant induit une augmentation de la pression partielle en CO2 dissout dans la colonne d’eau.
 
 Cette augmentation déplace l’équilibre eau/atmosphère du C02 qui aboutit à un transfert dans l’atmosphère de CO2 pour revenir à une situation d’équilibre.
@@ -237,4 +231,5 @@ Ces deux processus aboutissent à une séquestration du carbone dans les fonds m
 
 ### Conclusion
 
-- Importance des réseaux trophiques qui assurent les flux de matière et d'énergie au sein des écosystèmes - Variabilité temporelle, mais également spatiale, des flux et des stocks (et des communautés correspondantes) - Conséquences du réchauffement climatique sur le fonctionnement des systèmes océaniques : moindre efficacité de la pompe biologique à carbone A avoir en tête même si non vu ici : chaque élément (C, N, S, P ...) présente des spécificités pour son cycle biogéochimique
+- Importance des réseaux trophiques qui assurent les flux de matière et d'énergie au sein des écosystèmes - Variabilité temporelle, mais également spatiale, des flux et des stocks (et des communautés correspondantes) 
+- Conséquences du réchauffement climatique sur le fonctionnement des systèmes océaniques : moindre efficacité de la pompe biologique à carbone A avoir en tête même si non vu ici : chaque élément (C, N, S, P ...) présente des spécificités pour son cycle biogéochimique
