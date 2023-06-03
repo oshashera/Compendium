@@ -8,7 +8,7 @@ ___
 	- [x] Eau
 	- [x] Dyn pop
 	- [x] Dyn commu
-	- [ ] Cycle biogéochimiques
+	- [x] Cycle biogéochimiques
 	- [ ] TD prédation
 	- [ ] TD mésofaune litière
 	- [ ] TD réchauffement climatique
