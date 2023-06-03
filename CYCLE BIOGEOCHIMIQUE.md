@@ -30,7 +30,7 @@ Il faudra représenter les flux d’éléments entre les stocks, normalisés par
 
 Entre deux stocks il pourra y avoir soit une ou deux flèches qui représenteront des processus différents et seront de sens opposés.
 
-  
+***Qu'est ce qu'un cycle biogéochimique ? Pour quelles questions d'écologie ?  
   
 
   
@@ -72,7 +72,7 @@ CO2, diazote, diamant, Ammonium
 
 Qu’est-ce que la matière minérale pour le carbone ? Le CO2
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_e8f161c6a9956abe.png)
+![[cycle carbone corrigé|width=80%]]
 
 **Unités des stocks et des flux**
 
@@ -82,37 +82,24 @@ Les **flux** rendent compte du fonctionnement de l'écosystème et sont exprim
 
 Dans certains cas, les bilans de matière entre les différents flux et stocks ne sont pas équilibrés au sein d'un écosystème. Il peut apparaitre un déficit ou un excès d'élément. Ceci est lié au fait que les écosystèmes ne sont pas isolés et échangent (donnent ou gagnent) de la matière avec les écosystèmes adjacents. Les écosystèmes gagnent ou perdent de la matière via des processus de précipitation, de ruissellement et de flux d'organismes entre écosystèmes.
 
-  
-  
 
-  
-  
-
-  
-  
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_6b3af8db3e0dad30.png)
-
+***Qu'est ce que le plancton ?***
 Des organismes se déplaçant au gré des masses d’eau
 
-Qu’est-ce que le phytoplancton ? Du plancton végétal
+***Qu’est-ce que le phytoplancton ?*** 
+Du plancton végétal
 
-Qu’est-ce que le zooplancton ? Du plancton animal
+***Qu’est-ce que le zooplancton ?*** 
+Du plancton animal
 
 Les bactéries sont des organismes : procaryotes
-
 Les protozoaires sont des organismes : eucaryotes
-
 Les protozoaires sont : plus grand que les bactéries
 
 Dans cet écosystème, les bactéries n'agissent pas en tant que décomposeurs. Que devient alors la matière organique morte ? Elle n'est prise en charge par aucun organisme donc elle sédimente
 
 La présence de phytoplancton indique que la représentation du cycle doit intégrer, en plus des stocks proposés : Une source d'énergie lumineuse
 
-  
-  
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_e711977e3d2f5691.png)
 
 ![[Pasted image 20230603201143.png]]
 
@@ -129,13 +116,8 @@ La présence de phytoplancton indique que la représentation du cycle doit inté
   
 ***Quel stock peut expliquer l'augmentation des bactéries ?*** Le stock de phytoplancton
 
-
 ***Quel stock peut expliquer l'augmentation des protozoaires ?*** Le stock de bactéries
 
-  
-  
-
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_12e1e95bf4a598a3.png)
 
 ![[Pasted image 20230603201239.png]]
 
@@ -187,13 +169,11 @@ Les stocks de zooplancton n’exploitent pas le stock de matière organique mort
 Effectivement les bactéries et protozoaires ont un rôle extrêmement important dans le cycle du carbone en milieu océanique. Les bactéries consomment une grande partie du carbone fixé par le phytoplancton, au travers de la consommation de composés carbonés produits par le phytoplancton, puis excrétés dans la colonne d'eau. Les bactéries et les protozoaires constituent également une source de carbone alternative pour les stocks de zooplancton, ce qui explique le maintien ou l'augmentation de ces stocks. Le zooplancton capte les bactéries et protozoaires en filtrant l'eau.
 
 Le rôle des bactéries et protozoaires a longtemps été négligé ou sous-estimé dans les études du cycle du carbone en milieu océanique. De ce fait, les bilans quantitatifs de carbone, associant les stocks et les flux, se retrouvaient déséquilibrés. Certaines variations de stocks restaient ainsi inexpliquées en regard des flux jusqu'alors connus et qui ne prenaient donc pas en compte le transfert de carbone depuis les compartiments bactéries et protozoaires vers les stocks de zooplancton.
-
-  
   
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_48a66101e9a4d8e0.png)
+![[Pasted image 20230603202120.png]]
 
-**Comment aller plus loin dans l'interprétation des cycles ?**
+***Comment aller plus loin dans l'interprétation des cycles ?***
 
 **1) Calculer le ratio respiration/production primaire en été et en hiver ;**
 
@@ -215,21 +195,17 @@ D'après nos résultats, le grand phytoplancton a une productivité plus forte e
 
 D'après vos résultats, le grand phytoplancton assure la plus grande part de productivité du système en hiver
 
-**Correction des calculs**
+##### <u>Correction des calculs</u>
 
-**Respiration/Production primaire**
+***Respiration/Production primaire***
+- Hiver : 280/1140 = 0.24    ;    Eté : 470/440 = 1.1
 
-Hiver : 280/1140 = 0.24    ;    Eté : 470/440 = 1.1
+***Entrées-Sorties de carbone***
+- Hiver : 1140-280-119 = +741   ;   Eté : 440-470-161 = -191
 
-**Entrées-Sorties de carbone**
-
-Hiver : 1140-280-119 = +741   ;   Eté : 440-470-161 = -191
-
-**Productivité**
-
-Petit Phytoplancton --> Hiver : 346/489 = 0.71   ;   Eté : 344/636 = 0.54
-
-Grand phytoplancton --> Hiver : 794/276 = 2.88   ;   Eté : 97/280 = 0.35
+***Productivité***
+- Petit Phytoplancton --> Hiver : 346/489 = 0.71   ;   Eté : 344/636 = 0.54
+- Grand phytoplancton --> Hiver : 794/276 = 2.88   ;   Eté : 97/280 = 0.35
 
   
   
@@ -240,18 +216,12 @@ Les échanges entre les deux milieux sont dépendants de la température et du v
 
   
   
-
 La respiration du stock vivant induit une augmentation de la pression partielle en CO2 dissout dans la colonne d’eau.
 
 Cette augmentation déplace l’équilibre eau/atmosphère du C02 qui aboutit à un transfert dans l’atmosphère de CO2 pour revenir à une situation d’équilibre.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_53bdf07f2016155c.png)
+![[échange entre les 2 réservoirs|width=100%]]
 
-  
-  
-
-  
-  
 
 Si nous regardons maintenant l’action du compartiment végétal, soit ici le phytoplancton, nous observons qu’en réalisant la photosynthèse, le phytoplancton prélève du CO2 dissout et transforme ce carbone minéral en carbone organique.
 
@@ -265,8 +235,9 @@ Par ailleurs, les organismes, en mourant ou en produisant des déchets, induisen
 
 Ces deux processus aboutissent à une séquestration du carbone dans les fonds marins. Le mécanisme de pompe biologique à carbone et la séquestration du carbone dans fonds marins sont particulièrement importants. Ils permettent au milieu océanique de tamponner la teneur atmosphérique en CO2 et de limiter l’augmentation du CO2 atmosphérique induite par les activités humaines. Cette caractéristique des milieux océaniques est toutefois fragilisée aujourd’hui du fait du réchauffement climatique puisque vous avez vu qu’une augmentation de la température risque de réduire la dissolution du CO2 atmosphérique. De même une augmentation de la température dans la colonne d’eau est amenée aussi à réduire l’activité photosynthétique de la pompe biologique à carbone.
 
-![](file:///C:/Users/Thomas/AppData/Local/Temp/lu519612yj6.tmp/lu519612yql_tmp_2879f4be856137f8.png)
+![[Pasted image 20230603201932.png]]
 
-**Conclusion**
+
+### Conclusion
 
 - Importance des réseaux trophiques qui assurent les flux de matière et d'énergie au sein des écosystèmes - Variabilité temporelle, mais également spatiale, des flux et des stocks (et des communautés correspondantes) - Conséquences du réchauffement climatique sur le fonctionnement des systèmes océaniques : moindre efficacité de la pompe biologique à carbone A avoir en tête même si non vu ici : chaque élément (C, N, S, P ...) présente des spécificités pour son cycle biogéochimique

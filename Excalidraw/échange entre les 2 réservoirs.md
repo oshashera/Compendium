@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Echange entre les 2 réservoirs = f(vent,T°) ^lap0Rev5
+
 
 # Embedded files
 bf55d31ed930f655e861278212e8afab247a831b: [[Pasted Image 20230603201645_171.png]]
@@ -51,6 +53,40 @@ bf55d31ed930f655e861278212e8afab247a831b: [[Pasted Image 20230603201645_171.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "lap0Rev5",
+			"type": "text",
+			"x": -196.85003662109375,
+			"y": 107.3499526977539,
+			"width": 374,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2096719231,
+			"version": 121,
+			"versionNonce": 1292297649,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685816288586,
+			"link": null,
+			"locked": false,
+			"text": "Echange entre les 2 réservoirs = f(vent,T°)",
+			"rawText": "Echange entre les 2 réservoirs = f(vent,T°)",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Echange entre les 2 réservoirs = f(vent,T°)"
 		},
 		{
 			"id": "0qkGjnTP",
@@ -119,6 +155,40 @@ bf55d31ed930f655e861278212e8afab247a831b: [[Pasted Image 20230603201645_171.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": ""
+		},
+		{
+			"id": "4U8MhbCe",
+			"type": "text",
+			"x": 108.75,
+			"y": 155.94998931884766,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1632444831,
+			"version": 2,
+			"versionNonce": 2126941137,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1685816257237,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -131,7 +201,7 @@ bf55d31ed930f655e861278212e8afab247a831b: [[Pasted Image 20230603201645_171.png]
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 2,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
