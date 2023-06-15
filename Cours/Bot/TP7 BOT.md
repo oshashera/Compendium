@@ -19,7 +19,7 @@ Fleurs groupées en inflorescences, corolle caduque?
 
 ![[Pasted image 20230329142329.png]]
 
-[[insérer dessin papier]]
+*insérer dessin papier*
 
 
 Inflorescence sympodiale
