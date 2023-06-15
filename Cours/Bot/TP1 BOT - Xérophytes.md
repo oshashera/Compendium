@@ -96,4 +96,4 @@ Phloème -> tissu hétérogène
 ![[schéma tp1 bot morg.jpg]]
 
 ___
-[[Questions pour le TP2 de bot]]
+
