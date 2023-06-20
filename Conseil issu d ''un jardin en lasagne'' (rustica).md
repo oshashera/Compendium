@@ -29,26 +29,26 @@
 
 
 
-|                     | Semis en mottes ou en alvéoles | Semis en place en lignes | Semis de pépinière de pleine terre | Semis en place en poquets | Semis en place à la volée |
-| ------------------- | ------------------------------ | ------------------------ | ---------------------------------- | ------------------------- | ------------------------- |
-| Amaranthe           | x x                            | x                        | x                                  | x                         |                           |
-| Aneth               | x x x                          | x x                      |                                    | x x                       |                           |
-| Arroche             | x x x                          |                          |                                    |                           |                           |
-| Aubergine           | x x                            |                          |                                    |                           |                           |
-| Basilic             | x x x                          | x                        | x x (pas avant fin mai)                                   |                           |                           |
-| Betterave           | x x                            | x x x                    | x x                                   |                           |                           |
-| Bourrache           | x x x                          |                          |                                    |                           |                           |
-| Capucine            | x x x                          | x                        | x                                  |                           |                           |
-| Cardon / Artichaut  | x x x                          |                          |                                    |                           |                           |
-| Carotte             | x x x                          | x x x                    | x x x                              | x x x                     | x x x                     |
-| Céleri              |                                |                          |                                    |                           |                           |
-| Cerfeuil à couper   |                                |                          |                                    |                           |                           |
-| Chicorée            |                                |                          |                                    |                           |                           |
-| Chou                |                                |                          |                                    |                           |                           |
-| Ciboule             |                                |                          |                                    |                           |                           |
-| Concombre           |                                |                          |                                    |                           |                           |
-| Coriandre           |                                |                          |                                    |                           |                           |
-| Courge et courgette |                                |                          |                                    |                           |                           |
-| Epinard             |                                |                          |                                    |                           |                           |
-| Fenouil bulbeux     |                                |                          |                                    |                           |                           |
-| Fève                |                                |                          |                                    |                           |                           |
+|                     | Semis en mottes ou en alvéoles | Semis en place en lignes | Semis de pépinière de pleine terre | Semis en place en poquets   | Semis en place à la volée |
+| ------------------- | ------------------------------ | ------------------------ | ---------------------------------- | --------------------------- | ------------------------- |
+| Amaranthe           | x x                            | x                        | x                                  | x                           |                           |
+| Aneth               | x x x                          | x x                      |                                    | x x                         |                           |
+| Arroche             | x x x                          |                          |                                    | x x x (min. fin mai)        | x x x (min. fin mai)      |
+| Aubergine           | x x                            |                          |                                    |                             |                           |
+| Basilic             | x x x                          | x                        | x x (min. fin mai)                 | x x (min. fin mai)          |                           |
+| Betterave           | x x                            | x x x                    | x x                                | x x x                       |                           |
+| Bourrache           | x x x                          |                          |                                    | x x x                       | x x x                     |
+| Capucine            | x x x                          | x                        | x                                  | x x                         |                           |
+| Cardon / Artichaut  | x x x                          |                          |                                    | x x                         |                           |
+| Carotte             | x x x                          | x x x                    | x x x                              | x x x                       | x x x                     |
+| Céleri              |                                |                          |                                    |                             |                           |
+| Cerfeuil à couper   | x x x                          | x x x                    |                                    |                             | x x                       | 
+| Chicorée            | x x x                          | x x                      | x x x                              | x x                         |                           |
+| Chou                | x x                            | x x                      | x x x                              | x x                         |                           |
+| Ciboule             | x x x                          | x x                      |                                    | x x                         |                           |
+| Concombre           | x x x                          |                          |                                    | x x x (qd saison s'y prête) |                           |
+| Coriandre           | x x                            | x x x                    |                                    |                             |                           |
+| Courge et courgette | x x x                          |                          |                                    | x x x (qd saison s'y prête) |                           |
+| Epinard             | x x                            | x x x                    |                                    | x x x                       | x                         |
+| Fenouil bulbeux     | x x                            | x x                      |                                    | x x x                       |                           |
+| Fève                |                                | x x x                    |                                    | x x x                       |                           |
