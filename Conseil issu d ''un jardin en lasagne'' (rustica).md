@@ -29,15 +29,26 @@
 
 
 
-| Semis en mottes ou alvéoles | Semis en place en lignes | Semis de pépinière de pleine terre | Semis en place en poquets | Semis en place à la volée |
-| --------------------------- | ------------------------ | ---------------------------------- | ------------------------- | ------------------------- |
-| Amaranthe                   |                          |                                    |                           |                           |
-| Aneth                       |                          |                                    |                           |                           |
-| Arroche                     |                          |                                    |                           |                           |
-| Aubergine                   |                          |                                    |                           |                           |
-| Basilic                     |                          |                                    |                           |                           |
-| Betterave                   |                          |                                    |                           |                           |
-| Bourrache                   |                          |                                    |                           |                           |
-| Capucine                    |                          |                                    |                           |                           |
-| Cardon / Artichaut          |                          |                                    |                           |                           |
-|                             |                          |                                    |                           |                           |
+|                     | Semis en mottes ou en alvéoles | Semis en place en lignes | Semis de pépinière de pleine terre | Semis en place en poquets | Semis en place à la volée |
+| ------------------- | ------------------------------ | ------------------------ | ---------------------------------- | ------------------------- | ------------------------- |
+| Amaranthe           | x x                            | x                        | x                                  | x                         |                           |
+| Aneth               | x x x                          | x x                      |                                    | x x                       |                           |
+| Arroche             | x x x                          |                          |                                    |                           |                           |
+| Aubergine           | x x                            |                          |                                    |                           |                           |
+| Basilic             | x x x                          | x                        | x x (pas avant fin mai)                                   |                           |                           |
+| Betterave           | x x                            | x x x                    | x x                                   |                           |                           |
+| Bourrache           | x x x                          |                          |                                    |                           |                           |
+| Capucine            | x x x                          | x                        | x                                  |                           |                           |
+| Cardon / Artichaut  | x x x                          |                          |                                    |                           |                           |
+| Carotte             | x x x                          | x x x                    | x x x                              | x x x                     | x x x                     |
+| Céleri              |                                |                          |                                    |                           |                           |
+| Cerfeuil à couper   |                                |                          |                                    |                           |                           |
+| Chicorée            |                                |                          |                                    |                           |                           |
+| Chou                |                                |                          |                                    |                           |                           |
+| Ciboule             |                                |                          |                                    |                           |                           |
+| Concombre           |                                |                          |                                    |                           |                           |
+| Coriandre           |                                |                          |                                    |                           |                           |
+| Courge et courgette |                                |                          |                                    |                           |                           |
+| Epinard             |                                |                          |                                    |                           |                           |
+| Fenouil bulbeux     |                                |                          |                                    |                           |                           |
+| Fève                |                                |                          |                                    |                           |                           |
