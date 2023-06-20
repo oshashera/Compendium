@@ -10,13 +10,13 @@
 | Basilic             | 21 °C                        | 4 à 8 jours                      | X X X             | X X X           |
 | Betterave           | 15 à 26 °C                   | 7 à 14 jours                     |                   |                 |
 | Bourrache           | 15 à 20 °C                   | 10 à 15 jours                    |                   | X X X           |
-| Capucine            |                              |                                  |                   |                 |
-| Cardon / Artichaud  |                              |                                  |                   |                 |
-| Carotte             |                              |                                  |                   |                 |
-| Céleri              |                              |                                  |                   |                 |
-| Cerfeuil à couper   |                              |                                  |                   |                 |
-| Chicorée            |                              |                                  |                   |                 |
-| Chou                |                              |                                  |                   |                 |
+| Capucine            | 17 à 22 °C                             |                                  |                   |                 |
+| Cardon / Artichaud  | 20 °C                             |                                  |                   |                 |
+| Carotte             | 10 à 30 °C (+ = mieux)                             |                                  |                   |                 |
+| Céleri              | 13 °C                             |                                  |                   |                 |
+| Cerfeuil à couper   | 15 à 20 °C                             |                                  |                   |                 |
+| Chicorée            | 20 à 28 °C                             |                                  |                   |                 |
+| Chou                | 16 à 22                              |                                  |                   |                 |
 | Ciboule             |                              |                                  |                   |                 |
 | Concombre           |                              |                                  |                   |                 |
 | Coriandre           |                              |                                  |                   |                 |
