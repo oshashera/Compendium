@@ -5,7 +5,7 @@
 | --------- | ---------------------------- | -------------------------------- | ----------------- | --------------- |
 | Amaranthe | 20 à 25 °C                   | 5 à 8 jours                      | X X X             | X X             |
 | Aneth     | 15 à 20 °C                   | 20 à 25 jours                    |                   | X X X           |
-| Arroche   | 15                              |                                  |                   |                 |
+| Arroche   | 15 à 20 °C                   | 12 à 16 jours                                 |                   |                 |
 
 | Semis en mottes ou alvéoles | Semis en place en lignes | Semis de pépinière de pleine terre | Semis en place en poquets | Semis en place à la volée |
 | --------------------------- | ------------------------ | ---------------------------------- | ------------------------- | ------------------------- |
