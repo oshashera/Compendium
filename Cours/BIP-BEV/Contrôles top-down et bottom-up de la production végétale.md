@@ -145,11 +145,11 @@ Expériences d'Huffaker
 <ul>
 3 modalités:
 <ul>
-Univers 1: contrôle (proie + prédateur)
-
-Univers 2: hétérogénéité spatiale (met des boules de plastiques à des endroit parfois au lieu orange)
-
-Univers 3: réduction des ressources + hétérogénéité + obstacles de dispersion
+- Univers 1: contrôle (proie + prédateur)
+<br>
+- Univers 2: hétérogénéité spatiale (met des boules de plastiques à des endroit parfois au lieu orange)
+<br>
+- Univers 3: réduction des ressources + hétérogénéité + obstacles de dispersion
 
   
 <ul>
@@ -164,6 +164,7 @@ Univers 3: oscillations
   
 Dans la nature, on a l'impression que proie et prédateurs se contrôlent mais y a plein d'autres paramètres
 <br>
+
   
 **Synthèse:**
 
