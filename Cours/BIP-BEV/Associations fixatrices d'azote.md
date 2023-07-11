@@ -81,7 +81,7 @@ Associées à des organismes très divers, ex: champignon -> lichen
 **(4) Angiospermes:** ex: Gunnera (tiges de 2m, dicotylédone), colonies de Nostoc à la base des tiges dans les glandes symbiotiques
 <ul>exemple isolé de ce type de symbiose chez les dicotylédones</ul>
 
-#### B- Endosymbioses à Frankia et Rhizobium 
+#### B- Endosymbioses à *Frankia* et *Rhizobium* 
 (les plus répandues parmis les fixatrices d’azote)
 <ul>|-> tous leurs partenaires végétaux = Eurosidées I</ul>
 
@@ -92,7 +92,7 @@ Fabacure
 <ul>|--> sans nodulation, actinobactéries</ul>
 
 ==°==*rotation des cultures pour enrichir les sols avec plantes capables de symbiose fixatrice d’azote (ex: luzerne, pois, soja, riz,...)
-*
+
 
 Les symbioses à Frankia et Rhizobium enrichissent le sol en azote assimilable, mais, seules les Fabacées en relation avec Rhizobium ont une importance économique (alimentation humaine et animale)
 
@@ -105,6 +105,7 @@ D’où l’intérêt des rotations de cultures légumineuses/céréales limitan
 <ul><i>Luzerne 600 kg N fixé/an/ha</i></ul>
 <ul><i>Pois/Soja 150 kg/an/ha</i></ul>
 <ul><i>-> intérêt agronomique et économique</i></ul>
+
 EUROSIDS (clade des FaFaCuRo) = **plantes nodulées**
 <ul>|-------- Fabales (légumineuses)</ul>
 <ul>|-------- Rosale</ul>
@@ -119,7 +120,7 @@ Appartient aux actinobactéries en association avec les racines d’espèces lig
 
 1) Symbiose avec Frankia
 
-Frankia alni (bactérie du sol filamenteuse naturellement libre), peut fixe azote, peut s'associer avec plantes lignifiées majoritairement
+*Frankia alni* (bactérie du sol filamenteuse naturellement libre), peut fixe azote, peut s'associer avec plantes lignifiées majoritairement
 Dans cet exemple on a *Alnus glutinosus* (Bétulacées) 
 Nodules à *Frankia*  (=Actinorhizes).
 A l'extrémité des racines on a une modification structure pointe racinaire -> on a ces espèces d'excroissances appelées actinorhizes qui sont les nodules formés par *Frankia* avec l'*Alnus*.
@@ -171,8 +172,9 @@ Très fréquente en zone sèche, en altitude et hautes latitudes, la nodulation 
 
 <u>Le fonctionnement des endosymbiose</u>
 
-La mise en place des endosymbioses à Frankia comme à *Rhizobium*, implique un dialogue entre l'hôte et le symbionte dont certaines étapes sont communes au dialogue permettant la mycorhization.
+La mise en place des endosymbioses à *Frankia* comme à *Rhizobium*, implique un dialogue entre l'hôte et le symbionte dont certaines étapes sont communes au dialogue permettant la mycorhization.
 <ul>La symbiose fixatrice d'azote est fondamentale pour les plantes.</ul>
+
 La reconnaissance du partenaire fongique (*Glomus*), ou bactérien (*Frankia*, *Rhizobium*) par l'hôte, est liée à des récepteurs membranaires couplés à une kinase dont l'activité provoque par cascade des modifications de l'expression du génome.
 
 	Exemple de récepteur le plus étudié: le gène SYMRK codant pour une protéine transmembranaire chez les Fabacées (reconnaissance des rhizobium) a été mise en évidence chez Casuarina (reconnaissance de Frankia, mais aussi des Glomales)
@@ -221,6 +223,7 @@ Différentes pistes explorées qui pourraient à terme permettre aux céréales 
 <ul>->Transformer des endomycorhizes en structures fixatrices d’azote</ul>
 <br>
 <br>
+
 ## FIXATION FONGIQUE
 
 #### Interactions biologiques durables
@@ -246,6 +249,7 @@ Union durable majoritairement à bénéfices réciproques entre les racines avec
 Symbiose la plus ancienne et répandue chez les plantes.
 
 <ul>95% des Embryophytes.</ul>
+
 <u>2 types:</u> **endomycorhizes** et **ectomycorhizes**.
 
 <ul>Les interactions se limitent à l'écorce (pas cylindre central)</ul>
