@@ -68,6 +68,7 @@ Associées à des organismes très divers, ex: champignon -> lichen
 
 **(1)Lichens** =Cyanobactéries + champignons (héberge la bactérie)
 <ul>On observe, en coupe fine, la présence de colonies (filamenteuses des cyanobactéries à hétérocystes à l’intérieur du lichen (dans son mycelium))</ul>
+
 **Autres formes:**
 
 **(2) Filicophytes** : Azolla, fougère aquatique. Filicophytes utilisés comme engrais dans les rizières, co-culture.
@@ -76,6 +77,7 @@ Associées à des organismes très divers, ex: champignon -> lichen
 ![[Pasted image 20230528191856.png]]
 <ul> Racines coralloides -> comportement modifié pour se développer en surface, géotropie, pour permettre aux cyanobactéries de recevoir la lumière
 => activité transcriptionnelle pour assurer ce développement </ul> 
+
 **(4) Angiospermes:** ex: Gunnera (tiges de 2m, dicotylédone), colonies de Nostoc à la base des tiges dans les glandes symbiotiques
 <ul>exemple isolé de ce type de symbiose chez les dicotylédones</ul>
 
