@@ -148,11 +148,13 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 -> remplir 1 godet de chaque sol
 ->ajouter de l'eau
 -> mesures de la plantules : nb de feuilles, hauteurs partie aérienne, taille racine
+
 | Bleuet (C.c)                   | Sol contaminé             | Sol contrôle              | 
 | ------------------------------ | ------------------------- | ------------------------- |  
 | Nb feuille                     | 2 feuilles + 2 cotylédons | 2 feuilles + 2 cotylédons |     
 | Hauteur parties aériennes (cm) | 7 cm                      | 6 cm                      |     
 | Longueur racines (cm)          | 12 cm                     | 9 cm                      |    
+
 
 | Lotus (L.c)     | Sol contaminé | Sol contrôle |
 | ------------------------------ | ------------- | ------------ |
@@ -160,11 +162,13 @@ Sol de référence (zone prairiale centrale, prairies ST-Martin) **VS** sol poll
 | Hauteur parties aériennes (cm) | 3 cm          | 3,5 cm       |
 | Longueur racines (cm)          | 4 cm          | 6 cm             |
 
+
 | Fréole (P.p)                   | Sol contaminé | Sol contrôle |
 | ------------------------------ | ------------- | ------------ |
 | Nb feuille                     | 2 feuilles    | 1 feuille    |
 | Hauteur parties aériennes (cm) | 5,5 cm        | 4 cm             |
 | Longueur racines (cm)          | 2 cm          | 2 cm             |
+
 
 ![[plan godets tp1]]
 
