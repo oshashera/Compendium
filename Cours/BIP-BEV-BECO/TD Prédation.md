@@ -1,3 +1,6 @@
+#eco 
+___
+
 ### I/ Introduction aux interactions biotiques
 
 On définit un écosystème comme l’association d’un biotope et d’une biocénose.
@@ -45,8 +48,6 @@ Cependant, la quantification est souvent délicate et limitée au temps d’obse
 ##### 2. Observations indirectes sur le terrain
 
 ![[Pasted image 20230713192511.png]]
-2. O![](file:///C:/Users/tomha/AppData/Local/Temp/lu119447ltm.tmp/lu119447ltq_tmp_771e11d05ce02ff6.png) bservations indirectes sur le terrain
-    
 
 Le principe est d’utiliser les restes alimentaires des animaux pour observer les contenus stomacaux, les fèces, les pelotes de rejection, les cadavres et restes de proies, les exuvies …
 
@@ -54,10 +55,9 @@ Cela permet d’étudier les Vertébrés ou les Invertébrés et le nombre/type 
 
 Cependant, ces méthodes ont des limites : la détermination des proies est parfois imprécise, surtout dans les cas où les proies sont très modifiées par le prédateur, et il existe des problématiques liées aux restes des proies laissés par le prédateur (le lien est-il établi entre les bons individus ? de plus, tous les prédateurs ne laissent pas ces indices, etc.).
 
- ![](file:///C:/Users/tomha/AppData/Local/Temp/lu119447ltm.tmp/lu119447ltq_tmp_4685c74ae2822472.png)Ces méthodes sont de moins en moins utilisées et laissent place à des méthodes s’appuyant sur les isotopes stables ou radioactifs, ou encore sur l’identification à partir d’ADN.
+![[Pasted image 20230713192542.png]]Ces méthodes sont de moins en moins utilisées et laissent place à des méthodes s’appuyant sur les isotopes stables ou radioactifs, ou encore sur l’identification à partir d’ADN.
 
-3. E![](file:///C:/Users/tomha/AppData/Local/Temp/lu119447ltm.tmp/lu119447ltq_tmp_76ae944fd645beaa.png) xpérimentations de terrain
-    
+##### 3. Expérimentations de terrain
 
 Le principe est de mettre en place des dispositifs permettant d’analyser et/ou d’observer l’acte de prédation en conditions semi-naturelles. Cela permet d’étudier les Vertébrés ou les Invertébrés.
 
@@ -67,8 +67,7 @@ Cependant, il est difficile d’étudier les régimes alimentaires polyphages av
 
 Il faut également faire attention aux conditions d’expérimentation : en effet, en milieu contraint, c’est l’expérimentateur qui introduit les proies, toutes les proies naturelles ne sont pas forcément à sa disposition. Ainsi, le comportement animal en milieu contraint n’est pas forcément le même que celui d’un animal en liberté.
 
-2. Etudes en laboratoire
-    
+#### B) Etudes en laboratoire
 
 Le principe de ces études est de proposer au prédateur des proies différentes, en termes d’espèces, de taille, de valeur énergétique, de masse, de couleur, de nombre, d’aspect … L’expérimentateur peut contrôler de nombreux paramètres du milieu.
 
@@ -77,6 +76,8 @@ On utilise pour cela plusieurs dispositifs expérimentaux.
 Attention ! Pour étudier les espèces en laboratoire, il est nécessaire de mettre en place des élevages (si ce n’est pas possible, les animaux ne peuvent pas être étudiés en conditions de laboratoire contrôlées).
 
 On étudie des Vertébrés, mais surtout des invertébrés (toutes les espèces observables et élevables en conditions contrôlées). En laboratoire, il n’est pas possible d’élever un grand nombre d’espèces pour des raisons de matériel, de logistiques et de coups.
+
+![[Pasted image 20230713192703.png]]
 
 Ces méthodes permettent d’obtenir des informations sur les stratégies de sélection des proies et les comportements de sélection, sur la séquence comportementale de capture des proies, sur les stratégies de défenses des proies, et sur le nombre/type de proies consommées en fonction de leurs caractéristiques et de celles du prédateur.
 

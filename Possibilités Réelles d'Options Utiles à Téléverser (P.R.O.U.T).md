@@ -9,7 +9,7 @@ ___
 	- [x] Dyn pop
 	- [x] Dyn commu
 	- [x] Cycle biogéochimiques
-	- [ ] TD prédation
+	- [x] TD prédation
 	- [ ] TD mésofaune litière
 	- [x] TD réchauffement climatique
 	- [ ] TD Galles
