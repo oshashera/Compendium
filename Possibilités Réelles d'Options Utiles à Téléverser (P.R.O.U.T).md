@@ -10,7 +10,7 @@ ___
 	- [x] Dyn commu
 	- [x] Cycle biogéochimiques
 	- [x] TD prédation
-	- [ ] TD mésofaune litière
+	- [x] TD mésofaune litière
 	- [x] TD réchauffement climatique
 	- [ ] TD Galles
 	- [ ] TD Communautés
