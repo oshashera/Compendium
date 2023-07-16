@@ -355,10 +355,95 @@ diminue en général.*
 *Est-ce que ce phénomène observé à l’échelle européenne est une opportunité pour la
 biodiversité ?*
 
-De façon générale, déprise agricole = abandon définitif prolongé d’une activité agricole
+De façon générale, **déprise agricole** = abandon définitif prolongé d’une activité agricole
 (cultures, élevage) dans un espace donné.
+
 Cela est subventionné par l’Europe de façon assez importante. On estime que chaque année,
 environ 1 milliard d’hectares de terres agricoles connaissent cette déprise agricole.
 A l’échelle de la Bretagne : accroissement des surfaces boisées spontanées de +/- 500 Ha/an
 (dynamique de succession qui se met en place par opposition aux plantations d’arbres).
-Que deviennent ces espaces en termes de biodiversité et ici d’arthropodes ?
+
+*Que deviennent ces espaces en termes de biodiversité et ici d’arthropodes ?*
+
+<u>Evolution du nombre d’espèces dans le temps</u>
+
+*Les différents stades dans une chronoséquence de déprise agricole
+Biodiversité en arthropodes le long de ces stades de successions (initialement prairies
+fauchées, en déprise, friches, fourré pré-forestier, jeune futaie et enfin vieille futaie).*
+![[Pasted image 20230716201054.png]]
+
+L’ensemble de ces stades a été reproduit spatialement, le long d’un transect =
+**chronoséquence**.
+L’étude est basée sur un suivi synchronique des communautés de chaque stade (6) de la
+succession secondaire (bocage, situé sur le site de kervio dans la baie de Saint-Brieuc).
+Il y a eu réplication des parcelles x3 pour chacun des 6 stades : **chaque stade forestier est
+représenté par une parcelle**.
+Les arthropodes ont été échantillonnés par **pièges Barber** (91 pièges au sol). Les relevés ont
+été effectués deux fois par mois pendant 1 an. Cela donne une idée des **communautés
+d’insectes du sol par stade**. 300 espèces d’insectes et d’araignées différentes ont été capturées grâce à ces pièges.
+Autre méthode utilisée : **filets fauchoirs**, surtout en milieux ouverts et battage dans stades
+arborés. Ces deux méthodes ont pu donner une idée des **arthropodes de la végétation**.
+**→ 2 méthodes complémentaires**.
+
+<u>Résultats : évolution du nombre d’espèces dans le temps</u>
+
+![[Pasted image 20230716201313.png]]
+
+On constate que **pour les 3 groupes**, l’évolution des richesses spécifiques entre les stades de
+succession est relativement similaire : **augmentation dans les premiers stades puis diminution** (tendance) au niveau du stade C. La richesse est relativement constante pour
+araignées/carabidés et plutôt croissante pour les charançons après la diminution du nombre
+d’espèces.
+
+<u>Interprétation :</u> le pic au début de la succession correspond à un **ajout d’espèces spécialistes**
+alors qu’il y a toujours un **maintien des espèces généralistes** (→ écotone : perturbation
+intermédiaire). Puis les **espèces généralistes disparaissent d’où une diminution du nombre
+d’espèces**. Ensuite, plus il y a d’espèces végétales dans un habitat, plus il y a de chance qu’il y
+ait beaucoup d’espèces phytophages, d’où l’augmentation de la richesse spécifique en
+charançons (à partir de C sur le graphique).
+
+<u>Des groupes d’espèces « fidèles » aux changements des écosystèmes</u>
+
+![[Pasted image 20230716201530.png]]
+
+On observe **2 groupes d’assemblages** : un assemblage d’araignées qui appartiennent aux stades A et B **(araignées des prairies)** et les assemblages des espèces qui appartiennent à des milieux plus fermés s’isolent.
+<u>Au sein d’un même habitat :</u>  prairie fauchée/non fauchée, on observe également ces deux
+groupes d’assemblage. Des prairies qui sont gérées de la même façon présentent donc des
+assemblages (ici d’araignées) globalement similaires.
+Dans les habitats qui ont de la végétation ligneuse : fourrés, boisements ; les assemblages ne
+sont pas aussi distincts. Les araignées ne peuvent plus se déplacer entre les deux milieux.
+
+<u>Hypothèse :</u> il n’y a plus d’échanges entre les habitats de fin de succession.
+
+Pour ce graphique : **plus la dissimilarité est élevée, plus les assemblages sont différents**.
+![[Pasted image 20230716201637.png]]
+
+***Turn-over des espèces** = taux de remplacement d’espèces = pourcentage d’espèces qui ont en
+commun deux assemblages successifs.*
+
+Au moins 50 % des espèces changent de 2 stades en 2 stades.
+Turn-over particulièrement élevé entre C et D : entre milieux prairiaux et milieux forestiers.
+
+***Valeur indicatrice des espèces** = IndVal = produit de la fidélité d’une espèce (habitat i par
+rapport à habitat j) par son exclusivité*. 
+Il sera maximal si l’espèce est présente dans tous les échantillons de l’habitat i et dans aucun des échantillons de l’habitat j.
+On constate que l’on a bien des espèces qui se répartissent préférentiellement dans les stades prairiaux A et B, dans les stades à fourrés C et D et dans les stades forestiers E et F.
+
+![[Pasted image 20230716201834.png]]
+
+<u>Résultats : à propos des assemblages de coléoptères Carabidae</u>
+Depuis la prairie vers le bois, on observe un remplacement d’espèces, avec des espèces
+limitées à des milieux donnés (espèces en gras = espèces indicatrices, significativement
+associées au stade dans lequel on les trouve).
+
+<u>2 remarques :</u>
+- **Un** grand nombre d’espèces est associé au stade prairial puis cela diminue de plus en plus à mesure que l’on avance dans la succession. Le nombre d’espèces spécialistes tend à diminuer au cours des successions.
+- **Très** peu d’espèces sont présentes sur l’ensemble de la chronoséquence. Les espèces trouvées dans l’ensemble des stades sont dites généralistes ou ubiquistes (tandis que les espèces spécialistes sont dites sténoèces).
+
+Il y a remplacement d’espèces d’un stade à l’autre et finalement apparition de groupes d’espèces étroitement liées (spécifiques) au boisement (qui sont absentes des stades
+pionniers et des stades intermédiaires)
+Le nombre d’espèces spécialistes de chaque habitat tend à diminuer au cours de la
+succession : les espèces généralistes de début de succession tendent à être plus nombreuses et
+les espèces spécialistes de fins de successions tendent à diminuer par rapport au début de
+succession (plus d’espèces spécialistes au début qu’à la fin).
+Pour les Charançons, on observe des résultats/tendances similaires à ce qui est observé pour
+les Carabes.
