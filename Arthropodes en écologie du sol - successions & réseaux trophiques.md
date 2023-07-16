@@ -165,19 +165,64 @@ fonctionnels.*
 autre = La modification de la composition d’une d’une communauté dans le temps = Le
 processus qui consiste en une série de changements consécutifs dans la composition des
 espèces.*
+
 Ces séries évolutives vont être influencées et conditionnées par des dysfonctionnements,
 stress, perturbations etc.
 La fréquence et l’intensité des perturbations vont déterminer le type de succession.
-Une perturbation est d’autant plus rare qu’elle est forte.
-2 types de successions écologiques :
+**Une perturbation est d’autant plus rare qu’elle est forte.**
+
+<u>2 types de successions écologiques :</u>
 Les successions qui vont se faire à partir de perturbations tellement fortes qu’on ne part de
-« rien ». On parle de
-succession primaire = perturbations aboutissant à la destruction
-complète du milieu, ne laissant qu’un substrat vierge. Exemples : volcanisme, glaciers,
-glissements etc.
-Les successions secondaires : pool d’espèces et de nutriments, fait suite à une autre succession.Exemples : cyclone, déforestation, neige, incendie, trouées, inondation etc.
+« rien ». On parle de ***succession primaire** = perturbations aboutissant à la destruction
+complète du milieu, ne laissant qu’un substrat vierge.* 
+
+*Exemples : volcanisme, glaciers, glissements etc.*
+
+Les **successions secondaires** : pool d’espèces et de nutriments, fait suite à une autre succession.
+
+*Exemples : cyclone, déforestation, neige, incendie, trouées, inondation etc.*
+
 Malgré une stabilité apparente, il existe une direction vers laquelle se dirige la succession,
-dans un environnement donné. La succession va tendre vers un stade ultime, stable, théorique
-(état de référence) que l’on appelle climax, tout en étant capable d’évolution et d’adaptation
-au contexte écologique et abiotique. Ainsi, dans nos régions, le stade climacique serait celui
-d’une chênaie-hêtraie.
+dans un environnement donné. La succession va tendre vers un stade ultime, stable, théorique (état de référence) que l’on appelle **climax**, tout en étant capable d’évolution et d’adaptation au contexte écologique et abiotique. Ainsi, dans nos régions, le **stade climacique** serait celui d’une **chênaie-hêtraie**.
+
+![[Pasted image 20230716181338.png]]
+![[Pasted image 20230716181346.png]]
+
+Les mécanismes de successions écologiques à l’origine de l’émergence des boisements
+spontanés
+![[Pasted image 20230716181655.png]]
+
+Les successions sont souvent régies par les **nutriments** (quantité, qualité).
+
+<u><i>Cf. Variations de la disponibilité de nutriments en fonction d’un âge de succession.</i></u>
+![[Pasted image 20230716181759.png]]
+*Durant cette succession, pas de changement linéaire de nutriments mais globalement la MO
+tend à augmenter jusqu’à un état climacique stable, le phosphore tend à diminuer et l’azote ?*
+
+Pour les arthropodes, phénomènes de successions beaucoup plus compliqués que pour les ?
+
+L’**équitabilité** traduit la **répartition des abondances en fonction des espèces**.
+
+<u><i>Equitabilité de différentes communautés d’arthropodes au cours d’une succession depuis
+l’habitat le plus jeune à l’habitat le plus ancien :</i></u>
+
+![[Pasted image 20230716181926.png]]
+
+Globalement, le long de successions spatio-temporelles, **l’équitabilité des assemblages tend à augmenter** (courbe de plus en plus horizontale, la diversité spécifique tend à être plus
+équitable) et donc la différence de rang entre les espèces diminue.
+En début de succession on observe généralement quelques espèces dominantes (abondance
+inégale des espèces) puis il y a équilibrage progressif de l’abondance respective de chaque
+espèce de la communauté.
+
+Cependant, **les successions ne sont pas toujours claires**.
+
+<u>Mécanismes de succession</u>
+
+On distingue 2 approches :
+- **L’approche déterministe des successions (approche classique)**
+Pour un habitat, dans une région donnée, **la succession va aboutir à un stade pré-déterminé**, le climax. A la fin de la succession, stade donné = stade climacique.
+En fonction des habitats, il peut exister un bon nombre de stades différents.
+On considère que cette approche classique s’applique surtout en milieu continental.
+Dans cette approche déterministe, c’est la dynamique des producteurs primaires qui va
+déterminer la succession, plus que les interactions trophiques.
+C’est le cas de la plupart des successions observées.
