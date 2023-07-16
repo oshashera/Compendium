@@ -289,4 +289,76 @@ phénotypes (plasticité). Si le stress continue d’augmenter → remplacement 
 (« turn-over ») puis de nouveaux genres, familles, ordres.
 **Suivant le stress croissant et au cours du temps, on va observer des changements qui vont
 impacter des groupes taxonomiques de plus en plus développés.**
+<br>
 
+<u>Modèle de Pearson et Rosenberg</u>
+
+<u><i>Evolution du nombre d’espèces, biomasse et abondance en fonction d’un gradient de
+perturbation.</i></u>
+*(Attention en particulier aux axes des x)*
+
+![[Pasted image 20230716200217.png]]
+
+Biomasse et abondance varient en fonction d’un gradient croissant de perturbation : **la
+succession se fait de la droite vers la gauche**.
+Le **nombre d’espèces augmente à mesure que la perturbation diminue** et que l’on va dans les
+stades de succession, puis il atteint un plateau dans les derniers stades.
+L’**abondance** (nombre individus) : au stade 1 : on observe un pic d’individus qui va ensuite
+diminuer → abondance accrue de certaines espèces durant les premiers stades de la
+succession → **pic d’espèces opportunistes**.
+La **biomasse suit l’abondance** (pic opportuniste → pic biomasse) **puis suit la courbe du nombre d’espèces**.
+*Pourquoi ?* Si le nombre d’individus par espèces tend à diminuer, il est logique que
+la biomasse suive plutôt le nombre d’espèces. **Plus on va dans des habitats stables, plus il y a d’espèces à cohabiter et le nombre d’individus par espèce diminue**.
+
+***Ecotone** = point de transition entre une communauté (1) d’un environnement perturbé et une communauté (2) d’un environnement en phase de recouvrement = point de transition entre les deux communautés.*
+
+<u>Conclusion :</u> De plus en plus d’espèces dominent l’assemblage et donc de moins en moins
+d’individus.
+
+Or, c’est un modèle qui n’est pas toujours vérifié : **Théorie de la perturbation intermédiaire**
+(IDT/H : Intermediate Disturbance Theory/Hypothesis) : cette théorie prévoit que ce sont les
+**valeurs médianes de productivité et/ou de perturbation qui font que la diversité est maximale**.
+Si on laisse trop vieillir l’habitat, il va passer par une zone de diversité maximale qui va ensuite diminuer de nouveau et donc il faudra privilégier des stades intermédiaires de succession si l’on veut maximiser la diversité.
+
+Parfois, au niveau de l’écotone, la diversité est maximale → Pas complètement incompatible
+avec la théorie de Pearson et Rosenberg.
+Perturbation minimale → espèces spécialistes, adaptées aux habitats. 
+A contrario, perturbations très élevées → espèces généralistes, opportunistes, à fort niveau de reproduction.
+
+On peut donc admettre une **coexistence des 2 pools d’espèces** lorsque les perturbations sont intermédiaires d’où une diversité maximale : espèces spécialistes d’habitats stables et espèces généralistes d’habitats perturbés.
+A l’heure actuelle, c’est plutôt cette théorie qui est la plus admise.
+
+<u>Formalisation de ces effets</u>
+
+On distingue **2 grandes catégories** :
+
+- **Top down** : contrôle des successions par un **effet de prédation** : par les niveaux supérieurs et les interactions biotiques. Densité de carnivores qui a un effet sur la densité d’herbivores qui diminue par un effet de prédation. C’est généralement ce qui est observé dans les successions écologiques non-déterministes.
+
+- **Bottom-up** : **successions contrôlées par la dynamique des ressources alimentaires** (qualité plante, du climat etc.) Densité d’herbivores qui suit la biomasse : plus la biomasse augmente, plus la densité d’herbivores augmente Le niveau de nutriments disponibles dans le milieu conditionne le reste de la succession. C’est généralement ce qui est observé dans les successions écologiques déterministes.
+
+2 grandes voies peuvent donc contrôler les dynamiques de successions. Elles ne sont
+cependant pas indépendantes.
+
+Ces **deux effets peuvent se succéder** et sont en **particulier fonctions des forces abiotiques de l’environnement** : on aura surtout des effets bottom-up au début et ensuite des effets top-down.
+
+*Remarque : à mesure que la productivité augmente, la qualité de la production primaire
+diminue en général.*
+
+## III- Les successions des communautés d’Arthropodes dans les séries évolutives (à travers 2 exemples)
+
+### 1) Les successions secondaires : les séries évolutives à long terme.
+
+<u>La déprise agricole, une opportunité pour la biodiversité ?</u>
+
+<u><i>Exemple de surfaces agricoles qui cessent et qui sont remplacées par des zones boisées</i></u>
+
+*Est-ce que ce phénomène observé à l’échelle européenne est une opportunité pour la
+biodiversité ?*
+
+De façon générale, déprise agricole = abandon définitif prolongé d’une activité agricole
+(cultures, élevage) dans un espace donné.
+Cela est subventionné par l’Europe de façon assez importante. On estime que chaque année,
+environ 1 milliard d’hectares de terres agricoles connaissent cette déprise agricole.
+A l’échelle de la Bretagne : accroissement des surfaces boisées spontanées de +/- 500 Ha/an
+(dynamique de succession qui se met en place par opposition aux plantations d’arbres).
+Que deviennent ces espaces en termes de biodiversité et ici d’arthropodes ?
