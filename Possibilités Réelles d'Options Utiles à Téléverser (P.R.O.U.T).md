@@ -13,7 +13,7 @@ ___
 	- [x] TD mésofaune litière
 	- [x] TD réchauffement climatique
 	- [ ] TD Galles
-	- [ ] TD Communautés
+	- [x] TD Communautés
 	- [x] TD lien commu et cycles
 	- [ ] TD symbioses
 - [ ] PLA
