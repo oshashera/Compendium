@@ -83,8 +83,101 @@ coûteuse en terme de temps.
 → **Pièges d’interception (Barber)** : Mise en place de récipients à parois lisses partiellement
 enterrés (ouverture affleurant au niveau du sol) et remplis d’un liquide liquide conservateur
 (eau salée, monoéthynol?, formol etc.), constituant des pièges passifs/statiques dans lesquels
-les arthropodes vont tomber sans possibilité d’en sortir. Plus un arthropode va être mobile (en
-dépit de sa densité) et plus la probabilité qu’il tombe dans ce dispositif est élevée. Cela
-entraîne donc un biais dû à l’activité des individus, également lié au fait que c’est une méthode
-passive. La quantification reste à démontrer car certaines espèces risquent d’être
+les arthropodes vont tomber sans possibilité d’en sortir. Plus un arthropode va être mobile (en dépit de sa densité) et plus la probabilité qu’il tombe dans ce dispositif est élevée. Cela
+entraîne donc un biais dû à l’activité des individus, également lié au fait que c’est une méthode passive. La quantification reste à démontrer car certaines espèces risquent d’être
 surreprésentées
+
+<u>Facteurs de variation des successions d’Arthropodes : Aspects spatiaux
+</u>
+
+Les communautés vont-elles changer à différentes échelles et pourquoi ?
+L’hétérogénéité spatiale va exister **à de toutes petites échelles**, les domaines vitaux des
+arthropodes étant très petits. Cependant, ces variations vont également exister **à plus large
+échelle**.
+
+![[Pasted image 20230716180217.png]]
+![[Pasted image 20230716180234.png]]
+
+Le long de gradients latitudinaux (partant de l’équateur, en remontant vers les pôles), on va
+avoir des parcours de distribution qui vont se retrouver. On observe une **richesse spécifique
+beaucoup plus élevée dans les zones inter-tropicales et qui décroît aux hautes latitudes** (vers
+zones polaires). Ces phénomènes sont inversement corrélés à la **taille moyenne des individus
+qui va augmenter avec la latitude**. De plus, **plus on va vers les pôles, plus les populations de
+chaque espèce sont importantes**. A l’inverse, en zone tropicale, certaines espèces ne seraient
+représentées que par 2 individus.
+
+Les **facteurs et processus de succession/distribution des organismes changent en fonction de
+l’échelle à laquelle on se place** (micro-habitats, habitats, écosystèmes, paysages)
+
+![[Pasted image 20230716180347.png]]
+
+A la **plus petite échelle**, des **facteurs populationnels** vont s’exercer.
+**A plus large échelle**, il y a les effets de la **dispersion passive** : le déplacement des individus dans
+la matrice va être affecté par des gradients à plus grandes échelles. L’impact des facteurs liés
+aux interactions biotiques va être d’autant important.
+
+*Quels paramètres/métriques suivre ?*
+
+→ Paramètres « **classiques** » :
+- **Abondance** : nombre d’individus modulé par une activité. Les abondances elles-mêmes
+peuvent être absolues ou relatives (mais à ne pas confondre avec la valeur du paramètre).
+
+- **Nombre d’individu absolu** : densité/biomasse
+
+- **Richesse spécifique** : nombre d’espèces, richesse observée/richesse estimée ; richesse
+taxinomique → on dénombre des taxons.
+Richesse spécifique estimée : asymptote, plateau atteint par la courbe (richesse spé en
+fonction du nbre d’individus) si l’on échantillonne au maximum.
+
+- **Diversité spécifique** : à différentes échelles (alpha, bêta, gamma)
+
+→ Paramètres « **modernes** »
+- **Abondance, richesse par « Trait »** fonctionnels : caractéristiques qui permettent de regrouper
+les Arthropodes dans des groupes (traits écologiques (milieu de vie), taille (souvent en lien
+avec la stabilité du milieu), régime alimentaire etc.) qui vont renseigner sur la qualité du
+milieu.
+
+- **Spécialisation écologique**
+
+- **Proxys de service écosystémique** → anthropocentrique – exemples : régulation, pollinisation
+
+<u>Approche par groupes fonctionnels</u> 
+***Groupe fonctionnel** = regroupement non phylogénétique d’espèces qui fonctionnent de façon comparable dans un écosystème, sur la base d’attributs biologiques communs. (Gitay et Noble, 1997).*
+
+Elle permet de contourner notre ignorance de la biologie de chacune des espèces car souvent on considère les taxa au niveau génétique plutôt que spécifique. Elle permet de simplifier les communautés complexes en condensant un grand nombre d’espèces en quelques groupes bien définis. Elle fournit une idée intéressante sur les processus inhérents aux communautés et leurs associations avec les habitats. Elle permet une comparaison entre communautés très différentes les unes des autres.
+
+*Exemple : 2 taxons (Carabidés (Coléoptères) et Araignées) ont été regroupés suivant
+différents traits biologiques et, par trait biologique, il y a différents attributs. Pour les deux
+taxons, les traits et les attributs ne sont pas nécessairement les mêmes (différentes classes de
+taille par exemple).*
+![[Pasted image 20230716180827.png]]
+
+<u>Notion de groupes indicateurs</u>
+***Groupes indicateurs** = comparaison par assemblages comprenant les mêmes traits
+fonctionnels.*
+
+![[Pasted image 20230716180925.png]]
+
+## II- Successions : patterns et mécanismes
+
+<u>Les séries évolutives ou successions écologiques</u>
+***Succession écologique** = remplacement graduel d’une espèce de plante ou d’animal par une
+autre = La modification de la composition d’une d’une communauté dans le temps = Le
+processus qui consiste en une série de changements consécutifs dans la composition des
+espèces.*
+Ces séries évolutives vont être influencées et conditionnées par des dysfonctionnements,
+stress, perturbations etc.
+La fréquence et l’intensité des perturbations vont déterminer le type de succession.
+Une perturbation est d’autant plus rare qu’elle est forte.
+2 types de successions écologiques :
+Les successions qui vont se faire à partir de perturbations tellement fortes qu’on ne part de
+« rien ». On parle de
+succession primaire = perturbations aboutissant à la destruction
+complète du milieu, ne laissant qu’un substrat vierge. Exemples : volcanisme, glaciers,
+glissements etc.
+Les successions secondaires : pool d’espèces et de nutriments, fait suite à une autre succession.Exemples : cyclone, déforestation, neige, incendie, trouées, inondation etc.
+Malgré une stabilité apparente, il existe une direction vers laquelle se dirige la succession,
+dans un environnement donné. La succession va tendre vers un stade ultime, stable, théorique
+(état de référence) que l’on appelle climax, tout en étant capable d’évolution et d’adaptation
+au contexte écologique et abiotique. Ainsi, dans nos régions, le stade climacique serait celui
+d’une chênaie-hêtraie.
