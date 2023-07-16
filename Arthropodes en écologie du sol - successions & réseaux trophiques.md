@@ -442,8 +442,83 @@ associées au stade dans lequel on les trouve).
 Il y a remplacement d’espèces d’un stade à l’autre et finalement apparition de groupes d’espèces étroitement liées (spécifiques) au boisement (qui sont absentes des stades
 pionniers et des stades intermédiaires)
 Le nombre d’espèces spécialistes de chaque habitat tend à diminuer au cours de la
-succession : les espèces généralistes de début de succession tendent à être plus nombreuses et
-les espèces spécialistes de fins de successions tendent à diminuer par rapport au début de
+succession : les espèces généralistes de début de succession tendent à être plus nombreuses et les espèces spécialistes de fins de successions tendent à diminuer par rapport au début de
 succession (plus d’espèces spécialistes au début qu’à la fin).
-Pour les Charançons, on observe des résultats/tendances similaires à ce qui est observé pour
-les Carabes.
+
+*Pour les Charançons, on observe des résultats/tendances similaires à ce qui est observé pour
+les Carabes.*
+
+<u><i>Autre exemple : étude des assemblages/successions de végétaux et d’arthropodes dans 18
+champs cultivés abandonnés étant à différents stades de déprise agricole (de 15 à 54 ans)</i></u>
+
+![[Pasted image 20230716202044.png]]![[Pasted image 20230716202054.png]]
+
+<i><u>Remarques :</u> même si la droite de régression permet d’avoir un aperçu, elle n’indique pas si la
+variation est significative.
+R²correspond au coefficient de corrélation, il traduit l’éloignement des points par rapport à la
+droite de corrélation.</i>
+
+La seule variation significative entre les différents stades concerne la richesse spécifique en
+arthropodes, qui augmente à mesure que l’on avance dans la chronoséquence.
+- Il semblerait donc que le recouvrement en plantes soit indépendant de la succession.
+- Il y a une tendance de réduction du nombre d’arthropodes au cours de la succession mais les variations ne sont pas significatives.
+
+<u>A propos des traits fonctionnels</u>
+![[Pasted image 20230716202222.png]]
+
+Le volume moyen des arthropodes tend à diminuer à mesure que la succession augmente :
+plus le milieu est stable, plus on tend à avoir des petites espèces : il y a un partage important
+des niches écologiques par des espèces de petite taille.
+Les espèces herbivores tendent à augmenter ainsi que les détritivores et les parasites mais pas les espèces prédatrices.
+Nombre total d’espèces d’arthropodes qui tend à augmenter car les phytophages ont des
+effectifs beaucoup plus élevés et montrent une tendance significative
+
+### 2) Les successions secondaires dans des écosystèmes « temporaires » : succession régressive
+
+<u><i>Exemples de successions secondaires : Rôle clé dans la dégradation de la matière morte par
+les herbivores.</i></u>
+
+##### a) Cas des bouses 
+
+Les bouses constituent des **écosystèmes temporaires dans lesquels s’observent des successions secondaires**.
+Ces successions vont avoir pour fonction **le recyclage de la matière organique des herbivores**.
+Les successions d’arthropodes au sein des bouses sont des processus permettant **la
+dégradation/le recyclage de la matière organique en environ 12 moi**s.
+En absence des ces successions c’est un processus pouvant prendre entre 3 à 4 ans.
+
+<u>Relations trophiques au sein des bouses</u>
+Arthropodes coprophages, champignons et bactéries sont régulés par des prédateurs et des
+parasites/parasitoïdes.
+
+<u>Importance de la cohorte des coléoptères coprophages</u>
+Le groupe clé dans la décomposition = Coléoptères coprophages. Ce sont des **Scarabeoidea**
+(super-famille). Ils vont avoir différentes modalités d’utilisation de la MO. Certains vont
+**l’utiliser directement pour pondre leurs œufs dedans** (espèces **endocopridés**). D’autres vont
+**pondre sous la déjection** : ils vont creuser des galeries sous les déjections et pondre sur des
+boulettes de déjection (**Paracoprides**). Enfin, les **Télécoprides** vont **pondre à distance**, ils
+exportent la matière organique (scarabées qui roulent leurs boulettes de déjection).
+
+*Forme des loges caractéristiques des différents Paracoprides.
+Genre Sisyphus → fonction clé dans le recyclage de la MO*
+
+Ces groupes arrivent sur les bouses **de façon différée dans le temps**, avec **tout d’abord les
+endocoprides** (qui présentent des adaptations liées à la vie aquatique adéquates pour évoluer dans des bouses étant à un stade liquide) **puis les paracoprides** (qui présentent des
+adaptations liées à l’enfouissement) et **finalement les télécoprides**.
+***Il existe donc une succession de guildes fonctionnelles.***
+→ Problèmes agricoles et sanitaires lorsque ces arthropodes sont absents.
+
+##### b) Cas des cadavres
+
+Les successions d’arthropodes sur les cadavres constitue l’objet d’étude de l’**entomologie
+forensique**.
+
+**Entomologie « forensique »** (criminelle) : étapes de décomposition des cadavres. JP Mégnin,
+médecin français qui, à force de déterrer des cadavres et fréquenter les fosses, a proposé un
+modèle de médecine et a proposé le terme d’escouade pour les assemblages d’arthropodes qui se succèdent dans le temps sur un corps en décomposition.
+**Turn-over d’espèces qui permettrait de pouvoir donner un âge aux cadavres**.
+En réalité, on se rend compte que **l’on ne peut pas prévoir les escouades d’arthropodes qui se succèdent mais on peut prévoir des taxons qui se succèdent**.
+*Exemple : **Lucilia** : arrivée quasiment immédiate qui permet de dater le début de la succession*.
+**Notion de degrés cumulés** : on connaît le nombre de degré nécessaires pour arriver à chaque stade de développement de la larve.
+
+L’accessibilité de l’habitat est trop différente pour savoir qui va y arriver et qui va s’y
+développer.
