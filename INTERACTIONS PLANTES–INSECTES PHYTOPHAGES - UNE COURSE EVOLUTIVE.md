@@ -30,4 +30,79 @@ fleurs, graines, racines, bois, fruits ?
 - Prairies : **10-75 %** de phytophagie.
 
 ![[Pasted image 20230716203925.png]]
-<u><u><u></u></u></u>
+<ul>On a ici création de composés
+toxiques pour empêcher les
+insectes phytophages de
+consommer la plante. La plante
+est donc protégée. Les insectes
+vont s’adapter mais restent rares.</ul>
+
+<u><b>Conditions</b></u> **pour qu’une coévolution plante/insecte soit possible :**
+
+Le phytophage doit représenter une **pression de sélection** importante sur la plante à travers
+une réduction importante de la *fitness* des individus soumis à la phytophagie.
+Les mécanismes de résistance de la plante à la phytophagie doivent **impacter** l’évolution de
+la virulence du phytophage.
+Il doit exister une **diversité génétique** (via des mutations ou la dérive génétique) suffisante
+des caractères de résistance et de virulence.
+
+## II) Les défenses des plantes contre les insectes phytophages :
+
+- Défenses directes
+-  Défenses indirectes : font intervenir d’autres organismes parasitant ou consommant les
+herbivores.
+
+### A) Les défenses directes
+
+#### 1) Défenses physiques ; morphologiques
+
+On y compte les **épines, piquants**: empêchent l’installation de l’insecte sur la plante, existent à différentes échelles et sur différentes parties de la plante.
+*Trichomes: sont de fines excroissances ou appendices chez les plantes (sur les racines, tiges et/ou feuilles) empêchant le déplacement de petits organismes à la surface. Ils sécrètent aussi des substances collantes empêchant le passage de petits organismes. On pense que ce sont à partir de ces trichomes que se sont développées les plantes carnivores dans certains milieux.*
+
+#### 2) Défenses chimiques
+**Composés (métabolites) primaires :** molécules existant dans toutes les cellules et nécessaires à la vie de la plante. *Ex : sucres simples, protéines, acides nucléiques.*
+
+**Composés (métabolites) secondaires :** pas de relation directe avec le fonctionnement de base de la plante. Ils ont une répartition limitée (dans une plante ou entre les plantes). Longtemps considérés comme des produits résiduels du métabolisme primaire.
+
+<u>3 groupes majeurs de composés secondaires :</u>
+
+- **Composés phénoliques**: *ex: tannins, lignine, acide salicylique,…* *N > 8000* 
+Ils sont *antiappêtents* pour beaucoup d’insectes. Ils inactivent les enzymes digestives et réduisent la digestibilité de la nourriture. Ils sont parfois toxiques.
+
+- **Composés alcaloïdes:** *ex: nicotine, caféine,… N > 10 000.*
+Ce sont des composés azotés au goût amer *+ ou – toxiques* . Sont utilisés comme drogue ou
+médicaments
+
+- **Composés terpènoïdes:** *ex: menthol, camphre, cannabinoïde, caoutchouc,… N > 22 000*
+Sont *très souvent toxiques* et contribuent à certains parfums ou goûts (poivre, clou de girofle, gingembre par exemple).
+
+<u>Composés secondaires & spécialisation des phytophages :</u>
+
+![[Pasted image 20230716204702.png]]
+*Sur les ombellifères qui produisent cette
+coumarine, on trouve beaucoup de spécialistes.
+En absence de coumarine, il n’y a pas de
+spécialistes.*
+
+**Les adaptations des phytophages spécialistes :**
+
+**1° Éviter**
+Couper les veines des plantes : permet d’évacuer les composés toxiques de la plante
+La toxicité des plantes augmente avec l’exposition au soleil (augmentation de sécrétion de
+coumarine).
+Adaptation : les insectes enroulent les feuilles (notamment les *chenilles*).
+
+**2° Détoxifier**
+Le *vers à soie* se développe sur les *mûriers*. Ces mûriers sécrètent des alcaloïdes qui interfèrent avec le métabolisme du sucre des chenilles (absorption + utilisation). Le vers à soie est <u>spécialisé</u> sur le mûrier et n’est pas sensible à ce composé toxique.
+Diminution du poids des larves (indication bon dev) qd alcaloïdes chez les insectes sauf chez le *bombyx mori* qui est adapté aux toxines.
+
+**3° Détourner**
+Les asclépiadacées produisent un latex riche en glycosides toxiques et seules des sp spécialisées peuvent s’en nourrir.
+*Ex : le papillon monarque n’est pas sensible au glycosides, et va même les stocker. Cela va lui servir à se défendre de son propre prédateur. Le geai bleu, en goûtant un monarque, aura une expérience désagréable et évitera par la suite les monarques.*
+→ **couleurs d’avertissement nécessaires**
+
+Des stratégies se sont mises en place consistant à imiter des proies toxiques. c’est le cas chez le papillon vice-roi qui imite le papillon monarque. Cela est appelé le mimétisme batésien.
+Cette stratégie ne marche que si les imitateurs sont moins nombreux que les originaux. Ex : Imitation
+couleur du Monarque par le Vice-roi.
+Les couleurs aposématiques se sont développées, ce sont des couleurs vives, avertissant le
+prédateur de la toxicité de la proie.
