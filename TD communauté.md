@@ -41,27 +41,27 @@ Pour réduire le flux de données brutes, on utilise des paramètres synthétiqu
 
 L’indice de diversité de Shannon Weaver (H’) est un paramètre synthétique qui est très utilisé en écologie des communautés.
 
-$$H'\space = \space -\sum_{i=1}^{S}[]$$$
+$H'\space = \space -\sum_{i=1}^{S}[p_{i\space}\times\log_2(p_i)]$ 
+i : n° de l'espèce dans la liste de données brutes (1<i<S)
+p<sub>i</sub> abondance relative de l'espèce n°i -> p<sub>i</sub> = n<sub>i</sub> / $\sum n_i$
 
-![](file:///C:/Users/tomha/AppData/Local/Temp/lu929246kmhy.tmp/lu929246kmi1_tmp_af61b594c70c0333.png)
-
-Il peut être nécessaire de transformer cette formule pour les calculs : log2(pi) = ln(pi)/ln2
+Il peut être nécessaire de transformer cette formule pour les calculs : log<sub>2</sub>(p<sub>i</sub>) = ln(p<sub>i</sub>)/ln<sub>2</sub>
 
 H’ intègre 2 types de paramètres quantifiés dans la communauté : l’abondance de chaque espèce et la richesse spécifique. La valeur minimum qu’il peut prendre est 0, et il n’a pas de valeur maximale chiffrée. Quand H’=0, il n’y a pas de diversité dans la communauté, il n’y a qu’une seule espèce. Donc plus H’ augmente, plus la diversité augmente.
 
-Donc, pour chaque espèce, j’applique la formule de H’ en calculant pi*log2(pi), et j’additionne ces produits.
+Donc, pour chaque espèce, j’applique la formule de H’ en calculant pi x log<sub>2</sub>(p<sub>i</sub>), et j’additionne ces produits.
 
-![](file:///C:/Users/tomha/AppData/Local/Temp/lu929246kmhy.tmp/lu929246kmi1_tmp_f33ce1d1d48cc274.png)
+![[Pasted image 20230716173820.png]]
 
 La différence de diversité existante n’est pas liée à la richesse spécifique, mais à l’abondance relative des espèces dans chaque communauté.
 
 Une répartition homogène de l’abondance des espèces dans la communauté fait augmenter H’, donc la diversité. H’ est maximal quand toutes les espèces ont la même abondance relative.
 
-Pour des espèces à répartition équivalente : pi = p1+p2+…+ps = 1/S, et H’ = log2(S).
+Pour des espèces à répartition équivalente : p<sub>i</sub> = p<sub>1</sub>+p<sub>2</sub>+…+p<sub>s</sub> = 1/S, et H’ = log<sub>2</sub>(S).
 
-On peut également calculer l’indice de diversité relative H’/H’max = H’/log2(S). Cela permet de s’affranchir du nombre d’espèce et baser l’interprétation d’une différence d’indice sur les proportions relatives des espèces dans chacune des communautés.
+On peut également calculer l’indice de diversité relative H’/H’max = H’/log<sub>2</sub>(S). Cela permet de s’affranchir du nombre d’espèce et baser l’interprétation d’une différence d’indice sur les proportions relatives des espèces dans chacune des communautés.
 
-**III/ Influence de la niche écologique dans la structuration des communautés**
+## III/ Influence de la niche écologique dans la structuration des communautés
 
 La niche écologique correspond aux conditions de milieu dans lesquelles une espèce peut vivre et prospérer, elle est définie par une multiplicité de dimensions issues des paramètres qui la contrôle, et la niche réalisée et plus petite que la niche fondamentale.
 
@@ -73,47 +73,31 @@ Quand deux espèces entrent en compétition, on observe chez l’espèce peu com
 
 La compétition va influencer la structure de la communauté car la baisse de survie des individus et leur faible production de descendants va modifier l’abondance relative des espèces, et la compétition peut aboutir à l’élimination d’une ou de plusieurs espèces par exclusion compétitive, ce qui va modifier la richesse spécifique de la communauté.
 
-**IV/ Rôle de la prédation sur la structuration des communautés**
+## IV/ Rôle de la prédation sur la structuration des communautés
 
 La prédation influence l’abondance relative des espèces dans la communauté de proies, mais aussi la richesse spécifique.
 
-Etude de cas : effet de l’introduction d’un prédateur sur une communauté de proies
+#### Etude de cas : effet de l’introduction d’un prédateur sur une communauté de proies
 
 On voit que :
 
 - L’amplitude des tailles peut changer
-    
 - Les tailles peuvent changer (les proies deviennent toutes plus petites par rapport à leur taille sans présence de prédateur) : changement des abondances relatives dans chaque classe de taille
-    
 - La fréquence de chaque taille peut changer (moins de classe de tailles, effet sur la richesse spécifique)
-    
 
 Donc, la prédation élimine les classes grandes tailles et favorise l’abondance des classes petites tailles.
 
 En présence du prédateur qui se spécifie sur les organismes de grande taille, ainsi, la prédation des proies de grande taille sur celle de petite taille diminue (= augmentation des proies de petite taille). De plus, la prédation modifie la compétition : les organismes de grandes et de petites tailles présentent des niches qui se chevauchent.
 
-**V/ La dynamique des communautés**
+## V/ La dynamique des communautés
 
 Les assemblages d’espèces évoluent au cours du temps, c’est un phénomène qui peut s’appliquer au processus de succession écologique.
 
 La succession est un processus qui commence par une étape de colonisation du biotope et qui présente ensuite des changements de communautés d’espèces au cours du temps. Elle se caractérise par des stades marquants présentant des assemblages particuliers d’espèces. Plus on avance dans la succession, plus le recyclage de la matière est efficace, et plus les communautés produisent de biomasse.
 
-  
-  
 
-  
-  
-
-  
-  
-
-  
-  
-
-Exemple de la succession végétale du Massif Central :
-
-![](file:///C:/Users/tomha/AppData/Local/Temp/lu929246kmhy.tmp/lu929246kmi1_tmp_4eea7d4fb3dd101b.png)
-
+*Exemple de la succession végétale du Massif Central :*
+![[Pasted image 20230716174042.png]]
 On peut retracer la présence de végétation dans l’ordre chronologique : plus le pollen est abondant, plus la végétation était dominante à l’époque, et plus il est enfoui, plus il est vieux.
 
 Ici : Chênaie -> Hêtraie sapinière -> Prairie/Culture -> Pinède
