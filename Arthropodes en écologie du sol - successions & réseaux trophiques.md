@@ -220,9 +220,73 @@ Cependant, **les successions ne sont pas toujours claires**.
 
 On distingue 2 approches :
 - **L’approche déterministe des successions (approche classique)**
-Pour un habitat, dans une région donnée, **la succession va aboutir à un stade pré-déterminé**, le climax. A la fin de la succession, stade donné = stade climacique.
+Pour un habitat, dans une région donnée, **la succession va aboutir à un stade pré-déterminé**, le **climax**. A la fin de la succession, stade donné = stade climacique.
 En fonction des habitats, il peut exister un bon nombre de stades différents.
 On considère que cette approche classique s’applique surtout en milieu continental.
 Dans cette approche déterministe, c’est la dynamique des producteurs primaires qui va
 déterminer la succession, plus que les interactions trophiques.
 C’est le cas de la plupart des successions observées.
+![[Pasted image 20230716182145.png]]
+Cette approche n’est pas toujours vérifiée.
+
+- **L'approche non déterministe des successions** : il s’agit d’une approche plus récente.
+Pour une région donnée, un habitat donné, la succession peut suivre des itinéraires différents
+et donc **aboutir à des stades climaciques variés** (ils ne peuvent pas être prédits initialement)
+contrairement à l’approche déterministe.
+Des **facteurs abiotiques non prédictibles** vont influencer les stades de la succession. Les
+différents climax (possibles) dans un habitat donné sont appelés multiple « stable » states
+(MSS) ou switch-climax.
+Ces approches sont plus rares que les successions déterministes et sont **plus fréquentes en
+milieux marins**.
+![[Pasted image 20230716182333.png]]
+On considérera que plus un environnement est contraignant d’un point de vue abiotique, plus les interactions biotiques seront fortes et multiplirons les phénomènes biologiques.
+
+<u>Mécanismes à l’oeuvre dans les successions écologiques</u>
+
+On distingue **3 théories** concernant les mécanismes de successions :
+- **La facilitation** : les premiers colonisateurs ont **favorisé l’arrivée des suivants par une
+modification de l’environnement dans lequel ils passent** : le stade antérieur favorise le
+développement du stade suivant qui, par la suite, l’élimine.
+La **création d’un sol** (formation litière et enrichissement) est un mécanisme de facilitation.
+La modification de l’environnement se fait essentiellement par apport de nutriments mais
+peut également être une modification des conditions de lumière, d’humidité, de pH, etc ... du
+milieu.
+Une espèce d’un stade croît, atteint un maximum et à la décroissance du stade apparaît une
+espèce du stade suivant.
+![[Pasted image 20230716182538.png]]
+
+- **L’inhibition** : les premiers colonisateurs **vont compliquer l’arrivée des suivants par une
+modification environnementale**.
+Ici, pour que l’espèce de stade 2 arrive, il faut que l’espèce du stade antérieur disparaisse pour qu’elle puisse s’exprimer.
+Ce mécanisme est surtout présent chez des communautés végétales mais très peu chez des
+communautés animales. Cela implique souvent des mécanismes chimiques qui inhibent la
+croissance des végétaux entre eux.
+![[Pasted image 20230716182640.png]]
+- **La tolérance** : les premiers colonisateurs n’ont **ni un effet positif, ni un effet négatif sur
+l’arrivée des suivants**.
+Des stades successifs apparaissent. La succession des stades ne correspond qu’à la **vitesse
+respective de développement des différentes espèces**. Les espèces dominantes dans les stades
+pionniers ne facilitent pas l’installation de leurs successeurs, elles sont éliminées par ces
+derniers qui sont plus compétitifs
+Il ne faut pas y voir un remplacement des espèces de façon mécanique.
+![[Pasted image 20230716182734.png]]
+
+Ces mécanismes sont rarement exclusifs au cours d’une succession et vont pouvoir se
+succéder au cours d’une même succession écologique. Il n’y a pas de mécanisme qui
+interviendrait plus dans une succession plutôt qu’une autre.
+![[Pasted image 20230716182812.png]]
+
+<u>Hiérarchies et succession</u>
+
+Il existe souvent une notion de proximité taxonomique dans les remplacements d’espèces.
+La probabilité qu’une espèce remplace une autre est en partie liée à la **proximité
+phylogénétique.**
+
+Lorsque l’on prend des successions selon un gradient de stress, **plus le stress est important et
+plus la distance phylogénétique du changement est grande** : au cours du temps, pour un petit
+ajout de stress → adaptation locale des individus. Si + de stress → remplacement par des
+phénotypes (plasticité). Si le stress continue d’augmenter → remplacement par des espèces
+(« turn-over ») puis de nouveaux genres, familles, ordres.
+**Suivant le stress croissant et au cours du temps, on va observer des changements qui vont
+impacter des groupes taxonomiques de plus en plus développés.**
+
