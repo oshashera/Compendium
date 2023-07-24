@@ -107,11 +107,24 @@ Les biotopes concernés
 <i><u>Exemple :</u></i> *forêt boréale après incendie*
 ![[Pasted image 20230724220200.png]]
 
-Arbres qui ont disparu mais d’autres n’ont pas été complètement brûlés. La banque de graine
-encore présente dans le sol permet à la végétation de repartir.
+Arbres qui ont disparu mais d’autres n’ont pas été complètement brûlés. La banque de graine encore présente dans le sol permet à la végétation de repartir. 
 
-Succession autogénique = ce sont des successions uniquement liées aux interactions entre les organismes sans influence extérieure. Il s’agit donc de la colonisation progressive du milieu par différents types de végétaux, uniquement liée aux interactions entre les organismes (végétaux entre eux et avec animaux) présents dans le milieu.
-➔ Ce sont donc plutôt des processus de colonisation biotiques
+***Succession autogénique** = ce sont des successions uniquement liées aux interactions entre les organismes sans influence extérieure*. Il s’agit donc de la colonisation progressive du milieu par différents types de végétaux, uniquement liée aux interactions entre les organismes (végétaux entre eux et avec animaux) présents dans le milieu.
+➔ Ce sont donc plutôt des **processus de colonisation biotiques**
 
-Succession autogénique primaire : exemple du volcan plus haut
-Succession autogénique secondaire : exemple d’une végétation qui récupère toute seule après un incendie
+Succession <u>autogénique primaire :</u> exemple du volcan plus haut
+Succession <u>autogénique secondaire :</u> exemple d’une végétation qui récupère toute seule après un incendie
+
+Dans le milieu forestier, on parle plutôt de **succession autogénique secondaire** si le milieu n’est **pas géré par l’homme**.
+Succession secondaire autogénique **progressive = période d’augmentation de la biomasse**
+
+![[Pasted image 20230724221820.png]]
+→ Augmentation progressive de la biomasse au cours du temps via la colonisation des différentes parties qui se succèdent.
+En général, diversification qui augmente jusqu’à un certain point.
+
+Successions secondaire autogénique **régressive = période de perte de biomasse et de sol**.
+![[Pasted image 20230724221923.png]]
+
+*<u>Exemple</u> : perturbation par coupe d’arbres sur les pentes d’un bassin versant*. Les végétaux et notamment les arbres permettent une rétention d’eau et limitent le niveau de la nappe phréatique. Parfois, lorsque l’on coupe ces arbres, cela entraîne une accumulation d’eau dans les sols et des phénomènes de lessivage des particules des sols.
+→ Végétation qui va perdre en biomasse car elle est soumise à un fort stress salin lié à des changements de flux dans les sols → végétation assez rase.
+Dans un **système dunaire** , les **perturbations** peuvent être assez **fréquentes** : phénomènes d’**accrétion** (apport de sable par le vent) et d'**érosion**.
