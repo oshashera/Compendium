@@ -72,4 +72,29 @@ Il s’agit d’une île qui a subi une **éruption volcanique en 1883** et a é
 Dès **3 ans après l’éruption** , après refroidissement de la lave, apparition d’une **trentaine d’espèces végétales**.
 La **matière organique** a pu être apportée par des **algues qui se déposent sur les rivages** ; les **oiseaux** , via leurs fientes (présence de graines des îles adjacentes) peuvent permettre également la recolonisation.
 
-![[Pasted image 20230724214956.png]
+![[Pasted image 20230724215023.png]]
+
+Les **premières espèces** sont assez **peu exigeantes** : elles ne nécessitent pas une grande profondeur de sol ou une importante quantité de nutriments → ce sont principalement des **mousses** et **lichens** , ainsi que des **fougères** qui contribuent par leurs caractéristiques à changer le milieu (génèrent de la MO).
+D’autres **espèces herbacées** qui ont besoin d’un peu plus de litière et de nutriments telles que les **Poacées** ont ensuite pu s’installer dans le milieu.
+Une fois que les premières plantes à fleur se sont installées, les insectes ont pu coloniser le milieu.
+Au bout de **25 ans** : une **centaine d’espèces végétales** et près de **300 espèces animales**
+Au bout de **50 ans** : **arbustes** et **arbres** qui sont les **derniers à coloniser le milieu** (car ils ont le plus besoin de profondeur de sol, eau et nutriments qui sont apportés par les autres espèces).
+D’où cette notion de **stress au départ qui va restreindre la biomasse de la végétation**.
+
+<u><i>Autre exemple</i></u> *: formation d’une dune*
+
+![[Pasted image 20230724215422.png]]
+
+Dans les **milieux dunaires** , on observe des **perturbations naturelles** qui vont être des **apports de sable via le vent** et les **embruns** mais également de l’**érosion** (tempêtes ponctuelles)
+
+Au départ, il n’y a que du sable présent : il y a ainsi formation de différentes zones de la dune au cours du temps soit un **gradient de succession dans le temps et l’espace** :
+- Apports sur la plage par les laisses de mer et puces de sables qui les consomment et les dégradent d’où **présence de nutriments dans le sable**. De la végétation va alors pouvoir s’installer : constituée de **Poacées/graminées** → première dune = **dune embryonnaire** avec la présence de **chiendent**.
+- Deuxième espèce qui s’installe : l'**oyat** = espèce caractéristique de la **dune mobile** (partie la plus haute de la dune). Espèce qui a des **racines très profondes qui retiennent le sable et les éléments nutritifs** ce qui permet la formation des autres dunes successives.
+Différentes parties de la dune vont alors se former jusqu’à arriver à une
+**dune fixée**.
+Lorsqu’une dune est formée depuis longtemps, on peut observer ces successions.
+
+**Succession végétale secondaire** *= Processus de reconstitution de la végétation après une perturbation sur un sol formé*. Le substrat n’est plus **nu et stérile** ; il s’agit d’un sol qui contient des **microorganismes** , de la **MO** et des **graines**
+➔ Cela va complètement changer le processus de successions végétales.
+
+On parle souvent de ces successions dans le cas de perturbations anthropiques . On parle de « cicatrisation » du milieu après ces perturbations.
