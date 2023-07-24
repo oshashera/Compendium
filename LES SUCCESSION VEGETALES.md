@@ -97,4 +97,21 @@ Lorsqu’une dune est formée depuis longtemps, on peut observer ces successions
 **Succession végétale secondaire** *= Processus de reconstitution de la végétation après une perturbation sur un sol formé*. Le substrat n’est plus **nu et stérile** ; il s’agit d’un sol qui contient des **microorganismes** , de la **MO** et des **graines**
 ➔ Cela va complètement changer le processus de successions végétales.
 
-On parle souvent de ces successions dans le cas de perturbations anthropiques . On parle de « cicatrisation » du milieu après ces perturbations.
+On parle souvent de ces successions dans le cas de **perturbations anthropiques**. On parle de « **cicatrisation** » du milieu après ces perturbations.
+
+Les biotopes concernés
+- Zones brûlées
+- Cultures abandonnées
+- Défrichement, pâturage, fauche , ouragan
+
+<i><u>Exemple :</u></i> *forêt boréale après incendie*
+![[Pasted image 20230724220200.png]]
+
+Arbres qui ont disparu mais d’autres n’ont pas été complètement brûlés. La banque de graine
+encore présente dans le sol permet à la végétation de repartir.
+
+Succession autogénique = ce sont des successions uniquement liées aux interactions entre les organismes sans influence extérieure. Il s’agit donc de la colonisation progressive du milieu par différents types de végétaux, uniquement liée aux interactions entre les organismes (végétaux entre eux et avec animaux) présents dans le milieu.
+➔ Ce sont donc plutôt des processus de colonisation biotiques
+
+Succession autogénique primaire : exemple du volcan plus haut
+Succession autogénique secondaire : exemple d’une végétation qui récupère toute seule après un incendie
