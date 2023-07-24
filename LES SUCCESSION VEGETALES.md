@@ -32,8 +32,8 @@ La **redondance fonctionnelle** permet un écosystème stable qui fonctionne bie
 
 La balance effets positifs/négatifs va dépendre de l’intensité et de la fréquence de ces perturbations. Elles peuvent permettre un certain renouvellement des espèces présentes.
 
-Cela fait appel à deux concepts importants sur les écosystèmes
-- La **résistance** des écosystème s aux perturbations : c’est à dire ce qu’ils sont capables de supporter avant d’être totalement dégradés. Il s’agit donc du nombre de perturbations qu’un écosystème peut supporter avant un point de non retour.
+Cela fait appel à deux concepts importants sur les écosystèmes :
+- La **résistance** des écosystèmes aux perturbations : c’est à dire ce qu’ils sont capables de supporter avant d’être totalement dégradés. Il s’agit donc du nombre de perturbations qu’un écosystème peut supporter avant un point de non retour.
 - La **résilience** des écosystèmes : c’est le temps de récupération de l’écosystème pour revenir à son état initial après une perturbation.
 
 <i><u>Remarque :</u></i> *certains écosystèmes ne seront pas très résistants mais très résilients (se régénèrent dans un laps de temps rapide) et vice versa.*
@@ -47,3 +47,29 @@ céder dans le temps.*
 <u>Problème :</u> il existe de **multiples théories sur les successions** , ce n’est pas toujours simple (situations très contrastées).
 Ces théories ont permis de mettre en place un **cadre conceptuel pour une théorie rationalisée** : en fonction des types de perturbations (différents paramètres qui les caractérisent), on n’observera pas forcément la même trajectoire de végétation.
 
+
+## I] CONCEPTS & DEFINITIONS
+
+**Succession** = Processus de colonisation d’un biotope par les êtres vivants après une perturbation.
+
+**Succession végétale primaire** = Dynamique d’occupation de la végétation d’un substrat nu, stérile (sans micro organismes et sans matière organique), après une perturbation.
+
+Lorsque l’on parle de ce substrat nu et stérile, on parle plutôt de **lithosol** (ne reste plus que de la matière minérale) qui **évolue lentement**.
+
+<u>Les biotopes concernés</u>
+- Champs de lave des volcans
+- Systèmes dunaires
+- Vases salées
+- Zones de retrait des glaciers (moraines)
+- Bords de lacs comblés par les sédiments ou tourbières
+- Carrière (après arrêt des activités anthropiques)
+
+Ces changements sont **relativement lents**.
+
+
+*Exemple : Recolonisation de l’île de Krakatau entre 1883 et 1934*
+Il s’agit d’une île qui a subi une **éruption volcanique en 1883** et a été **complètement détruite** (substrat nu et stérile). On a alors pu observer la dynamique de la diversité au cours du temps : comment la végétation a recolonisé le milieu
+Dès **3 ans après l’éruption** , après refroidissement de la lave, apparition d’une **trentaine d’espèces végétales**.
+La **matière organique** a pu être apportée par des **algues qui se déposent sur les rivages** ; les **oiseaux** , via leurs fientes (présence de graines des îles adjacentes) peuvent permettre également la recolonisation.
+
+![[Pasted image 20230724214956.png]
