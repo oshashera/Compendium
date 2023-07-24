@@ -128,3 +128,23 @@ Successions secondaire autogénique **régressive = période de perte de biomass
 *<u>Exemple</u> : perturbation par coupe d’arbres sur les pentes d’un bassin versant*. Les végétaux et notamment les arbres permettent une rétention d’eau et limitent le niveau de la nappe phréatique. Parfois, lorsque l’on coupe ces arbres, cela entraîne une accumulation d’eau dans les sols et des phénomènes de lessivage des particules des sols.
 → Végétation qui va perdre en biomasse car elle est soumise à un fort stress salin lié à des changements de flux dans les sols → végétation assez rase.
 Dans un **système dunaire** , les **perturbations** peuvent être assez **fréquentes** : phénomènes d’**accrétion** (apport de sable par le vent) et d'**érosion**.
+![[Pasted image 20230724222155.png]]
+
+En fonction de l’intensité de ces perturbations, les systèmes peuvent
+**perdre de l’habitat dunaire dans le cas d’une érosion importante** ou bien on peut observer des successions **progressives si l’accrétion est plus importante**. Dans un même système, on peut donc observer
+l’un ou l’autre de ces deux cas.
+
+Tous ces processus sont relativement **linéaires dans le temps** mais on peu t avoir des systèmes plutôt **cycliques**.
+
+Succession cyclique : *Exemple des tourbières : sols acides, plutôt oligotrophes et gorgés*
+![[Pasted image 20230724222339.png]]
+
+Dès qu’il y a des **dépressions** dans ces milieux, il peut y avoir **accumulation de l’eau de pluie** → colonisation du milieu par une végétation particulière ( **végétation hépatique** ) → permet la colonisation d’une espèce caractéristique de la tourbière = **Sphaignes** qui se développent par couches successives → **apport de MO** de plus en plus important qui génère des **bosses** et le **développement d’autres espèces** (exemple : bruyère ) → si cette bruyère se dégrade dans le milieu, il peut de nouveau y avoir des dépressions etc.
+Le système va donc **s’auto-entretenir** dans une succession et est uniquement entretenu dans le milieu interne (autogénique).
+
+***Succession allogénique** = liée à des facteurs externes (liées à l’homme en général) qui vont se répéter constamment au cours de la succession*. Ce sont des milieux constamment impactés par des facteurs externes. Cela peut donner lieu à des milieux qui changent au cours du temps : pas le même type de végétation. *Feux intentionnels intenses et répétés qui
+peuvent modifier le type de végétation (exemple : forêts eucalyptus → forêts acacias)
+Cultures que l’on cesse d’exploiter : sols siliceux/sols basiques : S’il y a des interventions extérieures, on peut retrouver certains stades antérieurs de la succession (retours en arrière).*
+
+![[Pasted image 20230724222706.png]]
+
