@@ -148,3 +148,5 @@ Cultures que l’on cesse d’exploiter : sols siliceux/sols basiques : S’il y
 
 ![[Pasted image 20230724222706.png]]
 
+## <mark style="background: #EE6B6BA6;">/!\ mettre la suite (p5/22)</mark>
+
