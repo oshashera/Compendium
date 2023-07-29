@@ -148,5 +148,20 @@ Cultures que l’on cesse d’exploiter : sols siliceux/sols basiques : S’il y
 
 ![[Pasted image 20230724222706.png]]
 
+
 ## <mark style="background: #EE6B6BA6;">/!\ mettre la suite (p5/22)</mark>
 
+## II] Théories et mécanismes
+
+### 1) Théories des successions à plantes pionnières
+
+##### A) Clements (1916)
+
+Il a proposé une **théorie des successions avec des plantes pionnières**.
+
+Selon sa définition de la **succession** , il s’agit d’un **remplacement progressif** , toujours dans une même direction (**directionnel**) et **que l’on peut prédire** de la végétation et donc des habitats dans le temps **après une perturbation** avec au départ des espèces pionnières pour avoir à la fin un état final, ou climax
+→ Eo = espèces pionnières → état final = climax : cet état, fonction du milieu, est
+complètement prédictible.
+On part d’un état initial des espèces pionnières pour arriver à un climax = état stable de la
+végétation à l’équilibre.
+Le temps qui sépare ces deux états = gradient de succession qui dépend de facteurs régionaux et de facteurs plus stationnels
