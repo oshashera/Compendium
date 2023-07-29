@@ -259,14 +259,64 @@ Les **organismes sessiles** (communautés benthiques, récifs coralliens) **supp
 différents types de modèle.**
 
 Facilitation = interactions positives entre les êtres vivants.
-En fonction des pressions abiotiques/biotiques du milieu, il existe
-différents types de facilitation :
-- Facilitation directe : amélioration de l’habitat par les plantes voisines. Lorsque les
+En fonction des pressions abiotiques/biotiques du milieu, il existe **différents types de facilitation :**
+
+- Facilitation **directe** : amélioration de l’habitat par les plantes voisines. Lorsque les
 conditions abiotiques sont contraignantes pour les organismes, il peut y avoir des
 espèces qui vont faciliter ce milieu pour les espèces suivantes.
 *Exemple : substrat nu → plantes, mousses qui vont s’installer sous la forme de coussins ce qui
 va améliorer les facteurs abiotiques pour les autres espèces.*
-- Facilitation indirecte : amélioration de l’habitat par les plantes voisines, dans le cas de
+
+- Facilitation **indirecte** : amélioration de l’habitat par les plantes voisines, dans le cas de
 fortes pressions biotiques.
 *Exemple : herbivorie chardon protégeant une herbacée poussant en dessous par ses épines.
 Sans le chardon, l’herbacée serait prédatée.*
+
+Les modèles de facilitation concernent les systèmes forestiers : 
+![[Pasted image 20230729062754.png]]
+
+<u>Vallée de la Maurienne :</u> stress permanent : forte luminosité → espèces qui vont réapparaître
+dans la succession, tolérantes à la lumière (Pin s sylvestres). Ces espèces vont pouvoir générer
+de l’ombre (création d’un microclimat) d’où l’installation d’espèces qui affectionnent de moins en moins la lumière → Espèces tolérantes stress : car peuvent vivre avec moins de lumières
+
+<u>Modèle de tolérance et d’inhibition</u>
+
+![[Pasted image 20230729062852.png]]
+![[Pasted image 20230729062905.png]]
+
+**Tolérance :** Par exemple, de la compétition entre les espèces puisque les effets de l’ombre
+peuvent être négatifs, élimination de certaines espèces sans défavoriser les espèces
+ultérieures (tolérance).
+**Inhibition :** par exemple il peut y avoir compétition sévère pour la lumière qui va sélectionner
+celles au dessus.
+
+*Exemple : Système patelles vs pas patelles cf. RPC*
+![[Pasted image 20230729063002.png]]
+
+##### B) Modèle « habitat accommodation » (Fox, 1982)
+
+**Landes humides australiennes** qui **se développent après une perturbation** de type incendie par exemple.
+
+![[Pasted image 20230729063047.png]]
+
+Des **colonisateurs précoces** vont s’installer : **en lien avec colonisation successive des plantes**, on observe des **colonisations successives de petits mammifères** qui vont également **modifier le milieu**. Espèce de rat qui va arriver en fin de colonisation. Espèces qui vont affectionner des milieux ouverts vs milieux denses. Il peut y avoir des phénomènes de tolérance : les animaux sortent du système quand la végétation ne suit plus leurs exigences, ou parce qu’ils sont en compétition avec d’autres espèces de la communauté animale (on parle de tolérance car ils réagissent à l’environnement sans l’influencer négativement).
+Ce type de modèle s’applique très bien aux petits mammifères mais pas du tout aux reptiles
+par exemple. Cela ne convient pas à toutes les espèces animales.
+
+##### C) Hypothèse de la perturbation intermédiaire (Grime, 1973 ; Connell, 1978)
+
+![[Pasted image 20230729063252.png]]
+
+<u>Dans un milieu soumis à de fortes perturbations :</u> les premières espèces qui arrivent sur le
+milieu sont soit des espèces capables de coloniser très rapidement, soit des espèces qui
+étaient déjà présentes et qui ont résisté à la perturbation.
+Dès que la perturbation s’estompe : **stratégies intermédiaires**.
+Lorsque les **perturbations** sont **fortes et fréquentes**, le **milieu** est **pauvre en termes de richesse spécifique**. Les seules espèces présentes sont des colonisateurs rapides (espèces pionnières).
+Ils vont alors potentiellement **faciliter l’installation de nouvelles espèces** (herbacées). Lorsque
+**la perturbation diminue** , on observe une **augmentation de la richesse spécifique** (herbacées,
+arbustes qui se développent) → **pic** → **maximum d’espèces qui peuvent coexister** → **maximum de diversité/richesse spécifique**.
+Même si les **perturbations continuent de diminuer**, il y a **apparition d’espèces compétitives** qui vont entraîner la diminution de la richesse spécifique du fait de l’exclusion compétitive des autres espèces. La baisse de la richesse spécifique est alors associée à une forte biomasse
+(arbres qui excluent des herbacées d’où une richesse spécifique moindre).
+A l’intermédiaire : perturbation intermédiaire : compromis entre capacité à coloniser le milieu
+et à exclure les autres espèces.
+➔ 20 % des études montrent ce schéma.
