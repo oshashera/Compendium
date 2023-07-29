@@ -203,5 +203,70 @@ réduction de la MO dans les sols et transformation des sols en des sols acides 
 Ces nouvelles conditions modifient la végétation qui peut coloniser ces milieux → ils sont
 bloqués dans une trajectoire particulière et ne peuvent plus évoluer vers des milieux
 forestiers. Exemple : maquis, garrigue, lande maintenus par des incendies volontaires.*
-Le para-climax peut aussi être constitué d’espèces introduites par l’Homme. Exemple : lande
-maintenue par du pâturage.
+Le para-climax peut aussi être constitué d’espèces introduites par l’Homme. *Exemple : lande
+maintenue par du pâturage.*
+
+##### C) Egler (1954)
+
+2 théories proposées
+- Théorie « floristique en relais »
+- Théorie de la « composition floristique initiale »
+
+Ces deux théories s’opposent : 
+![[Pasted image 20230729061708.png]]
+
+- **Relais floristique** = milieu cultivé par l’Homme : perturbation répétée. Recolonisation
+de la végétation après arrêt de l’activité anthropique. **Arrivée et établissement d’autres
+espèces possibles mais cela se fait au détriment des précédentes . Sorte de « relais » entre
+différentes communautés de végétation :** d’abord des adventices puis de la végétation
+prairiale, puis arbustive et enfin forestière. Cela se fait sur un long laps de temps.
+*Exemple : Ripisyphes (haies à proximité des rivières) après des crues*
+
+- **Composition floristique initiale = toutes les espèces sont présentes au départ** : elles
+peuvent être présentes sous forme de banque de graines. Elles vont **varier en
+abondance** : les adventices vont augmenter en premier leur abondance, ce qui va
+favoriser le développement des autres espèces qui vont varier également en abondance
+au cours du temps. *Exemple : forêts de sapins de Douglas après incendie (les graines
+sont toujours présentes dans le sol), même si le s arbres ne dominent pas au départ ils
+commencent à pousser.*
+
+Ces 2 théories s’appliquent sur beaucoup de systèmes (sauf récupération sapin de Douglas
+après incendie → composition floristique initiale). Cela dépend de l’échelle d’étude , des stades de développement et des types de végétation . Les deux types de modèles peuvent être trouvés dans l’environnement et expliquer les successions.
+
+### 2) Facilitation, inhibition, tolérance
+
+##### A) Connell et Slatyer (1977)
+
+Il s’agit d’un modèle développé pour montrer **différentes trajectoires que la végétation peut
+prendre après une perturbation**.
+![[Pasted image 20230729062029.png]]
+
+**Phase d’établissement :** *installation des espèces dans le milieu après perturbation*
+<u>Facilitation :</u> on ne trouve que des **espèces précoces , « pionnières »** au début de la succession.
+<u>Tolérance et inhibition :</u> On **trouve toutes les espèces** qui peuvent potentiellement aller vers l’âge adulte, supporter les conditions du milieu.
+
+**Phase de modification de l’environnement :** *les espèces installées au départ vont modifier le
+milieu et faciliter/inhiber l’installation de nouvelles espèces.*
+<u>Facilitation :</u> cette modification diminue le recrutement d’autres espèces précoces mais
+**facilite/augmente l’installation d’espèces tardives** (les espèces précoces rendent donc le milieu plus favorables à d’autres espèces, mais défavorables pour elles mêmes).
+<u>Tolérance :</u> modification de l’environnement qui **empêche l’installation d’espèces pionnières de même type** mais cela n’a **pas forcément ou peu de conséquence sur les espèces plus tardives**.
+<u>Inhibition :</u> **inhibition de l’installation de toutes les espèces dans le milieu** à cause de la
+présence des espèces précoces. Compétition directe, ou carrément exclusion compétitive.
+**Dans les cas de facilitation/tolérance : la succession perdure jusqu’à la fin de l’invasion**.
+S’il n’y a pas d’espaces libérés, il n’y aura pas de nouvelle invasion dans tous les cas.
+
+Les **organismes sessiles** (communautés benthiques, récifs coralliens) **supportent les
+différents types de modèle.**
+
+Facilitation = interactions positives entre les êtres vivants.
+En fonction des pressions abiotiques/biotiques du milieu, il existe
+différents types de facilitation :
+- Facilitation directe : amélioration de l’habitat par les plantes voisines. Lorsque les
+conditions abiotiques sont contraignantes pour les organismes, il peut y avoir des
+espèces qui vont faciliter ce milieu pour les espèces suivantes.
+*Exemple : substrat nu → plantes, mousses qui vont s’installer sous la forme de coussins ce qui
+va améliorer les facteurs abiotiques pour les autres espèces.*
+- Facilitation indirecte : amélioration de l’habitat par les plantes voisines, dans le cas de
+fortes pressions biotiques.
+*Exemple : herbivorie chardon protégeant une herbacée poussant en dessous par ses épines.
+Sans le chardon, l’herbacée serait prédatée.*
