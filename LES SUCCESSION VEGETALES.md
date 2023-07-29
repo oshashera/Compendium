@@ -439,4 +439,45 @@ prédire vers quels groupes fonctionnels on va tendre en se basant sur ces trait
 Il s’agit plutôt d’un **modèle statistique**.
 ***Effets stochastiques =** effets aléatoires qui ont lieu dans l’environnement*.
 
-##### 
+##### A) Chaînes markoviennes
+
+**Probabilités** qui permettent de **prédire l’évolution du milieu**. Ces modèles permettent donc de calculer la probabilité pour un arbre donné, à une deuxième étape : soit de se maintenir, arbre de la même espèce (p), soit d’être remplacé par un autre arbre (q).
+
+![[Pasted image 20230729065633.png]]
+
+Les **statistiques** sont **basées sur les naissances** : probabilité d’un arbre d’être remplacé par une autre espèce, sur la base de la fréquence des juvéniles présents dans l’environnement.
+Ces chaînes ont un **nombre fini d’états**, avec des **étapes de transition** entre les deux.
+L’état directement précédent est pris en compte pour définit l’état suivant mais pas les autres
+états antérieurs.
+
+##### B) Théorie neutre des méta-communautés
+
+![[Pasted image 20230729065745.png]]
+
+La **dérive écologique** va permettre de **passer d’une communauté à une autre** = résultat
+**d’évènements stochastiques** (migrations, naissances, morts). Pas du tout de relation de
+compétition entre les individus : on considère qu’ils ont tous les mêmes besoins trophiques.
+Modèle **neutre**.
+
+### 5) Etat et transition
+
+![[Pasted image 20230729065904.png]]
+
+On n’a pas **d’état final ou initial**, seulement **différents états plus ou moins stables**, avec une
+**variété de transitions** entre ces différents états.
+
+<u>Premier modèle-cas 1 :</u> régimes de **perturbations** qui peuvent être répétées et qui vont faire
+**glisser graduellement de l’état initial vers un état stable** → modèle **séquentiel/linéaire**. Peut
+également être **cyclique** (retour à l’état initial) en fonction de l’intensité et de la force des
+perturbations. La **transition** est **graduelle** : intensités et fréquences de perturbations faibles.
+*Exemple : surpâturage dans une prairie*
+
+<u>Deuxième modèle-cas 2 :</u> modèle de **radiation** où il y a un **état qui transite vers ou depuis un autre** (à partir d’un même état, on peut aller vers différents états stables). La **transition** est
+**abrupte** : fréquences et intensités de perturbation **fortes**.
+*Exemple : après un incendie*
+
+<u>Troisième modèle-cas 3 :</u> modèle avec **connectivité maximum** , peu importe de quel état on
+part, on peu transiter vers n’importe quel autre état. Aboutit à 2 types d’états stables pour une même étape de **transition abrupte**. 
+
+
+# <mark style="background: #EE6B6BA6;">/!\ Recup 3 dernières pages</mark>
