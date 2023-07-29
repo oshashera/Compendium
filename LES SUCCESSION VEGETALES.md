@@ -315,8 +315,73 @@ Lorsque les **perturbations** sont **fortes et fréquentes**, le **milieu** est 
 Ils vont alors potentiellement **faciliter l’installation de nouvelles espèces** (herbacées). Lorsque
 **la perturbation diminue** , on observe une **augmentation de la richesse spécifique** (herbacées,
 arbustes qui se développent) → **pic** → **maximum d’espèces qui peuvent coexister** → **maximum de diversité/richesse spécifique**.
-Même si les **perturbations continuent de diminuer**, il y a **apparition d’espèces compétitives** qui vont entraîner la diminution de la richesse spécifique du fait de l’exclusion compétitive des autres espèces. La baisse de la richesse spécifique est alors associée à une forte biomasse
+Même si les **perturbations continuent de diminuer**, il y a **apparition d’espèces compétitives** qui vont entraîner la **diminution de la richesse spécifique** du fait de l’exclusion compétitive des autres espèces. La baisse de la richesse spécifique est alors associée à une forte biomasse
 (arbres qui excluent des herbacées d’où une richesse spécifique moindre).
-A l’intermédiaire : perturbation intermédiaire : compromis entre capacité à coloniser le milieu
-et à exclure les autres espèces.
-➔ 20 % des études montrent ce schéma.
+**A l’intermédiaire : perturbation intermédiaire : compromis entre capacité à coloniser le milieu
+et à exclure les autres espèces.**
+➔ **20 % des études** montrent ce schéma.
+
+### 3) Hypothèses basées sur les traits et les ressources
+
+##### A) r et K (Mac Arthur et Wilson, 1967)
+
+**Stratégie r → taux d’accroissement très fort** et **forte reproduction** → mise en place juste après une perturbation ; **faible durée de vie** et **capacités de compétition assez faibles**.
+**Stratégie K → faible taux d’accroissement** mais **longévité, tolérance aux stress** et **capacité de compétition beaucoup plus importantes** → lorsqu’il y a suffisamment de ressources :
+augmentation de la compétition.
+➔ **A partir d’une certaine densité d’espèces dans le milieu, la stratégie K prend le dessus
+sur la stratégie r**.
+➔ En général, les **stratégies r** ont certes des forts taux de croissance mais possèdent des
+**petites tailles** (herbacées, mousses etc.). Au contraire, les **stratégies K** vont concerner
+des espèces qui peuvent atteindre des **biomasses importantes** telles que les arbres.
+![[Pasted image 20230729063913.png]]
+
+Ces stratégies sont liées aux **traits fonctionnels** et aux **ressources disponibles** dans
+l’environnement.
+En début de succession (en conditions difficiles) : stratégie r. Dès que le niveau de ressources
+est stabilisé, il y a augmentation de la pression de compétition, les stratégies K prennent le
+dessus.
+
+*Exemple : clairière au sein d’une forêt après une perturbation*
+![[Pasted image 20230729064008.png]]
+
+*Trouée qui permet un accès nouveau à la lumière, nouvelle mise à disposition des nutriments
+dans le sol (grâce aux arbres présents auparavant) → colonisation et croissance des espèces
+dispendieuses/rudérales (stratégie r).
+Dès que les espèces conservatrices (stratégie K) atteignent la canopée, elles entrent en
+compétition avec les espèces r qui vont alors disparaître.*
+
+![[Pasted image 20230729064039.png]]
+
+##### B) CSR (Grime, 1977)
+
+![[Pasted image 20230729064107.png]]
+
+Stratégies **CSR** = Il s’agit des **stratégies primaires fondamentales des plantes** en réponse à du **stress** et ou des **perturbations** qu’elles vont subir.
+
+Après une perturbation (tempête de glace) : les espèces tendent vers des **stratégies
+intermédiaires entre la compétition et les espèces stress tolérantes**.
+<u><i>Remarque :</i></u> *Des espèces peuvent être stress tolérantes ET compétitives ou rudérales etc.*
+
+➔ Les espèces compétitives seront plus impactées par la perturbation que les stress
+tolérantes (plus de mortalité car moins d’investissement dans la résistance).
+➔ Les espèces qui investissent beaucoup dans la croissance très rapide et la reproduction
+vont être beaucoup plus touchées.
+➔ En revanche, dès que la perturbation est finie, la colonisation repartira dans l’autre
+sens, à partir des espèces rudérales.
+
+##### C) Ressource ratio hypothesis (Tilman, 1982)
+
+![[Pasted image 20230729064333.png]]
+
+Stratégie **C** → compétiteur pour la **lumière** d’où une allocation **aérienne**.
+Stratégie **S** → compétition pour les **nutriments**, appareil **souterrain** plus développé qui permet de capter l’humidité et les nutriments de façon conséquente.
+Stratégie **R** → allocation vers la **reproduction**.
+
+![[Pasted image 20230729064442.png]]
+
+Après une perturbation, plutôt des **stratégies r** puis espèces compétitives pour la lumière et
+nutriments qui augmentent et enfin, plus de **compétition** pour les nutriments et moins pour la lumière → espèces **stress tolérantes**.
+
+Sans la succession végétale, les trajets **dynamiques** se font le long du triangle en fonction de la **force des perturbations**. On va toujours suivre un trajet dynamique ( R→C→S
+Les trajets sont donc orientés , c’est directement liés à la productivité (R = espèce à cycle de vie court, biomasse perdue), (intermédiaire = herbes pérennes sensibles au stress, produisent
+plus en terme de biomasse).
