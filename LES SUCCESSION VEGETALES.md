@@ -160,8 +160,48 @@ Cultures que l’on cesse d’exploiter : sols siliceux/sols basiques : S’il y
 Il a proposé une **théorie des successions avec des plantes pionnières**.
 
 Selon sa définition de la **succession** , il s’agit d’un **remplacement progressif** , toujours dans une même direction (**directionnel**) et **que l’on peut prédire** de la végétation et donc des habitats dans le temps **après une perturbation** avec au départ des espèces pionnières pour avoir à la fin un état final, ou climax
-→ Eo = espèces pionnières → état final = climax : cet état, fonction du milieu, est
+→ Eo = **espèces pionnières** → état final = **climax** : cet état, fonction du milieu, est
 complètement prédictible.
-On part d’un état initial des espèces pionnières pour arriver à un climax = état stable de la
-végétation à l’équilibre.
-Le temps qui sépare ces deux états = gradient de succession qui dépend de facteurs régionaux et de facteurs plus stationnels
+On part d’un état initial des espèces pionnières pour arriver à un **climax = état stable de la
+végétation à l’équilibre**.
+Le temps qui sépare ces deux états = **gradient de succession** qui **dépend de facteurs régionaux et de facteurs plus stationnels**.
+![[Pasted image 20230729060740.png]]
+On parle donc de **climax régional** sous l’influence de **facteurs climatiques** (successions de
+végétation à l’échelle d’une région sous l’influence du climat) vs **climax stationnel**, plus local,
+lié aux **facteurs édaphiques**.
+Les espèces pionnières vont **modifier le milieu** , de telle sorte que celui ci ne leur sera plus
+favorable puisque cela permet l’installation de nouvelles espèces.
+
+Cette théorie a été vivement critiquée car il n’est **pas si facile de prédire la végétation qui va
+s’installer**. En effet, ces successions ne vont pas forcément s’arrêter à un stade final : c’est
+modèle **dynamique** et **complexe**, un système qui n’est **pas toujours à l’équilibre**.
+
+##### b) Cowles (1901,1911)
+
+La succession n’est **pas forcément linéaire** car on peut passer par un **stade intermédiaire** pour aller de l’Eo vers l’état final. Il peut également y avoir des **retours** depuis l’état climacique, **vers des états antérieurs** de la succession. Il n’y a donc **pas d’état final défini en soi**.
+
+![[Pasted image 20230729061105.png]]
+
+Selon Cowles, on parle de dynamique (transitoire et optimale) :
+- **Monoclimax : un seul type de communautés** , déterminé par le **climat**
+<u><i>Exemple des forêts côtières nord américaines :</i></u> *en fonction de l’état initial du milieu (humide
+ou semi humide avec végétations complètement différentes), on peut arriver à une même
+communauté de Cèdres rouges et de Sapins sous l’effet d’un climat global, alors que le sol, la roche mère, etc. étaient différents. Il existe plusieurs trajectoires pour atteindre une même
+communauté, un état initial différent pour arriver à un état stable similaire.*
+
+- **Poly-climax** : en fonction du type de **sol** (riches en métaux lourds, pauvres en
+nutriments → communautés riches en herbacées), on peut trouver des **communautés
+différentes**.
+<u><i>Exemple en Californie :</i></u> *avec un même milieu et une même perturbation mais des sol s
+différents : on obtient d’un côté une végétation rase avec quelques arbres, vs des herbacées et
+quelques arbustes natifs (sol plein de métaux lourds).*
+
+- Para climax : milieux que l’on va bloquer artificiellement ; état intermédiaire que l’on
+maintient (pour l’empêcher d’aller vers l’état stable vers lequel il tend naturellement).
+<u><i>Exemple :</i></u> *surexploitation de milieux forestiers ou littoraux pour faire des cultures →
+réduction de la MO dans les sols et transformation des sols en des sols acides et oligotroph es.
+Ces nouvelles conditions modifient la végétation qui peut coloniser ces milieux → ils sont
+bloqués dans une trajectoire particulière et ne peuvent plus évoluer vers des milieux
+forestiers. Exemple : maquis, garrigue, lande maintenus par des incendies volontaires.*
+Le para-climax peut aussi être constitué d’espèces introduites par l’Homme. Exemple : lande
+maintenue par du pâturage.
