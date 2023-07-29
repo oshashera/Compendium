@@ -382,6 +382,61 @@ Stratégie **R** → allocation vers la **reproduction**.
 Après une perturbation, plutôt des **stratégies r** puis espèces compétitives pour la lumière et
 nutriments qui augmentent et enfin, plus de **compétition** pour les nutriments et moins pour la lumière → espèces **stress tolérantes**.
 
-Sans la succession végétale, les trajets **dynamiques** se font le long du triangle en fonction de la **force des perturbations**. On va toujours suivre un trajet dynamique ( R→C→S
-Les trajets sont donc orientés , c’est directement liés à la productivité (R = espèce à cycle de vie court, biomasse perdue), (intermédiaire = herbes pérennes sensibles au stress, produisent
+Sans la succession végétale, les trajets **dynamiques** se font le long du triangle en fonction de la **force des perturbations**. On va toujours suivre un trajet dynamique (**R→C→S**).
+Les trajets sont donc **orientés**, c’est directement liés à la **productivité** (R = espèce à cycle de vie court, biomasse perdue), (intermédiaire = herbes pérennes sensibles au stress, produisent
 plus en terme de biomasse).
+
+![[Pasted image 20230729064628.png]]
+
+##### D) Approche basée sur les traits
+
+Ces stratégies ont des **caractéristiques particulières**.
+
+**Traits fonctionnels =** *ensemble des traits morphologiques, physiologiques, voire
+comportementaux qui déterminent la performance des individus*. Ils sont mesurés à l’échelle
+des individus.
+
+![[Pasted image 20230729064728.png]]
+
+Il existe un **continuum de traits** qui correspondent à ces différentes stratégies.
+
+![[Pasted image 20230729064753.png]]
+
+<u>Signification fonctionnelle des traits des végétaux</u>
+
+Ces **traits** peuvent avoir des fonctions de **réponse directe** aux **facteurs environnementaux**. À
+l’échelle des écosystèmes, les **traits de réponse** permettent de répondre à un stress ou une
+perturbation. Ces traits peuvent aussi **impacter/influencer directement l’écosystème** et
+notamment sur la productivité de l’écosystème, on parle alors de **traits d’effet**.
+
+*Exemple : feuilles plus petites en réponse à la sécheresse → conséquence sur le
+fonctionnement de l’écosystème (moins de biomasse).*
+
+Les **types fonctionnels** sont **basés sur les traits des plantes** et **permettent de les regrouper**
+lorsqu’elles répondent de la même façon aux facteurs environnementaux et/ou influencent les écosystèmes de la même manière.
+
+<u>Succession de groupes fonctionnels</u>
+
+![[Pasted image 20230729065124.png]]
+
+Ici, la perturbation est **l’arrêt d’une culture**.
+Plusieurs catégories : une catégorie **d’espèces annuelles** (cycle de vie en un an, pas
+persistantes dans l’environnement), une autre catégorie **espèces vivaces/pérennes** (se
+maintenant plus longtemps) et une catégorie **d’espèces forestières**. Il y aussi un **suivi des
+nutriments dans le sol en fonction de l’âge**.
+Les **annuelles finissent par disparaître au cours du temps**, et **de + en + d’espèces pérennes
+s’installent**. C’est directement lié à **l’augmentation de l’azote**. Ces milieux tendent
+naturellement à se refermer, parmi les espèces pérennes on constate les 15 premières années
+l’absence d’espèces forestières. Mais à partir d’un certain seuil d’apparition des vivaces, des
+espèces forestières prennent le dessus.
+→ Succession de groupes fonctionnels au cours du temps.
+
+➔ Cependant, il est parfois **difficile de lier les traits à la perturbation**. Il est donc difficile de
+prédire vers quels groupes fonctionnels on va tendre en se basant sur ces traits.
+
+### 4) Effets stochastiques
+
+Il s’agit plutôt d’un **modèle statistique**.
+***Effets stochastiques =** effets aléatoires qui ont lieu dans l’environnement*.
+
+##### 
