@@ -149,8 +149,6 @@ Cultures que l’on cesse d’exploiter : sols siliceux/sols basiques : S’il y
 ![[Pasted image 20230724222706.png]]
 
 
-## <mark style="background: #EE6B6BA6;">/!\ mettre la suite (p5/22)</mark>
-
 ## II] Théories et mécanismes
 
 ### 1) Théories des successions à plantes pionnières
@@ -512,4 +510,52 @@ Présence de **Gammare** : **réduit ou exclut les colonisateurs** → modificat
 En fonction de ce qui est préservé après une perturbation, ce ne sont pas les mêmes
 communautés qui s’installent par la suite.
 
-## III. VERS UNE THEORIE DE LA PERTURBATION RATIONALISEE
+## III] VERS UNE THEORIE DE LA PERTURBATION RATIONALISEE
+
+![[Pasted image 20230802020459.png]]
+
+![[Pasted image 20230802020519.png]]
+
+Après une perturbation ou série de perturbations (en bleu en haut), cela peut affecter la
+communauté B et par différents processus (stochastiques, de résilience naturelle, héritage
+biologique...) on peut retourner à cette communauté B. L’état changeant n’est que temporaire.
+D’un autre côté, on peut avec une perturbation qui permet l’établissement d une autre
+communauté, la communauté A (théories transition, états alternatifs etc.). On peut emprunter
+différents chemins pour retrouver la communauté B.
+Perturbation intermédiaire : équilibre entre facilitation et compétition.
+Pour expliquer différents états de succession, on peut regrouper les théories et voir si cela
+s’applique à des systèmes naturels.
+
+En fonction de la sévérité (intensité + fréquence) on peut influencer les successions au sein
+d’un écosystème.
+*Exemple : forêt d’eucalyptus après incendie. Comment les conditions de départ et la sévérité
+de l’incendie va influencer la succession ? Milieu propice à ce type d’études car on peut avoir
+un gradient de perturbations selon les communautés initiales.
+3 voies de succession post perturbation : dépendent de la sévérité de la perturbation et de
+l’âge de la forêt initiale.*
+
+![[Pasted image 20230802020613.png]]
+
+##### <u>Premier modèle : forte sévérité de perturbation mais fréquence faible</u>
+
+<u>Mécanisme A :</u> **Héritage biologique important** d’autant plus que lorsque ce type de forêt brûle, elle libère de nombreuses graines → **banque de graine qui permet une recolonisation rapide du milieu**. Il y a un pic de croissance de jeunes plantules.
+
+<u>Mécanisme B :</u> Composition assez proche de celle de départ. **Facilitation de l’installation de
+nouvelles espèces** (typiques) que l’on peut retrouver dans des forêts matures. L’héritage
+biologique a permis à certaines espèces (notamment animales) de survivre dans
+l’environnement et à d’autres de s’installer.
+
+<u>Mécanisme E :</u> Juste après la perturbation, **espèce d’oiseau** qui arrive dans le **milieu** (*Miro
+embrasé*) car celui ci est **ouvert** (espèce que l’on ne trouve pas dans les milieux fermés) et qui se nourrit des graines dispersées → **habitat accommodation**. **Exigences écologiques inféodées aux milieux ouverts**. En revanche, leur population décline lorsque la végétation se reconstruit et que le milieu se ferme.
+
+<u>Mécanisme F :</u> Basé sur des **traits particuliers** : les espèces de **coléoptères** que l’on retrouve
+post perturbations sont toutes **ailées** : elles ont pu se disperser avant de revenir dans le milieu → **sélection sur les traits des espèces**.
+
+<u>Mécanisme C :</u> Après la phase de facilitation, coexistence d’un certain nombre d’espèces →
+compétition qui entre en jeu et **exclusion des espèces pionnières**. Sélection d'**espèces tolérantes** dans le milieu (tolérantes à l’ombre par exemple car milieu qui se ferme).
+
+Il peut y avoir un phénomène de transition vers un autre état → communauté finale différente de celle initial e si topographie et pluviométrie le permettent : soit on revient à une forêt d’Eucalyptus, soit on évolue vers une forêt tropicale (Hêtre).
+
+##### <u>Deuxième modèle : faible sévérité de perturbation</u>
+Seul l’**héritage biologique** va intervenir : survivants **matures** + héritage structurel → on revient rapidement à une **forêt mature d’Eucalyptus**. Les arbres matures maintiennent et imposent les conditions du milieu (ombre en bas, conservation de la litière car continuent d en déposer), donc il y a moins de changements des conditions abiotiques du milieu. On revient à l’état de départ en quelques étapes.
+
