@@ -4,24 +4,24 @@
 <u>Points de vue très généraux sur la vision des écologues</u>
 
 - *L’Homme va avoir un très fort impact sur les écosystèmes naturels et les
-changements globaux.
-- *Conséquences sur les régimes de perturbation et pression plus forte sur les services que vont rendre les écosystèmes et sur la biodiversité de manière générale.
-- *Les gestionnaires qui doivent gérer les habitats et les écosystèmes doivent tenter de comprendre comment ceux ci réagissent aux perturbations pour mieux gérer les ressources naturelles.
+changements globaux.*
+- *Conséquences sur les régimes de perturbation et pression plus forte sur les services que vont rendre les écosystèmes et sur la biodiversité de manière générale.*
+- *Les gestionnaires qui doivent gérer les habitats et les écosystèmes doivent tenter de comprendre comment ceux ci réagissent aux perturbations pour mieux gérer les ressources naturelles.*
 
 **Perturbation** = Destruction partielle ou totale de biomasse végétale (tout ce qui va composer la végétation : masse fraîche)
 Il s’agit d’un **évènement discret dans le temps** , c’est à dire ponctuel. 
-*Destruction partielle ou totale via les incendies, les crues, les cyclones, le pâturage (échelle locale).
+*Destruction partielle ou totale via les incendies, les crues, les cyclones, le pâturage (échelle locale).*
 
 ➔ Ce sont souvent des évènements qui se caractérisent par leur **intensité**
-➔ On pourrait s’attendre à des **effets négatif**s sur les écosystèmes naturels et anthropisés mais ces perturbations peuvent également entraîner des **effets positifs**
+➔ On pourrait s’attendre à des **effets négatif**s sur les écosystèmes naturels et anthropisés mais ces perturbations peuvent également entraîner des **effets positifs**.
 
-***Stress** = continu dans le temps, contrainte externe/facteur écologique qui diminue la vitesse de croissance de la biomasse végétale*. Faible fertilité du sol, manque d’eau, acidité, parasites, etc.
+**Stress** *= continu dans le temps, contrainte externe/facteur écologique qui diminue la vitesse de croissance de la biomasse végétale. Faible fertilité du sol, manque d’eau, acidité, parasites, etc.*
 
 <u>Effets négatifs des perturbations sur la biodiversité</u>
 - Perte des individus voire des espèces : effet négatif sur **abondance** et la **diversité** d’où une diminution des interactions entre les individus entre eux et le milieu.
 - Ces espèces peuvent assurer des fonctions écosystémiques d’où un effet sur les **processus écosystémiques**
 
-<i><u>Exemple :</u></i> *chenilles régulées naturellement par des prédateur s ce qui a directement un effet sur la production primaire et permet son maintien (fonction écosystémique → service pour l’Homme). C’est pourquoi une perturbation qui élimine les prédateurs présents dans le milieu
+<i><u>Exemple :</u></i> *chenilles régulées naturellement par des prédateurs ce qui a directement un effet sur la production primaire et permet son maintien (fonction écosystémique → service pour l’Homme). C’est pourquoi une perturbation qui élimine les prédateurs présents dans le milieu
 → contrôle moins fort sur ces phytophages et baisse de la production primaire végétale.*
 
 La **redondance fonctionnelle** permet un écosystème stable qui fonctionne bien, et peut résister jusqu’à une certaine limite aux perturbations.
@@ -109,7 +109,7 @@ Les biotopes concernés
 
 Arbres qui ont disparu mais d’autres n’ont pas été complètement brûlés. La banque de graine encore présente dans le sol permet à la végétation de repartir. 
 
-***Succession autogénique** = ce sont des successions uniquement liées aux interactions entre les organismes sans influence extérieure*. Il s’agit donc de la colonisation progressive du milieu par différents types de végétaux, uniquement liée aux interactions entre les organismes (végétaux entre eux et avec animaux) présents dans le milieu.
+**Succession autogénique** *= ce sont des successions uniquement liées aux interactions entre les organismes sans influence extérieure*. Il s’agit donc de la colonisation progressive du milieu par différents types de végétaux, uniquement liée aux interactions entre les organismes (végétaux entre eux et avec animaux) présents dans le milieu.
 ➔ Ce sont donc plutôt des **processus de colonisation biotiques**
 
 Succession <u>autogénique primaire :</u> exemple du volcan plus haut
@@ -142,7 +142,7 @@ Succession cyclique : *Exemple des tourbières : sols acides, plutôt oligotroph
 Dès qu’il y a des **dépressions** dans ces milieux, il peut y avoir **accumulation de l’eau de pluie** → colonisation du milieu par une végétation particulière ( **végétation hépatique** ) → permet la colonisation d’une espèce caractéristique de la tourbière = **Sphaignes** qui se développent par couches successives → **apport de MO** de plus en plus important qui génère des **bosses** et le **développement d’autres espèces** (exemple : bruyère ) → si cette bruyère se dégrade dans le milieu, il peut de nouveau y avoir des dépressions etc.
 Le système va donc **s’auto-entretenir** dans une succession et est uniquement entretenu dans le milieu interne (autogénique).
 
-***Succession allogénique** = liée à des facteurs externes (liées à l’homme en général) qui vont se répéter constamment au cours de la succession*. Ce sont des milieux constamment impactés par des facteurs externes. Cela peut donner lieu à des milieux qui changent au cours du temps : pas le même type de végétation. *Feux intentionnels intenses et répétés qui
+**Succession allogénique** *= liée à des facteurs externes (liées à l’homme en général) qui vont se répéter constamment au cours de la succession*. Ce sont des milieux constamment impactés par des facteurs externes. Cela peut donner lieu à des milieux qui changent au cours du temps : pas le même type de végétation. *Feux intentionnels intenses et répétés qui
 peuvent modifier le type de végétation (exemple : forêts eucalyptus → forêts acacias)
 Cultures que l’on cesse d’exploiter : sols siliceux/sols basiques : S’il y a des interventions extérieures, on peut retrouver certains stades antérieurs de la succession (retours en arrière).*
 
@@ -182,27 +182,17 @@ La succession n’est **pas forcément linéaire** car on peut passer par un **s
 
 Selon Cowles, on parle de dynamique (transitoire et optimale) :
 - **Monoclimax : un seul type de communautés** , déterminé par le **climat**
-<u><i>Exemple des forêts côtières nord américaines :</i></u> *en fonction de l’état initial du milieu (humide
-ou semi humide avec végétations complètement différentes), on peut arriver à une même
-communauté de Cèdres rouges et de Sapins sous l’effet d’un climat global, alors que le sol, la roche mère, etc. étaient différents. Il existe plusieurs trajectoires pour atteindre une même
-communauté, un état initial différent pour arriver à un état stable similaire.*
+<u><i>Exemple des forêts côtières nord américaines :</i></u> *en fonction de l’état initial du milieu (humide ou semi humide avec végétations complètement différentes), on peut arriver à une même communauté de Cèdres rouges et de Sapins sous l’effet d’un climat global, alors que le sol, la roche mère, etc. étaient différents. Il existe plusieurs trajectoires pour atteindre une même communauté, un état initial différent pour arriver à un état stable similaire.*
 
 - **Poly-climax** : en fonction du type de **sol** (riches en métaux lourds, pauvres en
 nutriments → communautés riches en herbacées), on peut trouver des **communautés
 différentes**.
-<u><i>Exemple en Californie :</i></u> *avec un même milieu et une même perturbation mais des sol s
-différents : on obtient d’un côté une végétation rase avec quelques arbres, vs des herbacées et
-quelques arbustes natifs (sol plein de métaux lourds).*
+<u><i>Exemple en Californie :</i></u> *avec un même milieu et une même perturbation mais des sols différents : on obtient d’un côté une végétation rase avec quelques arbres, vs des herbacées et quelques arbustes natifs (sol plein de métaux lourds).*
 
-- Para climax : milieux que l’on va bloquer artificiellement ; état intermédiaire que l’on
+- **Para climax** : milieux que l’on va bloquer artificiellement ; état intermédiaire que l’on
 maintient (pour l’empêcher d’aller vers l’état stable vers lequel il tend naturellement).
-<u><i>Exemple :</i></u> *surexploitation de milieux forestiers ou littoraux pour faire des cultures →
-réduction de la MO dans les sols et transformation des sols en des sols acides et oligotroph es.
-Ces nouvelles conditions modifient la végétation qui peut coloniser ces milieux → ils sont
-bloqués dans une trajectoire particulière et ne peuvent plus évoluer vers des milieux
-forestiers. Exemple : maquis, garrigue, lande maintenus par des incendies volontaires.*
-Le para-climax peut aussi être constitué d’espèces introduites par l’Homme. *Exemple : lande
-maintenue par du pâturage.*
+<u><i>Exemple :</i></u> *surexploitation de milieux forestiers ou littoraux pour faire des cultures → réduction de la MO dans les sols et transformation des sols en des sols acides et oligotrophes. Ces nouvelles conditions modifient la végétation qui peut coloniser ces milieux → ils sont bloqués dans une trajectoire particulière et ne peuvent plus évoluer vers des milieux forestiers. Exemple : maquis, garrigue, lande maintenus par des incendies volontaires.*
+Le para-climax peut aussi être constitué d’espèces introduites par l’Homme. *Exemple : lande maintenue par du pâturage.*
 
 ##### C) Egler (1954)
 
@@ -215,21 +205,13 @@ Ces deux théories s’opposent :
 
 - **Relais floristique** = milieu cultivé par l’Homme : perturbation répétée. Recolonisation
 de la végétation après arrêt de l’activité anthropique. **Arrivée et établissement d’autres
-espèces possibles mais cela se fait au détriment des précédentes . Sorte de « relais » entre
-différentes communautés de végétation :** d’abord des adventices puis de la végétation
-prairiale, puis arbustive et enfin forestière. Cela se fait sur un long laps de temps.
-*Exemple : Ripisyphes (haies à proximité des rivières) après des crues*
+espèces possibles mais cela se fait au détriment des précédentes . Sorte de « relais » entre différentes communautés de végétation :** d’abord des adventices puis de la végétation prairiale, puis arbustive et enfin forestière. Cela se fait sur un long laps de temps. *Exemple : Ripisyphes (haies à proximité des rivières) après des crues*
 
 - **Composition floristique initiale = toutes les espèces sont présentes au départ** : elles
-peuvent être présentes sous forme de banque de graines. Elles vont **varier en
-abondance** : les adventices vont augmenter en premier leur abondance, ce qui va
-favoriser le développement des autres espèces qui vont varier également en abondance
-au cours du temps. *Exemple : forêts de sapins de Douglas après incendie (les graines
-sont toujours présentes dans le sol), même si le s arbres ne dominent pas au départ ils
-commencent à pousser.*
+peuvent être présentes sous forme de banque de graines. Elles vont **varier en abondance** : les adventices vont augmenter en premier leur abondance, ce qui va favoriser le développement des autres espèces qui vont varier également en abondance au cours du temps. *Exemple : forêts de sapins de Douglas après incendie (les graines sont toujours présentes dans le sol), même si le s arbres ne dominent pas au départ ils commencent à pousser.*
 
 Ces 2 théories s’appliquent sur beaucoup de systèmes (sauf récupération sapin de Douglas
-après incendie → composition floristique initiale). Cela dépend de l’échelle d’étude , des stades de développement et des types de végétation . Les deux types de modèles peuvent être trouvés dans l’environnement et expliquer les successions.
+après incendie → composition floristique initiale). Cela dépend de l’échelle d’étude, des stades de développement et des types de végétation . Les deux types de modèles peuvent être trouvés dans l’environnement et expliquer les successions.
 
 ### 2) Facilitation, inhibition, tolérance
 
@@ -274,7 +256,7 @@ Les modèles de facilitation concernent les systèmes forestiers :
 ![[Pasted image 20230729062754.png]]
 
 <u>Vallée de la Maurienne :</u> stress permanent : forte luminosité → espèces qui vont réapparaître
-dans la succession, tolérantes à la lumière (Pin s sylvestres). Ces espèces vont pouvoir générer
+dans la succession, tolérantes à la lumière (Pins sylvestres). Ces espèces vont pouvoir générer
 de l’ombre (création d’un microclimat) d’où l’installation d’espèces qui affectionnent de moins en moins la lumière → Espèces tolérantes stress : car peuvent vivre avec moins de lumières
 
 <u>Modèle de tolérance et d’inhibition</u>
@@ -558,4 +540,12 @@ Il peut y avoir un phénomène de transition vers un autre état → communauté
 
 ##### <u>Deuxième modèle : faible sévérité de perturbation</u>
 Seul l’**héritage biologique** va intervenir : survivants **matures** + héritage structurel → on revient rapidement à une **forêt mature d’Eucalyptus**. Les arbres matures maintiennent et imposent les conditions du milieu (ombre en bas, conservation de la litière car continuent d en déposer), donc il y a moins de changements des conditions abiotiques du milieu. On revient à l’état de départ en quelques étapes.
+
+##### <u>Dernier modèle : forte sévérité de perturbation mais perturbations qui arrivent de manière
+répétées dans le système (forte fréquence)</u>
+
+Après des perturbations intenses répétées, on va vers un état différent : **forêt d’Acacias** →
+systèmes jeunes (forêts immatures) : espèces à forte croissance qui vont se maintenir dans le
+milieu. En effet, il y a **peu d’héritage biologique** quand les feux sont répétés : cela empêche les pluies de graines de faire repartir une forêt (car de moins en moins de gros arbres survivent, que des plantules pas capables de faire repartir des graines). La régénération est limitée, la transition n’est pas graduelle mais abrupte vers un autre type de forêt.
+Cela aboutit à une **forêt immature** car la fréquence rapide mais a longévité peu importante.
 
