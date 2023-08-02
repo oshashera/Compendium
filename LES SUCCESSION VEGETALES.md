@@ -479,5 +479,37 @@ perturbations. La **transition** est **graduelle** : intensités et fréquences 
 <u>Troisième modèle-cas 3 :</u> modèle avec **connectivité maximum** , peu importe de quel état on
 part, on peu transiter vers n’importe quel autre état. Aboutit à 2 types d’états stables pour une même étape de **transition abrupte**. 
 
+### 6) Héritage biologique
 
-# <mark style="background: #EE6B6BA6;">/!\ Recup 3 dernières pages</mark>
+![[Pasted image 20230802015704.png]]
+
+Il est **assez peu fréquent que toute la vie soit retirée après une perturbation**.
+→ **Héritage** et plus ou moins de survivants de l’état antérieur.
+
+Cet héritage va **influencer les trajectoires écologiques**.
+***Héritage vivant =** Organismes survivants + Pollens, graines ou racines préservées après la
+perturbation.
+**Héritage structural =** il n’y a plus d’organismes vivants mais structure conservée.*
+Cet héritage va permettre de **procurer des refuges, habitats, nutriments pour des espèces
+animales notamment** qui pourront ensuite recoloniser le milieu.
+
+➔ En fonction des espèces présentes dans le milieu, on peut observer des **changements de
+la composition du sol**, de son **acidité** (nutriments, PH). *Exemple : bactéries fixatrices
+d’azote.*
+➔ En fonction de la préservation du sol, l’**héritage** contribue aux trajectoires écologiques
+et donc **influence les communautés**, même après la perturbation.
+
+![[Pasted image 20230802020058.png]]
+
+*Exemple d’héritage biologique : cours d’eau après perturbation.
+Il s’agit d’une expérience qui montre, en fonction de la présence de différentes espèces, comment cela joue sur la colonisation d’un cours d’eau par
+d’autres organismes.*
+Présence des **Ephémères** : **pas d’effet** sur les communautés
+Présence de **Lymnée voyageuse** : **affecte l’installation des filtreurs** par anéantissement des
+algues.
+Présence de **Gammare** : **réduit ou exclut les colonisateurs** → modification de la croissance des algues qui vont se développer dans les cours d’eau.
+
+En fonction de ce qui est préservé après une perturbation, ce ne sont pas les mêmes
+communautés qui s’installent par la suite.
+
+## III. VERS UNE THEORIE DE LA PERTURBATION RATIONALISEE
