@@ -82,4 +82,28 @@ L'**écotoxicologie** regroupe ces 3 champs disciplinaires et peut ainsi être d
 
 #### <u>Polluants organiques :</u>
 
-1995: Etablissement, par le programme des Nations Unies pour l'environnement, d'une liste de 12 substances dites "polluants organiques co"
+1995: Etablissement, par le programme des Nations Unies pour l'environnement, d'une liste de 12 substances dites "polluants organiques persistants" (POP).
+=> Etude de l'impact de ces différents polluants sur l'environnement
+
+- **Insecticides :**
+=> Aldrine, chlordane, Dichlorodiphényltrichloroéthane (DDT), dieldrine, endrine, heptachlore, hexachlorobenzène, mirex, toxaphène
+
+- **Huiles hydrauliques :**
+=> Polychlorobiphényles (PCB), Polychlorodibenzo-*p*-dioxines (PCDD), Polychlorodibenzofuranes (PCDF)
+
+D'autres substances ont par la suite été ajoutées à cette liste des polluants organiques persistants, qui continue d'être mise à jour.
+=> Hydrocarbures aromatiques polycycliques (HAP), certains agents ignifuges bromés, des composants organométalliques tels que les tributylétains (TBT), et d'autres insecticides appartenant à la famille des carbamates (Carbaryl, Carbofuran, Carbosulfan, Aldicarbe,...)
+
+#### Convention internationale de Stockholm sur les polluants organiques persistants : 
+
+**\>** Signée en 2001, mise en action depuis 2004 et régulièrement mise à jour, elle vise à éliminer ou au moins restreindre la production et l'utilisation des polluants organiques persistants.
+![[Pasted image 20230804011856.png]]
+
+- En juin 2016, 180 états l'ont déjà signée.
+=> l'Arabie Saoudite en fait partie depuis 2012
+
+- Les Etats-Unis et l'Italie l'ont signée en 2001 mais ne l'ont toujours pas mise en application
+
+**\>** Résultats de la convention de Stockholm : 
+=> Cela a-t-il été efficace ?
+
