@@ -203,4 +203,21 @@ D'autres substances ont par la suite été ajoutées à cette liste des polluant
 => Diminution de la biodiversité
 
 - Ecosystème
--
+\- Diminution de la biodiversité
+\- Les effets varient selon les espèces
+<ul> => Modification de la distribution des espèces </ul> - Effets indirects
+<ul> => Changements au sein du réseau trophique et de l'ensemble en interaction </ul>
+- Population
+=> Diminution de la croissance des populations
+
+- Organisme
+=> Perturbation de la reproduction
+
+- Tissu
+=> Perturbation de l'équilibre entre testostérone et oestradiol
+
+- Molécule 
+=> Impact des polluants sur l'enzyme aromatase et son activité
+
+# <mark style="background: #EE6B6BA6;"> /!\ Récup le reste (p8/22)</mark>
+
