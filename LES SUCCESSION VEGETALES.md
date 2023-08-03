@@ -42,8 +42,7 @@ Ces deux paramètres sont de **très bons indicateurs de la santé/intégrité d
 
 Comprendre les successions est donc fondamental pour comprendre le fonctionnement des écosystèmes et comment les gérer.
 
-*Suite à une perturbation, des communautés de végétaux vont se suc
-céder dans le temps.*
+*Suite à une perturbation, des communautés de végétaux vont se succéder dans le temps.*
 <u>Problème :</u> il existe de **multiples théories sur les successions** , ce n’est pas toujours simple (situations très contrastées).
 Ces théories ont permis de mettre en place un **cadre conceptuel pour une théorie rationalisée** : en fonction des types de perturbations (différents paramètres qui les caractérisent), on n’observera pas forcément la même trajectoire de végétation.
 
