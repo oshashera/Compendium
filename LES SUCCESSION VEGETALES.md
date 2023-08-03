@@ -292,13 +292,10 @@ milieu sont soit des espèces capables de coloniser très rapidement, soit des e
 étaient déjà présentes et qui ont résisté à la perturbation.
 Dès que la perturbation s’estompe : **stratégies intermédiaires**.
 Lorsque les **perturbations** sont **fortes et fréquentes**, le **milieu** est **pauvre en termes de richesse spécifique**. Les seules espèces présentes sont des colonisateurs rapides (espèces pionnières).
-Ils vont alors potentiellement **faciliter l’installation de nouvelles espèces** (herbacées). Lorsque
-**la perturbation diminue** , on observe une **augmentation de la richesse spécifique** (herbacées,
-arbustes qui se développent) → **pic** → **maximum d’espèces qui peuvent coexister** → **maximum de diversité/richesse spécifique**.
+Ils vont alors potentiellement **faciliter l’installation de nouvelles espèces** (herbacées). Lorsque **la perturbation diminue** , on observe une **augmentation de la richesse spécifique** (herbacées, arbustes qui se développent) → **pic** → **maximum d’espèces qui peuvent coexister** → **maximum de diversité/richesse spécifique**. 
 Même si les **perturbations continuent de diminuer**, il y a **apparition d’espèces compétitives** qui vont entraîner la **diminution de la richesse spécifique** du fait de l’exclusion compétitive des autres espèces. La baisse de la richesse spécifique est alors associée à une forte biomasse
 (arbres qui excluent des herbacées d’où une richesse spécifique moindre).
-**A l’intermédiaire : perturbation intermédiaire : compromis entre capacité à coloniser le milieu
-et à exclure les autres espèces.**
+**A l’intermédiaire : perturbation intermédiaire : compromis entre capacité à coloniser le milieu et à exclure les autres espèces.**
 ➔ **20 % des études** montrent ce schéma.
 
 ### 3) Hypothèses basées sur les traits et les ressources
@@ -417,7 +414,7 @@ prédire vers quels groupes fonctionnels on va tendre en se basant sur ces trait
 ### 4) Effets stochastiques
 
 Il s’agit plutôt d’un **modèle statistique**.
-***Effets stochastiques =** effets aléatoires qui ont lieu dans l’environnement*.
+**Effets stochastiques =** *effets aléatoires qui ont lieu dans l’environnement*.
 
 ##### A) Chaînes markoviennes
 
@@ -467,7 +464,7 @@ Il est **assez peu fréquent que toute la vie soit retirée après une perturbat
 → **Héritage** et plus ou moins de survivants de l’état antérieur.
 
 Cet héritage va **influencer les trajectoires écologiques**.
-***Héritage vivant =** Organismes survivants + Pollens, graines ou racines préservées après la
+**Héritage vivant =** Organismes survivants + Pollens, graines ou racines préservées après la
 perturbation.
 **Héritage structural =** il n’y a plus d’organismes vivants mais structure conservée.*
 Cet héritage va permettre de **procurer des refuges, habitats, nutriments pour des espèces
