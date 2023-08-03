@@ -94,7 +94,7 @@ L'**écotoxicologie** regroupe ces 3 champs disciplinaires et peut ainsi être d
 D'autres substances ont par la suite été ajoutées à cette liste des polluants organiques persistants, qui continue d'être mise à jour.
 => Hydrocarbures aromatiques polycycliques (HAP), certains agents ignifuges bromés, des composants organométalliques tels que les tributylétains (TBT), et d'autres insecticides appartenant à la famille des carbamates (Carbaryl, Carbofuran, Carbosulfan, Aldicarbe,...)
 
-#### Convention internationale de Stockholm sur les polluants organiques persistants : 
+#### <u>Convention internationale de Stockholm sur les polluants organiques persistants :</u> 
 
 **\>** Signée en 2001, mise en action depuis 2004 et régulièrement mise à jour, elle vise à éliminer ou au moins restreindre la production et l'utilisation des polluants organiques persistants.
 ![[Pasted image 20230804011856.png]]
@@ -107,3 +107,50 @@ D'autres substances ont par la suite été ajoutées à cette liste des polluant
 **\>** Résultats de la convention de Stockholm : 
 => Cela a-t-il été efficace ?
 
+![[Pasted image 20230804012126.png]]
+- Cela a fonctionné, dans une certaine mesure ...
+
+**On ne peut cependant pas tester toutes les substances chimiques (et leurs associations) sur toutes les espèces, il est donc utile de faire appel à des espèces bio-indicatrices.**
+
+#### <u>Evaluation des risques environnementaux par l'utilisation de biomarqueurs</u>
+
+![[Pasted image 20230804012353.png]]
+![[Pasted image 20230804012406.png]]
+
+=> Les effets commencent au niveau moléculaire/subcellulaire. Pour atteindre le niveau de la population leurs conséquences doivent impliquer le processus de reproduction, il doit y avoir un impact sur le nombre d'organismes à la génération suivante
+
+![[Pasted image 20230804012602.png]]
+
+**\>** Qu'est-ce qui pourrait être directement affecté et quelles conséquences en découlerait ?
+
+- Survie
+=> Rarement rencontré de façon directe dans la nature
+
+- Croissance
+=> Retardement de la croissance
+
+- Orientation
+=> Réduction des possibilités de rencontre et de la capacité de retour au gîte
+
+- Visions
+=> Réduction des possibilités de rencontre et de la capacité de reconnaissance nourriture (proie)/prédateur
+
+- Fertilité
+=> Nombre d'individus produits dans la descendance
+
+- Pollinisateurs
+=> Présence et efficacité
+
+- Mycorhizes
+=> Présence et efficacité
+
+- Digestion
+=> Altération de la capacité d'extraction des nutriments
+
+- Système nerveux
+=> Altération de la vitesse de réponse à un stimulus, des capacités d'apprentissage ...
+
+- Activité
+=> Perte d'intérêt pour l'alimentation, la reproduction ou la fuite
+
+- Vitesse de nage
