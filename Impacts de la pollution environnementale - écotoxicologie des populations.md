@@ -75,4 +75,11 @@ Or, dans la réalité cela est plus complexe, les organismes sont soumis à des 
 **> Ecologie**
 => Etudes des interactions dynamiques existant entre les organismes et l'environnement dans son intégralité, qui résultent de la distribution et l'abondance de la vie
 
-- Les polluants/contam
+- Les polluants/contaminants chimiques sont rarement pris en compte dans l'écologie théorique/de base.
+
+L'**écotoxicologie** regroupe ces 3 champs disciplinaires et peut ainsi être défini comme la science qui étudie l'effet des polluants environnementaux sur l'environnement en intégrant tous les niveaux biologiques (de l'échelle cellulaire/subcellulaire jusqu'à l'échelle des écosystèmes).
+=> La recherche fondamentale permet de prédire l'impact écologique des différents polluants et ainsi, après analyse, d'évaluer les risques liés à une éventuelle pollution afin de mettre en place des mesures de gestion/restauration adaptées.
+
+#### <u>Polluants organiques :</u>
+
+1995: Etablissement, par le programme des Nations Unies pour l'environnement, d'une liste de 12 substances dites "polluants organiques co"
