@@ -243,8 +243,7 @@ En fonction des pressions abiotiques/biotiques du milieu, il existe **différent
 - Facilitation **directe** : amélioration de l’habitat par les plantes voisines. Lorsque les
 conditions abiotiques sont contraignantes pour les organismes, il peut y avoir des
 espèces qui vont faciliter ce milieu pour les espèces suivantes.
-*Exemple : substrat nu → plantes, mousses qui vont s’installer sous la forme de coussins ce qui
-va améliorer les facteurs abiotiques pour les autres espèces.*
+*Exemple : substrat nu → plantes, mousses qui vont s’installer sous la forme de coussins ce qui va améliorer les facteurs abiotiques pour les autres espèces.*
 
 - Facilitation **indirecte** : amélioration de l’habitat par les plantes voisines, dans le cas de
 fortes pressions biotiques.
