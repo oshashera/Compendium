@@ -126,14 +126,14 @@ Successions secondaire autogénique **régressive = période de perte de biomass
 
 *<u>Exemple</u> : perturbation par coupe d’arbres sur les pentes d’un bassin versant*. Les végétaux et notamment les arbres permettent une rétention d’eau et limitent le niveau de la nappe phréatique. Parfois, lorsque l’on coupe ces arbres, cela entraîne une accumulation d’eau dans les sols et des phénomènes de lessivage des particules des sols.
 → Végétation qui va perdre en biomasse car elle est soumise à un fort stress salin lié à des changements de flux dans les sols → végétation assez rase.
+
 Dans un **système dunaire** , les **perturbations** peuvent être assez **fréquentes** : phénomènes d’**accrétion** (apport de sable par le vent) et d'**érosion**.
 ![[Pasted image 20230724222155.png]]
 
 En fonction de l’intensité de ces perturbations, les systèmes peuvent
-**perdre de l’habitat dunaire dans le cas d’une érosion importante** ou bien on peut observer des successions **progressives si l’accrétion est plus importante**. Dans un même système, on peut donc observer
-l’un ou l’autre de ces deux cas.
+**perdre de l’habitat dunaire dans le cas d’une érosion importante** ou bien on peut observer des successions **progressives si l’accrétion est plus importante**. Dans un même système, on peut donc observer l’un ou l’autre de ces deux cas.
 
-Tous ces processus sont relativement **linéaires dans le temps** mais on peu t avoir des systèmes plutôt **cycliques**.
+Tous ces processus sont relativement **linéaires dans le temps** mais on peut avoir des systèmes plutôt **cycliques**.
 
 Succession cyclique : *Exemple des tourbières : sols acides, plutôt oligotrophes et gorgés*
 ![[Pasted image 20230724222339.png]]
@@ -173,7 +173,7 @@ Cette théorie a été vivement critiquée car il n’est **pas si facile de pr�
 s’installer**. En effet, ces successions ne vont pas forcément s’arrêter à un stade final : c’est
 modèle **dynamique** et **complexe**, un système qui n’est **pas toujours à l’équilibre**.
 
-##### b) Cowles (1901,1911)
+##### B) Cowles (1901,1911)
 
 La succession n’est **pas forcément linéaire** car on peut passer par un **stade intermédiaire** pour aller de l’Eo vers l’état final. Il peut également y avoir des **retours** depuis l’état climacique, **vers des états antérieurs** de la succession. Il n’y a donc **pas d’état final défini en soi**.
 
@@ -188,7 +188,7 @@ nutriments → communautés riches en herbacées), on peut trouver des **communa
 différentes**.
 <u><i>Exemple en Californie :</i></u> *avec un même milieu et une même perturbation mais des sols différents : on obtient d’un côté une végétation rase avec quelques arbres, vs des herbacées et quelques arbustes natifs (sol plein de métaux lourds).*
 
-- **Para climax** : milieux que l’on va bloquer artificiellement ; état intermédiaire que l’on
+- **Para-climax** : milieux que l’on va bloquer artificiellement ; état intermédiaire que l’on
 maintient (pour l’empêcher d’aller vers l’état stable vers lequel il tend naturellement).
 <u><i>Exemple :</i></u> *surexploitation de milieux forestiers ou littoraux pour faire des cultures → réduction de la MO dans les sols et transformation des sols en des sols acides et oligotrophes. Ces nouvelles conditions modifient la végétation qui peut coloniser ces milieux → ils sont bloqués dans une trajectoire particulière et ne peuvent plus évoluer vers des milieux forestiers. Exemple : maquis, garrigue, lande maintenus par des incendies volontaires.*
 Le para-climax peut aussi être constitué d’espèces introduites par l’Homme. *Exemple : lande maintenue par du pâturage.*
@@ -207,10 +207,10 @@ de la végétation après arrêt de l’activité anthropique. **Arrivée et ét
 espèces possibles mais cela se fait au détriment des précédentes . Sorte de « relais » entre différentes communautés de végétation :** d’abord des adventices puis de la végétation prairiale, puis arbustive et enfin forestière. Cela se fait sur un long laps de temps. *Exemple : Ripisyphes (haies à proximité des rivières) après des crues*
 
 - **Composition floristique initiale = toutes les espèces sont présentes au départ** : elles
-peuvent être présentes sous forme de banque de graines. Elles vont **varier en abondance** : les adventices vont augmenter en premier leur abondance, ce qui va favoriser le développement des autres espèces qui vont varier également en abondance au cours du temps. *Exemple : forêts de sapins de Douglas après incendie (les graines sont toujours présentes dans le sol), même si le s arbres ne dominent pas au départ ils commencent à pousser.*
+peuvent être présentes sous forme de banque de graines. Elles vont **varier en abondance** : les adventices vont augmenter en premier leur abondance, ce qui va favoriser le développement des autres espèces qui vont varier également en abondance au cours du temps. *Exemple : forêts de sapins de Douglas après incendie (les graines sont toujours présentes dans le sol), même si les arbres ne dominent pas au départ ils commencent à pousser.*
 
 Ces 2 théories s’appliquent sur beaucoup de systèmes (sauf récupération sapin de Douglas
-après incendie → composition floristique initiale). Cela dépend de l’échelle d’étude, des stades de développement et des types de végétation . Les deux types de modèles peuvent être trouvés dans l’environnement et expliquer les successions.
+après incendie → composition floristique initiale). Cela dépend de l’échelle d’étude, des stades de développement et des types de végétation. Les deux types de modèles peuvent être trouvés dans l’environnement et expliquer les successions.
 
 ### 2) Facilitation, inhibition, tolérance
 
