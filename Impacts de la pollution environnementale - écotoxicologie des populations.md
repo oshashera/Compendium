@@ -123,34 +123,84 @@ D'autres substances ont par la suite été ajoutées à cette liste des polluant
 
 **\>** Qu'est-ce qui pourrait être directement affecté et quelles conséquences en découlerait ?
 
-- Survie
+- **Survie**
 => Rarement rencontré de façon directe dans la nature
 
-- Croissance
+- **Croissance**
 => Retardement de la croissance
 
-- Orientation
+- **Orientation**
 => Réduction des possibilités de rencontre et de la capacité de retour au gîte
 
-- Visions
+- **Visions**
 => Réduction des possibilités de rencontre et de la capacité de reconnaissance nourriture (proie)/prédateur
 
-- Fertilité
+- **Fertilité**
 => Nombre d'individus produits dans la descendance
 
-- Pollinisateurs
+- **Pollinisateurs**
 => Présence et efficacité
 
-- Mycorhizes
+- **Mycorhizes**
 => Présence et efficacité
 
-- Digestion
+- **Digestion**
 => Altération de la capacité d'extraction des nutriments
 
-- Système nerveux
+- **Système nerveux**
 => Altération de la vitesse de réponse à un stimulus, des capacités d'apprentissage ...
 
-- Activité
+- **Activité**
 => Perte d'intérêt pour l'alimentation, la reproduction ou la fuite
 
-- Vitesse de nage
+- **Vitesse de nage**
+=> Succès de fuite et de capture de proie plus faible
+
+
+*Les effets commencent au niveau moléculaire/subcellulaire mais peuvent être modulés par des facteurs additionnels*
+
+![[Pasted image 20230804013246.png]]
+
+**\>** Quels sont les effets additionnels ?
+
+- **Taille, poids, âge (stade de vie), sexe**
+=> Impact sur la capacité à gérer le stress
+
+- **Température**
+=> En particulier chez les organismes poïkilothermes
+
+- **Mélange de composants toxiques**
+
+- **Disponibilité de la nourriture**
+=> Besoin d'énergie non seulement pour la croissance et la reproduction mais aussi pour supporter le stress lié à la présence de polluants (réduction de la croissance si faible disponibilité)
+
+- **Maladies**
+=> Affaiblissement supplémentaire
+
+- **Parasites**
+=> Affaiblissement supplémentaire
+
+- **Présence d'un refuge**
+=> Zones protégées permettant un développement de la descendance
+
+- **Eau**
+=> Sécheresse/inondations
+
+- **Mycorhizes**
+=> Efficacités et présence (+) ou (-) importantes
+
+- **Effets combinés**
+=> Conséquences variables
+
+- **Destruction/fragmentation de l'habitat**
+=> Réduction de la biodiversité et fragmentation de la population (et donc du pool de gène)
+
+*(+) l'organisme est soumis à un stress important, abiotique (climat, polluants, recherche d'un habitat, manque de nourriture, ...) ou biotique (maladies, parasites, compétitions, ...), (+) la perte est important.*
+
+**\>** Effets généraux observés aux différents niveaux d'organisation :
+
+- Biosphère
+=> Diminution de la biodiversité
+
+- Ecosystème
+-
