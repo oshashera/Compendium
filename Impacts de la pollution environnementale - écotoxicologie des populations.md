@@ -219,5 +219,48 @@ D'autres substances ont par la suite été ajoutées à cette liste des polluant
 - Molécule 
 => Impact des polluants sur l'enzyme aromatase et son activité
 
+
+## Ecotoxicologie des populations
+
+**À l’échelle d’une population** les polluants environnementaux **entraînent des modifications de la taille de cette population et des dynamiques qui lui sont liées**.
+=> Effet sur les *individus* ayant des conséquences à l’échelle des *population* :
+<ul>Taux de naissance/croissance/reproduction/migration (gains, pertes)/mortalité</ul>
+**À l’échelle d’une communauté** (interactions intra-spécifiques entre des populations coexistantes) les polluants environnementaux **affectent la diversité spécifique, la distribution et l’abondance en individus, la démographie et les interactions biotiques** (relations proie/prédateur, compétition, mutualisme, commensalisme, réseau trophique).
+
+**À l’échelle d’un écosystème**, les polluants environnementaux **affectent le taux de recyclage des nutriments, les patterns des flux de nutriments, les conditions physico-chimiques du
+milieu**.
+
+Les directives nationales et internationales d’évaluation des risques écologiques liés aux polluants environnementaux se concentrent sur la protection et la gestion à l’échelle des populations, des communautés et des écosystèmes.
+
+<u>De l’écotoxicologie vers l’écologie :</u>
+
+Besoin : Implémenter (+) d’écologie dans l’approche de l’écotoxicologie.
+
+Difficulté : Causes multiples (effets directs et effets additionnels), évolution de la situation au cours du temps
+
+Approches :
+
+**\>** Implémenter la **dynamique des populations**
+=> Courbes de croissance
+<ul>- Courbes exponentielles de croissance, modèle de Malthus<br>
+- Modèle de croissance logistique de Verhulst-Pearl</ul>
+=> Dans le cas de population self-limitante
+➢ Mesure de l’oscillation consommateur-ressources
+=> Système proie-prédateur de Lotka-Volterra (équation de Lotka-Volterra)
+➢ Index d’espèces à risque (SPEAR : Species at Risk index)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # <mark style="background: #EE6B6BA6;"> /!\ Récup le reste (p8/22)</mark>
 
