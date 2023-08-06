@@ -328,11 +328,63 @@ allègement des coquilles d’oeufs.
 
 ![[Pasted image 20230806231252.png]]
 
+Mise en évidence :
+=> Épidémiologie + démographie + chimie analytique + écotoxicologie (de laboratoire et de terrain)
 
+<u>Effets sur la santé humaine :</u>
+• Cancers
+• Infertilité mâle
+• Risque de fausse couche et faible poids de naissance
+• Retard de développement
+• Endommagement du système nerveux et du foie
 
+### C) Étude sur les Vautours en Indes
 
+Les populations de *Gyps bengalensis*, un vautour constituant initialement l’un des rapaces les (+) communs du sous-continent indien, ont rapidement subies un déclin de (+) de 95 %, plaçant l’espèce dans une situation de danger critique d’extinction.
 
+Ce déclin massif et extrêmement rapide des populations de *Gyps bengalensis* a principalement été causé par l’ingestion de cadavres d’animaux (dont ils se nourrissent) contaminés par des produits chimiques et des médicaments vétérinaires anti-inflammatoires à base de Diclofenac.
 
+- Cela a pu être prouvé expérimentalement par exposition orale de vautours au Diclofenac ou nutrition des vautours avec des animaux issus d’élevages ayant été traités au Diclofenac.
+
+- Le diclofenac est utilisé comme traitement anti-inflammatoire, contre la douleur et la fièvre pour les animaux d’élevage.
+ => En 2003, au Pakistan, 92 % des vendeurs de produits vétérinaires (84 interrogés) disaient vendre quotidiennement des médicaments dont il est le principe actif.
+ 
+Domaines impliqués dans l’étude :
+=> Épidémiologie + démographie + chimie analytique + écotoxicologie
+
+### D) Déclin des populations d’Amphibiens à l’échelle mondiale
+
+![[Pasted image 20230806231902.png]]
+
+En 1993, les populations de (+) de 500 espèces de grenouilles et de salamandres étaient en déclin.
+=> Aujourd’hui ce déclin s’est étendu à (+) de 1400 espèces.
+
+![[Pasted image 20230806232034.png]]
+
+Les Amphibiens sont à la fois sensibles aux pollutions environnementales aquatiques et terrestres.
+=> Les raisons du déclin des populations d’Amphibiens incluent une surexploitation de celles-ci à des fins alimentaires et commerciales, la perte d’habitat et la perte de connectivité (destruction et
+fragmentation des habitats), des moisissures, des changements de température et des causes (+)
+énigmatiques telles que la chytridiomycose, maladie liée a un champignon, ou encore le stress lié à la pollution (mélanges de composition inconnue ayant des effets mal connus).
+
+<u>Polluants environnementaux affectant les Amphibiens :</u>
+
+**\>** Pesticides
+**\>** Métaux lourds
+**\>** Engrais azotés
+**\>** Composants acidifiant le milieu
+
+Selon les polluants impliqués, les effets sur les Amphibiens peuvent être directs ou indirects
+=> Mort, vitesse de croissance réduite, anormalités développementales et comportementales
+
+Exemple d’expériences :
+**\>** « Uptake, metabolism and effets on detoxification enzymes of Isoproturon in Spawn and
+Tadpoles of Amphibians » (Greulich et al., Ecotoxicology and Environmental Safety 52, 256-266, 2002).
+=> Existence d’un phénomène de lessivage entraînant les pesticides utilisés sur les cultures dans
+les points d’eau présents au sein des champs dans lesquels se trouvent ces cultures
+
+![[Pasted image 20230806232309.png]]
+
+![[Pasted image 20230806232332.png]]
 
 
 
