@@ -451,13 +451,66 @@ métamorphique.
 
 ### G) Cas des abeilles mellifères (*Apis mellifera* en particulier) et autres pollinisateurs
 
-On observe une diminution importante des populations d’abeilles mellifères à l’échelle mondiale :
+<u>On observe une diminution importante des populations d’abeilles mellifères à l’échelle mondiale :</u>
 ![[Pasted image 20230806233355.png]]
 
+**\>** Entre 80 et 90 % des Angiospermes sont tributaires de la pollinisation par les abeilles ou par
+d’autres insectes.
+**\>** 84 % des plantes cultivées nécessitent l’action des abeilles pour leur pollinisation.
+**\>** 35 % de la quantité (en masse) de nourriture consommée dépend de la pollinisation par les
+abeilles, et ce chiffre augmente avec la population humaine.
 
+D’un point de vue des services écosystémiques rendus on considère que les abeilles pollinisent pour (+) de 35 milliards de dollars de plantes cultivées par an aux États-Unis.
 
+La disparition des abeilles entraîne une diminution du taux de pollinisation et de la diversité floristique globale.
+=> Cette disparition se manifeste par :
 
+- Des pertes hivernales importantes
+- Une disparition des ouvrières et/ou un manque de reine
+- Le syndrome d’effondrement des colonies d’abeilles (Colony Collapse Disorder, CCD)
 
+Causes de ce déclin des populations d’abeilles :
+**\>** Destruction des habitats
+- Destruction et perte de connectivité.
+- Réduction de la variabilité et de la disponibilité en ressources alimentaires.
+	- La monoculture minimise la variabilité des ressources alimentaires et entraîne ainsi une malnutrition, à la fois sur le plan quantitatif et qualitatif.
+	- Impact des plantes OGM ? => Qualités nutritives différentes ? Différences d’un point de vue olfactif perturbant leur repérage par les abeilles ? Impacts cachés ?
+	- Les espèces herbacées constituent jusqu’à 40 % du régime alimentaire des abeilles entre les périodes de floraisons, leur suppression est donc délétère pour les abeilles.
+	- Le prélèvement d’une quantité maximale de miel ne laisse pas suffisamment de réserves à la colonie pour l’hiver, l’affaiblissant ainsi dans son ensemble.
+- Réduction des possibilités d’hébergement pour les espèces sauvages (coloniales ou
+solitaires).
+
+**\>** Ennemis naturels et maladies
+
+-  *Varroa desructor* (acarien).
+ => Originaire d’Asie, arrivé en Europe dans les années 1980, il est résistant à la plupart des
+ produits chimiques essayés jusque là. Il se développe dans les nymphes (si il n’est pas éliminé de la ruche avec la nymphe qu’il a infectée par les ouvrières de la ruche) et entraîne un affaiblissement lent mais certain des ruches, jusqu’à la mort de la colonie qui peut survenir entre 6 mois et 2 ans.
+
+- *Nosema ceranae* (champignon, Microsporidia).
+ => Originaire d’Asie, arrivé en Europe dans les années 1990, il parasite les cellules intestinales des abeilles provoquant ainsi des diarrhées mortelles. L’exposition des abeilles à des pesticides lors de la pollinisation altère leur sensibilité pour *Nosema ceranae*.
+
+- Deformed wing virus (DMV).
+ => Entraîne un mauvais développement des ailes
+
+- Frelon asiatique.
+ => Originaire d’Asie, involontairement introduit en Europe dans les années 2000, il prédate les abeilles en Automne lorsque les ressources nutritives sont épuisées.
+
+**\>** Insecticides et pesticides
+
+- Ils sont conçus sur la base de leur mode d’action désiré : efficacité optimale à tuer l’organisme cible et minimisation des effets secondaires sur les organismes non ciblés.
+ => Il est cependant difficile de cibler uniquement les espèces délétères tout en protégeant les espèces bénéfiques dans la mesure où elles sont souvent fortement apparentées.
+
+- Même si les concentrations utilisées sont approuvées comme étant « sûres » pour
+l’utilisation dans les champs, « sûres » ≠ non-létales.
+
+- Exemple :
+	- Thiamethoxane : Néo-nicotinoïdes par exemple utilisé sur le colza, interdit en France depuis 2012 mais très persistant.
+	 => Impact : désorientation des abeilles (incapacité à retourner à la ruche ou au prix d’un lourd effort énergétique), altération des capacités d’apprentissage et de mémoire ainsi que du système immunitaire
+	 
+	- Mélange de 2 nicotinamides : 1 insecticide (pyréthrinoïde) et un fongicide (imidazole).
+	 => Retrouvé dans les grains de pollens, impact la capacité de reproduction des mâles. Si
+appliqués simultanément la létalité est de 74 % mais avec un délai de 19h entre les deux
+la létalité descend à 47 %
 
 
 
