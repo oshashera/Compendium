@@ -50,7 +50,7 @@
 
 Des progrès ont été fait d'un point de vu du contrôle des points sources mais les non-points sources constituent la principale source de préoccupation.
 
-## I. Ecotoxicologie
+## I] Ecotoxicologie
 
 ### <u>Racines de l'écotoxicologie :</u>
 
@@ -274,6 +274,67 @@ L’<mark style="background: #EE6B6BA6;">écotoxicologie des populations</mark> 
 	- **Génétique des populations**
 
 ## III] Exemple d'études menées en écotoxicologie des populations
+
+### A) Étude sur *Biston betularia* , la Phalène du bouleau
+
+Matériel et méthodes :
+**\>** Classement quantitatif du camouflage.
+=> Évaluation du degré de visibilité des phalènes sur les troncs d’arbres par des observateurs humains
+**\>** Observation de la prédation, par les oiseaux, de phalènes disposées sur des troncs d’arbres.
+**\>** Calcul du taux de recapture des phalènes marquées ayant été relâchées sur des troncs d’arbres au sein de zones boisées exposées à la pollution ou non polluées.
+
+![[Pasted image 20230806230617.png]]
+
+<u>Erreurs compromettant le résultat de l’expérience et les explications/conclusions pouvant en découler :</u>
+
+**\>** L’acuité visuelle des oiseaux est différentes de celle des humains.
+=> Les oiseaux sont également capables de percevoir les UV
+
+**\>** Les phalènes ont été placées/relâchées sur les troncs d’arbre alors qu’elles se posent
+naturellement au sommet des arbres.
+
+**\>** L’expérience ne comprend que 2 sites d’étude, un exposé à la pollution et un non-exposé à la pollution.
+=> Certains phénotypes ont pu survivre aux conditions imposées par l’expérience
+
+2 questions :
+- Où se cacheraient-ils ?
+-  Où trouveraient-ils leurs partenaires ?
+Il n’y a qu’une seule génération par an !
+
+![[Pasted image 20230806230932.png]]
+
+![[Pasted image 20230806230909.png]]
+
+<u>Écotoxicologie :</u>
+Une exposition à des stimuli environnementaux de pollution n’induit pas le mélanisme, peu importe le stage de développement.
+=> Exemples :
+- Nutrition des larves (chenilles) avec des feuilles contaminées
+- Exposition des pupes à des émanations toxiques
+
+=> **Impossible à reproduire**
+
+Mise en évidence :
+=> épidémiologie + démographie + étude du comportement + génétique des populations + écotoxicologie
+
+### B) Cas de l’insecticide DDT
+
+Le **DDT** ou dichlorodiphényltrichloroéthane est un composé organochloré ayant été largement utilisé dans le monde (et étant toujours utilisé dans un certain nombre de pays) comme insecticide dans les zones de culture, dans les habitations et dans les zones de stockage de nourriture.
+
+![[Pasted image 20230806231159.png]]
+
+Le DDT altère le métabolisme du calcium chez les oiseaux, entraînant un amincissement et un
+allègement des coquilles d’oeufs.
+=> Cela menace tout particulièrement les espèces prédatrices (Faucons, pélicans, sternes, Mouettes, Cormorans), provoquant leur déclin progressif (effets sur le long terme)
+
+![[Pasted image 20230806231252.png]]
+
+
+
+
+
+
+
+
 
 
 
