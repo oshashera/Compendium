@@ -386,6 +386,78 @@ les points d’eau présents au sein des champs dans lesquels se trouvent ces cu
 
 ![[Pasted image 20230806232332.png]]
 
+=> Besoin d’études complémentaires :
+- Démographie (combien de têtards atteignent l’âge de reproduction ?)
+- Étude des interactions proie-prédateur
+**\>** The acute and chronic toxicity of Glyphosate-based pesticides in Northern Leopard Frogs
+(CHRISTINA HOWE, & MICHAEL BERRILL, Dept. Of Biology, Trent University BRUCE D. PAULI, Canadian Wildlife
+Service).
+=> Dérèglement endocrinien, possiblement lié à une perturbation au niveau des glandes
+thyroïdes et des récepteurs à l’oestrogène, entraînant un développement anormal. Les
+grenouilles exposées sont (+) petites et moins nombreuses à atteindre le climax
+métamorphique.
+=> Besoin d’études complémentaires :
+
+- Démographie (combien de têtards atteignent l’âge de reproduction ?)
+=> Besoin de mise en place de mesures/lois de régulation concernant l’utilisation du glyphosate
+
+### E) Déclin des populations d’oiseaux en Grande-Bretagne
+
+**\>** Evolution entre 1970 et 2016:
+
+![[Pasted image 20230806232611.png]]
+
+**\>** Situation en 2016 :
+
+- L’indice toute espèces (natives) d’oiseaux sauvages confondues (130 espèces) a diminué de 7 % par rapport à l’indice calculé en 1970.
+- L’indice lié aux espèces d’oiseaux des champs (19 espèces) a diminué de 56 % par rapport à l’indice calculé en 1970.
+- L’indice lié aux espèces d’oiseaux de forêts (37 espèces) a diminué de 23 % par rapport à l’indice calculé en 1970.
+- L’indice lié aux espèces d’oiseaux aquatiques et de zones humides (26 espèces, dont les habitats incluent les rivières, les lacs, les étangs, les roselières, les marais côtiers et les zones marécageuses des Lowlands) a diminué de 8 % par rapport à l’indice calculé en 1975.
+- L’indice lié aux espèces d’oiseaux marins (13 espèces) a diminué de 22 % par rapport à l’indice calculé en 1986 (légère hausse après un minimum de - 27 % par rapport à la situation en 1986 atteint en 2013).
+- L’indice lié aux espèces d’oiseaux aquatiques migrateurs (46 espèces) a augmenté de 87 % par rapport à l’indice calculé en 1975/1976.
+
+<u>Causes de ce déclin :</u>
+
+**\>** Pollution
+=> Des sources les (+) importantes aux sources les (-) importantes :
+- Effluents liés à l’agriculture et la foresterie
+- Effluents industriels
+- Herbicides et pesticides
+- Fuite de pétrole/marées noires
+- Eaux usées domestiques urbaines
+- Pollution lumineuse
+- Déchets solides
+ 
+**\>** Intensification agricole
+- Suppression des haies
+- Suppression des zones broussailleuses
+- Fauchage précoce, affectant la nidification (pour les espèces au sol notamment)
+- Mise en place de drainage du sol
+
+**\>** Intensification de la foresterie
+- Abattage
+- Assèchement
+- Suppression des zones buissonnantes et zones de basse végétation
+
+**\>** Réduction de la disponibilité en nourriture
+- Famine des oisillons liée au manque de proies invertébrées
+- Famine en période hivernale liée à des changements de la flore rase
+
+**\>** Perte des sites de ponte
+=> Concerne notamment les espèces nichant au sol
+
+![[Pasted image 20230806233218.png]]
+![[Pasted image 20230806233250.png]]
+
+### G) Cas des abeilles mellifères (*Apis mellifera* en particulier) et autres pollinisateurs
+
+On observe une diminution importante des populations d’abeilles mellifères à l’échelle mondiale :
+![[Pasted image 20230806233355.png]]
+
+
+
+
+
 
 
 
