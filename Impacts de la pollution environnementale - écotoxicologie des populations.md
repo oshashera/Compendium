@@ -220,7 +220,7 @@ D'autres substances ont par la suite été ajoutées à cette liste des polluant
 => Impact des polluants sur l'enzyme aromatase et son activité
 
 
-## Ecotoxicologie des populations
+## II] Ecotoxicologie des populations
 
 **À l’échelle d’une population** les polluants environnementaux **entraînent des modifications de la taille de cette population et des dynamiques qui lui sont liées**.
 => Effet sur les *individus* ayant des conséquences à l’échelle des *population* :
@@ -242,17 +242,38 @@ Approches :
 
 **\>** Implémenter la **dynamique des populations**
 => Courbes de croissance
-<ul>- Courbes exponentielles de croissance, modèle de Malthus<br>
-- Modèle de croissance logistique de Verhulst-Pearl</ul>
-=> Dans le cas de population self-limitante
-➢ Mesure de l’oscillation consommateur-ressources
-=> Système proie-prédateur de Lotka-Volterra (équation de Lotka-Volterra)
-➢ Index d’espèces à risque (SPEAR : Species at Risk index)
+<ul>- <b>Courbes exponentielles de croissance</b>, modèle de Malthus<br><br>
+- <b>Modèle de croissance logistique</b> de Verhulst-Pearl<br>
+=> <i>Dans le cas de population self-limitante</i></ul>
+**\>** **Mesure de l’oscillation consommateur-ressources**
+=> *Système proie-prédateur* de Lotka-Volterra (équation de Lotka-Volterra)
 
+**\>** **Index d’espèces à risque** (SPEAR : Species at Risk index)
 
+![[Pasted image 20230806225726.png]]
 
+**\>** **Modélisation des structures d’âge de populations**
 
+**\>** **Théorie des communautés, théories des stratégies de vie** (CSR)
 
+**\>** **Caractérisation des réseaux/chaînes trophiques**
+
+**\>** **Analyses spatiales/géographiques** (SIG, etc ...)
+
+L’<mark style="background: #EE6B6BA6;">écotoxicologie des populations</mark> est la **science qui étudie les effets des polluants environnementaux à l’échelle des populations**.
+*=> Étude des effets des polluants sur la structure des populations et leur fonctionnement*
+
+- Outils utilisés en écotoxicologie des populations :
+	- **Épidémiologie** 
+	 => Permet de déterminer les patterns, les causes et les effets d’une pathologie ou d’un problème de santé dans une population définie
+	- **Démographie de base**
+	 => Étude statistique de la population (taille/structure/distribution, changements spatiaux ou temporels)
+	- **Biologie des méta-population**
+	 => Étude de groupes de populations de la même espèces étant séparées spatialement
+	- **Théorie des histoires de vie**
+	- **Génétique des populations**
+
+## III] Exemple d'études menées en écotoxicologie des populations
 
 
 
