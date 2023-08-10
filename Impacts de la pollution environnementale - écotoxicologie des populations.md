@@ -508,9 +508,76 @@ l’utilisation dans les champs, « sûres » ≠ non-létales.
 	 => Impact : désorientation des abeilles (incapacité à retourner à la ruche ou au prix d’un lourd effort énergétique), altération des capacités d’apprentissage et de mémoire ainsi que du système immunitaire
 	 
 	- Mélange de 2 nicotinamides : 1 insecticide (pyréthrinoïde) et un fongicide (imidazole).
-	 => Retrouvé dans les grains de pollens, impact la capacité de reproduction des mâles. Si
-appliqués simultanément la létalité est de 74 % mais avec un délai de 19h entre les deux
-la létalité descend à 47 %
+	 => Retrouvé dans les grains de pollens, impact la capacité de reproduction des mâles. Si appliqués simultanément la létalité est de 74 % mais avec un délai de 19h entre les deux la létalité descend à 47 %
+
+Si les Abeilles sont déjà affaiblies par une maladie, la morbidité liée aux pesticides est d’autant (+)
+importante.
+**\>** OGM : *Bacillus thuringensis* (possède le gène Bt, codant pour la synthèse de cristaux protéiques
+insecticides, implanté dans le génome de certaines plantes cultivées comme le coton).
+=> Utilisé pour réduire la taille des larves de ver rose du cotonnier (*Pectinophora gossypiella*)
+afin de protéger les champs de coton mais problématique car les abeilles font partie des
+pollinisateurs du coton (à hauteur de 16%) et sont également affectées par les cristaux
+insecticides.
+
+Besoins complémentaires :
+
+- Études démographiques et épidémiologiques (sur les ruches).
+- Études en écotoxicologie portées sur les effets de la combinaisons de différents mélanges sur l’ensemble des paramètres de vie (comportement et capacité d’apprentissage inclus).
+- Mise en place de régulations et de lois.
+
+### H) Cas de rétablissement de populations après déclin lié à des polluants
+
+#### 1) Phoque gris en mer baltique
+
+<u>Changements au sein de la population de phoque gris en mer baltique entre 1940 et 2000 :</u>
+![[Pasted image 20230806234816.png]]
+
+<u>Augmentation du nombre poissons capturés par les pêcheurs amateurs au Royaume-uni entre 1974 et
+2000 :</u>
+=> Indique une augmentation de l’effectif des populations de différentes espèces de poissons au sein de différents cours d’eau.
+![[Pasted image 20230806234900.png]]
+
+<u>Augmentation de la diversité en macro-invertébrés au sein des rivières urbanisées anglaises entre 1990 et 2008 :</u>
+
+![[Pasted image 20230806234938.png]]
+
+![[Pasted image 20230806235007.png]]
+
+##### <u>Quels sont les coûts et les impacts à long terme ?</u>
+
+![[Pasted image 20230806235054.png]]
+
+## Conclusion
+
+**Les effets des polluants sur les individus sont écologiquement significatifs seulement si :**
+
+**\>** **Ils affectent les populations**
+- Altération des services écosystémiques rendus par l’espèce touchée (activité des vers de terre, qui est bénéfique pour le sol, par exemple).
+ ou
+- Effets indirects sur d’autres populations via le réseau trophique.
+
+**\>** **Les effets des polluants sur les individus sont écologiquement significatifs
+seulement si ils ne sont pas masqués par une immigration** (cas des populations
+d’oiseaux au sein d’une ville par exemple).
+
+Les outils permettant d’obtenir un premier aperçu de l’impact des polluants inclus :
+- La démographie
+- Les traits de vie
+- La dynamique des populations
+=> Taux de croissance (courbe logistique de Verhulst-Pearl)
+=> Relation proie/prédateur (équation de Lokta-Volterra)
+- SPEAR (Species at Risk index)
+
+Cependant, la variabilité génétique est souvent affectée.
+=> Génétique des populations
+
+Le développement de la tolérance aux polluants est un facteur de sélection naturelle
+directionnelle.
+=> Assurance d’une certaine survie au prix de la variabilité génétique
+
+
+
+
 
 
 
