@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"78e8e3730f863146","x":0,"y":0,"width":400,"height":400,"type":"file","file":"Facteurs biotiques et abiotiques.md"},
+		{"id":"4bd60037c1579101","x":120,"y":-740,"width":400,"height":400,"type":"file","file":"Les effets des facteurs abiotiques sur les écosystèmes - exemple de l'impact du réchauffement climatique sur la phénologie des organismes vivants.md"},
+		{"type":"text","text":"Ecologie","id":"97e3721092a86c21","x":-280,"y":-280,"width":125,"height":60}
+	],
+	"edges":[]
+}
