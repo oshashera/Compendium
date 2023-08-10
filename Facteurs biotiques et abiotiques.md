@@ -1,3 +1,4 @@
+
 #eco
 L’écologie est la science qui étudie les interactions des êtres vivants entre eux et leurs interactions avec leur environnement. On appelle interactions biotiques les interactions entre les êtres vivants, interactions abiotiques celles entre les êtres vivants et leur environnement.
 
