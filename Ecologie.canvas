@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"file","file":"Les effets des facteurs abiotiques sur les écosystèmes - exemple de l'impact du réchauffement climatique sur la phénologie des organismes vivants.md","id":"4bd60037c1579101","x":200,"y":-740,"width":320,"height":140},
+		{"type":"file","file":"Facteurs biotiques et abiotiques.md","id":"78e8e3730f863146","x":200,"y":-440,"width":400,"height":110},
+		{"type":"file","file":"Ecologie - introduction.md","id":"c85d3670b2b65605","x":-355,"y":-790,"width":400,"height":50},
+		{"type":"file","file":"Les sols.md","id":"74b5d4f5e246cbf6","x":-280,"y":-670,"width":400,"height":69},
+		{"type":"file","file":"L’eau.md","id":"91f170176c5bcd74","x":-800,"y":-704,"width":400,"height":69},
+		{"type":"file","file":"Biomes.md","id":"1f3b8f8a35d53c4d","x":-1160,"y":-600,"width":400,"height":69},
+		{"type":"file","file":"Climatologie.md","id":"d0ab6b23273d812f","x":-1360,"y":-330,"width":400,"height":69},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/Associations fixatrices d'azote.md","id":"18a2ed3568c7cad5","x":680,"y":-627,"width":400,"height":124},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/Interactions interspécifiques, notion de méta-communauté.md","id":"bfd8d351f7df6e5b","x":280,"y":-1080,"width":400,"height":124},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/Effet de bordure.md","id":"ae80aeb7be28578d","x":280,"y":-120,"width":400,"height":50},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/Lutte biologique.md","id":"fc70564d3fe691e4","x":680,"y":-385,"width":400,"height":69},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/Biosphère, (agro)écosystèmes et anthroposphère.md","id":"eadeefa893b2a4f4","x":680,"y":-828,"width":400,"height":124},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/Déterminants naturels et anthropiques de la production végétale.md","id":"1181c43fc6dd3da6","x":800,"y":-157,"width":400,"height":124},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/T.D. Interactions biotiques & production végétale.md","id":"147813ab70c1377a","x":800,"y":-1080,"width":400,"height":124},
+		{"type":"file","file":"Cours/BIP-BEV-BECO/Contrôles top-down et bottom-up de la production végétale.md","id":"7ebaf1d46df0e354","x":-217,"y":-1018,"width":400,"height":124},
+		{"type":"file","file":"Les successions végétales.md","id":"b4dc5168201402b9","x":-617,"y":-919,"width":400,"height":50},
+		{"id":"1fbe5ad0a9b0ed71","x":-1017,"y":-1142,"width":400,"height":124,"type":"file","file":"Cours/BIP-BEV-BECO/Associations et rotations culturales.md"},
+		{"id":"8bc7ccb8466e9bea","x":0,"y":-509,"width":400,"height":69,"type":"file","file":"Cours/BIP-BEV-BECO/Ravageurs.md"},
+		{"id":"6c0f141a55e05996","x":-800,"y":-157,"width":400,"height":124,"type":"file","file":"Cours/BIP-BEV-BECO/TP Pucerons - bandes fleuries.md"}
+	],
+	"edges":[]
+}
