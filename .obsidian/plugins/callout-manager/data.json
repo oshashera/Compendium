@@ -5,7 +5,7 @@
       "donc",
       "bookmark",
       "insect",
-      "bo"
+      "pogmark"
     ],
     "settings": {
       "memo": [
@@ -27,8 +27,8 @@
       "bookmark": [
         {
           "changes": {
-            "icon": "lucide-album",
-            "color": "234, 225, 225"
+            "icon": "feather-bookmark",
+            "color": "235, 30, 30"
           }
         }
       ],
@@ -44,6 +44,14 @@
         {
           "changes": {
             "icon": "remix-BookmarkLine"
+          }
+        }
+      ],
+      "pogmark": [
+        {
+          "changes": {
+            "icon": "remix-Bookmark3Fill",
+            "color": "226, 201, 40"
           }
         }
       ]
