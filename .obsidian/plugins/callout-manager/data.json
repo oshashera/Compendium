@@ -1,7 +1,53 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "memo",
+      "donc",
+      "bookmark",
+      "insect",
+      "bo"
+    ],
+    "settings": {
+      "memo": [
+        {
+          "changes": {
+            "icon": "lucide-brain",
+            "color": "244, 108, 174"
+          }
+        }
+      ],
+      "donc": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-big-right",
+            "color": "244, 62, 62"
+          }
+        }
+      ],
+      "bookmark": [
+        {
+          "changes": {
+            "icon": "lucide-album",
+            "color": "234, 225, 225"
+          }
+        }
+      ],
+      "insect": [
+        {
+          "changes": {
+            "icon": "remix-BugLine",
+            "color": "98, 215, 20"
+          }
+        }
+      ],
+      "bo": [
+        {
+          "changes": {
+            "icon": "remix-BookmarkLine"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,
