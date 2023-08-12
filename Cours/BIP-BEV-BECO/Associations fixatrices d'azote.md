@@ -236,7 +236,11 @@ Rappel écosystème biocénose biotope
 Relations Êtres Vivants (E.V) intra et interspécifiques
 ![[Pasted image 20221231130828.png]]
 
-Les plantes terrestre ont co-existé avec les champignons mycorhiziens -> en condition stérile la plante n’atteindrait pas sa taille adulte
+Les plantes terrestre ont co-existé avec les champignons mycorhiziens - 
+> en condition stérile la plante n’atteindrait pas sa taille adulte
+
+
+
 
   
 ### Mycorhizes
