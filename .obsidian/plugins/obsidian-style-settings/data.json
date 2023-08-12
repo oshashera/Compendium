@@ -1,10 +1,11 @@
 {
   "minimal-style@@base@@light": "#36A72C",
-  "minimal-style@@blockquote-border-thickness": 1,
+  "minimal-style@@blockquote-border-thickness": 2,
   "minimal-style@@sp1@@dark": "#36A72C",
   "minimal-style@@ax1@@light": "#36A72C",
   "minimal-style@@ax1@@dark": "#36A72C",
   "minimal-style@@color-green@@light": "#36A72C",
   "minimal-style@@color-green@@dark": "#36A72C",
-  "minimal-style@@callouts-style": "callouts-default"
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@blockquote-border-color@@dark": "#32BC39"
 }
