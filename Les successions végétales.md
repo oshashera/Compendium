@@ -546,3 +546,19 @@ systèmes jeunes (forêts immatures) : espèces à forte croissance qui vont se 
 milieu. En effet, il y a **peu d’héritage biologique** quand les feux sont répétés : cela empêche les pluies de graines de faire repartir une forêt (car de moins en moins de gros arbres survivent, que des plantules pas capables de faire repartir des graines). La régénération est limitée, la transition n’est pas graduelle mais abrupte vers un autre type de forêt.
 Cela aboutit à une **forêt immature** car la fréquence rapide mais a longévité peu importante.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+___
+[[Notions fondamentales en écologie CM]]
+[[T.D. Interactions biotiques & production végétale]]
