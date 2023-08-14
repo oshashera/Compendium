@@ -157,3 +157,10 @@ Le **sucre** est un source de nourriture essentielle pour n’importe quel insec
 La présence de ce nectar va donc fidéliser l’interaction, afin que les parasitoïdes restent à proximité de la plante et donc la protègent.
 La production de sucre/nectar par la plante **va augmenter le taux de parasitisme** et donc augmenter le taux de chenilles parasitées.
 ➔ La production de nectar est une ***défense induite et systémique***. En effet, cette production de nectar est lié à l’inducteur qui est la production de salive de la part de la chenille
+
+
+
+
+___
+[[TD Prédation]]
+[[Facteurs biotiques et abiotiques]]

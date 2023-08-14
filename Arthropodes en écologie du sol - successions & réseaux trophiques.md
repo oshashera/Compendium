@@ -523,5 +523,11 @@ En réalité, on se rend compte que **l’on ne peut pas prévoir les escouades 
 *Exemple : **Lucilia** : arrivée quasiment immédiate qui permet de dater le début de la succession*.
 **Notion de degrés cumulés** : on connaît le nombre de degré nécessaires pour arriver à chaque stade de développement de la larve.
 
-L’accessibilité de l’habitat est trop différente pour savoir qui va y arriver et qui va s’y
-développer.
+L’accessibilité de l’habitat est trop différente pour savoir qui va y arriver et qui va s’y développer.
+
+
+
+
+
+____
+[[Entomologie]]
