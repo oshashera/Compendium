@@ -5,7 +5,12 @@
       "donc",
       "bookmark",
       "insect",
-      "pogmark"
+      "pogmark",
+      "date",
+      "question",
+      "add",
+      "search",
+      "important"
     ],
     "settings": {
       "memo": [
@@ -52,6 +57,58 @@
           "changes": {
             "icon": "remix-Bookmark3Fill",
             "color": "226, 201, 40"
+          }
+        }
+      ],
+      "date": [
+        {
+          "changes": {
+            "icon": "calendar-month"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "51, 152, 230"
+          }
+        }
+      ],
+      "question": [
+        {
+          "changes": {
+            "icon": "question-mark-glyph",
+            "color": "196, 174, 28"
+          }
+        }
+      ],
+      "add": [
+        {
+          "changes": {
+            "icon": "feather-plus",
+            "color": "240, 142, 219"
+          }
+        }
+      ],
+      "search": [
+        {
+          "changes": {
+            "icon": "remix-SearchLine",
+            "color": "160, 161, 162"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "color": "226, 24, 24"
           }
         }
       ]
