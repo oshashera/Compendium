@@ -10,7 +10,8 @@
       "question",
       "add",
       "search",
-      "important"
+      "important",
+      "idea"
     ],
     "settings": {
       "memo": [
@@ -109,6 +110,14 @@
         {
           "changes": {
             "color": "226, 24, 24"
+          }
+        }
+      ],
+      "idea": [
+        {
+          "changes": {
+            "icon": "remix-LightbulbFill",
+            "color": "195, 204, 153"
           }
         }
       ]
