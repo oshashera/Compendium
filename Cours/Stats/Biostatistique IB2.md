@@ -165,8 +165,6 @@ On obtient une p-value = pval. Au risque alpha = 0,05, on [peut/ ne peut pas] re
 
 *remarque* : il faudra bien penser à concluer sur la question biologique après la conclusion du test ; le risque alpha peut changer
 
-[mettre photo exercice]
-[mettre photo réponse]
 
 #### Test du chi² d'homogénéité / d'indépendance
 
@@ -180,7 +178,7 @@ Situation
 
 H0 ? "les critères qualitatifs considérés sont indépendants"
 
-==[photo diapo cours]==
+
 
 On calcule : 
 	- les effectifs marginaux : Oi = OiL + Oim Oj = Oxj + Oyj
@@ -210,7 +208,6 @@ Démarche:
 	fisher.test(tab,alternative = "two.sided") 
 Il existe d'autres valeurs pour alternative (dans le CM8)
 
-[[mettre CM2]]
 
 *cm3*
 
