@@ -76,7 +76,7 @@ settings:
   -
     id: background-settings-workplace-theme-dark-custom
     title: Custom Background Dark Mode (url)
-    description: Customize the background image. Use the default format below for an online image. Use the following format to point to a local file - url("app://local/D:/Pictures/Mountain.jpg").
+    description: Customize the background image. Use the default format below for an online image. Use the following format to point to a local file - url('C:/Users/tomha/Pictures/Wallpaper/my-neighbor-totoro-sunflowers.png').
     type: variable-text
     default: url("https://")
   - 

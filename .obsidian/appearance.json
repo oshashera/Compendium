@@ -2,5 +2,8 @@
   "accentColor": "#2cc93e",
   "theme": "obsidian",
   "baseFontSize": 20,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "obsidian-workspace-background(Shiba Uni Theme)"
+  ]
 }
