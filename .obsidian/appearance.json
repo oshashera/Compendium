@@ -4,6 +4,7 @@
   "baseFontSize": 20,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "obsidian-workspace-background(Shiba Uni Theme)"
+    "obsidian-workspace-background(Shiba Uni Theme)",
+    "test"
   ]
 }
