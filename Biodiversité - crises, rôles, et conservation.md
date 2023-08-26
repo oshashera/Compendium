@@ -50,10 +50,47 @@
 ![[Pasted image 20230826130801.png]]
 ![[Pasted image 20230826130809.png]]
 ![[Pasted image 20230826130817.png]]
+![[Pasted image 20230826130825.png]]
+![[Pasted image 20230826130833.png]]
+![[Pasted image 20230826130841.png]]
+![[Pasted image 20230826130850.png]]
+![[Pasted image 20230826130903.png]]
+![[Pasted image 20230826130910.png]]
+![[Pasted image 20230826130919.png]]
 
+## 2.4] Pollution
+![[Pasted image 20230826130932.png]]
+![[Pasted image 20230826130950.png]]
+![[Pasted image 20230826130956.png]]
 
-# III] Rôle de la biodiversité pour l’Homme
+## 2.5] Réchauffement climatique
+![[Pasted image 20230826131018.png]]
+![[Pasted image 20230826131028.png]]
 
+# III] Rôle de la Biodiversité pour l’Homme
+
+##  3.1] Notion de Service Écologique (ou Écosystèmique)
+![[Pasted image 20230826131108.png]]
+![[Pasted image 20230826131121.png]]
+
+## 3.2] Biodiversité et Nourriture pour l’Humanité
+![[Pasted image 20230826131145.png]]
+![[Pasted image 20230826131208.png]]
+
+## 3.3] Un réservoir de molécules
+![[Pasted image 20230826131234.png]]
+
+## 3.4] Une source d'innovations technologiques
+![[Pasted image 20230826131258.png]]
+![[Pasted image 20230826131307.png]]
 
 # IV] Conservation de la biodiversité
 
+## 4.1] Protection des espèces et des espaces
+![[Pasted image 20230826131351.png]]
+![[Pasted image 20230826131358.png]]
+![[Pasted image 20230826131404.png]]
+![[Pasted image 20230826131411.png]]
+
+## 4.2] Au-delà de la protection
+![[Pasted image 20230826131429.png]]
