@@ -1,5 +1,9 @@
 #eco 
 ___
+>[!tldr] Éléments indispensables aux êtres vivants: C, N, O, P, S, Ca, K
+Cycle biogéochimique:
+=>Ensemble des processus qui assurent le transport et la transformation cyclique de ces éléments, entre différents réservoirs
+![[Pasted image 20230826113225.png]]
 
 Un cycle biogéochimique ou cycle d’un élément, se définit comme la représentation de la circulation d’un (bio)élément (C, N, P, …) à travers la croissance des organismes et recyclage de la matière organique.
 
