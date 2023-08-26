@@ -1,6 +1,3 @@
-____
-#eco 
-____
 
 # I] Généralités et cycle global
 
@@ -14,3 +11,17 @@ Constituant le plus important de la matière vivante (Homme: 65% du poids)
 
 # II] Implications des êtres vivants
 
+![[Pasted image 20230826114120.png]]
+![[Pasted image 20230826114137.png]]
+
+# III] Impact de l'Homme
+
+![[Pasted image 20230826114211.png]]
+![[Pasted image 20230826114219.png]]
+![[Pasted image 20230826114237.png]]
+![[Pasted image 20230826114246.png]]
+
+
+
+_____
+[[Cycles biogéochimiques]] #eco 
