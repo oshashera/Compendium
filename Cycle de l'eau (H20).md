@@ -3,7 +3,7 @@
 
 Constituant le plus important de la matière vivante (Homme: 65% du poids)
 
-3 états sur Terre: Solide, Liquide (solubilisation & transport des éléments), Gazeux
+3 états sur Terre: Solide, Liquide (solubilisation & transport des éléments), Gazeux.
 
 ![[Pasted image 20230826113836.png]]
 ![[Pasted image 20230826113851.png]]

@@ -13,3 +13,26 @@ MAIS
 
 ![[Pasted image 20230826115024.png]]
 
+# II] Implication des êtres vivants
+
+![[Pasted image 20230826115036.png]]
+![[Pasted image 20230826115044.png]]
+![[Pasted image 20230826115102.png]]
+![[Pasted image 20230826115114.png]]
+![[Pasted image 20230826115121.png]]
+
+# III] Impact de l'Homme
+
+![[Pasted image 20230826115212.png]]
+![[Pasted image 20230826115222.png]]
+![[Pasted image 20230826115229.png]]
+![[Pasted image 20230826115240.png]]
+![[Pasted image 20230826115249.png]]
+
+
+
+
+
+
+____
+[[Cycles biogéochimiques]] #eco 
