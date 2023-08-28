@@ -3,7 +3,7 @@
 - [ ] BEV
 
 ### BIP
-- [ ] 10:10 Association fixatrice d'azote
+- [x] 10:10 Association fixatrice d'azote
 
 ### BEV
 - [ ] 10:50 T.D. Interactions biotiques & production végétale
