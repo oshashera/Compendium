@@ -55,7 +55,7 @@ Hétérocyste = cellule fixatrice d’azote moléculaire N2 (cellule spécialis�
   
 
 ![[Pasted image 20230528191830.png]]
-==Nitrogénase==, enzyme réductrice de N2 en NH3 (ammoniac)
+<mark style="background: #EE6B6BA6;">Nitrogénase</mark>, enzyme réductrice de N2 en NH3 (ammoniac)
 *Glutamine*, forme transportable du groupe amine
 
 ### Fixateurs symbiotiques 
