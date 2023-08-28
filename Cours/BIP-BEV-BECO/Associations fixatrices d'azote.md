@@ -289,7 +289,8 @@ Effets de la diversité d'espèces de glomales sur la croissance et l'absorption
 <ul>- augmentation biomasse (racinaires et autres)</ul>
 <ul>- augmentation longueur des hyphes mycorhiziens</ul>
 <ul>- augmentation absorption P (et diminution dans le sol)</ul>
-Cf [[TD]]
+
+Cf [[T.D. Interactions biotiques & production végétale| 1ère étude TD intéractions biotiques et production végétale]]
 
 En agriculture, le retournement des sols, les fongicides, les monocultures sont dévastatrices pour les réseaux mycorhiziens.
 Il faut comprendre ces interactions pour les utiliser à bon escient (peut améliorer la production à moindre coût).
@@ -372,7 +373,7 @@ Le mycélium enveloppe les racines, l’ectomycorhize forme un manteau et envahi
 
 #### B) Constitution d’une ectomycorhize
 
-Le mycélium sécrète des hormones (AIA) induisant la formation de petites racines => contacts
+Le mycélium sécrète des hormones (AIA = une auxine) induisant la formation de petites racines => contacts
 Formation d’un manchon d’hyphes autour des petites racines (=protection) = manteau
 Hyphes pénétrant entre les cellules périphériques du cortex = réseau de Hartig
 
