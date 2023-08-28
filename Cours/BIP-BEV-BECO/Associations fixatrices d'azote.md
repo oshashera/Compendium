@@ -120,7 +120,7 @@ Appartient aux actinobactéries en association avec les racines d’espèces lig
 
 1) Symbiose avec Frankia
 
-*Frankia alni* (bactérie du sol filamenteuse naturellement libre), peut fixe azote, peut s'associer avec plantes lignifiées majoritairement
+*Frankia alni* (bactérie du sol filamenteuse naturellement libre), peut fixer l'azote, peut s'associer avec plantes lignifiées majoritairement
 Dans cet exemple on a *Alnus glutinosus* (Bétulacées) 
 Nodules à *Frankia*  (=Actinorhizes).
 A l'extrémité des racines on a une modification structure pointe racinaire -> on a ces espèces d'excroissances appelées actinorhizes qui sont les nodules formés par *Frankia* avec l'*Alnus*.
@@ -150,7 +150,7 @@ Les diazovésicules sont entourées d'une structure épaisse, fixation d'azote, 
 2) Symbiose avec Rhizobium
 
 On va mtn voir une symbiose avec *Rhizobium*, bactérie plus classique (pas filamenteuse, éloignée de Frankia) avec des plantes qui peuvent être herbacées (pas obligé lignine)
-*Rhizobium* est une bactérie graham + (le prof est pas sûr)
+*Rhizobium* est une bactérie gram -
 Actuellement 5 genres sont regroupés sous cette appellation générale 
 *Mesorhizobium, Sinorhizobium, Rhizobium, Bradyrhizobium* et *Allorhizobium* 
 
