@@ -289,6 +289,7 @@ Effets de la diversité d'espèces de glomales sur la croissance et l'absorption
 <ul>- augmentation biomasse (racinaires et autres)</ul>
 <ul>- augmentation longueur des hyphes mycorhiziens</ul>
 <ul>- augmentation absorption P (et diminution dans le sol)</ul>
+Cf [[TD]]
 
 En agriculture, le retournement des sols, les fongicides, les monocultures sont dévastatrices pour les réseaux mycorhiziens.
 Il faut comprendre ces interactions pour les utiliser à bon escient (peut améliorer la production à moindre coût).
