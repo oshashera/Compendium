@@ -1,6 +1,6 @@
 #eco 
 ___
-
+# - exemple de l'impact du réchauffement climatique sur la phénologie des organismes vivants
 ### I/ Facteurs abiotiques : rappels
 
 On définit les facteurs abiotiques comme l’ensemble des facteurs physico-chimiques qui influencent la biocénose d’un écosystème. Ils s’opposent aux facteurs biotiques qui concernent les phénomènes liés aux organismes vivants. On y trouve entre autres le vent, la salinité, le sol, la température, la lumière, l’eau, les minéraux, le pH, l’humidité …
