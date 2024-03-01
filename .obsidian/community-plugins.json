@@ -28,5 +28,6 @@
   "text-extractor",
   "callout-manager",
   "obsidian-zotero-desktop-connector",
-  "flashcards-obsidian"
+  "flashcards-obsidian",
+  "obsidian-git"
 ]
