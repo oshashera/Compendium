@@ -36,7 +36,7 @@ Observés en [[Agroécologie]].
 Selon Grime (1974), toutes les contraintes auxquelles les plantes doivent faire face appartiennent à **2 catégories**:
 ![[Pasted image 20230528201227.png]]
 
-Les **3 grands type de stratégie** selon Grime (1974)
+Les **3 grands type de stratégie** (CSR) selon Grime (1974)
 ![[Pasted image 20230528201248.png]]
 
 #### 2.2. Notion de facteur limitant

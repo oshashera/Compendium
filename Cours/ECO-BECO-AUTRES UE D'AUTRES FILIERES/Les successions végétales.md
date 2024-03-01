@@ -5,8 +5,7 @@ ____
 
 <u>Points de vue très généraux sur la vision des écologues</u>
 
-- *L’Homme va avoir un très fort impact sur les écosystèmes naturels et les
-changements globaux.*
+- *L’Homme va avoir un très fort impact sur les écosystèmes naturels et les changements globaux.*
 - *Conséquences sur les régimes de perturbation et pression plus forte sur les services que vont rendre les écosystèmes et sur la biodiversité de manière générale.*
 - *Les gestionnaires qui doivent gérer les habitats et les écosystèmes doivent tenter de comprendre comment ceux ci réagissent aux perturbations pour mieux gérer les ressources naturelles.*
 
@@ -335,16 +334,12 @@ compétition avec les espèces r qui vont alors disparaître.*
 
 Stratégies **CSR** = Il s’agit des **stratégies primaires fondamentales des plantes** en réponse à du **stress** et ou des **perturbations** qu’elles vont subir.
 
-Après une perturbation (tempête de glace) : les espèces tendent vers des **stratégies
-intermédiaires entre la compétition et les espèces stress tolérantes**.
+Après une perturbation (tempête de glace) : les espèces tendent vers des **stratégies intermédiaires entre la compétition et les espèces stress tolérantes**.
 <u><i>Remarque :</i></u> *Des espèces peuvent être stress tolérantes ET compétitives ou rudérales etc.*
 
-➔ Les espèces compétitives seront plus impactées par la perturbation que les stress
-tolérantes (plus de mortalité car moins d’investissement dans la résistance).
-➔ Les espèces qui investissent beaucoup dans la croissance très rapide et la reproduction
-vont être beaucoup plus touchées.
-➔ En revanche, dès que la perturbation est finie, la colonisation repartira dans l’autre
-sens, à partir des espèces rudérales.
+➔ Les espèces compétitives seront plus impactées par la perturbation que les stress tolérantes (plus de mortalité car moins d’investissement dans la résistance).
+➔ Les espèces qui investissent beaucoup dans la croissance très rapide et la reproduction vont être beaucoup plus touchées.
+➔ En revanche, dès que la perturbation est finie, la colonisation repartira dans l’autre sens, à partir des espèces rudérales.
 
 ##### C) Ressource ratio hypothesis (Tilman, 1982)
 

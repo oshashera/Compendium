@@ -1,6 +1,6 @@
 # I] Généralités et cycle globale
 
-C constituant essentiel de la MO: 49% poids sec des organismes
+C constituant essentiel de la MO: ~49% poids sec des organismes
 
 **Influence du cycle du C:**
 - Sur la production biologique
