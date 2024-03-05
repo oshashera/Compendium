@@ -16,7 +16,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-pandoc",
-  "cmenu-plugin",
   "dataview",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
@@ -29,5 +28,9 @@
   "callout-manager",
   "obsidian-zotero-desktop-connector",
   "flashcards-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian42-brat",
+  "advanced-canvas",
+  "obsidian-discordrpc",
+  "editing-toolbar"
 ]
