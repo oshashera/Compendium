@@ -73,28 +73,6 @@ function end_hydrating() {
 function append(target, node) {
   target.appendChild(node);
 }
-function append_styles(target, style_sheet_id, styles) {
-  const append_styles_to = get_root_for_style(target);
-  if (!append_styles_to.getElementById(style_sheet_id)) {
-    const style = element("style");
-    style.id = style_sheet_id;
-    style.textContent = styles;
-    append_stylesheet(append_styles_to, style);
-  }
-}
-function get_root_for_style(node) {
-  if (!node)
-    return document;
-  const root = node.getRootNode ? node.getRootNode() : node.ownerDocument;
-  if (root && root.host) {
-    return root;
-  }
-  return node.ownerDocument;
-}
-function append_stylesheet(node, style) {
-  append(node.head || node, style);
-  return style.sheet;
-}
 function insert(target, node, anchor) {
   target.insertBefore(node, anchor || null);
 }
@@ -274,7 +252,7 @@ function make_dirty(component, i) {
   }
   component.$$.dirty[i / 31 | 0] |= 1 << i % 31;
 }
-function init(component, options, instance2, create_fragment4, not_equal, props, append_styles2, dirty = [-1]) {
+function init(component, options, instance2, create_fragment4, not_equal, props, append_styles, dirty = [-1]) {
   const parent_component = current_component;
   set_current_component(component);
   const $$ = component.$$ = {
@@ -295,7 +273,7 @@ function init(component, options, instance2, create_fragment4, not_equal, props,
     skip_bound: false,
     root: options.target || parent_component.$$.root
   };
-  append_styles2 && append_styles2($$.root);
+  append_styles && append_styles($$.root);
   let ready = false;
   $$.ctx = instance2 ? instance2(component, options.props || {}, (i, ret, ...rest) => {
     const value = rest.length ? rest[0] : ret;
@@ -512,9 +490,6 @@ var NewLinkIcon = class extends SvelteComponent {
 var NewLinkIcon_default = NewLinkIcon;
 
 // src/ui/Pane.svelte
-function add_css(target) {
-  append_styles(target, "svelte-yzawxy", ".tree-item-self.svelte-yzawxy{align-items:center}");
-}
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
   child_ctx[10] = list[i];
@@ -667,18 +642,18 @@ function create_else_block(ctx) {
         if_block2.c();
       attr(div0, "class", "tree-item-inner");
       attr(div1, "class", "tree-item-flair");
-      attr(div2, "class", "tree-item-flair-counter");
-      attr(div3, "class", "tree-item-self svelte-yzawxy");
+      attr(div2, "class", "tree-item-flair-outer");
+      attr(div3, "class", "tree-item-self");
       attr(div4, "class", "search-result-container");
       attr(div5, "class", "tree-item-inner");
       attr(div6, "class", "tree-item-flair");
-      attr(div7, "class", "tree-item-flair-counter");
-      attr(div8, "class", "tree-item-self svelte-yzawxy");
+      attr(div7, "class", "tree-item-flair-outer");
+      attr(div8, "class", "tree-item-self");
       attr(div9, "class", "search-result-container");
       attr(div10, "class", "tree-item-inner");
       attr(div11, "class", "tree-item-flair");
-      attr(div12, "class", "tree-item-flair-counter");
-      attr(div13, "class", "tree-item-self svelte-yzawxy");
+      attr(div12, "class", "tree-item-flair-outer");
+      attr(div13, "class", "tree-item-self");
       attr(div14, "class", "search-result-container");
     },
     m(target, anchor) {
@@ -970,7 +945,7 @@ function create_each_block_4(ctx) {
       create_component(linkicon.$$.fragment);
       t0 = space();
       t1 = text(t1_value);
-      attr(div, "class", "tree-item-self search-result-file-title is-clickable svelte-yzawxy");
+      attr(div, "class", "tree-item-self search-result-file-title is-clickable");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -1043,7 +1018,7 @@ function create_each_block_3(ctx) {
       create_component(linkicon.$$.fragment);
       t0 = space();
       t1 = text(t1_value);
-      attr(div, "class", "tree-item-self search-result-file-title is-clickable svelte-yzawxy");
+      attr(div, "class", "tree-item-self search-result-file-title is-clickable");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -1134,8 +1109,8 @@ function create_if_block_2(ctx) {
       }
       attr(div0, "class", "tree-item-inner");
       attr(div1, "class", "tree-item-flair");
-      attr(div2, "class", "tree-item-flair-counter");
-      attr(div3, "class", "tree-item-self svelte-yzawxy");
+      attr(div2, "class", "tree-item-flair-outer");
+      attr(div3, "class", "tree-item-self");
       attr(div4, "class", "search-result-container");
     },
     m(target, anchor) {
@@ -1225,7 +1200,7 @@ function create_each_block_2(ctx) {
       create_component(linkicon.$$.fragment);
       t0 = space();
       t1 = text(t1_value);
-      attr(div, "class", "tree-item-self search-result-file-title is-clickable svelte-yzawxy");
+      attr(div, "class", "tree-item-self search-result-file-title is-clickable");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -1336,7 +1311,7 @@ function create_each_block(ctx) {
       create_component(newlinkicon.$$.fragment);
       t0 = space();
       t1 = text(t1_value);
-      attr(div, "class", "tree-item-self search-result-file-title is-clickable svelte-yzawxy");
+      attr(div, "class", "tree-item-self search-result-file-title is-clickable");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -1494,7 +1469,7 @@ function instance($$self, $$props, $$invalidate) {
 var Pane = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance, create_fragment3, safe_not_equal, { openLink: 0, settings: 3 }, add_css);
+    init(this, options, instance, create_fragment3, safe_not_equal, { openLink: 0, settings: 3 });
   }
 };
 var Pane_default = Pane;
